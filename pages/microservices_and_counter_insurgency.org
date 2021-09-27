@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       0FB44010-8171-421A-888C-16246B406CBB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: microservices_and_counter_insurgency
+#+TITLE: microservices and counter-insurgency
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+- microservices and counterinsurgency both as systems
+  - focusing too much on either is not the solution
+  - strategy and tactict to link what is the ulimate solution

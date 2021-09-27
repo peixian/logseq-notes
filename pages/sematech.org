@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       93A300C5-4788-4167-8DA1-D366F8B2FE97
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sematech
+#+TITLE: sematech
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]], [[id:D66F26E9-44AA-4706-BA51-68C8F6BC2908][chips]]
+
+- https://www.technologyreview.com/2011/07/25/192832/lessons-from-sematech/
+- Government/industry consortium that helped bring about semiconductor revival in the US

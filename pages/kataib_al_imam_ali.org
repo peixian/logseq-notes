@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       D6002CC8-4179-4065-9777-499AA8FF95D6
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: kataib_al_imam_ali
+#+TITLE: kataib al-imam ali
+
+Tags: [[id:C403589A-21CC-411A-A58E-1C2FDC31F72C][brigades]], [[id:ADFAE0CB-D584-4CE9-9965-4E76C474546E][hashd al-shaabi (PMF)]]

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       F0B69D49-AE06-4DE1-9888-762C2814BF5D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sinjar_resistance_units
+#+TITLE: sinjar resistance units
+
+Tags: [[id:ADFAE0CB-D584-4CE9-9965-4E76C474546E][hashd al-shaabi (PMF)]], [[id:5D4FD56C-329E-4881-AEBC-EFE6DDF0F29D][articles]]
+
+- http://www.aymennjawad.org/2021/01/the-sinjar-resistance-units-interview
+Established in the wake of the Yezidi genocide, unclear if they are related to [[id:EEE8C8C2-0632-4F77-9AE6-33700164A80D][brigade 80]]
+- ranges between 4000-4500 fighters
+- supports the [[id:2707650F-BCD9-4399-BD2B-BBE3A5BCF7D8][sinjar agreement (2020)]]

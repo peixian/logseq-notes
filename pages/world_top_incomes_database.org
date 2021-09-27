@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       EC4A3139-E4DA-4BB2-BFF5-B8A122802254
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: world_top_incomes_database
+#+TITLE: world top incomes database
+
+Tags: [[id:709DC7D9-570A-44E0-B9F9-BBED07AC77C1][data]], [[id:85CCE0EB-E358-4A63-A947-423CF92D79A2][economics]]

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       E7892B51-5D1C-4F65-9221-7B88A915827D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: syscalls
+#+TITLE: syscalls
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][Computers]]

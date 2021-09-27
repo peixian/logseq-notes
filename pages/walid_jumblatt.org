@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       C0F2C571-45DB-49A9-A80D-DCC13F9B95ED
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: walid_jumblatt
+#+TITLE: Walid Jumblatt
+
+Tags: [[id:D4B35C6D-544A-481C-B5C0-7C2A2ABCF9AC][lebanon]], [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]
+
+Lebanese Druze leader

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       776071A4-B1EE-425D-9D0F-69D437CD4CA5
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: foreign_fighter_returnees_in_iraq
+#+TITLE: foreign fighter returnees in iraq
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+[[id:C10C31D1-DE90-4E00-A08A-1010BE32B042][- Dayon et al: Career Foreign Fighters]]
+- Similar to the returnees of [[id:4CBBFFCC-556E-41CE-96F3-145BB907F92A][Li - The Universal Enemy]]

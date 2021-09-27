@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4736790B-B0F1-47FB-BE50-0A681EA257D2
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ebpf
+#+TITLE: ebpf
+
+Tags: [[id:851F079B-17D1-411F-988B-1248B5E0579D][networks]], [[id:E00FA741-9906-4793-BC95-AC454362D138][linux]]
+
+- https://blog.pixielabs.ai/ebpf
+- https://docs.cilium.io/en/v1.9/

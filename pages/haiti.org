@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       A61A851F-F49E-4ADE-83BB-BA4FF1F1812F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: haiti
+#+TITLE: haiti
+
+Tags: [[id:541B7BAF-591F-4CF8-8292-D83E8FB9D095][latam]]

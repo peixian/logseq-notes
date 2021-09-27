@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       96E35353-0BC4-4856-8663-428C7D132C5C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: dominican_republic
+#+TITLE: dominican republic
+
+Tags: [[id:541B7BAF-591F-4CF8-8292-D83E8FB9D095][latam]]

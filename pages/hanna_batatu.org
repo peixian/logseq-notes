@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       3F2A99E7-506D-4F02-BAD4-3E977CA1C2A9
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hanna_batatu
+#+title: Hanna Batatu
+[[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

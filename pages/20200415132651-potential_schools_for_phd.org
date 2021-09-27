@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       EFB45B10-505C-4704-A165-EE4465E26F36
+:END:
+#+TITLE: Potential Schools for Phd
+
+Tags: [[id:08700B30-6476-438A-A1CB-8452DB3DEA4F][grad school]]
+
+See also: [[id:744440E6-E804-4734-AB34-48B5357222EF][Phd Planning]]
+
+- Darryl Li @ Uchicago? -> Anthro & Law? Jurisprudence?
+  - https://anthropology.uchicago.edu/people/faculty/darryl-li
+  - Dual phd in anthro and linguistics
+    - https://anthropology.uchicago.edu/graduate-programs
+    - https://linguistics.uchicago.edu/graduate/degree-requirements
+    - https://linguistics.uchicago.edu/languages-linguistics-department
+    - https://anthropology.uchicago.edu/content/admissions-process
+    - https://linguistics.uchicago.edu/graduate/admissions
+  - dual phd in anthro and cs?
+- Columbia?
+#+SETUPFILE:./hugo_setup.org

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       49D573D1-6FA8-4923-B2D8-A188A1AB8CF9
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: kilcullen_out_of_the_mountains
+#+TITLE: Kilcullen - Out of the Mountains
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]]

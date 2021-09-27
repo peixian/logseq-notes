@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3853DF76-5505-4FBA-8B4F-470F66028E3C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: marxist_nationalism
+#+TITLE: marxist
+
+Tags: [[id:3A151692-5786-4F5E-B755-165CDFA29BB9][political science]], [[id:115A1830-680E-4E8E-A5D8-BC68E20897BE][marx]]
+
+- Nations are a product of capitalism, requires the bourgeoise
+- Marxist view of [[id:4D07A7F6-AA30-415E-B718-B82E4151A482][religion]] is that religion is a class fact, sacred authority is a function not of societal needs as a whole but elite structures to enable domination

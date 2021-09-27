@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       B9E9556F-A02B-40DC-8B10-CED4FBE2F783
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: tay_et_al_sparse_sinkhorn_attention
+#+title: Tay et al: Sparse Sinkhorn Attention
+
+[[id:51BC9BEA-4F6D-4438-87F8-F6322BA475A3][transformers]], [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]
+
+Tay, Yi, Dara Bahri, Liu Yang, Donald Metzler, and Da-Cheng Juan. “Sparse Sinkhorn Attention.” ArXiv:2002.11296 [Cs], February 25, 2020. http://arxiv.org/abs/2002.11296.

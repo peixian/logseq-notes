@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       7FCDA347-C418-4A17-833C-723959C1B74F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: cli_s
+#+TITLE: cli's
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- Interface guidelines: https://clig.dev/

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       882FEA3E-4AEB-49F7-868D-0A0AC6CADF9A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: myanmar
+#+TITLE: myanmar
+
+Tags: [[id:54A7E315-9721-4BC9-BE36-EE6B40B82889][south asia]]

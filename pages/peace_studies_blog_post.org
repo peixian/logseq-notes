@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       DA8C5A13-0B4B-4DC6-8B04-92A8E443ED70
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: peace_studies_blog_post
+#+TITLE: peace studies blog post
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+This post is intended to help out any other students who are trying to get a grasp on the field of disarmament, demobilization, and reintegration (DDR) and security sector reform (SSR). I've found it quite difficult to get a good orientation on the field, especially coming into it barefaced.
+
+* Starting Out
+- https://www.unddr.org/ - UN DDR guidelines
+  - Basically the center of this, the UN truly lies at the center of DDR and SSR efforts. It's important to note that the field has largely begun to shift away from DDR and SSR as a whole and more towards preventing violence and outbreak of conflict.
+- https://peacekeeping.un.org/en/disarmament-demobilization-and-reintegration - UN Peacekeeping Guidelines
+  - Chances are, if you're reading this post, you've already read this before. But if not, this provides some good up-to-date information about where and how DDR and SSR are being carried out.
+- https://peacekeeping.un.org/sites/default/files/the_changing_landscape_of_armed_groups.pdf - "Next Generation" DDR
+  - This report is a good introduction to what is called "next generation" DDR. DDR has gone through three iterations: the first in the 90's in response to peace accords and formal military structures in Africa, the second a "integrated" DDR iteration that incorporates the well-being of minority groups and focuses on a more flexible approach, and a "next generation" DDR iteration that incorporates armed non-state actors.
+- http://gsdrc.org/wp-content/uploads/2016/06/HDQ1368.pdf - DDR Generations
+  - This short report gives a broad-based overview into the various DDR iterations.
+- https://peacekeeping.un.org/sites/default/files/un_ddr_in_an_era_of_violent_extremism.pdf - Community Violence Reduction and DDR
+  - This addresses some of the shifts in the field lately.
+- http://www.iddrtg.org/resources/ - Integrated DDR Working Group Resources
+  - I'm a little bearish on the usefulness of this website, but this group collaborates with the design and implementation of DDR groups.
+
+
+* Papers and Books
+- https://reliefweb.int/report/angola/multi-country-demobilization-and-reintegration-program-end-program-evaluation-final, https://reliefweb.int/organization/tdrp
+  - The Multi-Country-Demobilization Program (MDRP) and the Transitional Demobilization and Reintegration Program (TDRP) are two of the largest multi-country DDR programs in the past two decades.
+- Muggah, Robert, and Chris O’Donnell. “Next Generation Disarmament, Demobilization and Reintegration.” Stability: International Journal of Security & Development 4, no. 1 (May 21, 2015). https://doi.org/10.5334/sta.fs.
+  - Establishes what we could conceivably call "next generation" DDR.
+- Williams, Paul R., and Milena Sterio, eds. Research Handbook on Post-Conflict State Building. Research Handbooks in International Law Series. Northampton: Edward Elgar Publishing, 2020.
+  - This book is actually quite broad and zooms further out than just DDR and SSR. While it's largely not that good at giving practitioner level advice, but does give a useful organizational framing for post-conflict state-building. I found this quite useful for framing my understanding of DDR.
+- Schulhofer-Wohl, Jonah, and Nicholas Sambanis. “Disarmament, Demobilization, and Reintegration Programs,” n.d., 82.
+  - This is a nice and short literature review from 2010 about DDR.
+
+* Journals
+To be perfectly honest, I haven't used these journals that much, except to quickly glance at what's happening. So take these recommendations with a grain of salt.
+
+The current journals I'm looking at are:
+- The International Journal of Transitional Justice: https://academic.oup.com/ijtj
+- International Peacekeeping Journal: https://www.tandfonline.com/toc/finp20/current
+- Journal of Conflict Resolution: https://journals.sagepub.com/home/jcr
+- Journal of Peace Studies: https://journals.sagepub.com/home/jpr
+- Stability - International Journal of Security & Development: https://www.stabilityjournal.org/

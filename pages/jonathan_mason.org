@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       A4E24613-8A53-4EEA-9833-743D58052DEA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: jonathan_mason
+#+TITLE: jonathan mason
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:0C55E344-F9AE-4584-B54F-83EC2FCE9062][math]]

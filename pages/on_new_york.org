@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       1120C8B4-43DD-44D0-BA6C-17A8FA022CDD
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: on_new_york
+#+TITLE: on new york
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+- why nyc?
+- bad amenities, expensive, quarantine makes all cities the same
+- nyc offers the rare coin of possability
+- proust - see the same thing with a thousand eyes, not a thousand things with one eye
+- find voices that are not similar to yours, but resound and cancel with yours
+- think about the friends i've made: journalists, fruit vendors, tech workers, musicians, artists, activsts, grad students, researchers, video people, actors, refugees, etc
+- friend's stories about drinking rose at 9am, attending orthodox christmas while car repairs, hopping on motor bikes while coming back from city island, it's not that new york's stories are more diverse, but rather new york's stories are more /accessible/
+- nyc's "cultural" experiences are not super unique, one could probably find facsination with any museum or art location, any place's history can be plumbed infinitely for facsination
+- (also the food)
+- nyc both offers what you can do right now, but always offers the ability to
+- one thing for me to tell the story of muhammad, another to tell the story of your telling of the story of muhammad
+- nyc is not just a catalogue of what you have done, but also what other people have done
+  - finding flavored arak on the street
+  - nyc is not great because of these experiences, but it is great because it so readily offers up the choice to see these resources
+  - nyc invites you to its drama that contains an entire history of voices
+    - look beyond what it sells (pizza, bec, andrew yang, etc etc)
+  - not the raw number of people, but the density + variety of people
+  - not just the product of things produced, but also the the people producing it
+  - incompleteness, hard for you to take yourself out of it
+  - more than notions of chutzpah and "making it" and "hustling"
+    - people orginate what they cannot finish, and the uniqueness of this city is that it builds upon it
+
+* Draft
+
+Quarantine has a weird way of making you apprechiate New York City. As friends and coworkers have moved away, either temporarily or permanently, I've been thinking about what makes this city special for me, having lived in a bunch of other cities across the world. So this is my entry into the "What makes NYC special" Discourse, only eight months after everyone else has posted their own quarantine-induced "What makes NYC special" posts.
+
+I think what many people get wrong about this city is what it offers. Whether that's the museums, Central Park, the food, and so on, I think people tend to think of these things as what /makes/ New York. And so when they look at all of NYC's problems, such as egregious rent, terrible traffic, mediocre public transit, corrupt politics, and run the cost-benefit analysis, they arrive at the "why would anyone want to live here" conclusion.
+
+In my view, looking at the products NY produces vs the cost is a level-zero Bad Take. This is not to say NY is a better city than others, since that's most a subjective call. Rather, this is to say that if you analyze NYC as a consumer, you're missing out on a lot of what the city has to offer. Proust has this line about how the true voyage is to see the same place with a hundred different eyes, rather than seeing a hundred places with the same eyes. Uniquely pretencious in the "motivational poster" type of way, it still rings true for NY, more so than any other city I've lived in.
+
+In thinking about the friends I've made since I first moved here in 2016: tech workers, fruit vendors, deli guys, journalists, creative types, refugees, activists, etc, etc, the one thing is that NY makes it easy to find voices that resonate with yours. NY offers not just tribes for you to join and fit in, but also offers you the rare coin of possibility, the chance to join different tribes with little effort. The voices you find in NY aren't the same as your voice, but rather they /complement/ it. These voices are met with shared serendipity, you meet them at a party, at a back of a bar, on the streets smoking shisha, anything. These voices are not the same as yours, nor will they ever be the same, but they harmonize. The shared struggles of NY gives a platform to resonate, the guy running the fruit stand during my commute is a fellow brother. It's the ultimate fellow strangers story, except it happens with a hundred people every hour of the day, and, here's the key, /you can pierce the veil of strangeness/. The walls people put up in this city are largely performative, I rarely encounter someone who doesn't want to make a new friend.
+
+New York's myths take hold as well. Poll a hundred people about NY, most of them will have some opinions, even if they've never lived here. Poll a hundred people about other American cities, I guarantee you the opinions will not be as intense or as varied. The noterity of NY itself gives life to a particular drama about living here, a drama that contains an entire history of voices from a thousand different cultures. I would argue that NY's cultural experiences are actually not that interesting, anyone can find facsination with the experiences of their own city. NY's history is not objectively more interesting than the history of Urbana-Champaign. NY's arts and music experiences are not objectively better than the ones of Chicago. Any place's history can be plumbed for infinite facsination.
+
+But what NY offers you is the chance to /partipate/, not just consume. People in this city constantly orginate what they cannot finish, and the density of people combined with the accessbility of neighborhoods puts you in close contact. People in this city who resonate with you enhance the experience, similar to how it is one thing to listen to music alone, and a whole other to listen to music in a car with a friend. NY presents you with options in the present, but also offers you the possbilty creating your own options in the future.
+
+Oh and the food certainly helps.
+
+* Footnotes
+
+[fn:1] contested naming aside

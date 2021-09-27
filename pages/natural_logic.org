@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       96963A7E-ADE8-41FD-AB02-4AB3768A647A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: natural_logic
+#+TITLE: natural logic
+
+Tags: [[id:48350662-53E9-4A91-9ADB-2BC9DFEA6098][nlp]]
+
+* monotonicity
+- key phoneoma that natural logic attempts to capture
+- substituting a phrase has predictable entailment relationships
+  - example:
+    - a reptile moved -> upward monotone
+      - if we replace a superset with a subset, it's entailed
+      - a reptile moved -> a turtle moved
+    - no reptile moved -> downward monotone
+      - no turtle moved -> replacing a superset with a subset, negation has flipped the monotone
+    - non-montone: do no preserve entailment in either direction
+
+* langauge
+- upward monotone is sort of the default for lexical items
+- i.e. most determiners (a, some, at least), second argument of every (danced in every), etc
+- downward monotone is usually negation, first argument of every, determiners like most, few, conditional antecedents (if-clauses), etc
+* limitations
+- de morgan's laws cannot be parsed by natural logic

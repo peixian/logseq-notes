@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       C793654A-7B6A-4285-AF18-C7552B70CEBF
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: nahrawan
+#+TITLE: nahrawan
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+Very small town east of [[id:105A47A9-B2B1-46B8-9531-52E9E39414AB][baghdad]]
+
+https://www.google.com/maps/place/Nahrawan,+Iraq/@33.3781296,44.6951887,15.16z/data=!4m5!3m4!1s0x1557ead446b72a71:0xf8c2580d6257b132!8m2!3d33.3769523!4d44.7029603

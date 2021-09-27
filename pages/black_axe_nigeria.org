@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       D5FECD5E-92AE-4993-B8F5-084909954574
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: black_axe_nigeria
+#+TITLE: black axe (nigeria)
+
+Tags: [[id:AFEF9FA6-B022-46F4-AE2B-DE70CE370215][nigeria]], [[id:44848562-7F27-4906-95F4-6A9BFEC7A473][militias]]
+
+- https://www.bbc.com/news/world-africa-52488922

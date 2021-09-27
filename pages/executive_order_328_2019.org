@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       8462925B-839F-4350-B3F9-0B7657AB40D6
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: executive_order_328_2019
+#+TITLE: executive order 328 (2019)
+
+Tags: [[id:ADFAE0CB-D584-4CE9-9965-4E76C474546E][hashd al-shaabi (PMF)]]
+
+Issued September 14, 2019, came two days after [[id:3F2EE985-63C3-42AD-95C0-8ADD543FCF21][sistani]]'s office chided the government for slow enforcement, followed with [[id:A39A92BB-5AF1-4C86-8B5D-007981E4CEEA][executive order 331 (2019)]]
+
+[[id:40D8F42B-F69F-4A51-8F60-B5771FF99F86][adil abdul-mahdi]] inserted himself into direct leadership of joint operations command, and the JOC would take exclusive control of all appointments of commanders from the brigade commander and upward, including within the hashd
+
+JOC is either the prime minister or his alternate

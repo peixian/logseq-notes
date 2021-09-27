@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       94E1C967-7986-4D92-B82C-69322612F4FE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: the_twin_insurgency
+#+TITLE: the twin insurgency
+
+Tags: [[id:5D4FD56C-329E-4881-AEBC-EFE6DDF0F29D][articles]], [[id:715FED6E-63BF-460F-82B2-41FF2F17E586][organized labor]]
+
+- https://www.instapaper.com/read/1278350355
+
+Claims that there are two insurgencies:
+1. interconnected criminal insurgencies where the global disenfranchised resist, co-opt, and route around states
+   - Cartels, traffickers, hackers, arms dealers, etc
+2. Plutocratic insurgency, global elites seek to disengage from traditional national obligations and responsbilities
+   - Libertarians, tax havens, currency speculators
+
+Neither insurgency wishes to seek the control over the state, nor destroy it. They both rely on the state to provide social welfare, but carve out zones of autonomy (like [[id:B42A6E8B-36C7-484C-97F8-6659322F47B5][sez's]]) to make profits.
+
+Post cold war development saw states give up the ghost of creating egalitarian societies and choose to legitimate themselves by claiming to maximize individual opportuinity (generic neoliberal reforms seen by much of the arab states, [[id:41916275-B19E-48AF-90C7-EC4C38D7BADA][Hinnebusch - Identity and State Formation in Multi‐sectarian Societies]])
+
+Fukuyama's "The End of History" and Williamson's "The Washington Consensus" made it explicit.
+
+_Moreover, the two signature types of massive wealth accumulation in the early 21st century have been high technology and financial services. Neither of these industries relies on masses of laborers, so their productivity is detached from the health of any particular national middle class._
+
+* Criminals
+_"Deviant" globalization in narcotics, immigration, wildlife harvesting, and antiquities smuggling remained long enough in the shadows for it to set deep roots._
+- _The unsung globalizers of the 1990s and 2000s, therefore, were the criminals who rapidly scaled up their local mom-and-pop graft organizations to become globe-spanning deviant commercial empires._
+
+Weak states allow crinimals to carve out zones where they can thrive, but the state still supports social services (a la Mexico).
+
+* Plutocrats
+Plutocrats want to defang the state, but to facilitate private-sector looting, instead of public sector looting like kleptocrats (although many times these co-mingle, again in the case of [[id:BE234E49-5E49-4054-8308-6EDDCA766FAB][syria]])
+
+
+* Conclusions
+- Liberals who see poverty, insecurity, and state fragility are results of "disconectedness" from the world economy are wrong
+  - Many are tied via illicit trade, like [[id:086B0579-8C85-4CE5-9E65-EB8980FB2C2E][afghanistan]]

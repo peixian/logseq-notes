@@ -1,0 +1,132 @@
+:PROPERTIES:
+:ID:       5849199A-A21B-43ED-88B2-744229DAE29D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: rights_of_hashd_members
+#+TITLE: rights of hashd members
+
+Tags: [[id:0AE7D45A-DA37-40AE-A5CD-AEB6694E810D][Knight et al - Honored, Not Contained]]
+
+- Large part of historical problems - cannot tell who is formally enrolled as a hashd member
+  - Some people claim to be under hashd, not formally authorized by the hashd comission
+- patchwork entry process and unification lead to this ambigious membership
+  - [[id:35846680-D69C-4C80-9494-F3375E5DDC93][asa'ib ahl al-haqq (aah)]] and [[id:F56A8565-CED0-45C2-A53B-B186DF72A1C9][kataib hezbollah (kh)]] were already active, along with [[id:BEBC4923-27A5-4FA0-8EC6-F1CB9632AA26][sons of iraq]]
+- Jan 2020 - >160,000 members of the hashd according to [[id:5066CAA4-A73A-4F48-8535-C71B388E8504][abu ali al-basri/adnan ibrahim al-najjar]]
+* Fighter Registration
+  - Initial registration started in late 2014 and was on temporary rolling contracts
+  - Hashd fighters had no clear expectation of permanent employments
+  - Volunteers were haphazardly placed into units, with little influence, units would take new volunteers
+    - Initially 90 day contracts
+    - no ID cards or biometrics - [[id:EE01C721-DAE5-435E-A9E0-C4367F69C288][iraqi ghost militias]]
+  - registration windows swapped constantly between reigstered and unregistered
+    - salaries were often distributed and redistrubted between registered and unregistered fighters
+  - unit commanders had almost complete discretion on how to disburse the money with few accountability
+    - often 30% skimmed on salaries as "unit funds"
+* Right-sizing and Auditing
+  - 2016 - ~122k registered with maybe 40-50k unregistered
+  - [[id:95DA0D77-6FC2-4BD5-9C16-20B037DCB31E][haider al-abadi]] wanted to audit all claimed registered individuals and record names and personal identification
+    - hawiyah
+    - shahadat al-jinsiya
+    - bataqat al-sakan
+    - al-tamwiniya
+    - also biometrics (photos and fingerprints)
+    - abadi ended up failing twice
+  - 2018 - hashd finance director [[id:F159A5EE-A701-4C1D-8391-C88B919924C0][qassim dahif al-zubaidi]] assassinated
+    - may 12, 2018 - iraqi election law actually requires security forces to vote before the public does (so that they can be on site to preotect the elections), but the hashd voted the same time as the public in theri own bases
+* Biometrics
+  - Iraqi gov slowly moving towards a tawtin al-rawatib ("settling of salaries" -> automated payment system)
+    - idea was to distrupt the commander based disembursement model
+  - March 25, 2019 - [[id:8B3339F5-33B9-4D86-AC83-C5991BC9A044][hussein ismail khalil]] announces fingerprinting and enrolled 80k/160k by March 2019
+    - many hashd still paid with cash, those with widows and disabilities are testing electronic payment system
+      - [[id:9F01C356-CFE7-48FA-A0E2-750CF1F1DF3B][qi cards]]
+  - payments are still authorized by the [[id:9E5E0478-4353-45D3-A480-0AED0A7AD64B][hashd commission]]
+* Registered and Unregistered
+  - Large gulf between units in terms of registered/unregistered #'s
+  - [[id:F56A8565-CED0-45C2-A53B-B186DF72A1C9][kataib hezbollah (kh)]] and [[id:BC40CBC8-81AC-4CFD-8121-7419EC9CB63B][badr]] control the key administrative posts
+  - [[id:F8A39FFF-405C-4AA9-A869-745C9BA8F153][hisham al-hashimi]] states that around 24k unregistered people were serving in the hashd, or ~17.7% (159k total)
+    - [[id:8B3339F5-33B9-4D86-AC83-C5991BC9A044][hussein ismail khalil]] said there is nearly 160k in march 2019
+
+#+DOWNLOADED: screenshot @ 2021-01-07 21:01:11
+[[file:Registered_and_Unregistered/2021-01-07_21-01-11_screenshot.png]]
+
+* Military Service and Retirement Rights
+- [[id:F643CE85-DE07-4F56-B49E-8439D1479B34][executive order 85 (2018)]] was the clearest statement of rights
+- Until 2018, hashd fighters were paid less than other ISF members
+  - junior pay was between 600k to 800k dinars per month
+  - equalized in 2019, now 1.1 million dinars (~$923) per month for junior volunteers, and more for higher ranks and men with families
+- some hashd receive less because of unit taxing their fights by up to 30%
+  - some may be spreading the pay out between registered and unregistered
+  - some sunni tribes have not been paid in two years due to holdups
+  - lack of continous payment drives illicit activities
+- hashd has continually had "better" leave policies
+  - ISF members service in rotations of 20 days on, 10 off
+  - hashd units can serve as little as 10 days on, 10 off
+    - hashd members have also stepped away to fight in [[id:BE234E49-5E49-4054-8308-6EDDCA766FAB][syria]] while getting paid
+- hashd regularly flout the promotion requirements
+  - no hashd member has ever attended professional military educational courses
+  - iraqi law also provides for out-out
+- retirement, martyrdom, and incapacitation laws only loosely apply
+  - some have noted that martydom benefits are harder to secure for non-muhandis groups
+- hashd initially used local hospitals but this proved too disruptive
+  - hashd now developing field hospitals, 30 basic by Jan 2018, although poorly equipped and lacked supplies
+  - seriously wounded fighters may be sent to [[id:5E8A9793-6DE6-4E2C-A33B-D85714A3C06C][iran]] or [[id:D4B35C6D-544A-481C-B5C0-7C2A2ABCF9AC][lebanon]] for urgent or long-term care
+
+* Training and Equipping the Hashd
+- now specific commitment about training, education, or equipment of the ISF personnel
+- [[id:5066CAA4-A73A-4F48-8535-C71B388E8504][abu ali al-basri/adnan ibrahim al-najjar]] noted in jan 2020 that hashd officers would be fast-tracked through military colleges in [[id:E327AF20-D000-4518-AF20-0693BF5262D0][nasiriyah]] and rustamiyah (in [[id:105A47A9-B2B1-46B8-9531-52E9E39414AB][baghdad]])
+- hashd training has aligned by faction
+  - [[id:BC40CBC8-81AC-4CFD-8121-7419EC9CB63B][badr]] - well organized and depot-like recruitment and training bases in [[id:FECBB41F-7DA3-455A-976B-5DE4604DE9C2][camp ashraf]], [[id:477EE8EF-627A-4143-BCAB-373FDA98ED09][basra]], [[id:105A47A9-B2B1-46B8-9531-52E9E39414AB][baghdad]], [[id:1A9B2244-83B3-491B-A4A6-74006B61CB9C][babil]], and [[id:23FAD3AC-19A3-404C-89D5-5A123043A582][karbala]]
+    - additional facilties in [[id:B89E1777-C2EC-44AA-AE9F-D3A43821DB6C][tuz khormatu]] and [[id:46459628-EB52-4282-B65B-A9FCA6DBDF2B][amerli]], although available for to hashd fighters to train at
+    - typically extends training assistance to other hashd units
+  - [[id:706F24FC-7E29-4EFD-A588-E8576AFF9115][saraya al-salam]] did operate the Sayyid al-Kawnayn lil-Ulum al-Askariya Academy, but closed in 2017
+  - [[id:F56A8565-CED0-45C2-A53B-B186DF72A1C9][kataib hezbollah (kh)]] maintains training camps at [[id:35A3635E-D174-4EA7-9FAF-78A2C776C46B][jurf al-sakhar]]
+  - [[id:D6002CC8-4179-4065-9777-499AA8FF95D6][kataib al-imam ali]] maintains training facilities in [[id:5BDCA193-3829-4C56-8FD6-5A7B427ADD17][al-aziziyah]] on former military facilities
+  - [[id:35846680-D69C-4C80-9494-F3375E5DDC93][asa'ib ahl al-haqq (aah)]] maintains training sites in [[id:477EE8EF-627A-4143-BCAB-373FDA98ED09][basra]], [[id:23FAD3AC-19A3-404C-89D5-5A123043A582][karbala]], [[id:35A3635E-D174-4EA7-9FAF-78A2C776C46B][jurf al-sakhar/jurf al-nasr]], and for sunnis in [[id:F5BA4445-E57D-4F03-BC6E-948A588815C4][jalula]]
+  - [[id:950DDBB6-3BA5-45A3-9FF7-D5C138D0B761][al-abbas combat division (brigade 26)]] also maintains training centers in [[id:23FAD3AC-19A3-404C-89D5-5A123043A582][karbala]] and [[id:1A9B2244-83B3-491B-A4A6-74006B61CB9C][babil]], with smaller sites elsewhere
+  - others
+    - [[id:8B657DFD-9DF2-4129-9611-BA387D0DDC61][saraya talia al-khurasani (brigade 18)]] has training centers in [[id:23FAD3AC-19A3-404C-89D5-5A123043A582][karbala]] and [[id:3464FEDB-2602-4248-BB3C-188CF3417AE6][anbar]]
+    - [[id:7BEA2B24-8552-41EE-954B-99FECF4CAD23][liwa al-tafuf (brigade 13)]] has a camp in [[id:23FAD3AC-19A3-404C-89D5-5A123043A582][karbala]] where members of [[id:8B657DFD-9DF2-4129-9611-BA387D0DDC61][saraya talia al-khurasani (brigade 18)]] have also gone
+    - [[id:E2A5179E-190B-4A55-A89B-A2A9A32E4202][kataib jund al-imam (brigade 6)]] has a training camp in [[id:23FAD3AC-19A3-404C-89D5-5A123043A582][karbala]] and [[id:5FBD41A7-4B44-4E77-9A84-280B6775904C][speicher (tikrit air base)]]
+    - [[id:857B7D63-9CDA-4FE7-893A-3635041FA34C][coalition against is]] lead training for [[id:D39E518B-12D0-4178-9A36-9F40437DDCC3][iraqi sunni]] hashd has been at [[id:651DB6B5-FCEF-46BC-B04C-A012006899FC][taji]], [[id:B098F4F0-69EA-49B1-B29C-EDEF4B2ABD8F][ayn al-asad air base]] and [[id:77329B76-1D69-4D94-B8F3-472710FC1016][qayyarah]]
+- [[id:5066CAA4-A73A-4F48-8535-C71B388E8504][abu ali al-basri/adnan ibrahim al-najjar]] state in jan 2020 that all forces are at garrison locations
+  - all factions appear to be able to undertake training at [[id:5FBD41A7-4B44-4E77-9A84-280B6775904C][speicher (tikrit air base)]]
+  - [[id:706F24FC-7E29-4EFD-A588-E8576AFF9115][saraya al-salam]] and other [[id:6289E49C-10CA-435D-97F1-6AE640D35128][sistaniyun brigades]] have been forbidden to train with /any/ foreign forces
+- hashd had more access ot heavy weapons before 2014 due to sponsorship with [[id:5E8A9793-6DE6-4E2C-A33B-D85714A3C06C][iran]]
+  - [[id:5E8A9793-6DE6-4E2C-A33B-D85714A3C06C][iran]] has periodically resupplied with personal equipment and uniforms
+  - [[id:03E1F9A5-6363-4CA1-A838-92AE2C104ED9][irgc]] manufactued equipment has also been delivered
+  - post-2014 brigades are at a disadvantage
+    - e.g. [[id:D8844D33-60F4-4179-8C64-BE35BCA245A3][liwa ali al-akbar (brigade 11)]] foguht in 2016 with only one anti-tank missile per regiment, while [[id:BC40CBC8-81AC-4CFD-8121-7419EC9CB63B][badr]] had 6
+- hashd equipment policies
+  - commandeer
+    - pickup trucks, abandoned, (re)captured army materials, etc
+  - [[id:5E8A9793-6DE6-4E2C-A33B-D85714A3C06C][iran]] provided
+    - [[id:7BEA2B24-8552-41EE-954B-99FECF4CAD23][liwa al-tafuf (brigade 13)]] has moved into the [[id:B4495945-1A3F-4927-967A-03C0D2992069][abu mahdi al-muhandis]] orbit to get provision of materiel
+  - ministry provided equipment
+    - [[id:67A68720-1444-45BD-A298-5E1DF8305091][ministry of defense (iraq)]] and [[id:39DBC574-B8A1-4464-BA1B-672948C34D0F][ministry of interior (iraq)]] have proivded significant equipment stocks
+  - salvaged saddam-era equipment
+    - [[id:6289E49C-10CA-435D-97F1-6AE640D35128][sistaniyun brigades]] and [[id:706F24FC-7E29-4EFD-A588-E8576AFF9115][saraya al-salam]] hav ealso developed own salvage operations with collaboration of [[id:67A68720-1444-45BD-A298-5E1DF8305091][ministry of defense (iraq)]]
+  - new hashd military industries
+    - many hashd units have established industries
+      - [[id:BC40CBC8-81AC-4CFD-8121-7419EC9CB63B][badr]] has facilities in [[id:8DC6C469-65F5-4A50-85A9-2DFE16FB9B4D][khalis]], [[id:37E2DE60-D3D3-4EF6-9D82-C42F4FA49F6B][balad ruz]], [[id:C9489459-B94B-4E62-9952-FC209619BEBB][baqubah]], and [[id:74D09C82-CF5F-47DB-AC36-924906D9BEEC][al-numaniyah]]
+        - joint facilities with [[id:F56A8565-CED0-45C2-A53B-B186DF72A1C9][kataib hezbollah (kh)]] at [[id:5BECF841-8DFB-4EBC-9C67-E36EF718CCDE][al-zafaraniyah]]
+      - [[id:35846680-D69C-4C80-9494-F3375E5DDC93][asa'ib ahl al-haqq (aah)]] has factories in [[id:C793654A-7B6A-4285-AF18-C7552B70CEBF][nahrawan]], [[id:7AA21908-A342-4E50-824D-D5089B9BA570][bismayah]], and [[id:35A3635E-D174-4EA7-9FAF-78A2C776C46B][jurf al-sakhar/jurf al-nasr]]
+      - [[id:F56A8565-CED0-45C2-A53B-B186DF72A1C9][kataib hezbollah (kh)]] has a facility in [[id:C2EB3896-5431-4493-A80B-2ECB66575D9A][ain al-tamur]]
+        - suspected rocket production and storage
+      - [[id:706F24FC-7E29-4EFD-A588-E8576AFF9115][saraya al-salam]] has factory in south [[id:1D2A7418-BD69-4F4C-A576-E8DA8C62380E][qadisiyah governate]], near [[id:C68CABFB-3C21-491F-8EA0-12F4E3083D0C][al-hamza]]
+- hashd development of logistical support was given $441 mil in 20187, althyough only $80 MM seems to ahve been disbursed
+- soldiers are nominally supplied with food/water/shelter and other basic services from the [[id:3C2B66A8-BD8A-4456-B59E-E2182963E7A7][soldier life support fund]]
+- all hashd units have rudimentary logistical systyems
+  - unit generally receives a lump-sum grant to cover expenses before each operation controlled by the [[id:9E5E0478-4353-45D3-A480-0AED0A7AD64B][hashd commission]]
+  - ranges between 350-500 MM dinars
+  - units use this to pay for operational expenses, also rife with corruption
+- [[id:6289E49C-10CA-435D-97F1-6AE640D35128][sistaniyun brigades]] often operate close to their shrines in [[id:BC73C623-ECAF-40F8-AA75-20140966DEF6][najaf]],[[id:23FAD3AC-19A3-404C-89D5-5A123043A582][karbala]], and [[id:6564CD0F-CF79-4839-A635-AAC7F6BB4E93][samarra]], reducing lostical strain
+- [[id:B4495945-1A3F-4927-967A-03C0D2992069][abu mahdi al-muhandis]] groups often operate in remote areas
+- vehicle maintainence seems to be very good among the hashd
+- poor weapons safety record due to lack of training in weapons and storage of explosives
+- multiple problems in the past
+  - august 12, 2019 - ammunition depot exploded in south baghdad
+  - nov 3, 2018 - explosion at [[id:B89E1777-C2EC-44AA-AE9F-D3A43821DB6C][tuz khormatu]]
+  - august 6, 2018 - explosion in [[id:23FAD3AC-19A3-404C-89D5-5A123043A582][karbala]], [[id:950DDBB6-3BA5-45A3-9FF7-D5C138D0B761][al-abbas combat division (brigade 26)]]
+  - june 6, 2018 - explosion at [[id:ABABD3B9-025D-42BA-A95C-64DE159466B3][sadr city]], either [[id:35846680-D69C-4C80-9494-F3375E5DDC93][asa'ib ahl al-haqq (aah)]] or [[id:706F24FC-7E29-4EFD-A588-E8576AFF9115][saraya al-salam]]
+  - sep 2, 2016 - explosion in eastern [[id:105A47A9-B2B1-46B8-9531-52E9E39414AB][baghdad]], [[id:35846680-D69C-4C80-9494-F3375E5DDC93][asa'ib ahl al-haqq (aah)]]
+  - july 19, 2019 - explosion in [[id:46459628-EB52-4282-B65B-A9FCA6DBDF2B][amerli]], [[id:3CA49D8C-192E-49E7-BBCB-31B650F23E88][quwat al-turkmen (brigade 16)]] and [[id:3B73ABCF-BB5E-4254-848C-E68718AB6BE2][fawj amerli (brigade 52)]]

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       CF0B03C9-020A-4D76-8FFC-A46587B03B4F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: file_systems
+#+TITLE: file systems
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+http://www.nobius.org/dbg/practical-file-system-design.pdf

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       B6CD73F1-B1CE-4962-B169-4B5B9C7B5C14
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: google_fi
+#+TITLE: google fi
+
+Tags: [[id:851F079B-17D1-411F-988B-1248B5E0579D][Networks]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+- https://fi.google.com/about/international-rates/
+- Can now sign up on iphones with esim: https://arstechnica.com/gadgets/2020/04/google-fi-gets-iphone-esim-support/

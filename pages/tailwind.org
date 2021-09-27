@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       BAE50E5E-A524-4006-A9A9-997A92D61708
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: tailwind\
+#+TITLE: tailwind
+
+Tags: [[id:6703D5A7-CB3C-43E0-AA81-86D3BB027765][frontend]]
+
+* Examples
+- https://tailwindcomponents.com/component/todo-list-app
+- https://tailwindcomponents.com/component/clone-github-new-design
+- https://github.com/tailwindcss/setup-examples/tree/master/examples/laravel-postcss-only
+* Setup
+- https://tailwindcss.com/course/setting-up-tailwind-and-postcss/
+- https://tailwindcss.com/docs/installation/
+- https://tailwindcss.com/docs/controlling-file-size/
+* Tools
+- https://github.com/postcss/postcss#usage
+- https://tailzilla.app
+* License
+- https://www.notion.so/Tailwind-UI-License-644418bb34ad4fa29aac9b82e956a867

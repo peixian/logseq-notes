@@ -1,0 +1,152 @@
+:PROPERTIES:
+:ID:       66657944-605B-4C6F-AF02-6E8D11790F92
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: al_jabbar_the_shiite_movement_in_iraq
+#+title: al-Jabbar - The Shiite Movement in Iraq
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]]
+
+* Introduction
+  - [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]] was tarred with the Bush doctrine of pariah states married to Islamic militancy
+  - Shiites agree that the 1920's they left themseolves out of the cold with regards to the British, now they sought US patronage (in the forms of the [[id:9619BA86-028F-41A6-A8B2-5C621444900E][Supreme Council for the Islamic Revolution in Iraq (SCIRI)]] and [[id:B8B77EFA-589B-4393-8F47-75F1EED0E103][Dawa]])
+  - cultural artifacts were on display in April 9 in 2003, because the vacuum of the state meant that there was no civil society to rely on
+  - [[id:343394D8-5885-491F-9ABB-596B6B1CF00B][Majd al-Khoei]] was killed on April 10th in [[id:BC73C623-ECAF-40F8-AA75-20140966DEF6][najaf]], where he was neogtiation with the custodian of the shrine
+  - [[id:749D4B05-ADD6-4608-B99B-AD6FD0C6BC07][Muqtada al-Sadr]]
+    - was in house arrest in the 1999
+    - his father built a network of novice sheikhs
+    - 2003 had no clear vision of the state as an Islamic entity
+    - engaged in clerical supreme authority by means of street politics
+    - "clerical class traditionally constituted of family based leadership with a network of embedded novices"
+  - jabbar argues taht religion works as an identity marker
+  - links the decline of nasserism and the rise of religion in its stead
+
+* State, Nation, Islam
+
+** Overview
+   - Timeline
+     - Late 1950's - start of shia militancy
+     - Mid 1960's -> [[id:5F94B031-05E0-4207-ACAD-139E344A05F4]['Arif brothers]] caused Islamic activism to thrive
+     - 1974 -> mass protests and [[id:64817B58-ADF7-4FEE-83D9-255D9D87194B][Baath]]ist executions of shia leaders
+     - 1977 -> Arbaeen demonstrations shook the political elite
+   - Argues that there are 3 main theories of shiism in Iraq
+     - Communal
+       - shia majority vs sunni minority
+       - issue treats shiism as one monolithic thing
+     - Cultural-essentialist
+       - largely arose after 1979
+       - orientalist in outlook
+     - Conjunctural
+       - two patterns to shia military social movements
+         - islamist protest is born of common greviences due to modernity, there is nothing inherent about Islam, these are cross-cultural issues given an Islamic flavor
+         - local: shiite activism is spurred by protest against group discrimination under authoritarian regimes - [[id:06DB4234-A5C2-408C-9C0C-1D3A783E8462][Blaydes - State of Repression]]?
+       - forms of religiosity differ from one groupo to another
+       - distinguishes between tribal leaders and ulema
+         - islam bridges/substites the unity between these two groups
+     - 3 major classes
+       - clerical class
+       - mercantile class in [[id:BC73C623-ECAF-40F8-AA75-20140966DEF6][najaf]]
+       - modern middle class
+     - shias had published regularly after 1979, previously their publications were largely totally obscure
+     - migration after [[id:192CF3E0-12E4-462E-9BCB-F661286FD1BF][iran/iraq war]] to western countries only further encouraged publication
+     - iraqi security services archives also contain information
+
+* Islamism, Fundalmentalism, Communalism, and the Nation-State
+  - Rise of shia islam is conflated with two things
+    - 1970's had a broad rise of Sunni/Shia "fundalmentalism"
+    - a rise in secular militancy
+  - We need to make a clear delination between shiite activism and islamic militancy
+  - Islamic activism dates ot the late 19th century, relating to the major, but not only reformation of Islam
+    - [[id:CB68768D-8621-4F99-A501-C12762F8913A][Usuli]] vs [[id:63B00AFD-AA5A-4BDC-9F27-67591DD59CB2][Archbari]]
+    - [[id:4EDCF189-9CAF-4C2B-B63F-D56AC6136D5C][Babi]] vs orthodox
+    - [[id:6EA38002-80A3-4288-9550-754AF8DD5F63][sufism]] vs the french
+  - major religious reformations seek to purify islam, either by:
+    - stating the tradition is enternal & true
+    - constructing a paradigm of pure, prisetine Islam
+  - An all embracing Islam has been held by [[id:6F514DCF-EDF1-4462-A8F5-C112D5980C14][Jamal al-Din Afghani]], [[id:236E3E9F-4804-49D2-AA86-E372768D9682][Muhammad Abduh]], [[id:B56B5651-A789-4470-83EC-71B852796046][Wahhabi]], [[id:04ED6102-353D-403D-83F0-A03079F882C7][hassan al-banna]], [[id:0A3E969C-BC56-488F-BD84-BE841CB7BD69][ruhollah khomeini]]
+    - all the waves have similar shades "fundalmentalism"
+
+** 19th century Sunnis
+   - 3 types:
+     1. [[id:6F514DCF-EDF1-4462-A8F5-C112D5980C14][Jamal al-Din Afghani]], [[id:236E3E9F-4804-49D2-AA86-E372768D9682][Muhammad Abduh]] reformists
+     2. medival hanbalism - [[id:B56B5651-A789-4470-83EC-71B852796046][Wahhabi]]sts
+     3. [[id:6EA38002-80A3-4288-9550-754AF8DD5F63][sufism]] or sufi tribal orders of [[id:784FA9E7-F8ED-4F22-A836-478426736CB6][qadiriya]], [[id:5DA5D9CE-EC6F-4D6C-B827-3EAD88AFBD77][mahdiya]], and [[id:9D00315D-ACF5-4940-BC72-1621BA3E766B][sanusiya]]
+   - all of these involved new interpretations of Ilsam
+
+** Modernity
+   - port cities were prone to disruption, starting with [[id:04ED6102-353D-403D-83F0-A03079F882C7][hassan al-banna]]
+   - [[id:E48F6D7F-36EB-4F1E-8DF6-35AF238E024F][muslim brotherhood]] and Hahbani's [[id:3FB1597C-E0B8-4FF8-B62F-3C5852ADC21E][Hizb al-Tahriri al-Islami]] and [[id:B8B77EFA-589B-4393-8F47-75F1EED0E103][Dawa party]]
+   - after 1967, nationalist regimes turned to Islamist symbols and themes
+   - from arab sociallism to liberalized and deregulated economy, Saudi wealth and influence replaces Nasserisms with Oil wealth
+   - Islamisms development as a populist ideaology of protest against the failures of authoritairan nation-state and nationalist elites, which absorbs an interesting amalgam of concepts
+
+** Liberal Monarchy - 1921-58
+   - Dual legal system, development of the [[id:FE9DDD5D-B5D8-468F-B290-8B88B2075A55][Tribal Disputes Regulation Act]]
+   - 1947 census
+     - Ethnic
+       - arabs: 3,244,000 - 71.1%
+       - Kurds: 870,000 - 19%
+       - Persians: 52k - 1.2%
+       - Turkomans: 92k - 2%
+     - Religious
+       - Muslims: 93.3%
+       - Christians (Assyrians, Chaldeans and etc): 3.1%
+       - Jews: 2.6%
+       - Yazidis and Shabak: 0.8%
+       - Sabaeans: 0.2%
+   - cities engaged with national spaces more than the tribes
+   - tribes had to settle down and dissolve large confederations
+   - state elites were drawn from small upper classes and from different regions, largely geared towards integration
+   - landed aristocracy and upper mercantile and business and modern elites
+   - soldier/politicans - Cited by [[id:3F2A99E7-506D-4F02-BAD4-3E977CA1C2A9][Hanna Batatu]]
+
+
+** Revolutionary Period: Military Authoritarian Regimes - 1958-1968
+   - Monarchy downfall was due to middle and lowerclass rebellion against the small pro-British ruling class that monopolized power and wealth
+   - Middle class, military dominated, populist and authoritarian regimes assumed power
+   - Destruction of landed and old ruling classes
+   - Accelerated the development process but disturbed the processes of national integration
+   - Increased oil revenues detached the state from the power relations of social wealth
+
+** Totalitarian-Patrimonial Ba'th Regime: 1968-2003
+   - schisms and rifts among ruling elites forced a stable system to emerge vial totalitarianism
+   - single-party system and the single-family/clan system
+   - Lack of mature and solid base of private property and mature social classes with vested interests independent of the state
+   - Populist politics with primordial solidarties as unique medium for organization, cohesion, mobilization, control, and regulation is a mix
+   - [[id:AA0F0C9A-437E-456D-8B60-E4DF45140EDA][Revolutionary Command Council]] as the leading power function, but the [[id:3AE888BE-E2DC-4B12-910B-EDDEC89A353F][Regional Leadership (Iraq)]]
+     - both were subsumed into the same practical identity until the end of the National Assembly was introduced under a controlled ballot as a result of the [[id:941C19F9-29FE-45A8-AC7B-2093849F012B][iranian revolution]]
+   - the state controlled the bulk of sphers of production and distribution of social wealth, dominated production and distribution of culture, and absorbed most forms of social association
+   - state employment becomes the final form of distributing economic benefits
+   - families begin to command private social wealth, but the composition changed, such as the selective inclusion of kurds and certain shi'ite families
+   - modern middle class was structured by state employment, which formed the bulk of the growing party apparatus
+     - as a result, mass urbanization occured, including in Baghdad
+
+** Shi'ite social structures
+   - Shi'a in 1921 did not constitute a closely knit body of people, they were originally quite divided
+   - Tribal confederation emerged during the Mamluik era
+   - Shia imams were presented as gallant knights and brave warriors, and then guarenteed commerial and property contracts
+   - Clerical class in shrine cities and the free traveling sayyids emrged as a "bedouin" or "arabic" in opposite with the "sufist" or "persanized" sh'ism of iran
+   - [[id:BC73C623-ECAF-40F8-AA75-20140966DEF6][najaf]] was governed by armed guilds knowns as the shuri or zuguri, who controlled the city and provided defense against external hazards
+     - created a separate exchange-liasons with the clerical class and the artisans, merchants, and pilgrims
+   - [[id:BC73C623-ECAF-40F8-AA75-20140966DEF6][najaf]] and [[id:23FAD3AC-19A3-404C-89D5-5A123043A582][karbala]] specifically rebelled against the ottomans in 1915 and 1916 respectively
+   - post-1921 - nomadic tribes lost their significance
+   - deporation of the jews in 1948-1949 caused shiites to emrge as the strong social class, where tribal landlords established firm positions
+     - shifts from the shi'is as rural poor fallahin into poor and middle class city dewllers
+   - sectarian policies of the [[id:5F94B031-05E0-4207-ACAD-139E344A05F4]['Arif brothers]] and the [[id:64817B58-ADF7-4FEE-83D9-255D9D87194B][Baath]] accelerated the development of a coherent shia identity
+
+** Areas of Conflict: Shi'is and the modern state
+   - political conflict premised on under-representation
+     - first two decades of the monarchy and waned in the last decade, but then resurfaced under 'arif and the ba'th
+   - economic grievances based off of landed shi'ite groups that opposed land reforms in 1959
+   - cultural encroachment, arab nationalism replaced islam, such as [[id:55A17177-6381-40F4-B95D-4558A177DB4A][sati al-husri]]'s cultural nationalism based on language and history
+     - reduced islam to a predicate to ethnicity, which destroys the centrality of religion
+   - nusuli affair in the late 1920's
+     - nusuli, syrian secondary school teacher glorified the [[id:F5A26740-5BDF-468A-9EAE-ABE502FA8F65][ummayad]] dynasty, which the shia viewed as the usurpers of the caliphate from the rightful Imams
+     - nusuli's book caused a political crisis
+     - 1950's and 1960's, Abdul Aziz al-Duri, a [[id:D39E518B-12D0-4178-9A36-9F40437DDCC3][iraqi sunni]] historian and dean of Baghdad university continued to to raise the idea that the ethnic purity ofthe arabs was not only crucial but was endangered by the persians
+   - citizenship rights
+     - persian shias have had different pre-national rights, many arabs sought persian "naturalization" to avoid military service in the [[id:E0568496-6835-438C-A394-B387291A7BDA][ottoman]] standing army
+     - shi'ism being equated with persianism reinforces the idea that the shrine cities had persian cultural traits, alongside the strong trade relations and the persian mujitahids
+     - mass deportations in the early 1970's under the baath
+   - state control of religious cultural spaces and controlled separation of state and religion
+     - since sunni religious establishment was subsumed into the administration, the remaining secularization drive was focused on the shia

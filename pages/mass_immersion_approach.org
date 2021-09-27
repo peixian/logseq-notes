@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       9B45CB54-1E77-46E5-85BA-816C4EBAD308
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: mass_immersion_approach
+#+TITLE: mass immersion approach
+
+Tags: [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]]
+
+- https://massimmersionapproach.com/table-of-contents/stage-1/jp-quickstart-guide/#immersion
+
+- immersion is a necessity
+- watch everything, read everything, you can understand a show with surprsingly little contextgo

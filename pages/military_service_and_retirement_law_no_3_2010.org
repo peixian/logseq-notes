@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       BA95F4C3-8A90-4FB5-8419-7495F23F2D3E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: military_service_and_retirement_law_no_3_2010
+#+TITLE: military service and retirement law no. 3 (2010)
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]], [[id:CC0EFB92-1661-4A5A-BE0D-46FB07D94241][jurisprudence]]
+
+- article 7 and 33 sets duration of service at 20 years (extendable by 5) or requirement ages
+- article 8 stiuplates iraqi military salaries
+- articles 9-20 establish rules for promotion
+  - article 9 provides list of number of years to grdaute to next rank
+    - 18 years to become full colonel and 22 to make briadier general
+  - combat arms candidates must served in field units for not less than half the promotion periuod for each rank
+  - article 15 nnotes that ranks of "divisional commander and above" must have graduated from staff college, 16 requires less roles complete professional courses
+- article 37 allows exceptions to promotion requirements made for those who "provided heroic deeds"
+
+- articles 40-44 establish the rules for periods of leave
+  - 30 comulative days per year of service, maximum 180 days within any two year period
+  - sick leave is capped at two years if there is no recovery, then discharge
+- articles 45-60 note minimum years service eligbility for pension until death and his dependents
+- articles 61-78 cover compensation for incapacitation and death
+- articles 79-82 list the monthly allowances for married persons and family members
+  #+begin_quote
+70k dinars for each wife and 15k dinars for each of his children up to the fourth child on the basis that it should not exceed 50% of his salary
+#+end_quote

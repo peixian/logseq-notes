@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       D92C9E88-2707-4335-A1C5-18ABC20D0524
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: fortna_does_peacekeeping_keep_peace
+#+TITLE: Fortna: Does Peacekeeping Keep Peace?
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:C74E2141-B04C-4B46-8BDF-C8223263BA88][un and global governance lecture 7]]
+
+Fortna, Virginia Page. “Does Peacekeeping Keep Peace? International Intervention and the Duration of Peace after Civil War.” International Studies Quarterly 48, no. 2 (2004): 269–92.
+
+- Often repeated tropes that peacekeeping should only be done when "there is a peace to keep" from [[id:6FD8C6D3-8604-473B-9DE7-8B99DDFE807E][Brahimi report]]
+  - ignores that UN is often more likely to succeed in lower conflict situations
+  - situations where there is a clear victory is less likely to see UN peacekeepers, but more likely to see regional peacekeepers
+- finds that, since the cold war, peacekeeping does work
+- peace enforcement has been found to result in unstable peace where nations later reenter war, possibly liddism ([[id:E3687847-3114-4236-B890-C21FAECC6B6D][Curran and Hunt: Stabilization at the Expense of Peacekeeping in UN Operations]])
+- finds that peace will generally be easier to maintain after wars with a decisive victor, after long wars, and in countries of higher development

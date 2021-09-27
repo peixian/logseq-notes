@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       A4F51005-86AC-493F-AA33-E7B78CF1752C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: arbaeen
+#+TITLE: arbaeen
+
+Tags: [[id:23FAD3AC-19A3-404C-89D5-5A123043A582][karbala]], [[id:9B83B603-B44D-48FF-A154-E6C36F7D2225][shia]]
+
+- shia holy pilgrimage

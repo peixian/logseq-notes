@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       CA47DC6D-9E3E-4E5C-99F4-4400029A1341
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: diyala_governate
+#+TITLE: diyala governate
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

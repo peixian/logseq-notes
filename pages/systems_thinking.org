@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       3B8D283F-903A-4C0D-82B4-A53E4351AD84
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: systems_thinking
+#+TITLE: systems thinking
+
+Tags: [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]]

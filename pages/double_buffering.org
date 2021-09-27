@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       3DF7694A-782A-4801-87DD-82D55E95F1CA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: double_buffering
+#+TITLE: double buffering
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+https://en.wikipedia.org/wiki/Multiple_buffering#Software_double_buffering
+- Allocate two buffers
+- Swap the two buffers once the back buffer is ready, saves you from doing any more allocations
+- http://www.richelbilderbeek.nl/CppDoubleBuffering.htm
+- https://www.khronos.org/opengl/wiki/Default_Framebuffer
+- https://community.khronos.org/t/what-are-the-use-of-back-and-front-buffer/24646

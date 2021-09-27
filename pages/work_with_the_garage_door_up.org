@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       80E0395C-930F-4EEC-B0D3-D89DF552F016
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: work_with_the_garage_door_up
+#+TITLE: work with the garage door up
+
+Tags: [[id:CAFF2018-7C24-402E-9528-464A87D2DC39][personal]]
+
+This website is a collection of my notes are largely a collection in [[https://en.wikipedia.org/wiki/Zettelkasten][Zettelkasten]] style, with the ethos of [[https://notes.andymatuschak.org/Work_with_the_garage_door_up][working with the garage door up]], inspired by [[https://braindump.jethro.dev/]].
+
+It's built with:
+- [[https://github.com/org-roam/org-roam][org-roam]]
+- [[https://ox-hugo.scripter.co/][ox-hugo]]
+- [[https://gohugo.io/][hugo]]
+- [[https://github.com/peixian/books-notes][hugo theme]] forked from https://github.com/alex-shpak/hugo-book.

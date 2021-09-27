@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       D0AFE47E-FF75-4F51-99F9-293D1DF97B8A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: annotations
+#+TITLE: annotations
+
+Tags: [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]]

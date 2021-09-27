@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       45013A8E-1417-4A6D-8F7C-5C7E5BD4DAC2
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: zadrozna_reconstructing_the_past_in_a_post_ottoman_village
+#+TITLE: Zadrozna: Reconstructing the past in a post-Ottoman Village
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:A438ACD2-2C1E-40EB-9502-74E5B69EA9FF][Post-Ottoman Near East]], [[id:E2821844-9819-49F2-9CE7-CD04EDDB2E85][europe]], [[id:FAC6D0F0-7797-4330-B988-37260A98CBC1][turkey]]
+
+Talks about the "Memory House of Ataturk" ([[id:56E74CD3-17D3-467F-A8CD-A8C3B8563573][mustafa kemal]]) as a focal point for macedonian ethnic identities, utilization of Ataturk as a symbol and claiming him (either through his lineage or pan-Turkishness) to be a rallying point.
+
+#+begin_quote
+historical consciousness is not a homogenous but rather a multilayered and complex process which can encompass apparently contradicting narratives of the past, not only within one nation-state - pg 12
+#+end_quote
+
+3 types of self identification:
+1) Macedonian
+2) "Turk" <- isolated to the Lower Zupa region
+3) Torbesi
+
+Identities revolve around primordialist arguments but are linked to political ones:
+#+begin_quote
+"Macedonians" support Macedonian political parties, the majority of the "Turks" vote for the Democratic Party of the Turks, and the Torbesi support the Part for European Future - PEI, which have actively worked for the legal recongition of the Torbesi as a separate ethnic group - pg 4
+#+end_quote
+
+* Who own Ataturk?
+  - Based on ideals that Ataturk's father was born in Kocacik, some groups claim ethic Turkishness
+    - Application of a constructed identity in modern times flowing backwards in time
+    - possibly helped by the Turkish nation's embracing of Ottoman identities - [[id:FFC8DC1C-7DB3-4E76-8594-C64AD5C17564][Danforth: The Ottoman Empire from 1923 to Today]]

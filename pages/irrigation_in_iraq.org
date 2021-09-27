@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       807301C8-4F30-48C2-92EA-B4E69A9DD8AA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: irrigation_in_iraq
+#+TITLE: irrigation in iraq
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+- iraq is very rarely metering water supplies
+- The Euphrates does not receive water from permanent tributaries within Iraq territory and is fed only by seasonal runoff from wadis.
+* Water Levels Dropping on Tigris and Euphrates - July 18th 2020
+  - https://apnews.com/9542368977c9ee0ae97fd2cc88933198
+  - [[id:FAC6D0F0-7797-4330-B988-37260A98CBC1][turkey]]'s Ilisu Dam sits on tigris and may be singlehandled reponsible
+  -

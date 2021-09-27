@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       89876888-34FE-43F7-891F-0C8FFD05D5AA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: chinese_urban_rural_divide
+#+TITLE: chinese urban/rural divide
+
+Tags: [[id:0E21DFCA-3016-427A-965E-341DE95432B7][china]]
+
+- https://chinatalk.substack.com/p/invisible-china-how-the-urban-rural
+- rural children fall behind at massive rates, possibly due to malnutrition and [[id:34B7F040-53F9-4174-8847-DB2FE18C6045][huokou]]

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       7EDBDED6-0DCA-43B8-92BF-7FA0C0834E2D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: pyretic
+#+TITLE: Pyretic
+
+Tags: [[id:9217175F-EC79-4828-9A53-FD9F1FD8C09C][python]]
+
+- http://frenetic-lang.org/pyretic/
+- http://frenetic-lang.org/
+Allows people to use frenetic for software defined [[id:851F079B-17D1-411F-988B-1248B5E0579D][networks]]

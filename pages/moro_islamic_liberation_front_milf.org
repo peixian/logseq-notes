@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       AF3D423A-DC41-4C34-AB33-0D2E4EEF7F65
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: moro_islamic_liberation_front_milf
+#+TITLE: Moro Islamic Liberation Front (MILF)
+
+Tags: [[id:44848562-7F27-4906-95F4-6A9BFEC7A473][militias]], [[id:5E5E8287-6677-468A-8B62-7AA634A3E5CC][islam]]

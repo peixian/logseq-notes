@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       63BF0350-2DEC-45C6-937F-27D23EAC12E3
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: python_type_checking
+#+TITLE: python type checking
+
+Tags: [[id:9217175F-EC79-4828-9A53-FD9F1FD8C09C][python]]
+
+- https://github.com/Microsoft/pyright

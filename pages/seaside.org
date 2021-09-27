@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       E03F4D4E-E871-4026-A9AE-0EFEDEE6291F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: seaside
+#+TITLE: seaside
+
+Tags: [[id:4989829C-657D-418B-BFC4-655E00340337][smalltalk]]
+
+Web software for smalltalk: https://en.wikipedia.org/wiki/Seaside_(software)

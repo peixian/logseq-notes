@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       7A166AC0-681A-42FD-A02B-ECB75C904A7D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: culicover_and_rochemont_stress_and_focus_in_english
+#+TITLE: Culicover and Rochemont: Stress and Focus in English
+
+Tags: [[id:D51D4006-2F02-4305-BBEF-5EDEFDCFD334][writing]], [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:AB300662-3E3E-4452-A29D-468522B35C3E][languages/linguistics]]
+
+Attempts to generalize some forms of grammatical theory by looking at sentence stress

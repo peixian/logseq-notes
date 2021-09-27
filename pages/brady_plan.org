@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       2DC109D0-C7A8-431F-9444-01A166302283
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: brady_plan
+#+TITLE: brady plan
+
+Tags: [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]]
+
+Plan implemented in 1989 for Latin America, Eastern Europe, and African countries, US lead debt restructuring program that created by Brady bonds backed by zero-coupon US treasury bonds or funds from IMF or World Bank.
+
+- Transformed commerial bank loans into collateralized bonds
+- https://www.emta.org/em-background/the-brady-plan/

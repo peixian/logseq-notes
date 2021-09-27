@@ -1,0 +1,96 @@
+:PROPERTIES:
+:ID:       7BFB01F9-CD51-47DE-835D-984AFBAF5688
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: islamic_jurisprudence_lecture_11
+#+TITLE: islamic jurisprudence lecture 11
+
+Tags: [[id:BB2783B7-0E6B-4886-8007-EC63A9C67096][islamic jurisprudence]]
+
+
+* [[id:B64F6F20-78E6-4DB5-9E53-A83213036B76][Azam - Sexual Violation in Islamic Law]]
+** Chapters 1-2
+   - Propietary approaches vs theocentric ones
+   - martial rape undiscussed
+   - sets up the dichomety that the pre-Islam near east the proprieary approach was dominiant
+   - female sexuality was propritary, women's subjectivity did not matter, belonged to husband or father
+   - theocentric - affront to rights, rights are given by god, rape is an affront to god
+     - propritary approach is absorbed into the theocentric one
+   - was it two separate things that became one thing later?
+   - violence inflicted on the body - does this have a ritual cadence?
+     - paying a fine vs punishment of the bodies
+   - is the idea of a propritary vs theological crafted in islamic law and extrapolated backwards into time problematic?
+   - what spaces are the jurists interacting with when dealing with issues of violence against women?
+   - is treating the all the laws with a theortical frame good for the study?
+     - the authorizing discourse used as justification is "this is islamic law", and she is trying to address that on a normative level
+     - "
+** 3-4
+   - Maliki approach - dual penalty approach
+     - hadd punishment and the property punishment
+     - freedom owns property, free woman owns her own body
+     - minimum and equitable dower
+     - sexuality for women is similar between free or enslaved
+     - the commodity of sexuality can be misappropriated
+       - thus a free woman is the owner of her sexuality, so payment should go to her
+       - coercieve zina and property crime (transgression against crime and transgression against property crime)
+     - baber johnansen
+       - private ownership of property is central to islamic law
+       - does private property underpin rape laws?
+         - kiesha ali
+         - [[id:60238003-519B-4EC2-BA79-95D114DF0C50][zakat]] and personal wealth?
+     - manaf3 - capacity, usufroctory benefit
+       - anything can have manaf3
+     - zina is diametrically opposed to marital sex
+     - divine claims are more important than personal claims
+       - however, if the woman did not consent to zina, and the satisfaction of the god and satisfaction of the person are not mututally exclusive
+       - the intertwining of the divine claims and personal ones
+
+   - Hanafi approach - single penalty
+     - hanafis believe the manaf3 of people are not mal, they are only rendered manaf3 under a contract
+     - generally propriatary view of sexuality
+     - marriage requires an exchange value, difference is that the hanafi school does not have the "proprietary notion of subjectivity"
+     - linguistic point - never use istihab
+     - hadd only punishment for coercive zina
+     - "similar to double jepoardy" - can't have two punishments for one crime, you have to identify which crime you want to prosecture
+       - hadd (crime against god) and mahr (possibly licit sex)
+         - means that you have to understand the mahr whether it's licit or illicit, the volition of the human subject has no meaning
+       - raises the questions of the dower in coercive zina
+     - zina can't be the basis of trade for dower, because then it's similar to paying for dower
+     - coercive zina provokes divine and interpersonal claims
+     - extremely little interest in the violition of the women
+     - central argument - hadd and sadaq (dower) are incompatible
+       - dower vs dowery
+       - dower - payment that is given by the husband to the wife
+       - could you pay sadaq retroactively?
+   - underage boy and older woman
+     - underage boy is different because he has not developed sexually (very minority position)
+     - understanding of consent is fundalmentally different for a woman than a man
+   - do hanafi judges primarily ask themselves the question on the licitness of the sexual act, whereas maliki school asks whether the source of the payment
+   - ta'zir - is there punishment for the violence to her
+     - if the payment is the same as the payment for marriage, is there a fine?
+** 5-6
+   - athar and jurisprudence
+   - hanafis tried to avoid hadd at all costs, while the malikis didn't
+     - however, a distcintion must be made between the plaintiff and the witnesses
+       - four adult men and witnesses (quranic), and no compulsion within the hanafi school to witness
+     - no way to pursue rape charges without zina
+     - largely a crime against god alone
+     - were all cases of aversion to hadd, was there differentiation?
+     - social values cannot be read off of these legal categories
+     - why is punishment greater for a woman who's been married
+   - sunni law - if a woman's ever had licit sex, then any sex afterwards is illicit
+   - why are slave punishments set at half? their legal status?
+     - they have diminished agency
+     - formally, there is a hadith
+   - concept of shibha - how did this evolve over time?
+     -
+   - maliki's accept pregenacy as circumstantal evidence
+     - allows victims to enter into court against the assailant
+     - what could prove compensation
+     - 3luq - at least two eyewitnesses
+   - divergence between maliki jurists and hanafi ones, was the pursuit of propriatary principals about upholding consistency elsewhere?
+     - maliki's are also women friendly in divorce
+     - maliki's are where modern legistators took their divorce rulings
+     - maliki's tend to care much more about the women
+   - hanafi school is the playing out of Kufan traditions against women
+   - "step inside the discourses and try to view them from within"

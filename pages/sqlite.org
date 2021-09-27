@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       08AF8F54-BBB9-4CC9-91CC-B29EFC938942
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sqlite
+#+TITLE: sqlite
+
+Tags: [[id:7AB8A2C8-564A-48E0-9543-657DCE782B88][sql]]
+
+Basic usage:
+
+#+begin_src sh
+  sqlite> .tables;  # show tables
+  sqlite> .mode column; # sets to column mode
+  sqlite> .header on; # turns on the table headers
+#+end_src
+
+* R*Tree Module
+- https://www.sqlite.org/rtree.html

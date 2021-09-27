@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       95DA0D77-6FC2-4BD5-9C16-20B037DCB31E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: haider_al_abadi
+#+TITLE: haider al-abadi
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+Former [[id:4F59D34B-7839-4FA8-A61F-97BCE0E62359][iraqi prime minister]]

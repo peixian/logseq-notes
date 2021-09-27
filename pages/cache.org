@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       A4EBD239-45CC-4915-AAB3-704F534E1141
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: cache
+#+TITLE: cache
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+- https://medium.com/vimeo-engineering-blog/video-metadata-caching-at-vimeo-a54b25f0b304
+- rate limiting with https://github.com/mailgun/gubernator
+- distributed caching library: https://github.com/golang/groupcache
+  - https://blog.acolyer.org/2019/06/24/fast-key-value-stores/
+  - https://web.stanford.edu/~ouster/cgi-bin/papers/ramcloud.pdf

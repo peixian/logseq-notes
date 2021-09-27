@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       67A68720-1444-45BD-A298-5E1DF8305091
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ministry_of_defense_iraq
+#+TITLE: ministry of defense (iraq)
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

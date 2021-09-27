@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       D4368257-7330-443D-B7E3-2DE90A69020D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: pcre
+#+TITLE: pcre
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       86AD7D23-010C-46F4-AC0A-80BD268A6A66
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: mattson_status_based_definitions_of_need_in_early_islamic_zakat_and_maintenance_laws
+#+TITLE: Mattson: Status-Based Definitions of Need in Early Islamic Zakat and Maintenance Laws
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:9D4C01B9-516D-4DA5-A653-CA71D8931F2A][islamic jurisprudence lecture 3]]
+
+- Early Islamic scholars placed an absolute cap on the # of dinars for [[id:60238003-519B-4EC2-BA79-95D114DF0C50][zakat]]
+- [[id:9A2B4F6E-5773-4054-97BF-D4BF3F2DDD75][abu ubyad]] says differently
+- schools
+  - [[id:2273137A-7246-4B89-A704-252AFCEF2DBA][maliki]] - houses vary, as long as there is no surplus, [[id:60238003-519B-4EC2-BA79-95D114DF0C50][zakat]] can be given
+  - [[id:AA226DFB-A4D4-437D-BA93-C310004E63A1][hanbali]] - same as above
+  - [[id:9C5BD69C-A677-4EFD-828E-50ABC522626F][hanafi]] - strict cap, cannot exceed an absolute amount of wealth
+  - [[id:96DA0009-D506-4D5E-968D-C45655EE5136][al-shafi'i]] - argues for an adjustable cost of living concept
+- [[id:3C2DA493-3258-4AC6-A0FB-60E5508B3931][ma'ruf]] - what is known
+  - shafi applies this to zakat
+- poses the question whether zakat based charity systems, based off of social birth, actually serve to maintain the status quo

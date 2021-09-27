@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       6703D5A7-CB3C-43E0-AA81-86D3BB027765
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: frontend
+#+TITLE: frontend
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]

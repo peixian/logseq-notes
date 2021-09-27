@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       A44E70BB-3FAB-473A-AB0E-D7B419A34277
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: net
+#+title: .net
+
+- [[id:5717AC93-7D2F-4E0B-BB2D-FD5C09FE4A9B][programming languages]]
+- for [[id:9EDB758B-6C62-4E35-9E3F-938405E4C2FC][windows]], uses [[id:94FC4D5C-D198-4AE8-91F9-FE73C24E1AC0][c#]]

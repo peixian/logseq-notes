@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       882FF7A3-2584-4E0D-9CFC-7D82A9460EED
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ellerby_a_seat_at_the_table_is_not_enough_understanding_women_s_substantive_representation_in_peace_processes
+#+TITLE: Ellerby: A Seat at the Table is not Enough: Understanding Women's Substantive Representation in Peace Processes
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:656F5351-43B5-4F7B-9DBF-50FEBFF23C18][un and global governance lecture 11]]
+
+Ellerby, Kara. “A Seat at the Table Is Not Enough: Understanding Women’s Substantive Representation in Peace Processes.” Peacebuilding 4, no. 2 (May 3, 2016): 136–50. https://doi.org/10.1080/21647259.2016.1192240.
+
+When do women actually particpate in peace processes? When they do, do peace processes substantively include more provisions to reflect women's interests?
+- [[id:EA3D0FA6-D3E6-4497-8C42-C082F27653FC][UNSCR 1325]]
+- undertakes a textual analysis of all negotiated civil war peace agreements
+
+Argues that women's representation is not just one where they are at the table, but must include a:
+- Agenda
+- Access
+- Advocacy
+
+* Agenda
+- [[id:E09392BA-8392-4387-8556-F1B7FB456941][guatemala]] - women created written general demands for development, repatriation, and reintegration
+- [[id:75596EDC-4243-41A7-A85A-8BC334C2048C][burundi]] - special women's conference within the Arusha Peace and Reconcilation agreement
+- [[id:DB2CC264-A435-4715-8AF6-905254C4A07A][sudan]] - Darfur's Peace Agreement used various women's groups during the [[id:51F35847-CDEB-4E08-A5C5-056EC05C4AC1][african union (au)]] mediators
+- [[id:9347A041-2696-4CCC-B8F6-842549F366CD][uganda]] - women did not have specific or written agenda, but did have a Uganda Women's Coalition for Peace's work in communities
+- [[id:AF4087A1-C2A5-47B8-8438-AC2797FEDCEA][philippines]] -  [[id:7374DA41-F05F-4CDE-AE4F-F78D8866358B][Comphrensive Agreement on the Bangsamoro]] - inlcuded the Mindanao Women Conference on Peace and Security
+- Women can shape the agenda in different ways, sometimes with specific demands and  sometimes with general agreements
+
+* Access
+- [[id:E09392BA-8392-4387-8556-F1B7FB456941][guatemala]] - Women participated in the formal civil society access to peace process, secured via the [[id:D7385E7F-41E6-49F4-A44E-2994D54A3BBB][Civil Society Assembly]]
+- [[id:1A7F8EC9-B51F-460B-A078-FCB63DEC29B7][democratic republic of the congo (DRC)]] - Women worked with the /forces vives/, civil society sector involved in ICD
+- [[id:75596EDC-4243-41A7-A85A-8BC334C2048C][burundi]], [[id:9347A041-2696-4CCC-B8F6-842549F366CD][uganda]] - women were granted "observer" status, women constantly lobbying for access granted them access
+- [[id:DB2CC264-A435-4715-8AF6-905254C4A07A][sudan]] - IO's promoted the women's agenda, depended on the mediators for access that was both indirect and not mandated
+- [[id:AF4087A1-C2A5-47B8-8438-AC2797FEDCEA][philippines]] - women had both direct and indirect access to the peace process, [[id:AF3D423A-DC41-4C34-AB33-0D2E4EEF7F65][Moro Islamic Liberation Front (MILF)]] promoted women's access
+- direct access allows women a seat at the table
+- observer status may strengthen engagement with formal negotiations by maintaining their independence and ability to critque and criticise
+  - potential of having women's pov filtered through "mediators"
+
+* Advocating
+- Women's demands are complementary to peace and not in competition to them
+- [[id:DB2CC264-A435-4715-8AF6-905254C4A07A][sudan]] - CPA - original delegates had dropped women's rights, treating women only as victims and not as fighters, but results from AU promoted women as an actual mediator
+  - CPA did not avocate for women, but the Darfur process was different
+- [[id:E09392BA-8392-4387-8556-F1B7FB456941][guatemala]] - Learned from [[id:19451263-FE36-4A8C-BF90-A34E7A22A5FE][el salvador]]'s failures to address women's issues
+- [[id:1A7F8EC9-B51F-460B-A078-FCB63DEC29B7][democratic republic of the congo (DRC)]] - Enagaged women's demands for better representation
+- [[id:AF4087A1-C2A5-47B8-8438-AC2797FEDCEA][philippines]] - women's issues were considered complementary to the larger goals of the talks
+
+* barriers
+- [[id:9347A041-2696-4CCC-B8F6-842549F366CD][uganda]] - approached it women friendly, but what was included was not enough, peace was "forged at the expense of women"
+- [[id:DB2CC264-A435-4715-8AF6-905254C4A07A][sudan]] - women had to slip suggestions under doors and were marginalized because they were percieved as not having fought in the war
+- [[id:AF3D423A-DC41-4C34-AB33-0D2E4EEF7F65][Moro Islamic Liberation Front (MILF)]] - had never included women prior to 2012

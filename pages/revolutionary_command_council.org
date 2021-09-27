@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       AA0F0C9A-437E-456D-8B60-E4DF45140EDA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: revolutionary_command_council
+#+title: Revolutionary Command Council
+
+[[id:64817B58-ADF7-4FEE-83D9-255D9D87194B][Baath]]

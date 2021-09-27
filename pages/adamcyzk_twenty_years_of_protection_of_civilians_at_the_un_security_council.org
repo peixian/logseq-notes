@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       A0E3FEAC-8CBB-433A-BCBC-EFF5823A2993
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: adamcyzk_twenty_years_of_protection_of_civilians_at_the_un_security_council
+#+TITLE: Adamcyzk: Twenty years of protection of civilians at the UN Security Council
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:2E747AB7-60C7-4EFC-AA31-FD8AB58DDD00][un and global governance lecture 4]]
+
+Adamczyk, Sarah. “Twenty Years of Protection of Civilians at the UN Security Council,” n.d., 13.
+
+- Talks about how the UNSC has engaged with the PoC agenda
+- 85% of casualties in modern wars are civs
+- OCHA has lead responsiblity in drafting [[id:7C05085A-564D-4186-B4E7-AD9DC612310A][un]] sec general's reports
+- PoC mandates have increased substanially between 2009 and 2013
+- Troops still struggle over what is PoC and how to priortize it
+- UN states are often unwilling to discuss the shortcomings and challenges
+- talks about how reporting mechanisms must be much better and stronger

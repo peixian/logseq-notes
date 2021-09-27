@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       A36DF8A8-3E7F-4D06-8F79-9F1E15B61A80
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: mitchell_economentality
+#+TITLE: Mitchel: Economentality
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]
+
+- Mitchell, Timothy. “Economentality: How the Future Entered Government.” Critical Inquiry 40, no. 4 (June 2014): 479–507. https://doi.org/10.1086/676417.
+
+* Summary
+- focused on 1948
+- Talks about how initially, economics was focused on tangible land
+  - FDR gives a speech about no more space, and the remaining work was to be stewards of the land
+    #+begin_quote
+  Our industrial plant is built; the problem just now is whether under existing conditions it is not overbuilt. Our last frontier has long since been reached, and there is practically no more free land. . .
+    #+end_quote
+
+- Taft-Hartly used against the oil refinieries and the coal mines, and then the railways
+  - Justification of peacetime use of military power that was linked to national security
+    - national security act of 1947
+    - new "sacred cow" for america
+- creation of the CEA and the merging of economics into the gov
+- requires the quantification of the future
+- usage of the log "tames" the unknowable future
+- leads to truman's idea that expertise was infinite
+  - modernization theory/[[id:7516C9D2-C858-4B4F-8608-4610982B233B][development theory]], singular future
+  - fundalmental belief that with the spread of expertise, everyone would merge into the same future
+- begins to collapse with the fall of oil prices
+
+* Additional thoughts
+  - Three stages of history:
+    - quantifiable present (FDR's speech, raw land), no perception of the future
+    - quantifiable future, singular future, everyone would build and end up in the same spot, [[id:7516C9D2-C858-4B4F-8608-4610982B233B][development theory/structural adjustment]]
+    - quantifiable possibilities, multiple futures, not everyone would end up in the same spot, but we can make money off of that ([[id:05C396C9-319D-4BA1-921A-3997FE3FC828][derivatives]], making money off of volatility)

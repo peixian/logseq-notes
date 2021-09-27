@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       8026EC52-BBF0-44D7-AA4C-9579EA6F9824
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: numpy
+#+TITLE: numpy
+
+Tags: [[id:9217175F-EC79-4828-9A53-FD9F1FD8C09C][python]]

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       4CBE2D59-D8DD-40B9-9752-1293E7DBB5BD
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: mmap
+#+TITLE: mmap
+
+Tags: [[id:E7892B51-5D1C-4F65-9221-7B88A915827D][syscalls]]
+
+- https://en.wikipedia.org/wiki/Mmap

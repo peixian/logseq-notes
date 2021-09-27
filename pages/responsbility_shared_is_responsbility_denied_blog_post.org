@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       CB30195D-8970-4E62-B664-C393A4BB07F0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: responsbility_shared_is_responsbility_denied_blog_post
+#+TITLE: responsbility shared is responsbility denied blog post
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+Responsbility shared is responsbility denied
+- consensus seeking leads to harmonization of ideas
+- infatuation with "metrics"
+- international organizations in peacebuilding, workroom tickets with jira and OKRs and KPI's, and research overall, it blinds us towards better software building
+- all good software is done with a dictator style
+- better when you put your own neck on the line

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       9347A041-2696-4CCC-B8F6-842549F366CD
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: uganda
+#+TITLE: uganda
+
+Tags: [[id:4716EF6A-B378-4010-B090-41D487EB8B72][africa]]

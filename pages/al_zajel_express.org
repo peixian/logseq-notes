@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       BE01114C-A3D0-4309-B64A-859991683B16
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: al_zajel_express
+#+TITLE: al zajel express
+
+Tags: [[id:973C72C6-68A8-47F4-AEAF-290F4785DCE1][iraqi tech community]]
+
+https://alzajelalsaree3.com/contact_us
+https://alzajelalsaree3.com/about_us

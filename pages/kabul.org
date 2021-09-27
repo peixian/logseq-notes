@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       049F2D6F-3F05-4F82-8145-A5183790BE16
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: kabul
+#+TITLE: kabul
+
+Tags: [[id:086B0579-8C85-4CE5-9E65-EB8980FB2C2E][afghanistan]]

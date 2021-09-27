@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       3F1094D9-39A4-40DD-A05E-296D4C2273A6
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: visa_s
+#+TITLE: visa's
+
+Tags: [[id:3FC2206E-A175-4BCA-8247-60234887BD7D][travel]]
+
+* Portugal
+- https://www.portuguese-nationality.com/residency/the-d7-visa-portugal
+- https://www.reddit.com/r/expats/comments/hdg36h/moving_to_portugal_as_a_software_developer/

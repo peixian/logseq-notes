@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       BE8016A2-2F0F-4C94-BB17-1D2BE08FF164
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: perjorative_titles
+#+TITLE: perjorative titles
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- fullstack flowcharter
+- notebook navigator
+- powerpoint engineer
+- dashboard data scientist
+- positive manifesting project manager (PMPM)
+- TBD: bootcamp <X> or <X> bootcamper
+  - bootcamp buckineer
+- refactoring <X>
+- cybersecru

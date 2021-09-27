@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       8121558B-8692-4487-B67E-F9F785D33D97
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: clocks_distributed_systems
+#+TITLE: clocks (distributed systems)
+
+Tags: [[id:60E89DE2-2826-4C7F-9DF6-69A0C00F11A2][distributed systems]]
+
+https://www.fsmtime.com/blog/article/clock-synchronization-and-technology/
+
+- https://signalsandthreads.com/clock-synchronization/

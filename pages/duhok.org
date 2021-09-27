@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       E906A2F2-9E16-4B49-A315-6B306ECC7AB9
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: duhok
+#+title: duhok
+
+Northern city in [[id:0B9FAF9E-0A55-44FE-96CE-D6D382CF6617][KRG/iraqi kurdistan]]

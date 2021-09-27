@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       66F03EA9-E909-4D55-B5BD-DE7C4EBC5863
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: charles_taylor
+#+title: Charles Taylor
+
+[[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:4D07A7F6-AA30-415E-B718-B82E4151A482][religion]]
+
+- Talked about how the self in premodern Christianity was a "porous self", and it was open to be shaped and determined by natural and supernatural phenomena. The disenchantment of the external world created a 'buffered' self that looked to the relationship of the transcendent within the self

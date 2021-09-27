@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       F2F13EAE-7363-4665-861A-FED580CD22C1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: programming_frameworks
+#+TITLE: programming frameworks
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]

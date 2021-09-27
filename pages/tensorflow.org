@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       DFA9E03B-C9EA-474B-B8E0-9923154B91FF
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: tensorflow
+#+TITLE: tensorflow
+
+Tags: [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]]

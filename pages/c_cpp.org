@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       B188FE0E-140C-44C3-9280-490E2202CC17
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: c_cpp
+#+TITLE: c/cpp
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+* CPP
+  - https://www.stroustrup.com/hopl20main-p5-p-bfc9cd4--final.pdf
+  - https://community.khronos.org/t/what-are-the-use-of-back-and-front-buffer/24646

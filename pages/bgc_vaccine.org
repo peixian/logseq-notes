@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       00B0A732-CF8C-4BBA-B4DF-63EDC7D5B502
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: bgc_vaccine
+#+TITLE: BGC Vaccine
+
+Tags: [[id:A06959EF-A349-4F8E-B58A-4C8B11A83DAA][covid]]
+
+- invented in france
+- Used against TB
+- Not well understood
+- Possible health benefits against covid-19?

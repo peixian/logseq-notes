@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       D5049E3D-4C2C-432F-B5CD-C10B4100E099
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: harmes_political_marketing_in_post_conflict_elections
+#+TITLE: Harmes: Political Marketing in Post Conflict Elections
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:003AD78D-CFD2-4B30-8E9C-A55791A051C8][electoral systems]]

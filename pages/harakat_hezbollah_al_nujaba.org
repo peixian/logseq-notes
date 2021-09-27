@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       C95CCC60-FDB5-470E-BFEE-80BD88A1EB6E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: harakat_hezbollah_al_nujaba
+#+TITLE: harakat hezbollah al-nujaba
+
+Tags: [[id:C403589A-21CC-411A-A58E-1C2FDC31F72C][brigades]], [[id:ADFAE0CB-D584-4CE9-9965-4E76C474546E][hashd al-shaabi (PMF)]], [[id:A0834C86-F136-4F49-8139-77B077E65FBC][iraqi shia]]

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       2B6171A0-EA65-4BCF-9401-B7563150DCCE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: georgia
+#+TITLE: georgia
+
+Tags: [[id:E69D04FC-4187-4A6A-B30C-C732D00C14D5][central asia]]

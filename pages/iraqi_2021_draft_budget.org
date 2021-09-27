@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       C5750B73-6507-4B1D-BC98-52965C821CA7
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: iraqi_2021_draft_budget
+#+TITLE: iraqi 2021 draft budget
+
+Tags: [[id:892AA907-7AC7-416C-9E42-21B70840A14F][iraqi parliment]]
+
+Largest in absolute dinar terms, but cuts taxes on higher-income epmployees and sparse allocations
+
+Total spending is 164.2 trillion IQD with 120.6 tr IQD for operations, 15 tr for debt, and 1tr for special programs

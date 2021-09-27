@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       2976DCF9-982F-4F14-984C-24B32CEB8833
+:END:
+#+TITLE: Notes on Surviving Grad School
+
+Tags: [[id:08700B30-6476-438A-A1CB-8452DB3DEA4F][grad school]]
+
+* http://matt.might.net/articles/successful-phd-students/
+- Must extend the boundaries of human knowledge and convince people that you have
+- First take classes to figure out where the boundaries are
+- _Finding a problem to solve is rarely a problem itself. Every field is brimming with open problems. If finding a problem is hard, you're in the wrong field._
+- That's why I recommend that new students start a blog. Even if no one else reads it, start one. You don't even have to write about your research. Practicing the act of writing is all that matters.
+  - Write, write write!
+
+*
+#+SETUPFILE:./hugo_setup.org

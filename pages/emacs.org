@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       C6A0DE9C-3E50-49C8-9073-69912962D29B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: emacs
+#+TITLE: emacs
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- https://github.com/syl20bnr/spacemacs/tree/master/layers/%2Bcompletion/auto-completion
+- https://github.com/jwiegley/use-package
+- Org tempo problems: https://github.com/syl20bnr/spacemacs/issues/11798#issuecomment-454941024
+  - https://github.com/syl20bnr/spacemacs/issues/12003#issuecomment-465686129
+
+* Tramp sudo:
+  /ssh:bird@bastion|ssh:you@remotehost:/path

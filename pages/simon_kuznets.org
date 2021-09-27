@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       DD861C6E-4018-4D79-9819-EB01FF2874B9
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: simon_kuznets
+#+TITLE: simon kuznets
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:85CCE0EB-E358-4A63-A947-423CF92D79A2][economics]]
+
+Pioneered the [[id:CD29B54A-D1FF-4B1D-B835-0FF3DF321DCF][kuznets curve]]

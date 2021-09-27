@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       12580BAB-8366-47AD-A690-BAB8B773FA85
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: fall_2021_classes
+#+TITLE: fall 2021 classes
+
+Tags: [[id:08700B30-6476-438A-A1CB-8452DB3DEA4F][grad school]], [[id:A63D0CEC-6083-46C5-BD8D-7A8D750FF1A4][classes]]
+
+- LING-GA 48 - Linguistics as a Cognitive Science (audit)
+  - 9:30-10:45AM Monday/Wednesday
+  - 25 min bike time (30 min)
+  - [[id:FAE3090E-CD47-4935-883F-E645AE46E1ED][Language and the Brain]]
+- MEIS-GA 1860 - Religion and Modernity (audit/take)
+  - 4:55pm-7:40pm Tuesdays
+  - 25 min bike time (30 min)
+  - [[id:26E7CAC1-A095-488F-A538-7A39BAA0A4A0][religion and modernity]]
+- NLP: Scaling Laws Seminar
+  - [[id:E562C6A9-CF05-40B2-8B7E-84AA81D14976][scaling law seminar]]
+- [[id:FE4460D9-5934-4FDB-9251-1626ECB56F72][Dispossession (fall 2021)]]

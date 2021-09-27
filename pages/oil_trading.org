@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       697D1841-D803-43CA-9F03-A502AF3EFBB9
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: oil_trading
+#+TITLE: oil trading
+
+Tags: [[id:A12B1B28-2B00-4929-A3BC-EF8ED43A377F][oil]]
+
+2 kinds of oil traders:
+1. betting
+2. actually taking orders
+
+
+- taking oil is highly regulated and extremely expensive
+- once terminals run out of space, then you are effectively at the behest of the counterparty and will pay anything to get out of the situation
+- negative oil pricing impacts models like [[id:F16CD931-B631-4D77-AB5E-134EF1D9C134][black scholes]]
+
+* Ticker Strategy
+** Futures
+*** Regular Futures
+    - "Root Ticker" + "Month" + "Year"
+    - Example: "CL" + "Z" + "2" = CLZ2, (WTI crude) expiring December 2022
+*** Active Tickers
+    - "Root Ticker" + "A"
+    - Example: "CLA" - WTI active
+    - Best gauge of market sentiment
+*** Generic or Rolling Tickers
+    - "Root Ticker" + "1"
+    - "CL1" - Front of the month
+* Small Oil Companies in [[id:A06959EF-A349-4F8E-B58A-4C8B11A83DAA][covid]]
+  - Small private oil companies are mostly employee owned
+  - Gains from market volitility
+  - Examples (all are [[id:2A282D7E-3A71-4DCE-A53A-9D166628C139][commodities]] trading companies):
+    - Vitol
+    - Trafigura
+    - Mercuria
+    - Gunvor
+    - Glencore
+  - Markets in contago allows for them to make money
+  - "financial markets look forward"

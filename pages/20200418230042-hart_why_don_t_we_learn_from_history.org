@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       7FA9A798-0156-4DB0-8B64-9F7245A1B7FD
+:END:
+#+TITLE: Hart - Why Don't We Learn From History?
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]]
+
+- _War is profitable only if victory is quickly gained. Only an aggressor can hope to gain a quick victory. If he is frustrated, the war is bound to be long, and mutually ruinous, unless it is brought to an end by mutual agreement._
+  - [[id:D0DFC0A3-D11C-44A5-B5C0-410F1B5A5FD5][Simpson - War from the Ground Up]]
+
+- /What is the object of history? I would answer, quite simply—“truth.”/
+#+SETUPFILE:./hugo_setup.org

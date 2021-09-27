@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       3FE54C79-A712-4E54-94BB-FCFC0A4ED551
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: fracas_test_suite
+#+TITLE: FraCas Test Suite
+
+Tags: [[id:D9C1DCB3-C95F-4778-BBA4-59E7AEBFC961][nli]], [[id:A904921D-F574-41FC-B41C-4B6114932AC5][datasets]]
+
+- 346 examples, constructed by experts, targets strict logical entailment

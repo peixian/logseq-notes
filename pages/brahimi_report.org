@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       6FD8C6D3-8604-473B-9DE7-8B99DDFE807E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: brahimi_report
+#+TITLE: Brahimi report
+
+Tags: [[id:7C05085A-564D-4186-B4E7-AD9DC612310A][un]]
+
+Large report on how the UN [[id:F5E4DB32-6C85-47E2-AC7F-759544D1422C][un department of peacekeeping (DPKO)]] operations need to be changed in light of recent conflicts
+
+"In 2000, the Brahimi Report proposed important doctrinal changes. The document suggested a cautious move from the narrow, Cold War inspired objectives of national security to the broader, post Cold War inspired ambitions of collective human security (Peou 2002: 51). Rather than perceiving people as citizens of particular states, the philosophy underlying human security regards all human beings as part of a global, state-transcending, community." (Blocq 2006:205)

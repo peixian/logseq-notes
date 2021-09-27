@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       A599953A-8285-40F8-8DEF-EB07A4BA8C66
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: austin_s_theory_of_law
+#+TITLE: austin's theory of law
+
+Tags: [[id:CC0EFB92-1661-4A5A-BE0D-46FB07D94241][jurisprudence]]

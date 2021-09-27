@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       BE1B3B31-6098-4499-9D25-993CD893D5E6
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: dual_circulation_program
+#+TITLE: dual circulation program
+
+Tags: [[id:0E21DFCA-3016-427A-965E-341DE95432B7][china]], [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]]
+
+Possible strategy raised by Xi to rely on domestic production cycle and external production cycle, would require boost of household incomes
+
+Also raised by Deng Xiaopeng 30 years ago
+
+* Links
+- https://www.reuters.com/article/china-economy-transformation-explainer/what-we-know-about-chinas-dual-circulation-economic-strategy-idUSKBN2600B5
+- https://www.csis.org/analysis/dual-circulation-and-chinas-new-hedged-integration-strategy

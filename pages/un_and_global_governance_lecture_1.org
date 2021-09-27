@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       C2FFFFB5-13EC-476F-AB83-FD70756DF07B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: un_and_global_governance_lecture_1
+#+TITLE: un and global governance lecture 1
+
+Tags: [[id:6377293C-2556-4797-9A2B-FED088E549BA][UN and Global Governance]]

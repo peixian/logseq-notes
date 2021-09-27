@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ADFAE0CB-D584-4CE9-9965-4E76C474546E
+:END:
+#+TITLE: hashd al-shaabi (PMF)
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]], [[id:44848562-7F27-4906-95F4-6A9BFEC7A473][militias]]
+#+SETUPFILE:./hugo_setup.org
+
+#+DOWNLOADED: screenshot @ 2020-12-16 21:14:24
+[[file:2020-12-16_21-14-24_screenshot.png]]
+- flags: https://www.crwflags.com/fotw/flags/iq%7Dpmf.html
+
+* 4 Brigades Loyal to Sistani Fall Under PM Command
+  - April 22, 2020
+  - https://www.instapaper.com/read/1299149009
+  - /A letter published on Iraqi state media, addressed to the head of the PMF, a predominantly Shiite network of around 60 paramilitaries, says that four brigades will fall under the “command and management” of the commander-in-chief of the armed forces– a role Abdul-Mahdi currently occupies as caretaker prime minister – and not under the direct command of the PMF board./
+  - /The four brigades include the 2nd, 11th, 26th, and 44th brigades of the PMF, which are all loyal to Iraq’s highest Shiite religious authority, Grand Ayatollah Ali al-Sistani, and not under the influence of Tehran./
+
+
+* Brigade 30
+  - https://www.rudaw.net/english/middleeast/iraq/05082019
+  - Attempted to be removed from the Nineveh plain by Mahdi but failed

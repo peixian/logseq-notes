@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       851C33DB-9293-467D-A781-A0AC7B805D07
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: cheating_blog_post
+#+TITLE: cheating blog post
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+Cheating as an indicator of stakes, not cheating as an indicator of respect
+- https://old.reddit.com/r/Professors/comments/kdk6q9/heres_an_idea/
+- does wanting to cheat mean its not serious?
+  - cheating as a proxy for stakes
+  - not cheating as a proxy for respect
+  - the desire to cheat is if "you" treat it as serious, i.e. care about it
+  - the choice to not cheat is you respect the task or thee person
+- what are the rules? cheating implies rules
+  - knowing rules means knowing how to win

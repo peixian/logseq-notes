@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       2680B2EC-B8C8-4F4E-BAC8-3B430AE5AF97
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: chile
+#+TITLE: chile
+
+Tags: [[id:541B7BAF-591F-4CF8-8292-D83E8FB9D095][latam]]

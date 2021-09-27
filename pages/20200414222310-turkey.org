@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       FAC6D0F0-7797-4330-B988-37260A98CBC1
+:END:
+#+TITLE: turkey
+
+Tags: [[id:C61C3FE4-06C6-4621-818B-503E36E83B7C][middle east]]
+
+#+SETUPFILE:./hugo_setup.org

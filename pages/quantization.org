@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       97F5A685-47A2-4867-B47B-8260A4640A70
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: quantization
+#+TITLE: quantization/discretization
+
+Tags: [[id:2C626284-F74C-4110-83A7-AE07B6D0A451][algorithms]]
+
+- https://en.wikipedia.org/wiki/Quantization
+
+Constrain an input from large set of values
+
+- _We tried a few other quantization techniques based on e.g. product-quantization, but did not manage to get them to work with sufficient quality at scale._ [[id:00E21B40-64C5-4FEE-B54B-4962FADC29C7][embedding text into vector spaces]]

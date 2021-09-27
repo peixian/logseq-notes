@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       784FA9E7-F8ED-4F22-A836-478426736CB6
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: qadiriya
+#+title: qadiriya
+
+[[id:6EA38002-80A3-4288-9550-754AF8DD5F63][sufism]], [[id:460EF15E-DA2F-4C91-9675-70A0B18EF45E][algeria]]

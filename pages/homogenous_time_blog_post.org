@@ -1,0 +1,67 @@
+:PROPERTIES:
+:ID:       A7874DF7-3AD9-434D-8CF8-06F047AE52D2
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: homogenous_time_blog_post
+#+TITLE: Homogenous Time: Ibn Khaldun and Transaction Logs
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]], [[id:44A22D1B-8486-4A01-9B5C-D275A848CC97][ibn khaldun]], [[id:D7A476E6-3506-4335-A5EC-12838C0F4B39][Pursely - Familiar Futures]], [[id:B1E26B6E-6A74-4E81-8A49-B18EF81BFDAE][DiCapua - Gatekeepers of the Arab Past]], [[id:5E6D1746-A542-4380-961E-1D323A5F1601][Cassandra]], [[id:60E89DE2-2826-4C7F-9DF6-69A0C00F11A2][distributed systems]]
+
+What is homogenous time? If you take Sara Pursely's book /Familiar Futures/, homogenous time lies at the core of modern society today [[footcite:pursley_familiar_2019][pg. 10]]. She describes how by the standardization of homogenous time, capitalism, which is predicated upon "uniform duration and endless repetition", has evolved. While her frame of analysis is the history of Iraq, I think it's a bit more interesting if we push past a pure historical or even anthropological frame.
+
+* "Human" Time
+Ibn Khaldun theorized a specific, human-touched notion of time, where civilizations rise in their youth, reach their zenith in their middle ages, then decays as another civilization overtakes it. Pursely describes this as "biological time" [[footcite:pursley_familiar_2019][pg. 21]], but Yoav DiCapua described a different take. During 1894-95, following the 'Urabi revolt, Mahmud Fahmi wrote a book called Al-Bahr al-zākhir fī tārīkh al-`ālam wa akhbār al-awā´il wa-l-awākhir (The Bottomless Sea on the Events of World History). With a flourish that only 19th century ameture writers could, it claimed to record every piece of human history, from the beginning of time to its writing. While it certainly fell short of this lofty goal, it did proudly declare itself to follow Ibn Khaldun's conception of time, claiming no historical progress, only historical causation [[footcite:di-capua_gatekeepers_2009][pg. 44]].
+
+Benard Anderson introduces to us the idea that a national is constructed by a shared conceptualization of homogenous time. In /Imagined Communities/, his seminal work on nationalism, he claims that the proliferation of newspapers allows citizens of a singular nation to *imagine* themselves as part of a greater whole, despite never being able to meet with the majority of their fellow citizens. All newspaper readers (or what he calls /print capitalism/) perceive at the same time, a day is what was written about in a newspaper. A event that happened on a newspaper dated October 24th occurs for October 24th for all readers who follow the Gregorian calendar[fn:1].
+
+Ahmet Hamdi Tanpınar wrote a satire called the "The Time Regulation Institute", in which the Turkish government attempts to regulate time by setting up a special ministry. Riffing off of Ataturk's reforms to use the Gregorian calendar in 1926, the book itself is written in a jumbled time.
+
+What Khaldun, Fahmi, and Tanpınar all have in common is this fundamental understanding that time is, and could, be demarcated differently. Given that we're all experiencing time passing at different rates locked in our homes, all of these analyses attempt to wrestle with some conception of history and casualty, from the perception of a human.
+
+* "Computer" Time
+How long is ~sleep(16)~[fn:2], really? Most of the time you could say it's 16 seconds, but most programmers know that's a dirty lie. You have POSIX ~sleep()~, ~usleep()~, ~nanosleep~, and all sorts of other stuff that could be happening underneath. Now most modern CPU's[fn:4] have a "clock interrupt", where the CPU is halted in order to process tasks that were scheduled, or tasks that need to be done periodically[fn:3]. Which means that your ~sleep~ call is only as granular as the rate of the clock interrupt, if clock interrupts only fire every 32 seconds, ~sleep~ing for 16 does nothing, the OS only checks the tasks you've scheduled every 32 seconds.
+
+This gets even worse when you bring multiple computers into play. Synchronized, persistent clocks are the end goal for basically all distributed systems[fn:5]. Most programmers are familiar with [[http://www.ntp.org/][NTP]], which allows for clock "synchronization" between multiple computers, using a layered strata. Some clocks exist at stratum 0, which are extremely high precision clocks and the ultimate source of truth, and computers on lower strata derive their information from clocks of higher strata. Yet NTP sync is notoriously bad for some cases, since NTP synchronization is often off by tens of milliseconds. Tens of milliseconds means an awful rate of consistency issues for databases, so clearly something needed to be done.
+
+To understand this a bit more, the concept of linearizability vs serializability need to be introduced[fn:6]. Linearizability is atomic consistency and C in CAP[fn:7], writes happen, and when reads happen, they read the value that was written last. It's important to note that linearizability is about a *single* operation on a *single* node.
+
+Serializability is I in ACID[fn:8]. Serializability guarantees that transactions don't interfere with each other. A partially written transaction on key ~foo~ in progress doesn't affect the read of key ~foo~ that's also in progress. In a single system, you can achieve this with a monotonically increasing clock, and just take the timestamp of each transaction.
+
+Of course, we live in a world where there are many computers, and many of them are far apart. Clock drift[fn:9] is mitigated somewhat with NTP, but like we said before, NTP is far too slow for databases.
+
+So what's to be done? Google's distributed database Spanner uses TrueTime[fn:10], which basically exposes the time uncertainty to all the machines. No database machine at Google is ever allowed to be within more than a certain upper bound, which Google says is 7ms. With this guarantee, nodes simply wait 7ms before reporting a transaction is finished. As a result, "because all clocks in the system are within 7ms of each other, waiting 7ms means that no subsequent transaction may commit at an earlier timestamp, even if the earlier transaction was committed on a node with a clock which was fast by the maximum 7ms"[fn:10]. This allows Spanner to provide /both/ linearizability and serializability[fn:11]
+
+Now we can't all be Google and have an army maintaining our systems. Some of us don't have infinite budgets, so we have to make do with some other ways. One way, proposed in the [[https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf][original dynamo paper]], is eventual consistency. For example, Cassandra[fn:12], which adopts the Dynamo model, can sort-of perform linearizable reads via strict quorum reads[fn:13]. Eventual consistency, with each node holding its own history and gossiping to each other by comparing transaction logs is a different way of using time than the strong consistency Spanner provides.
+
+* Notions of Time
+  What's interesting here is that computers have rehashed the Khaldun/Anderson time divide. Spanner's usage of TrueTime is very Anderson, each machine experiences time along the same scale (with some bounded amount of lag), akin to citizens reading a newspaper (within a fixed amount of days). Dynamo/Cassandra is very Khaldunian, each node experiences time as a cycle. Data for the Dynamo model grows and matures (new writes and gossiping new writes), then dies (via read repairs[fn:14]). While I don't want to suggest the concept that people are simply distributed systems, I think it's fairly interesting that the same models have arisen out of different needs and different conceptions of time.
+
+* Footnotes
+
+[fn:14] https://cassandra.apache.org/doc/latest/operating/read_repair.html
+
+[fn:13] I say sort of here because the variable delay between nodes can cause some issues. For details see the "Linearizability and Quorums" section in Kleppmann's "Designing Data Intensive Applications": https://dataintensive.net/
+
+[fn:12] https://cassandra.apache.org/
+
+[fn:11] https://cloud.google.com/spanner/docs/true-time-external-consistency
+
+[fn:10] https://www.cockroachlabs.com/blog/living-without-atomic-clocks/
+
+[fn:9] https://en.wikipedia.org/wiki/Clock_drift
+
+[fn:8] https://en.wikipedia.org/wiki/ACID
+
+[fn:7] https://en.wikipedia.org/wiki/CAP_theorem
+
+[fn:6] See http://www.bailis.org/blog/linearizability-versus-serializability/ for details.
+
+[fn:5] See https://dl.acm.org/doi/10.1145/112600.112601.
+
+[fn:4] Ignoring real-time OS's here.
+
+[fn:3] See https://accu.org/index.php/journals/2185 for a far better guide.
+
+[fn:2] Like a proper god-fearing programmer, all my constants are powers of 2.
+
+[fn:1] The Islamic calendar, or the هجري, is one of the more common impedance mismatches of time today. Iran and Afghanistan still follow the solar version of this calendar. The same with the Chinese calendar, although the PRC has adopted the Gregorian calendar, the shifting date of Chinese New Year due to the lunar calendar is a leftover from when the measurement of time was inconsistent.

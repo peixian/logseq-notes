@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       FCCC14B3-A87E-4A3C-953F-4CE7C4D51200
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: submarine_cable_map
+#+TITLE: submarine cable map
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- https://www.submarinecablemap.com/
+- https://kis-orca.eu/map/
+compared to the [[id:3B97BC35-0801-45C0-8621-3BDD6AE3B0B6][telegraph cables]]

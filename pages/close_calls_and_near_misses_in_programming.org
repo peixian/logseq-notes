@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       9FD2C616-8AFA-4AB0-9B9C-AE377EE0C159
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: close_calls_and_near_misses_in_programming
+#+TITLE: close calls and near misses in programming
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+- we never talk about the close calls
+- close calls are never reported
+- close calls in alpinism are now sometimes recorded (close calls podcasts)
+  - the sharp end
+- we have PM's, but inhererntly that's only for things that break, we get better at fixing live problems, but we don't get necessarily better at preventing problems
+- how do we better at diagnosing close calls?

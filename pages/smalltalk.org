@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       4989829C-657D-418B-BFC4-655E00340337
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: smalltalk
+#+TITLE: smalltalk
+
+Tags: [[id:F72A76DD-838D-485C-82E2-4259A17C8D3E][lisp]]

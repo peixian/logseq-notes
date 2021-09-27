@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       07742B44-93A2-48C3-9FE2-0425B1516E05
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: aynas_naji_al_maksusi
+#+TITLE: aynas naji al-maksusi
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]
+
+member of [[id:1C1DF648-3DAE-40F7-9202-96CADE041578][sairun (sadr political party)]]

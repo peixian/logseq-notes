@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       A03F7254-8635-4AB2-B420-AB5A01DF1F10
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: iraqi_archives
+#+TITLE: iraqi archives
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

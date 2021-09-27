@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       0373B22E-9FB4-4E89-B69A-F9930655367A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: clang
+#+TITLE: clang
+
+Tags: [[id:B188FE0E-140C-44C3-9280-490E2202CC17][c/cpp]], [[id:5B3FA555-7C9B-47B1-A463-983A682072FC][compilers]]
+
+- https://github.com/rizsotto/Bear

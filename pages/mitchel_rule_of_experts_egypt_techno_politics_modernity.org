@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       DA346EB5-BAC5-4536-B5BF-886CD9495CF5
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: mitchel_rule_of_experts_egypt_techno_politics_modernity
+#+TITLE: Mitchel - Rule of Experts: Egypt, Techno-politics, Modernity
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:98F9993A-F5AD-44C5-A732-8BBAD7FA6BEE][egypt]]

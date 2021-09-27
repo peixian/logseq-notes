@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       2F7E55D6-A8D8-41B6-B7D0-09A9D1A09B22
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: france
+#+TITLE: france
+
+Tags: [[id:E2821844-9819-49F2-9CE7-CD04EDDB2E85][europe]]

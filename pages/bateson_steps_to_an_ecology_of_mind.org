@@ -1,0 +1,109 @@
+:PROPERTIES:
+:ID:       238217F2-7536-4013-9147-49163DB26C16
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: bateson_steps_to_an_ecology_of_mind
+#+TITLE: Bateson - Steps to an Ecology of Mind
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]], [[id:F24757A4-56C4-49D0-9151-15CA0E1E3A2F][cognition]]
+* Introduction
+  - Asks "how do ideas interact? Why do some ideas survive while others fail?"
+  - How to distinguish between the trivial and the profound? What is the difference between the trivial and the profound?
+  - Notion of the /context/ and the /meaning/
+  - carves out into three separations
+    1. The /data/ is not the event itself, but rather the recording of it
+       - no data can ever truly be "raw"
+    2. the imperfectly defined /heuristic concepts/
+       - "ego", "anxiety", "instinct", etc
+    3. the /fundalmentals/
+       - laws of thermodynamics, law of large numbers, etc
+  - Explanation, therefore, is the mapping of data onto fundalmentals, but the ultimate goal of science is to increase fundalmental knowledge
+    - states that the social sciences continue to stay within the field of heuristic concepts, inductively testing it against the data in hopes of moving it into the fundalmentals
+    - asks us to abandon total induction
+    - /obeservations cannot be denied, fundalmentals must be fitted/
+  - prediction is a poor tool for testing a hyposthesis - https://backreaction.blogspot.com/2020/07/einsteins-greatest-legacy-thought.html
+  - some exegsis on the bible
+    - what are the things the first few sections of the bible are concerned with?
+      - problems of /order/
+      - origin and nature of matter are not necessarily aligned
+      - order is seen as sorting and dividing
+        - sets up a fundalmental threshold
+  - form vs substance
+  #+begin_quote
+The conservative laws for energy and matter concern substance rather than form. But mental process, ideas, communication, organization, differentiation, pattern, and so on, are matters of form rather than substance
+  #+end_quote
+* Chapter 1: Metalogues
+  - similar to GEB style discussions
+*** Why Do Things Get Into a Muddle?
+    - Tidyness vs being muddled
+    - people have similar definitions of "muddled"
+    - but have extremely varied definitions of being "tidy"
+    - bateson implies this is b/c the distribution is skewed towards being muddled
+      #+DOWNLOADED: screenshot @ 2020-12-16 22:12:56
+      [[file:Chapter_1:_Metalogues/2020-12-16_22-12-56_screenshot.png]]
+>
+*** Why Do Frenchmen?
+    - tacits about the difference between [[id:060B7749-EA6F-4023-A595-130E4567563F][tacit knowledge]], [[id:7040892D-0CED-4E95-A4C1-F031EF9E5DC1][implicit knowledge]] and [[id:F1DA7C7D-3D50-4BE4-AD2C-9D15EE0FB089][explicit knowledge]]
+    - frenchmen use gestures, gestures convey a [[id:060B7749-EA6F-4023-A595-130E4567563F][tacit knowledge]]
+*** About Games and Being Serious
+    - what is cheating? what is implied from cheating?
+    - [[id:851C33DB-9293-467D-A781-A0AC7B805D07][cheating blog post]]
+*** How Much Doo You Know?
+    - What is an arithmetic of ideas?
+    - idea2vec, can you simply add two ideas together?
+    - Ideas are typically combined but not added
+    - When you try to think about two thoughts, are you thinking about two thoughts or one thought /about/ two thoughts?
+*** Outlines
+    - Do outlines give rise to the concepts or visa versa?
+    - Outlines show how muddles work together
+    - Under what conditions does an outline come together?
+*** Swans
+    - "sacrement" vs metaphor?
+*** Instinct
+    - Instinct vs explanatory principals
+    - Any statement linking together two descriptive statements is a hypothesis
+    - Can simple things learn?
+      - isomorphic - generating comlpex patterns from simple formulas
+        - can instincts, even though they are simple, give rise to complex behaviors?
+    - instinct -> practice -> habit loop
+      - similarities to [[id:0A80F7EE-A020-4FD3-9F22-58C4FF978122][ooda (observe orient decide act)]] loop?
+    - "don't force hte concepts of language & tools upon dream material"
+    - dreams vs instincts
+    - why do we expect dreams to have morals?
+    - can animals be ironic?
+      - can animals express a negative intention?
+        - i.e. "I will *NOT* bite you"
+      - does the concept of /not/ arise from langauge?
+        - do dreams have a not?
+    - when a metaphor is labeled as a metaphor, it becomes a simile
+* Part 2: Forms and Patterns in Anthropology
+** Culture Contacts and Schismogensis
+   #+begin_quote
+It is not about the set of categories which will throw light on all problems but the schematic formulation of problems in such a way each of them are investigiable
+   #+end_quote
+   - Can't construct rules about the world and solve all problems, but can derive rules from specific problems to solve them
+   - Applications of force & removal of free will
+     - definitions of a "crimal" type
+       - false binary, has lead to problems
+     - impossible to classify these things based on broad cateogries
+   - culture cannot be divided into distinct categories
+     - Malinowski
+   - Fallacy of misplaced concreteness
+     - Whitehead
+   - Three models for culture contact
+     1. Complete Fusion
+        - 5 modes of unity
+          1. Structural aspect
+             - cultural norms are different
+             - patterns of thought
+          2. Affective - emotionally consistent
+          3. Economic unity - oriented towards the production of objects
+          4. Chronological & spatial - ordered due to time and place
+          5. Sociological - integration of the major unit
+
+     2. Elmination
+        - Less interesting, not worth studying
+     3. Persistence of both groups in dynamic equilibrium
+        - Most instructive, different groups can be ordered on different categories abstractions
+          - symmetrical - clans/villages
+          - complementary - class/sex

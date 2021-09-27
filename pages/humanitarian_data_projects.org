@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       BD5B5C22-2C6D-447F-88F0-7FAEA67476D9
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: humanitarian_data_projects
+#+TITLE: humanitarian data projects
+
+Tags: [[id:EB08EF17-A71C-4366-A5E8-8449D54A3C21][humanitarian aid]], [[id:7FEA6B9D-8C21-4614-8F22-38F3D514D378][ngo]]
+
+- https://hrdag.org/
+- https://hrdag.org/tech-notes/indexing-selectors-from-collection-chat-messages.html
+- https://hrdag.org/syria/
+- https://hcss.nl/research
+- https://centre.humdata.org/data-fellows/
+- https://issat.dcaf.ch/Learn/Resource-Library/Country-Profiles/Iraq-SSR-Country-Background-Note#5
+- https://issat.dcaf.ch/Learn/SSR-in-Practice/Countries-Regions/Iraq?view=resources - [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+- https://www.dcaf.ch/middle-east-and-north-africa/

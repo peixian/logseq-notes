@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       8F61067F-15F8-48A1-A77F-67F1571F0AE1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: safouan_why_are_the_arabs_not_free
+#+TITLE: Safouan - Why are the Arabs Not Free?
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]]

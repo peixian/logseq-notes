@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       97979793-5A77-4682-BFCC-95DE7A7101DA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: undersea_fiber
+#+TITLE: undersea fiber
+
+Tags: [[id:851F079B-17D1-411F-988B-1248B5E0579D][Networks]]
+-[[id:FCCC14B3-A87E-4A3C-953F-4CE7C4D51200][submarine cable map]]
+- balancing act
+  - budget
+  - physical constraints
+    - ocean beds are often weird
+  - usage growth estimates
+    - up to next decade
+  - repeater placement
+    - extremely expensive
+  - sharks
+    - https://www.independent.co.uk/life-style/gadgets-and-tech/news/sharks-are-eating-the-internet-in-vietnam-9962747.html
+
+* [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]] internet fiber
+  :PROPERTIES:
+  :ID:       31E0254C-672B-4EFD-839D-15F5C5F6E67A
+  :END:
+- https://pinboard.in/cached/7fdc6a769248/
+- fiber backhaul is owned by Baghdad and KRG politicans
+- very little room for new companies
+- most backhauls are via the sea to EU and US servers
+- shortest path to europe is from Iraq-Turkey pipe, but owned by https://en.wikipedia.org/wiki/Gulf_Bridge_International
+#+DOWNLOADED: screenshot @ 2020-04-24 18:53:50
+[[file:\[\[file:20200413223156-iraq.org\]\[iraq\]\]_internet_fiber/2020-04-24_18-53-50_screenshot.png]]
+- rolling fiber is very hard politically
+- wireless very expensive
+- point microwave towers to [[id:FAC6D0F0-7797-4330-B988-37260A98CBC1][turkey]] were suggested, which then lead to fiber
+** iraqi internet history
+   :PROPERTIES:
+   :ID:       E79A464C-889A-4C37-96C0-7E074A4D73B2
+   :END:
+   - https://freelancersconflictblog.wordpress.com/2020/09/16/disconnected-the-iraqi-wifi-war/
+     - https://www.sotaliraq.com/2020/07/26/%D9%82%D8%B7%D8%B9-%D9%83%D9%8A%D8%A8%D9%84-%D8%B6%D9%88%D8%A6%D9%8A-%D9%8A%D8%B1%D8%A8%D8%B7-%D9%86%D9%8A%D9%86%D9%88%D9%89-%D8%A8%D8%A3%D8%B1%D8%A8%D9%8A%D9%84-%D9%8A%D8%AA%D8%B3%D8%A8%D8%A8-%D8%A8/
+* On private fiber
+  https://news.ycombinator.com/item?id=25025508
+  https://news.ycombinator.com/item?id=25020431[[id:2AAEFE6A-3D1C-4EA0-8E33-AC48101A105B][state machines]]

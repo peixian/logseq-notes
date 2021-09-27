@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       2319B260-EB47-4FAF-B5E0-9D098F910DCD
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: interviews
+#+title: interviews
+[[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]

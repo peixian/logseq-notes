@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       23A8ABE3-EBAF-4E73-9896-691178B03933
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: kernel
+#+TITLE: kernel
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]

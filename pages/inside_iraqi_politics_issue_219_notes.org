@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       6FDEC3E7-9C2C-40C2-A852-BB0923F3AE96
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: inside_iraqi_politics_issue_219_notes
+#+TITLE: inside iraqi politics issue 219 notes
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+- devaluation of dinar, mostly due to the refusal of cutting public salaries
+  - dec. 24, 2020 - [[id:37B037FC-1597-4D96-86E5-DAC5A959946C][muhammad al-halbusi]] posted a statement about needing to increase non-oil revenues
+  - dec 31st, 2020 - [[id:4395A565-2F21-4A65-BCE8-5DEA51DCDCDA][majida al-tamimi]] rejects the overtures
+  - [[id:A420CED3-2184-4707-A28E-86345107541B][jamal kawjar]] also rejected it
+  - [[id:C5750B73-6507-4B1D-BC98-52965C821CA7][iraqi 2021 draft budget]]
+
+- parlimentary report
+- health ministry is poor
+- [[id:2707650F-BCD9-4399-BD2B-BBE3A5BCF7D8][sinjar agreement (2020)]] is in a standoff in the [[id:8478A246-6B23-4E16-808F-66776283FCCC][ninawa]]

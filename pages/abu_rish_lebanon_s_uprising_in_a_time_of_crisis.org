@@ -1,0 +1,56 @@
+:PROPERTIES:
+:ID:       2BAFAC15-0659-4C75-9EB0-41D308C0DD92
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: abu_rish_lebanon_s_uprising_in_a_time_of_crisis
+#+TITLE: Abu-Rish: Lebanon's Uprising in a Time of Crisis
+
+Tags: [[id:F6BB188D-BA42-48AA-958E-21CE91DC147C][talks]], [[id:D4B35C6D-544A-481C-B5C0-7C2A2ABCF9AC][lebanon]]
+
+Talk given by Ziad Abu-Rish on May 27th, 2020.
+
+3 parts to talk:
+- Multiple crises
+- Taking stock
+- [[id:A06959EF-A349-4F8E-B58A-4C8B11A83DAA][covid]]-19 issues
+
+* Multiple Crises
+  Many crises at play here:
+  1. Financial Crisis
+     - Literal shortage of dollars
+  2. Fiscal Crisis
+     - Chronic deficit
+       - Large chunk of spending (1/3rd) is used for just servicing debt
+  3. Employment Crisis
+  4. Infrastructure Crisis
+     - Most people pay 2 electricity bills & water bills
+  5. Political Crisis
+     - Electoral politics has failed to provide a solution
+
+* Taking Stock of the Protest Movement
+  - Greviances go beyond the whatsapp tax
+    - whatsapp tax is very minor overall
+  - Protests were largely big tent
+  - State deployed a variety of violent tactics
+    - Army to contain movement
+    - Military tribunals for protestors
+    - Thugs
+  - Politicians ended up disappearing from the public view
+    - Now trying to rewrite the history of the protests
+  - Attempt in early march to coalse the movement
+
+* Covid-19
+  - Government was so willing to shut down the country because it would also disperse the protests
+
+* Additional sources
+  - Lebanese Center for Policy Studies
+  - Lebanese Politics Podcast
+  - Habib Mastah
+  - "The Public Source" - lebanon
+  - "Megaphone" - lebanon
+
+* Questions
+  - Comparison of Lebanon and HK?
+  - "political entrepenur" - neoglism coined by makdisi
+  - the lira peg was largely to make investing in lebanon a safe habor for disapora
+  - health care in lebanon is largely privatized

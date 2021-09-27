@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       88B7FCAA-1E3B-4A6E-9BD0-C746983DBB8C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: custom_resource_definitions_crds
+#+TITLE: custom resource definitions (crds)
+
+Tags: [[id:A0A37A5E-A266-46B3-8148-D7A40A5F1F78][kubernetes (k8s)]]

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       8FF9EEAF-AD91-456C-9B5D-4C2B95CBCA45
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: 1975_algiers_agreement
+#+TITLE: 1975 Algiers Agreement
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+Settled the border between Iraq and Iran, Iran pleaged to stop helping the Kurds

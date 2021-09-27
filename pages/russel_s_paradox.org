@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       31ECBD0F-F445-4FE3-8C4C-7352DCAF2DF8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: russel_s_paradox
+#+TITLE: russel's paradox
+
+Tags: [[id:A2F29B2B-7EE3-492F-8D5B-C37DDF777FEB][bertrand russel]]
+
+Most sets are not sets of themselves, but some sets are self-swallowing. For example, a set of {1,2,3} is not a set of itself, but a set of everything NOT {1,2,3} is self-swalloing

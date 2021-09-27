@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       830E1B06-A89D-4B87-AA2D-5F4F016E28B8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: peer_review
+#+TITLE: peer review
+
+Tags: [[id:08700B30-6476-438A-A1CB-8452DB3DEA4F][grad school]]
+
+- http://matt.might.net/articles/how-to-peer-review/

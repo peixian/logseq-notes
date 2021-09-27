@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       6B7C7B43-5F44-48F1-942E-C86568CC959D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: zine_el_abidine_ben_ali
+#+TITLE: zine el abidine ben ali
+
+Tags: [[id:B7920589-79CC-4353-A685-8C5DAE0AEAB4][tunisia]], [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]

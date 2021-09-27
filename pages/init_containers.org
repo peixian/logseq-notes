@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       664BE28F-DDD3-4910-B25E-C74FF2DB5C08
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: init_containers
+#+TITLE: init containers
+
+Tags: [[id:A0A37A5E-A266-46B3-8148-D7A40A5F1F78][kubernetes (k8s)]]
+
+https://kubernetes.io/docs/concepts/workloads/pods/init-containers/
+
+Containers that run before app containers in a pod, can be used to setup some stuff without having it be in the app image

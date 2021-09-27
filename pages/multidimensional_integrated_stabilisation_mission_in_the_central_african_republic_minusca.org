@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       4CA3DDA0-42F4-45ED-8AE2-58179E158C7F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: multidimensional_integrated_stabilisation_mission_in_the_central_african_republic_minusca
+#+TITLE: multidimensional integrated stabilisation mission in the central african republic (MINUSCA)
+
+Tags: [[id:7C05085A-564D-4186-B4E7-AD9DC612310A][un]]
+
+- part of the [[id:006AFDE2-7821-4866-AE48-0CD969B89F2D][un peacekeeping]] mission in [[id:394D057C-5937-4CF2-9587-3F14238485E4][central african republic (car)]], implementing a pre-DDR project

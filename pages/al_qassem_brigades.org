@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       3B441D48-7D46-4CF1-82AA-CBEB7D582B1E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: al_qassem_brigades
+#+TITLE: al-Qassem brigades
+
+Tags: [[id:44848562-7F27-4906-95F4-6A9BFEC7A473][militias]]

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       4E914F0A-664D-40A6-9D45-67324C38FC51
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: tawargha
+#+TITLE: tawargha
+
+Tags: [[id:C21DF9B0-E7E9-44F9-91A2-EEA809BD6293][libya]]

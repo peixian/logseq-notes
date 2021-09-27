@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       A041C5AE-6380-4ABE-B357-87FC4F281DE1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: tcp_syn
+#+TITLE: TCP SYNs
+
+Tags: [[id:851F079B-17D1-411F-988B-1248B5E0579D][networks]]
+
+* What Are?
+- https://blog.cloudflare.com/syn-packet-handling-in-the-wild/
+- Two queues in TCP, one a SYN queue and one Accept Queue
+
+  #+DOWNLOADED: screenshot @ 2020-04-27 21:45:03
+  [[file:What_Are?/2020-04-27_21-45-03_screenshot.png]]
+- Syn queue responsible for storing inbound syn packets
+  - https://elixir.free-electrons.com/linux/v4.14.12/source/include/net/inet_sock.h#L73
+
+
+
+* Blogs
+
+- https://www.snellman.net/blog/archive/2017-07-20-s3-mystery/
+- https://kognitio.com/blog/syn-cookies-ate-my-dog-breaking-tcp-on-linux/
+* Commits
+- https://github.com/freebsd/freebsd/commit/56ba0a68edde7b38323f81f9d56998b10668dd9e
+- https://github.com/freebsd/freebsd/commit/fc2be30b217171175bae209edb4f697cc0cb542d
+
+* Research
+- https://link.springer.com/chapter/10.1007/978-3-642-36516-4_14

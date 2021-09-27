@@ -1,0 +1,195 @@
+:PROPERTIES:
+:ID:       ACD3A73C-86F6-4C98-8E36-CB608AC43F8F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: rayburn_iraq_after_america
+#+TITLE: Rayburn - Iraq After America
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]], [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]]
+- https://www.hoover.org/research/iraq-after-america-strongmen-sectarians-resistance
+* Forward
+  - "American police action has largely been defined by hoping something turns up to end the conflict"
+* Chapter 1
+  - Dawa was modeled after the [[id:E48F6D7F-36EB-4F1E-8DF6-35AF238E024F][muslim brotherhood]]
+  - Largely driven underground by Saddam
+  - Born out of young clerics from [[id:BC73C623-ECAF-40F8-AA75-20140966DEF6][najaf]] in 1959-1960, elders adopted a mostly quietest stance
+  - Born out of a desire to drive back communism's appeal
+  - Originally cross-sectarian
+  - [[id:C4E274D9-F287-4386-8FBC-68C36C46A541][Muhammad Baqir as-Sadr]] wrote the treatises that became the core
+    - Presented Hegel/Marx with Islam as a viable alternative to communism and capitalism
+  - Musa Sadr (BIL and older cousin to Baqir) founded the [[id:E4879B67-1E98-47AE-8CAC-12F71DA1780E][amal]] movement in lebanon
+  - 3 Sadr's fostered people conversant in Marxism to promote Islam
+  - Dawa armed uprising in 1977
+  - Split into exiles in [[id:D4B35C6D-544A-481C-B5C0-7C2A2ABCF9AC][lebanon]], [[id:5E8A9793-6DE6-4E2C-A33B-D85714A3C06C][iran]], and the west
+
+* Chapter 2
+  - [[id:551974DA-A83D-409F-8426-61DE3A40D43F][nouri al-maliki]]
+    - Not from a clerical family
+    - largely middle tier functionary between 2003-2006
+    - Captapulted into the scene by Khalizad
+  - Maliki's ascendence set against the backdrop of the [[id:9A5BA9BB-E9FE-4D70-A796-5D403D01CF92][al-Qaeda]] bombing in Samarra
+  - [[id:749D4B05-ADD6-4608-B99B-AD6FD0C6BC07][Muqtada al-Sadr]] withdrew his ministers in 2007 following the troop surge
+    - Maliki survived with a coalition of Shia and Kurdish parties
+    - Mahidi and Barzani attempted to secure a no-confidence vote, but could not get the green light from Iran or the US
+  - August 2007
+    - Sadrist militias attached solders guarding the Imam Hussein Shrine in Kerbala
+    - Maliki's response garnered him immense popular support
+  - Shia militias in 2007 broke out into civil war
+    - Especially over control of [[id:477EE8EF-627A-4143-BCAB-373FDA98ED09][basra]]
+  - March 24, 2008 - Maliki begins the "Charge of the Knights" offensive in [[id:477EE8EF-627A-4143-BCAB-373FDA98ED09][basra]]
+  - April 5, 2008 - Sunni and Kurdish political parties throw their weight behind Maliki instead of the [[id:749D4B05-ADD6-4608-B99B-AD6FD0C6BC07][Muqtada al-Sadr]]'s party, political and military victory followed
+  - May 20, 2008 - Sadrists capitualted to Iraq army's occupation of Sadr city
+  - Kut captured from Sadrists in March
+  - Amarra captured in June
+  - Ultimately broke the Sadrist control of the South
+
+* Chapter 3
+  - [[id:3C62E0B5-B282-4E57-AEFC-9C765384B7EA][sahwa (awakening)]] movement started in 2006 and spread in 2007
+  - Maliki applied the same principals in 2008 to the shia community
+    - Set roundtable for shia tribal leaders
+  - Jan 2009 provincial elections
+    - Stunning defeat for the 2005 political class
+    - Foreshadowed the 2010 elections
+  - Maliki negotiated the withdraw of US troops from cities in 2009, used it as a talking point
+  - August 19, 2009 - [[id:9A5BA9BB-E9FE-4D70-A796-5D403D01CF92][al-Qaeda]] conducts a large bombing in finance and foreign ministries within the [[id:D6ED617E-5498-41C3-AC2E-F1193D8A924A][gz (green zone)]]
+  - October 26, 2009 - [[id:9A5BA9BB-E9FE-4D70-A796-5D403D01CF92][al-Qaeda]] stages even larger attack in GZ, kills over 600 Iraqis
+  - March 2010 - Intensive intra-Shia competition for votes leading up the elections
+  - Maliki's base was largely middle-class or lower middle class voters
+  - Security situation of the GZ made other politicans depend on the Dawa for support
+  - Security apperatus of the state was folded into the Dawa
+    - 2011 - PM's office sets up the "Office of Security and Information"
+      - Similar to Presidental Diwan under Saddam
+      - Also sets up the counterterrorism burea, giving Malki control of the special forces
+  - Judge Medhat al-Mahmoud's favorable rulings granted maliki significant power
+  - Rival political leaders also did not oppose the centralization of the state
+
+* Chapter 4: The Shia Supremists
+  - [[id:BC40CBC8-81AC-4CFD-8121-7419EC9CB63B][badr]] Corps and [[id:5DDB8727-70BF-4781-8C52-97EB33E79558][islamic supreme council of iraq (isci)]] returned the same time to Iraq
+    - Largely did Iran's bidding
+      - Hunted down former pilots of the Iraqi Air Force, lead to general asylum decree in Kurdistan
+  - SCIRI took over mosques in Baghdad
+    - Lead to the UIA in 2005
+    - "Sanctioned" by Sistani in [[id:025B5FBB-A8D1-4732-AB11-1DABD7BF0001][Dodge - Rethinking Political Identities in Iraq After 2003]]
+    - Shia played a role in cementing the autonomous regions in the [[id:74B098C9-54AD-4255-8680-09D079DC73F9][iraqi constitutionalism]], ideas of a "Shiaistan"
+  - Interim PM Jafari inducted hundreds of Badr Security officiers into ministry of interior in 2005
+  - Post 2005 Sunnis were largely driven out of the city
+    - 2004-2005 large scale sectarian cleansing
+  - Maliki used the health ministry and other governing bodies to be complicit in this
+  - Feb 2006 - Oct 2007 - UN HCR estimates 1MM baghdadis became IDP's
+
+* Chapter 5: The Sunni Chauvists
+  - Saddam embraced Sunni points in early 1990's to shore up support
+  - Iraqi Islamic Party
+    - Offshoot that disagreed with Saddam's binding of Sunnism and the state
+    - Later asked the Brotherhood to help for a resistance organization against Saddam in 1979-1980
+    - Worked with occasional other politics groups, like the Dawa
+  - Saddam developed a Salafi opposition to the brotherhood, binding the Baa'th and Salafism
+  - Saddam's plans laid the groundwork for an insurgency
+    - Funding was also provided by Bashar al-Assad
+  - 2005 elections
+    - US wanted to capture Fallujah and Mosul before elections
+    - Sunnis boycotted the elections
+      - Major blunder, did an about face in Dec 2005, assuming Sunnis were majority of pop
+        - Return to violence after they did not get their desired results
+  - 3 senior sunni politicians wanted to break the gov from within:
+    - Khalaf Ulayan
+    - Mahmoud al-Mashadani
+    - Adnan al-Dulaimi
+  - Zarqawi caused a rift in the Sunni insurgency
+    - Accelerated with the Samar bombing
+  - IS produced a three-pronged backlash
+    - Awakening
+    - Rift b/tw other jihadi groups
+    - growing population revolution against [[id:9A5BA9BB-E9FE-4D70-A796-5D403D01CF92][al-Qaeda]] in 2007
+  - 2008 elections
+    - Awakening movement grew into a political party in Anbar
+    - Saleh al-Mutlaq & Tariq al-Hashimi gained mainstream following, both largely secular
+    - Election of Sunni groups in 2009 caused softening of jihadist stances, like in Ninewa
+  - Rend Rahim said pre-2003, Sunnis considered Shia's "quaint" in religious practices
+
+* Chapter 6: The Kurdish Maximalists
+  - "Build a land bridge to [[id:BE234E49-5E49-4054-8308-6EDDCA766FAB][syria]] kurdistan"
+    - This book leans very much towards primordialism
+  - PUK & KDP
+  - Turkomen communites within Kirkuk posed a problem
+  - Kirkuk's proven reserves = [[id:C21DF9B0-E7E9-44F9-91A2-EEA809BD6293][libya]]
+    - 145 mm barrels
+  - Saddam dramatically caused a demographics change in Kirkuk
+  - Kurds seized Kirkuk in 2003 and established the forward "green line"
+  - Article 140 in [[id:74B098C9-54AD-4255-8680-09D079DC73F9][iraqi constitutionalism]] used 1957 census
+  - Shiek Abdul Rham Munshid al-Assi - "It is an iraqi city"
+    - pg 141
+    - What does this tell us about state level nationalism?
+  - Rejection of kurkds by Turkomen as well
+    - Sunni-Shia rift in Turkomen towns
+      - pg 142
+  - Displaced kurds were allowed to vote in Kirkuk's 2007 elections
+  - PKK played its hand, Turkey's response in 2007 caused an Iraqi political crisis
+  - National level held issues with Kurkds and Arabs
+    - Local level was somewhat functioning, city council bargin struck
+  - Mosul's diversity caused some problems with Sunnis and Kurds
+  - "When power changed hands, moslawi's would not accept the new order"
+    - Again primordialist
+  - Disbanding the army had major reprecussions on Mosul
+  - Kurdish green line post 2003 aspirationally included places with Kurdish minority
+  - Sinjar was an ethnic battleground
+  - Assassination of Osama Kashmouks in 2004 caused Mosul to slip into insurgency
+    - Jihadists used Sinjar and Tel Afar as staging ground
+  - Shia Turkomens in Tel Afar sought protection
+  - Remergence of [[id:9A5BA9BB-E9FE-4D70-A796-5D403D01CF92][al-Qaeda]] in 2007 in Ninew and [[id:123CC1C9-288C-484E-8442-BD52A2C0873E][mosul]]
+  - 1 million christians in 2003 to 1/2 mil in 2010 in Iraq
+    - Used as pawns b/w kurds and sunni politicians
+  - Lawless, but groups largely bought into the Iraqi state
+  - KDP ruled Mosul from 2003-2008, failed to bring it propserity like Irbil
+  - Dawa and Maliki became referes in Sunni/Kurdish Dispute
+  -
+
+* Chapter 7: The Shia "resistance"
+  :PROPERTIES:
+  :ID:       5933EA90-45F3-46A5-B4A2-DE55DD49B371
+  :END:
+  - Sadrists ballooned into a "resistance" axis
+    - [[id:35846680-D69C-4C80-9494-F3375E5DDC93][asa'ib ahl al-haqq (aah)]]
+  - Sadiq Sadr employed same methods as [[id:E48F6D7F-36EB-4F1E-8DF6-35AF238E024F][muslim brotherhood]], attracted smart students to study religion under him
+    - His movement outlasted him
+  - Invasion was broadly not aware of the Sadrist movement in 2003
+  - 3 groups fought for Najaf in 2003
+    - Hakim and SCIRI
+    - Sadrists
+    - Clerical Establishment
+      - Run by Abdul Majid al-Khoei
+        - Abdul Majid's killing would haunt [[id:749D4B05-ADD6-4608-B99B-AD6FD0C6BC07][Muqtada al-Sadr]]
+    - Jaysh akmahdi represented a mobilization of lower-class shias
+  - Movement in 2004 lead to the spintering
+  - Insurgents had issues with Muqtada's leadership, driving them towards Qassem Solemani
+  - SCIRI and Badrists were too close to the US for Iran in 2004, Sadrists presented a good counterweight
+    - Lebeanese hzbollah were useful staging ground
+  - Muhandis capitalized on the Sadrists split
+  - 3 later groups
+    - Muqtada groups
+    - AAH, worked with Quds
+    - KH
+  - 2006-7
+    - Maliki took advantage of the Sadrist split, tried to build AAH as an alternative to [[id:749D4B05-ADD6-4608-B99B-AD6FD0C6BC07][Muqtada al-Sadr]]
+  - [[id:3F2EE985-63C3-42AD-95C0-8ADD543FCF21][sistani]]  was a target
+    - Iranians
+    - Strange cults such as Soldiers of the Heart
+  - Sadrists aimed to follow [[id:DE11B1DE-9DE7-4B29-A074-C962666085E1][hezbollah]]'s example of creating a state within a state by capturing key ministries
+    - Health, Water, Transportation, etc
+  - Muhandis moved freely within Quds force
+  - MEK - Mujahdeen -e Kalq
+
+* Chapter 8: 2010-2013
+  - 2009 parlimentary election depended on the polarization of the party
+  - Maliki went back to being a Shia champion
+  - de-Baathification committee barred over 500 members from running
+  - Iraqiyah party ran virtually unopposed in Sunni areas, and attracted secular Shias
+  - Maliki asked for Medhat to interpret the consitution to allow "any" party with 163 MP's to become the first
+    - Lead to a 9 month deadlock
+    - Ended with the Irbil power sharing agreement
+  - Maliki cracked down on Sunni rivals in 2011 with security forces against an Arab Spring like event
+  - Attempted to arrest Vice President Hasimi, lead to him seeking refuge in Istanbul
+  - Maliki fractured the cross sectarian Iraqiyah by poaching Sunni MP's
+  - Attempted a no-confidence vote, failed to rally
+  - Syria's politics cast a long pall over Iraqi politics
+  - Hollowing out of the Sunni moderate by Maliki gave way to AQ and IS, with a new civil war in 2013

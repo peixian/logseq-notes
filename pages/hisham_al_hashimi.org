@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       F8A39FFF-405C-4AA9-A869-745C9BA8F153
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hisham_al_hashimi
+#+TITLE: hisham al-hashimi
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+iraqi analyst

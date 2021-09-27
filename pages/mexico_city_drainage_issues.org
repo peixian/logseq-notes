@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       A1EC44B6-69BF-445B-94AD-4B874A3E28DF
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: mexico_city_drainage_issues
+#+TITLE: mexico city drainage issues
+
+Tags: [[id:6C7B15AA-88F1-4AC5-BA43-218890C897D6][mexico]]
+
+
+Mexico city is sinking and having floods
+
+Engineers like Nabor Carillo understood the sinking was not natural, the rapidly growing city had extracted so much groundwater using mechanical pumps and delpleted the groundwater
+
+Clay shrunk and the city sunk, in spite of the Grand Canal that drained the city's lakes and allowed for expansion
+
+Engineers after 1951 moved the groundwater wells out of the city center and towards urban periphery + deep drainage tunnels called Deep Drainage System (Sistema del Drenaje Profundo)
+- finished in 1975
+- four olympic size swimming pools of water are expelled per minute from the tunnels
+- wastewater that couldn've been treated is wasted
+- causing the water table to fall
+- transformed water problems from a catastropic problems to creeping one
+- present day no longer sufficient during rainy season
+
+South and Eastern Mexico City's wells are gone and poor residents lack adequate water service
+
+Similarities to [[id:85F3F063-6427-4C31-AF01-A356BF3BE08A][beirut trash riots]]?

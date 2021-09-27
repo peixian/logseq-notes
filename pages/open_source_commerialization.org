@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       30615763-EB93-4016-BBD3-D2E0747E1970
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: open_source_commerialization
+#+TITLE: open source commercialization
+
+Tags:[[id:AE205EF3-0F38-4602-B1F1-7729B79B7A6F][open source]]
+
+
+
+- https://joemorrison.medium.com/three-models-for-commercializing-open-source-software-84d3130c82cd
+- https://d2iq.com/
+- https://medium.com/open-consensus/2-open-core-definition-examples-tradeoffs-e4d0c044da7c
+- https://jaxenter.com/redis-commons-clause-open-source-148558.html
+- https://stratechery.com/2019/aws-mongodb-and-the-economic-realities-of-open-source/
+- https://www.zdnet.com/article/redis-labs-drops-commons-clause-for-a-new-license/
+- https://www.zdnet.com/article/its-mongodbs-turn-to-change-its-open-source-license/
+- https://joemorrison.medium.com/death-of-an-open-source-business-model-62bc227a7e9b
+- https://techcrunch.com/2014/02/13/please-dont-tell-me-you-want-to-be-the-next-red-hat/
+- https://news.ycombinator.com/item?id=25359897
+- https://www.hashicorp.com/resources/google-provider-new-terraform
+
+- are there similarities to funding for [[id:D43D63F1-C8FA-4230-A6E1-1331E97E4778][Braben - Scientific Freedom: The Elixir of Civilization]]? Is part of the reason why it is hard to fund open source is because no one can measure where open source goes?
+
+* https://kristoff.it/blog/the-open-source-game/
+  - about zig, a [[id:5717AC93-7D2F-4E0B-BB2D-FD5C09FE4A9B][programming languages]] that has built up a separate community
+  - talks about how [[id:7D815C05-C23B-40CB-807C-27E749C56C27][redis]] governance with Antirez had a firm line between the open source one and the redislabs enterprise one
+  - are the non-profit foundations (such as [[id:91B1F808-C83B-4877-A9B6-22AAA464A2EC][rust]]) the only way to go?

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       45EE0F09-7761-4287-85CA-ED88BF327E5F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: text_boundary_analysis
+#+TITLE: text boundary analysis
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+
+Chrome V8 detects text boundaries with:
+- Specifically, v8 uses ICU to do a bunch of Unicode-related text processing things, including breaking text up into words. The ICU boundary-detection code includes a "Dictionary-Based BreakIterator" for languages that don't have spaces, including Japanese, Chinese, Thai, etc.
+- https://www.instapaper.com/read/1303705767
+
+Character boundary rules: http://www.unicode.org/reports/tr29/#Grapheme_Cluster_Boundaries

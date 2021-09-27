@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       D33B4FBF-DD8A-41FA-8EE1-60E425D70C1E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: religious_minorities_in_iraq
+#+TITLE: religious minorities in iraq
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+-  Beirut meeting w/ US state department in 2017

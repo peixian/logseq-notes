@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       C055CC5D-858C-4E97-9A32-861905EC2B45
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hooker_the_hardware_lottery
+#+TITLE: Hooker - The Hardware Lottery
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:572EA03C-52DA-4BC3-BFD5-BB73EB49042C][hardware]]

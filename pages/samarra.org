@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       6564CD0F-CF79-4839-A635-AAC7F6BB4E93
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: samarra
+#+TITLE: samarra
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

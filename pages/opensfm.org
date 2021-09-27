@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       9740B27D-0A5B-4E16-AA5D-EF061B0C37E5
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: opensfm
+#+TITLE: opensfm
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+Structure from motion library: https://github.com/mapillary/OpenSfM

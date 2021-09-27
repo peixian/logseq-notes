@@ -1,0 +1,77 @@
+:PROPERTIES:
+:ID:       D2A2358C-6F5C-4CEB-B34F-6634151AFABE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: distributed_systems_for_fun_and_profit
+#+TITLE: distributed systems for fun and profit
+
+Tags: [[id:60E89DE2-2826-4C7F-9DF6-69A0C00F11A2][distributed systems]], [[id:5D4FD56C-329E-4881-AEBC-EFE6DDF0F29D][articles]]
+
+- http://book.mixu.net/distsys/single-page.html
+
+* Chapter 1
+  - Scalability can be divided into 3:
+    - Size: can you add more nodes? can you grow the dataset w/o increasing latency?
+    - Geographic: can you add more DC's? What about cross dc latency?
+    - Administrative: as you add more nodes, is it harder to maintain the system?
+  - Performance & latency
+    - Latency is not the difference between you and getting the data, it's between you and *seeing* the effects of the data
+  - Availability & fault tolerance
+    - n nines?
+  - Distributed systems are constrained by # of nodes and distance between nodes
+  - Typically means:
+    - Increasing the # of independent nodes increases the probability of failure
+    - Increasing # of independent nodes increases the need for communication
+    - Increasing the geographic distance increases the lower latency bound
+  - Often simple abstractions don't work for distributed systems
+    - Performance is often gained by exposing more details about the internals of the system
+      - Columnar storage gives data locality information in exchange for performance
+  - Design techniques: partition and replicate
+    - partition divides the dataset into smaller distinct independent sets
+      - limits the impact of dataset growth
+      - increases availability by allowing partitions to fail independently
+    - replication:
+      - replication improves performance by making additional computing power available over new copy of data
+      - increases availability by creating additional copies of data
+      - sync issues
+
+* Chapter 2: CAP and FLP
+  - All abstractions are ultimately fake
+    - abstractions make the world more managable
+  - basic model
+    - programs run:
+      - concurrently on independent nodes
+      - connected by a network that can introduce nondeterimism and message loss
+      - have no shared memory or shared lock
+    - implies:
+      - each node runs programs concurrently
+      - knowledge is local, fast access to local state, global state is slow and potentially out of date
+      - nodes can fail and recover independenly
+      - messages can be delayed or lost
+      - clocks are not synchronized across nodes
+    - nodes are:
+      - can execute a program
+      - have access to volatile memory (will be lost upon failure) and stable state (can be read after failure)
+      - a clock - may or may not be accurate
+    - communication links
+      - considered to be FIFO
+      - generally considered to be unreliable
+      - network partition is when the network fails but the nodes are up
+        - nodes may be accessed by different clients
+    - time ordering assumptions
+      - sync and async
+        - sync timing model imposes that each node experiences things in lockstep
+      - async
+        - timing cannot be relied on and time sensors are unreliable
+    - consensus problems
+      - agreement
+      - integrity
+      - termination
+      - validity
+  - impossbility results
+    - FLP impossbility result aka [[id:C7A4C32D-7710-4E0A-8BAE-F27B577F7C05][impossibility of consensus with one faulty process]]
+      - algorithms must give up safety or liveniess
+    - [[id:E5637E25-81A3-4BA2-85E8-0F1949E4B7F8][cap theorm]]
+* Chapter 3: Time and Order
+  - any system that can only do one thing at a time will create an order
+  - Partial and total order

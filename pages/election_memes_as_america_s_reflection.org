@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       619D5D2E-96DA-48DA-BE93-E4190ED0A70F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: election_memes_as_america_s_reflection
+#+TITLE: election memes as america's reflection
+
+Tags: [[id:FAD07E42-4924-452A-A438-6F6DADFAD1BE][problems and methods]]
+
+
+Memes, alongside their production and consumption change banal reality into a fictionalized existence. Trump is a uniquely "memable" president, not only by literally a Game of Thrones meme when declaring the American withdraw from the JCPOA[fn:1], but also that he has had many moments that cross into the absurd. Take the infamous "glowing orb" photo, where Trump joined King Salman of Saudi Arabia and President Abdel Fattah el-Sisi of Egypt, in the opening of a new anti-extremist center[fn:2]. This appropriately generated endless discussions and image macros about its symbolism.
+
+Yet this method of interpreting politics has exceed Trump as well. Take Biden's statement of "inshallah" during the presidential debate[fn:3]. Endlessly debated on twitter until the Biden campaign confirmed it, scholars, activists, twitter pundits all piled on to offer their own interpretations of what it meant and the implications. Without meme culture, it's likely that Biden's usage would have been seen as something unique to the gaffe prone candidate. Yet the alacrity and the reach allowed the meme to exceed the original, suggesting that scale and speed are the two most important factors of a meme.
+
+The production of memes is an inherently artificial process. This is not to say that the creativity behind memes are artificial, but rather they are /artificial constructs/ and rely on a distinct "original". Memes are always /about/ this "original", but add rich context. The humor of memes then arises from this context. It is unremarkable, for example, that a US president visit a civil service center in Riyadh, but to do it with King Salman /and/ Sisi, and for the that US president to be Donald Trump? The context here is the history and ideology of these three men, and it is the fusion of this context with the image that gives the meme its humor. This is why humorous memes are difficult to create, the image macro and video itself are easy, but to neatly package all the context into a single frame is difficult.
+
+This compression of information into a single, low-quality image is what makes American politics so digestible. Non-americans would never suffer through seasons of West Wing or House of Cards, but a single image is digestible. In this way, they are
+
+* Footnotes
+
+[fn:3]  https://www.cnn.com/2020/09/30/politics/biden-inshallah-trump-debate-intl/index.html
+
+[fn:2] https://www.nytimes.com/2017/05/22/world/middleeast/trump-glowing-orb-saudi.html
+
+[fn:1] https://www.washingtonpost.com/politics/2019/01/02/trumps-game-thrones-style-poster-makes-cryptic-cameo-cabinet-meeting/

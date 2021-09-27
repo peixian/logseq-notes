@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9A39B427-D6E8-45B6-9F6A-073851F8010A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sgx
+#+TITLE: sgx
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- https://www.instapaper.com/read/1303504711
+
+Software Guard eXtensions, provided since Skylake
+- Multiple issues
+  - Malware vector
+  - Requires commerial license from intel
+  - Massive vulns
+    - cache timing
+    - speculative execution
+    - load value injection
+- Some novel approaches to blockchain trust and client/cloud database trust
+  - EnclaveDB - https://www.microsoft.com/en-us/research/uploads/prod/2018/02/enclavedb.pdf

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7374DA41-F05F-4CDE-AE4F-F78D8866358B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: comphrensive_agreement_on_the_bangsamoro
+#+TITLE: Comphrensive Agreement on the Bangsamoro
+
+Tags: [[id:AF4087A1-C2A5-47B8-8438-AC2797FEDCEA][philippines]], [[id:44848562-7F27-4906-95F4-6A9BFEC7A473][militias]]
+
+
+Agreement between the philippine government and [[id:AF3D423A-DC41-4C34-AB33-0D2E4EEF7F65][Moro Islamic Liberation Front (MILF)]]

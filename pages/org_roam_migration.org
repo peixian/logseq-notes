@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       03387590-3F9E-4960-B3C5-D65EFE1EC097
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: org_roam_migration
+#+title: org roam migration
+
+Tags: [[id:1B13FEEE-CA29-49CF-85E7-B424E6958FCB][Org-roam-v2]]
+
+Need to start using [[id:A5B60132-60E3-41C5-BCC7-622F05AA203A][org-mode]] ID links

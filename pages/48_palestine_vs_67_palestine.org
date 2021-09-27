@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       5CE12B9B-3D29-41B8-B8F0-96E9EE65E590
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: 48_palestine_vs_67_palestine
+#+TITLE: 48 palestine vs 67 palestine
+
+Tags: [[id:C8DCDFD7-F287-4705-8908-3273E85A7856][palestine]]
+
+Differences in migration and nakba

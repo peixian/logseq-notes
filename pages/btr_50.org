@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       85B1DCAA-CAC8-40BA-9A57-335F65C76C24
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: btr_50
+#+TITLE: btr-50
+
+Tags: [[id:C980D69D-5E9A-469B-A1EC-019DACDC12C6][military equipment]]
+
+- https://en.wikipedia.org/wiki/BTR-50

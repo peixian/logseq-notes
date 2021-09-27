@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       78713096-875F-4E7C-A686-7966142183E1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: latex
+#+TITLE: latex
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+* Guides
+- Manual - https://tobi.oetiker.ch/lshort/lshort.pdf

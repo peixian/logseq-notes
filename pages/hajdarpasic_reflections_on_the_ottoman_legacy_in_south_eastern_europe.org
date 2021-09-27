@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       3983537F-B6B9-4DD4-B5B5-09F17C1D4C46
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hajdarpasic_reflections_on_the_ottoman_legacy_in_south_eastern_europe
+#+TITLE: Hajdarpasic: Reflections on the Ottoman Legacy in South-eastern Europe
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:E2821844-9819-49F2-9CE7-CD04EDDB2E85][europe]], [[id:A438ACD2-2C1E-40EB-9502-74E5B69EA9FF][Post-Ottoman Near East]], [[id:4A892609-EEF5-441D-92CD-0330210D954F][bosnia]]
+
+Talks about the nationalist power of Ottoman narratives, especially in light of places like Albania, Macedonia, etc.
+
+Concludes with that the idea of 'Ottoman ruins' and 'countries emerging from the ruins' is fundalmentally flawed, there is more for the past to teach us
+
+#+begin_quote
+Making /Ottoman/ synonmyous with Islamic or Turkish influences is a defining hallmark of the 19th century Balkan nationalist projects that perceived the Ottoman Empire as a 'religiously, socially, and institutionally alien imposition on autochthonous Christian medieval socities. - pg 717
+#+end_quote
+
+- The conflation of 'Turk', 'Mohammedan', and 'Muslim' helps to stigmatize by lumping diverse 'Islam' into a generalized set of cultural characterists
+  - Does the Turkish gov's usage of Ottomanism help spur this idea? Like described in [[id:FFC8DC1C-7DB3-4E76-8594-C64AD5C17564][Danforth: The Ottoman Empire from 1923 to Today]]
+- /Influencial public figures in modern Serbia helped reproduce images of converts to Islam as traitors/ - pg 718
+- Balkan nations defined themselves against the Ottoman background
+- The Balkan idea puts a lot of stress on the 'Muslim vs Christian' tension
+  - Overshadows other communities, such as those described by [[id:C502879F-6192-46A0-B178-E331F8607116][Blumi - Ottoman Refugees, 1878-1939]]
+- /Later Bosian Muslims romanticized the Ottoman period as a way to reclaim Bosnia Mulsim cultural traditions while inserting them within the Austro-Hungarian and Yugoslav political frameworks/ - pg 724
+  - Backfires, this self-justifying stance provided the Serbs and Croats a way out, stating that the Ottoman past and legacy were solely shared by the Bosnians
+- Bosnian reclamation of the Ottoman heritage is atypical when compared to [[id:56E74CD3-17D3-467F-A8CD-A8C3B8563573][mustafa kemal]]
+  - Bosnian version is very romanticized and valoried
+
+Questions:
+- Are these nationalism made stronger due to the assimlation of religion and being co-opted by the state, described by [[id:360914DB-207A-458E-A677-B1DC2302A2FA][Anscombe - State, Faith, and Nation]]?

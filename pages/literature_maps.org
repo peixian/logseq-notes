@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1F160D13-9F7B-4DE8-A595-A2895C808977
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: literature_maps
+#+TITLE: literature maps
+
+Tags: [[id:08700B30-6476-438A-A1CB-8452DB3DEA4F][grad school]], [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]
+
+- https://www.connectedpapers.com/main/94775e06e0c042ed0c21741909f56993ee8d6eea/Sectarianism-in-Iraq-Antagonistic-Visions-of-Unity/graph
+- https://app.litmaps.co/

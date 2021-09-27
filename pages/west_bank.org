@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       9EE364B0-0031-43B0-91C2-94406523A7B8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: west_bank
+#+TITLE: west bank
+
+Tags: [[id:C8DCDFD7-F287-4705-8908-3273E85A7856][palestine]]

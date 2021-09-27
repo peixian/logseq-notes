@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       C7A4C32D-7710-4E0A-8BAE-F27B577F7C05
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: impossibility_of_consensus_with_one_faulty_process
+#+TITLE: impossibility of consensus with one faulty process
+
+Tags: [[id:60E89DE2-2826-4C7F-9DF6-69A0C00F11A2][distributed systems]], [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]
+
+- FLP states that, under ths async model, there is no deterministic algorithm for consensus
+- there is no way to solve the consensus problem under a very minimal system model in a way that cannot be delayed forever
+- https://en.wikipedia.org/wiki/Consensus_%28computer_science%29#Solvability_results_for_some_agreement_problems
+
+- Consensus is impossible with one faulty process w/o allowing for failure dectors like local timers (https://www.cs.utexas.edu/~lorenzo/corsi/cs380d/papers/p225-chandra.pdf) or randomization (https://dl.acm.org/doi/10.1145/800221.806707)
+- https://www.the-paper-trail.org/post/2008-08-13-a-brief-tour-of-flp-impossibility/

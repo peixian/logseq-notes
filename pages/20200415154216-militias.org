@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       44848562-7F27-4906-95F4-6A9BFEC7A473
+:END:
+#+TITLE: militias
+
+#+SETUPFILE:./hugo_setup.org
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]

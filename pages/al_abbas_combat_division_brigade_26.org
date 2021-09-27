@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       950DDBB6-3BA5-45A3-9FF7-D5C138D0B761
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: al_abbas_combat_division
+#+TITLE: al-abbas combat division (brigade 26)
+
+Tags: [[id:C403589A-21CC-411A-A58E-1C2FDC31F72C][brigades]]

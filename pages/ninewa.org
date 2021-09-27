@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       B480A462-5180-4A3B-929F-3B2F388074AA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ninewa
+#+TITLE: ninewa
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

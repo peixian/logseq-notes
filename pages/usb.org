@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       2AA1D9AF-AC95-4F25-80BF-EAC4B5473784
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: usb
+#+TITLE: usb
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+* HID
+
+** 6 Key Rollover
+   Most keyboards actually support more, but cheap keyboards only implement the BIOS compatible subset, which is 6 key supported.
+   - https://www.devever.net/~hl/usbnkro
+   - The USD HID is highly generic, uses a Report Descriptor that tells you the structure of the blob sent alongside it
+   - /However, a keyboard can still implement the boot protocol and also provide NKRO. When a keyboard is powered, as per the HID specification, it defaults to using its own preferred reporting formats and can use NKRO-enabled input reports.../
+   - /A common myth about USB keyboards is that they can only support 6-key rollover, and not report more than 6 keys being pressed at a time. In fact, this is wholly untrue; the USB HID device class can support full N-key rollover (NKRO)./

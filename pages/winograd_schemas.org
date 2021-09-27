@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       B61BD731-989D-415F-B6E1-1011C6CD69B2
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: winograd_schemas
+#+TITLE: winograd schemas
+
+Tags: [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]]
+
+- many different formats
+- rely on tricky sentences (ambigious sentences where pronous are difficult)
+- repeatedly proposed as an nlu-oriented alternative to the turing test
+- no single standard dataset, but many small collections, each with a different format

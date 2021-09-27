@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       D19482FD-F78C-44BE-8CC0-89021843D82D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: query_optimizers
+#+TITLE: query optimizers
+
+Tags: [[id:7AB8A2C8-564A-48E0-9543-657DCE782B88][sql]]
+
+- https://www.vldb.org/pvldb/vol9/p204-leis.pdf

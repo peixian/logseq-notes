@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       605919AD-8299-4466-BC66-3112BD639B42
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: food_security
+#+TITLE: food security
+
+Tags: [[id:A06959EF-A349-4F8E-B58A-4C8B11A83DAA][covid]]
+
+- Half of america's poultry market is controlled by 4 firms
+- two of the 6 largest M&A since 2010 were from food and drink
+- Brazil JBS is the largest meat processing in the world
+- COFCO from beijing
+- World's breadbaskets have become more capital intensive
+- [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]] still reliant on food imports
+- most countries are more reliant on food imports today
+- 2008 saw an increase in food prices
+  - exasterbated by protectionist policies
+  - 116% increase in rice prices in 2008
+- resturants/cafes/cafeterias account for 30% of food consumed
+- automated food handling makes grain easier to transport

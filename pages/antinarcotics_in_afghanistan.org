@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       A1ABEC67-40B0-4A5D-9087-4EF1C71ABE98
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: antinarcotics_in_afghanistan
+#+TITLE: antinarcotics in afghanistan
+
+Tags: [[id:086B0579-8C85-4CE5-9E65-EB8980FB2C2E][afghanistan]]
+
+Anti-narcotics policy goal in afghanistan was poor, large populations were asked to remove poppy without proper crop rotation

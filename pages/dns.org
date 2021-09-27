@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       42F3BFF6-7E2B-48FC-8B5D-A777D2F585E0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: dns
+#+TITLE: dns
+
+Tags: [[id:883B29DB-4BDF-4DD0-A615-02B1220889D1][web]]
+
+* Using it as a key/value
+- dnskv.com

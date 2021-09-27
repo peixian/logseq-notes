@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       27CD43EA-804F-478B-9327-CB6EA60F8853
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gambia
+#+TITLE: gambia
+
+Tags: [[id:4716EF6A-B378-4010-B090-41D487EB8B72][africa]]

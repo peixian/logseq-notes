@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       ACE0CB1E-B2C4-4057-BA71-8754CF588D4C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: finite_state_languages
+#+title: finite state languages
+
+[[id:8BF52C40-8F51-421C-8175-4CD1872983DB][chomsky grammar]]

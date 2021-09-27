@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       8BE92CAA-0E26-4389-AB40-48CCA3E5D373
+:END:
+
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: vps
+#+TITLE: vps
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+VPS Hosting providers:
+- https://cockbox.org

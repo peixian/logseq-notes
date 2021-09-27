@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       E02F065B-9B0A-4882-A6DF-7AF9476C5557
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hystersis_loop
+#+TITLE: hystersis loop
+
+Tags: [[id:7A929556-F8FE-4588-9440-655F9368B1F0][physics]], [[id:85CCE0EB-E358-4A63-A947-423CF92D79A2][economics]]
+
+https://en.wikipedia.org/wiki/Hysteresis
+
+https://en.wikipedia.org/wiki/Preisach_model_of_hysteresis

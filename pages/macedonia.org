@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       63840957-74A4-47E9-9880-C309E83F5477
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: macedonia
+#+TITLE: macedonia
+
+Tags: [[id:E2821844-9819-49F2-9CE7-CD04EDDB2E85][europe]]

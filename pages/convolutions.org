@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       DB1DDD46-1BD1-4218-BE12-F882489D6392
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: convolutions
+#+TITLE: convolutions
+
+Tags: [[id:0C55E344-F9AE-4584-B54F-83EC2FCE9062][math]], [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]]
+
+Convolutions is applying a filter to an input that results in an activation, such as with [[id:D010B569-6F86-4109-A6CD-5FB0B6D97E70][convolutional neural networks (cnn)]]
+
+For ml, a convolution is a linear operation that involves the multiplation of a set of weights with the input
+- https://www.youtube.com/watch?v=N-zd-T17uiE
+
+
+- for [[id:D010B569-6F86-4109-A6CD-5FB0B6D97E70][convolutional neural networks (cnn)]]
+  - the filter is smaller than the input data and is mulitplied by the dot product
+    - smaller is intentional, allows the filter to be reused across multiple places in the image
+  - if we design the filter to detect a specific type of feature, then this can be discovered anywhere in the image (aka translation invariance, checking if the feature is present rather than where it was present)
+  #+DOWNLOADED: screenshot @ 2021-01-20 21:06:00
+  [[file:2021-01-20_21-06-00_screenshot.png]]
+- [[id:8CF9A0F7-2E51-4922-B6B7-2C42E8E2BE16][pytorch]] implements this with [[id:73331959-68D0-4673-888B-610A64E0E90D][conv2d]]

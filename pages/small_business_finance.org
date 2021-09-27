@@ -1,0 +1,85 @@
+:PROPERTIES:
+:ID:       35AC63FF-FE2F-4C09-AC36-A123332C9D98
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: small_business_finance
+#+TITLE: small business finance
+
+Tags: [[id:CAFF2018-7C24-402E-9528-464A87D2DC39][personal]]
+
+* Finance Essentials for Small Businesses
+  - All businesses start small
+  - Often killed by:
+    - Insufficent capital
+    - Poor cash management
+    - Poor record keeping and controls
+    - Improper product pricing
+    - Uncontrolled growth
+
+* Finance Essentials for Small Businesses
+  - Often small businesses don't think through the costs
+  - What are the costs of a software business?
+    - Place
+      - Rent
+      - Internet, electricity, etc
+    - Infra
+      - Cloud, hosting, etc
+      - Lawyers?
+      - Licensing?
+      - Insurance
+    - Money needed to start a business
+
+** Insufficient Capital
+   - Expenses need to be paid
+   - Vendors will often need to be paid before you are paid
+   - Many businesses fail before they have a chance to demonstrate their viablility
+   - Overestimation of cash inflows and underestimation of cash outflows
+   - Carefully and realistically map out your expected cash inflows and outflows for the first six months of business
+   - Cash forecast needed for any financing
+
+** Cash Flow Management
+   - Balance expected cash collections and cash payments
+   - Even after the first few months, the sufficient cash inflows and outflows are needed
+   - Managing cash is critical for the well-being, and does not happen by chance
+   - Prepare a cash forecast or budget
+   - Two types costs
+     - Fixed costs
+     - Variable costs
+   - Identify all fixed and variable costs
+     - Only as good as inputs!
+   - Variable relative to what?
+     - Variable relative to customers?
+   - Answer: how many customers can you realistically expect?
+     - Scoping out competitions
+     - Surveying potential customers
+     - Assessing population growth
+   - Answer: types of variables costs?
+   - Draft up a cash forecast
+
+** Drafting a cash budget
+   - Starting cash
+   - +Revenue
+   - -Fixed costs
+   - -Variable costs
+
+** Bookkeeping
+   - Developing a system of tracking inflows and outflows, and your obligations to others and their obligations to you
+   - Helps with:
+     - Accurate information informs better decisions
+     - Investors and banks need accurate information
+     - Need to track tax obligations
+   - Record keeping and controls
+     - Bad information will control to the lack of success
+   - Controls - Procedures to ensure accounting information is accurate and reliable to safeguard your assets and records
+     - How will you document this?
+
+** Pricing a consulting job
+   - Account for all the costs, including the costs that will not be actually billed
+   - See if others are willing to evaluate other options
+   - Try to fix the profitability issues before trying
+   - Unmanaged growth will kill companies
+     - Growth often requires cash, and new businesses often do not have cash
+   - Lessons
+     - Be careful with inventory
+     - Use of credit to grow business
+     - Management focus on keeping expenses down and under control

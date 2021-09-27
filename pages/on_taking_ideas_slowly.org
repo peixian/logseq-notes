@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       51800EF2-72D0-478F-8C9E-C2FA79CE585E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: on_taking_ideas_slowly
+#+TITLE: on taking ideas slowly
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]], [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]]
+
+Benefit of college is not the content, but the free space to let your ideas ruminate
+Slowness without burnout
+polymath without dilettante
+
+* Draft
+
+/this post is far more rambling than my regular ones/
+
+It's been a year. Normally I'd write up something wrapping up about my goals and how far I accomplished, but I think for me this year was one long lesson in understanding the difference between being a dilettante and a polymath.
+
+I've always been terrified of being a dilettante, mostly because it creates some sort of "crank" identity, such as the weirdos who post about timecubes or start "writing" (if we can use that term) stuff and putting it on [[https://vixra.org/][vixra]]. Being a dilettante always seemed being like those DC bro types who start writing essays about "death the of Hong Kong", having never been there. Dilettantism slides easily into delusions, especially as the world concentrates more and more power into smaller and smaller segments of people. How can anyone trust their own decisions when the knowledge you have is so subjectively little? Pikety writes about how economists should stop adopting mathematical language when economists know very little of anything, the language and rigor are separate things. The same thing happens in nearly all the social sciences at this point, the poor undergrad kid aggressively trying to p-hack his way to a paper is subject to the greater forces of adopting language without rigor.
+
+What the hell is a polymath then? To be honest, I used to think it was someone that picked specific fields and went deep into them. For me, the stuff I wanted to master was distributed systems, militias in Iraq, and linguistic shit. Which, all things considered, is going pretty well. I switched teams at work to the NLP team, which rekindled my desire for software engineering while opening doors to working on more linguistics-related things, but also am going deep into Kubernetes currently. So that's been working out pretty well.
+
+Back to polymath-ism. There's actually a novel called "The Polymath" that's about Ibn Khaldun, which I've been meaning to read about this. Ibn Khaldun was brilliant, and I can really only hope to reach a portion of the amount of insight he produced. Yet one thing I'm beginning to notice is that knowledge /production/ and /bridging/ is what has differentiated my current work from the past. I'm actively writing more and attempting to bridge my knowledge of software, middle east studies, and linguistics, on higher levels than I had thought before. I'm rereading /Godel, Escher, Bach/ again, while reading /Steps to an Ecology of Mind/ for the first time. At the same time, I'm going through a book club on Braben's /Scientific Freedom/.
+
+So it's been a year. I bought a place, I trained a lot more, I studied a lot more, and at the end of it, the only lesson I have is that I need to rethink how I approach ideas. I used to think ideas were static sets of things to acquire or discard, each idea was a historical nugget to either stash away, use quickly, or chuck out. But at the end of this year, I've realized that I need to let the ideas ruminate and grow in the background, the ecology of the mind, as it were. Who knows what next year is going to be like, but I weirdly have a feeling it's going to be a good year.

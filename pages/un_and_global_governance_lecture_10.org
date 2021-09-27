@@ -1,0 +1,56 @@
+:PROPERTIES:
+:ID:       5B9AB18E-825B-4CAB-B26E-73FF8782AA30
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: un_and_global_governance_lecture_10
+#+TITLE: un and global governance lecture 10
+
+Tags: [[id:6377293C-2556-4797-9A2B-FED088E549BA][UN and Global Governance]]
+
+* gustavo
+- trial and error on developing better tools of dealing with peace in conflict
+- extension of state building
+- peacekeeping as an extension of government
+- peacekeeping saw as a panacea
+  - mandates became a christmas tree
+- burundi and peacebuilding
+- peacebuilding archiecture
+  - what are we going to do in burundi?
+  - PKO with local affairs run by NY
+    - dealing with land reparations and returnees
+  - DDR of FML and coup troops
+  - UN used every single tool until 2010, where it no longer became successful
+  - elections in 2010 was fairly workable, and everyone expected [[id:75596EDC-4243-41A7-A85A-8BC334C2048C][burundi]] to have worked
+  - unresolved problems of returnees and the Arusha agreement
+  - burundi has moved from success to failures in the last 5 years
+  - what have learned?
+    - concept matters
+      - peacebuilding is much broader than simple DDR, "twin resolutions" of 2016
+        - twin resolutions broke with linarity, conflict resolution
+      - rather than have ticking boxes of needs ("X ministries, Y police officiers"), need to figure out how to the conceptual understanding of the sustained peace wrt to armies and all
+    - the charter weighs heavy
+      - anything that doesn't follow the charter is seen as counterproductive
+    - how to transfer skills, not recieved actions
+      - faciltating processes as an external actor
+    - better recruitment
+      - UN recruits people who know the UN system
+        - but not necessarily about the local environs
+    - everyone knows what drives the conflict, but few people know what sustains peace
+      - too many things are done based on inertia
+        - ex: SSR and DDR from SA applied to other places
+        - theory of change -> assumption of what drives changes
+        - concept of strategic patience
+          - how far do you tolerate
+    - liberal peacebuilding
+      - problematic understanding of how to normalize peacebuilding within ideas
+      - christmas is over
+        - overprepartion for missions
+    - our burcracies need to change
+
+* burundi
+- most successful with hybrid peace engagements
+- types of activities and outreach the UN has done has not translated
+-
+
+* readings
+- [[id:AF5E05EF-E3DC-4C26-8AAA-41930562555D][Ginty: Hybrid Peace: The Interaction Between Top-Down and Bottom-Up Peace]]

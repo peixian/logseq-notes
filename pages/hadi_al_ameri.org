@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       FC44D1C5-85B1-4B42-A03C-5D91C0C11FAD
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hadi_al_ameri
+#+TITLE: hadi al-ameri
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

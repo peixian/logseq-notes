@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       52CF19E4-8646-4564-A388-5C978F380BFB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: abd_al_karim_al_uzri
+#+TITLE: abd al-karim al-uzri
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+- former minister of iraq

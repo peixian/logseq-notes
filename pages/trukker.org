@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       E3031F36-0FF0-4A19-BA90-D4B636715E75
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: trukker
+#+TITLE: trukker
+
+Tags: [[id:C5D26960-16A0-4A19-94FE-5A3A39547653][iraq tech ventures]]
+
+https://trukker.com/

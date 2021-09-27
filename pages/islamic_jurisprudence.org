@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       BB2783B7-0E6B-4886-8007-EC63A9C67096
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: islamic_jurisprudence
+#+TITLE: islamic jurisprudence
+
+Tags: [[id:CC0EFB92-1661-4A5A-BE0D-46FB07D94241][jurisprudence]], [[id:5E5E8287-6677-468A-8B62-7AA634A3E5CC][islam]]

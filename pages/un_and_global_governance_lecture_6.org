@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       CFDF435E-7655-449A-BE22-8926D8F1CD40
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: un_and_global_governance_lecture_6
+#+TITLE: un and global governance lecture 6
+
+Tags: [[id:6377293C-2556-4797-9A2B-FED088E549BA][UN and Global Governance]]
+
+- Stabilization vs peacebuilding
+  - readings put forward the binary of stabilization vs peacebuilding
+    - what does "success" look like for stabilizing and peacebuilding
+    - long term strategy for peacebuilding -> ends in procedural democracy?
+    - long term strategy for stabilization -> restore state soverignty
+      - developing human intelligence
+      - "quick impact projects" -> UN country team
+- "What is stabilization"?
+  - SIPRI -> general trends for peace operations
+  - dodgy doctrinal status in UN missions
+  - [[id:1B2E2248-A01C-4D1B-89A2-44B8FEE3DDD7][Dorn: Intelligence Lead Peacekeeping - The United Nations Stabilization Mission in Haiti]], [[id:26B73C8E-E769-417D-8383-E17DF3E1FE9E][united nations stabilization mission in the democratic republic of the congo (MONUSCO)]], [[id:C74B700F-07D9-4F54-8532-25400C21C5D0][united nations multidimensional integrated stabilization mission in mali (MINUSMA)]]
+- penholders in sc practice stabilization in their own interventions
+- create a space for political solution and reconstruction
+  - military actions are politized, and the boundary between military and political activity is blurred
+- peacebuilding and statebuilding are the same in stabilization
+- stabilization goes beyond counter-insurgency by being interagency
+#+DOWNLOADED: screenshot @ 2021-03-10 17:04:12
+[[file:2021-03-10_17-04-12_screenshot.png]]
+- [[id:C74B700F-07D9-4F54-8532-25400C21C5D0][united nations multidimensional integrated stabilization mission in mali (MINUSMA)]] - does not fight terrorism, but the french and the sahel forces are established with counter-insurgency
+- MINUSCA -> rebels taking on local governance roles

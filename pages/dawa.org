@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       B8B77EFA-589B-4393-8F47-75F1EED0E103
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: dawa
+#+TITLE: Dawa party
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+- Founded in 1958
+
+Political party, Hizb al-Da'wa al-Islamiyya, abanonded their quietist phase in response to the [[id:13A2D8AD-B386-4937-9054-78A0D2C91F54][iraqi communist party]]
+
+[[id:C4E274D9-F287-4386-8FBC-68C36C46A541][Muhammad Baqir as-Sadr]] was founding member and ulama, wrote the Falsafatuna (our Philosphy) and Itqisaduna (Our economic system)

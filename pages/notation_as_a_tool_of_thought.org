@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       47812306-4D95-489C-A697-E2535F50308C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: notation_as_a_tool_of_thought
+#+TITLE: notation as a tool of thought
+
+Tags: [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]], [[id:DCF8D543-265E-4077-9437-9C449BA6036D][formal semantics]]
+
+- https://www.jsoftware.com/papers/tot.htm
+
+Notation lets the baggage of complexity be moved to the paper rather than stuffing it all inside the brain
+- Notation as a form of abstraction? Symbols are not universal and subject to interpretation
+- Programming languages as a tool of thought
+  - chasing castles of abstraction?

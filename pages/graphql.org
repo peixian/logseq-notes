@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       9F526296-3C6C-46AD-8896-A0F071AAC26F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: graphql
+#+TITLE: graphql
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- https://hasura.io/learn/
+- https://hasura.io/blog/remote-joins-a-graphql-api-to-join-database-and-other-data-sources/
+- [[id:5129B53F-6D64-4B38-8E86-77F598696A3A][golang]] - https://gqlgen.com/

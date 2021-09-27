@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       971AB9EA-2135-4CEF-9504-603AE2FB6FB8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: my_work_as_a_system_blog_post
+#+TITLE: my work as a system blog post
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]], [[id:5C09008D-C61B-4A8E-BB77-9CF0085D90F6][project ideas]]
+- how does [[id:3B8D283F-903A-4C0D-82B4-A53E4351AD84][systems thinking]] help?
+- what emergent behaviors come out of knowing semantics and language?
+  - computers?
+  - ddr?

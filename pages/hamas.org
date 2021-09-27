@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       9DDCE3FC-7518-4C9F-B6D7-231A8B2AC27C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hamas
+#+TITLE: hamas
+
+Tags: [[id:44848562-7F27-4906-95F4-6A9BFEC7A473][militias]]
+* Factions
+  - internal leadership ([[id:E35B2092-2C97-43D4-A677-6A60C65CB23E][gaza]], [[id:9EE364B0-0031-43B0-91C2-94406523A7B8][west bank]], prisons)
+  - external leadership (palestinians in exile)
+  - gaza pulitburo replaced after 2017 by [[id:B22BBC85-0E06-4E7B-AC8B-CCD849FC57D4][ismail haniyeh]]
+  - [[id:3B441D48-7D46-4CF1-82AA-CBEB7D582B1E][al-Qassem brigades]] are the most controversial

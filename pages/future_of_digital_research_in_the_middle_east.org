@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       A68C5F9E-B55D-4583-B686-E00C8EF17026
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: future_of_digital_research_in_the_middle_east
+#+TITLE: future of digital research in the middle east
+
+Tags: [[id:F6BB188D-BA42-48AA-958E-21CE91DC147C][talks]]
+
+- digital humanities often has a monitziation hint
+  - writing grants and tenure provides freedom
+
+- lots of digital funding is happening at corporate labs (which are not necessarily mutually exclusive to open source work)
+- the production of knowledge is largely visual, but rarely focuses on the systems beneath
+  - focus on tools and visuals, but it seems like these are largely terminal?
+
+- question: I'm a software engineer working on Arabic/English/Mandarin translation systems, and also a student at kevo studying Iraq. Cairo Geneza was floating around the software engineering communities a while ago. I'm curious if any of you had experiences in working with local technology companies within the middle east.
+
+One thing I've noticed is that the bulk of research seems to be around communities that have better infrastructure (such as gulf), or fetishization on visualizations.
+
+- sahar - kuwaiti organization doing OCR
+- programmers in lebanon - hit or miss
+- akram khater - work with lebanon
+- RTL conference - "unofficial archive practices"

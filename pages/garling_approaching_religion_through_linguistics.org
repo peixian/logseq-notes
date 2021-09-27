@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       6ED83640-45C2-4D1F-A8BA-2FC222B5574B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: garling_approaching_religion_through_linguistics
+#+title: Garling: Approaching religion through linguistics
+
+[[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:4D07A7F6-AA30-415E-B718-B82E4151A482][religion]], [[id:AB300662-3E3E-4452-A29D-468522B35C3E][languages/linguistics]]
+
+- Makes the difference between critque and criticism
+- Attempts to offer up a way to analyze religion by not looking at where they are common, but question the unity of the text
+- However, still sees the text as fundalmentally anthropological in approach
+  - three layers of thematic, argumenative, and grammatical
+    - What if we moved beyond religion as text to religion as performance?
+- are anthropoloigsts too eager to draw casual conclusions w/o statistics?
+  - funnily enough sociologists are less willing
+- "It symbolises internal consistency without denying conflicting, fractured and uneven parts. Knots can be unravelled, their unity can be questioned, and they can be re-fastened in different ways."
+  - just as a complicated system can be discovered by projecting onto other dimensions, a la [[id:8B40D13E-55E4-41D3-931A-6B1C1C3B4AAE][principal component analysis]]

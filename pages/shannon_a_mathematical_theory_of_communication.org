@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       3E0B9612-FC1C-486C-85C5-F1F6BB60E53A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: shannon_a_mathematical_theory_of_communication
+#+TITLE: Shannon - A Mathematical Theory of Communication
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]], [[id:0C55E344-F9AE-4584-B54F-83EC2FCE9062][math]]

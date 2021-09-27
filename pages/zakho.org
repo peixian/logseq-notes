@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       91D91F5A-1218-4DE7-BD13-CFCCABA6693F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: zakho
+#+title: zakho
+
+Northern city in [[id:0B9FAF9E-0A55-44FE-96CE-D6D382CF6617][KRG/iraqi kurdistan]]

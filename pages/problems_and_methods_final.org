@@ -1,0 +1,91 @@
+:PROPERTIES:
+:ID:       A7C4F176-2B9F-4A42-B409-73F06A837701
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: problems_and_methods_final
+#+TITLE: problems and methods - final
+
+Tags: [[id:FAD07E42-4924-452A-A438-6F6DADFAD1BE][problems and methods]]
+
+* Outline
+** Starting point: /The Community as a system wrt Iraqi Militias/
+   Draft: [[id:D00C1BFB-32F5-4BAC-8660-C36D4883BCBF][master's thesis]]
+** Concept
+    - Communities are often held as the crucial center for deradicalization and reintegration programs. For the context of Iraqi Militias/Hashd al-Shaabi/PMF, what does this look like? How can communities foster peacebuilding within this context?
+** Baselines
+    - Terrorism "deradicalization" vs DDR vs refugee reintegration
+      - Is the difference between terrorism "deradicalization" and militia reintegration a purely judicial/[[id:CC0EFB92-1661-4A5A-BE0D-46FB07D94241][jurisprudence]] one?
+        - "Deradicalization" is for "strong" states
+        - "reintegration" is for states emerging from post-conflict conditions
+        - Refugee reintegration is a whole different ballgame <- have not yet fleshed this one out
+    - How do communities impact reintegration programs?
+      - Commonly assumed that ideas impact behavior, changing ideas changes behavior (not played out, poor theory, many radicalize/fail to demobilize from the communities they live in)
+        - This concept of "ideology" typically atomizes the individual and reduces them to a bag of ideas
+      - Feelings of loneliness and outcast
+        - Bosnia case - Darryl Li
+      - Communities that sustain radicalization/failure to demobilize
+        - [[id:C10C31D1-DE90-4E00-A08A-1010BE32B042][Dayon et al: Career Foreign Fighters]]
+    - Sectarianism/Divisions
+      - Does it matter? Does it influence [[id:E900796C-250A-474B-9054-C0C109C94A24][ddr]]
+        - [[id:41916275-B19E-48AF-90C7-EC4C38D7BADA][Hinnebusch - Identity and State Formation in Multi‐sectarian Societies]]
+      - [[id:4D07A7F6-AA30-415E-B718-B82E4151A482][religion]]
+        - [[id:FE7CB59F-5B9B-4852-80A8-03BDE16B9F41][Nagel, Ferran - Politics of Religion and Nationalism]]
+        - [[id:08718E6F-CB03-47E2-91CD-A45E3F04A4BD][Soper, Fetzer - Religion and Nationalism in Global Perspective]]
+        - Talal Asad - What role does religion play in this?
+          - [[id:E48F6D7F-36EB-4F1E-8DF6-35AF238E024F][muslim brotherhood]]?
+    - State of the Art - How does peacebuilding and DDR work now?
+      - [[id:B7499357-D6DD-4419-B930-1338431AED56][Pouligny - Peace Operations Seen From Below]]
+      - Other external actors
+    - Comparative Cases - What can we compare against?
+      - Unique, successful cases (reach out to Patty Chang, Sally Sharif)
+        - [[id:0E683482-1AA6-4DE1-9C07-4F52F96CAEDE][maoist fighters in nepal]]
+        - namibia
+        - [[id:1092BA8C-A5BF-45E3-81C4-2439E032DEBD][colombia]]
+      - [[id:C61C3FE4-06C6-4621-818B-503E36E83B7C][middle east]] cases
+        - [[id:DE11B1DE-9DE7-4B29-A074-C962666085E1][hezbollah]]
+        - [[id:4A892609-EEF5-441D-92CD-0330210D954F][bosnia]]
+** Bring it together
+   - Start by talking about how communities, not ideas are the center point for successful reintegrating of former fighters (nepal, namibia)
+   - Talk about the current state of the PMF and how they are semi-state
+     - Talk about the religious/sectarian aspects of the PMF
+   - Talk about how communities impact reintegration programs
+   - Answer how peacebuilding works now, and why it doesn't work, and where it's worked before
+   - Dive into deeper comparative cases
+** Outline
+   - Clauswitz On War
+   - DDR as a requirement for post-conflict statebuilding
+   - Conceptualize the iraqi PMF issue as a dual countery insurgency one and a SSR/DDR one
+     - PMF's seen in sectarian caraiture
+       - much more complicated, mosaic
+   - State lead reintegration on Iraq
+   - What lessons have we learned from [[id:A5CACE85-C257-4B0D-93ED-1D1FD8D9BEB5][sierra leone]], [[id:CDA4DF10-6A09-4A00-8666-9A6B5DFC49EC][cote d'ivore]], etc?
+   - State lead -> how does this look in comparison to [[id:DB2CC264-A435-4715-8AF6-905254C4A07A][sudan]]?
+   - What forms a community on a micro level? How do we define a community? Communities under DDR and SSR?
+   - Communities -> reintegration transforms between individual and communal based
+     - Also faction leaders
+     - How do these play in?
+   - use [[id:D0DFC0A3-D11C-44A5-B5C0-410F1B5A5FD5][Simpson - War from the Ground Up]]
+*** Introduction
+    - rise of daesh
+    - PMF and their current status
+      - proxies, not proxies, etc
+    - militias in the middle east cite:alaaldin_rise_2019
+    - counter insurgency, [[id:D0DFC0A3-D11C-44A5-B5C0-410F1B5A5FD5][Simpson - War from the Ground Up]]
+    - post-conflict state building via DDR and SSR, [[id:F1B3F2D2-CAAC-457D-A302-DD223805B4E3][Williams - Research Handbook on Post-Conflict Statebuilding]]
+*** Current Literature
+    - Statebuilding
+    - Issues and comparative cases
+    - Treating counter insurgency as a means to an end
+    - "Sectarianism" [[id:91F18E55-0C3A-4AAD-9B9B-08DDAC831E5E][Dodge - Bourdieu goes to Baghdad]], [[id:025B5FBB-A8D1-4732-AB11-1DABD7BF0001][Dodge - Rethinking Political Identities in Iraq After 2003]]
+      - comparative cases -> hezbollah, KH
+    - neoliberal framing of iraq, beyond 2003
+*** Propose a structure and interpreation
+    - move beyond interpreting this as a proxy
+    - move beyond interpreting this as a sectarian lens
+      - their entry into government unfortunately puts this in deeper sectarian lens, since scholars already tend ot see it in sectarian lens
+    - war as politics by other means
+    - move into interpreting this as a specific realities
+      - what works for peacebuilding?
+      - what doesn't work for peacebuilding?
+      - state lead SSR?
+    - rethinking them as potential destabilizers, as the often the case of the conflict reform

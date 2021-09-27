@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       394D057C-5937-4CF2-9587-3F14238485E4
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: central_african_republic
+#+TITLE: central african republic (CAR)
+
+Tags: [[id:4716EF6A-B378-4010-B090-41D487EB8B72][africa]]

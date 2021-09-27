@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       29303C71-98D0-46CD-BBD0-E177FC42D1FB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: nlu
+#+TITLE: nlu
+
+Tags: [[id:48350662-53E9-4A91-9ADB-2BC9DFEA6098][nlp]]
+
+Natural langauge understanding
+- QA answering
+- Semantic analysis
+- Summarizationn
+- Intent analysis
+- Dialogue and digital assistants
+- Semantic parsing
+- Inference
+- Paraphrase detection

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       94A277E8-65EE-468E-8ACD-F54E869B17C7
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: state_prices
+#+TITLE: state prices
+
+Tags: [[id:85CCE0EB-E358-4A63-A947-423CF92D79A2][economics]]
+
+https://en.wikipedia.org/wiki/State_prices
+
+A primitive security that pays one unit of a currency
+
+Has a concept of a ~state price vector~, which means any derivatives contrct can be decomposed as a linear combination of those securities

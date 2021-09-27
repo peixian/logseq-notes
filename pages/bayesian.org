@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       9052F935-3F34-463B-B185-A8666C191341
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: bayesian
+#+TITLE: bayesian
+
+Tags: [[id:F2643E37-CED2-492A-A77C-B632F3D203FD][statistics]]

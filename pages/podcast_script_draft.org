@@ -1,0 +1,85 @@
+:PROPERTIES:
+:ID:       E474C499-1320-4356-8B4F-A9A329B84B36
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: podcast_script_draft
+#+TITLE: podcast script draft
+
+Tags: [[id:D43D63F1-C8FA-4230-A6E1-1331E97E4778][Braben - Scientific Freedom: The Elixir of Civilization]]
+
+* General Questions
+  - professionalization of science?
+  - artist and scientists
+  - have we stopped regarding this as a creative process & industrialization
+  - repeated survival of theories
+  - risk-adverse
+    - what is the source of risk-adverse science? people?
+    - has science just gotten harder? has physics gotten harder?
+      - exclusivity of science now?
+    - 1970's - applying for grants
+  - why did we change the system?
+    - political prevailing winds?
+  - enormous funding provided to universities
+    - tend to use the same approaches
+  - Science needs funding to progress
+    - math and philosphy?
+  - braben interview
+    - anomlies accumulate until we begin to question the underlying theories
+      - string theory now
+      - intellectual dark web
+      - outside peer review process
+  - situating braben's book within scientific
+    - 4th paradigm
+
+- “Thank you for listening to The Object Lesson, brought to you by the Student Ambassadors of the Paris \Institute. If you want to support our volunteer, not-for-profit work, please consider becoming a member, you can find out more at parisinstitute.org.” + Sign off with your full name (i.e This is Emily Laurent-Monaghan, and I hope you’ll join us for the next episode.”
+
+
+* 50 min total
+* 2 min intro
+* Main topic - 30 min
+   * Freedom and Scientific Revolutions
+** We’re at the crest of countless issues, including climate change, resource constraints, and other issues that require great scientific change. Your book claims that one reason we do not see such revolutionary change is because there’s a lack of freedom. I want to discuss both of these topics, scientific revolution and freedom, but starting with freedom.
+** Greenfield sites
+** How do we organize scientific freedom?
+    * What is freedom in this definition?
+    * Bureaucracy begets metrics
+       * What are the impacts of metrics?
+       * Harmonization?
+       * What has changed from old attitutes to research?
+** Funding and its modern state - venture capital is in effect creating a smaller market
+    * How do we fund currently in the hard sciences?
+      * NIH
+      * UK
+      * Others
+    * How are those managed - “mismanagement by objectives”?
+      * What is consensus good for? Why is peer review good?
+      * Does this play into the replication crisis? Large fields often have hundreds of thousands of papers, untenable for people to review.
+        * Funding agency reviews vs journal reviews
+          * Is one downstream of another?
+        * collusion rings in computer science
+    * How did venture research work to fund?
+** Scientific Revolutions
+    * Kuhnian scientific revolutions - are we talking about pure novel science?
+    * How do we bind the chances of scientific revolution and funding priority?
+    * What about young scientists?
+    * What is the difference between “transformative research” (as Braben defined it) and kuhnian scientific revolution?
+      * Are we accidentailly conflating difficulty and interest here?
+** Conclusion
+*** Planck Club
+     * What is the Planck club? How do we define it?
+     * How does that look like in practice?
+     * Harvesting venture capital
+       * Are we at risk for a different type of selection?
+     * what is the current method good for? What wins have we gotten? Do we seed more paradigm shifts with these types of new institutions?
+
+
+* Pull Quotes
+- "This methodology doesn't work, just take alzheimers, there's been
+
+- "The essential thing is to build up mutural trust. If the scientists don't trust you, they won't tell you what they really want to do. They're accustomed to being cut off"
+
+- "We are looking for anyone that can say current thinking is wrong"
+
+- "Even if someone comes along and says 'I can solve this problem', it will still be incomplete. But we need to take another step, and only individuals can take another step."
+
+In this podcast, we spoke with Professor Don Braben, who is the author of Scientific Freedom: The Elixir of Civilization and several other books. Professor Braben ran the Research Venture Unit from 1980 to 1990 in BP, providing over £20 million to over 30 researchers and teams from Europe and north America. He spoke about the necessity of finding and funding scientists, in order to free scientists from the auspices of the funding agencies. Professor Braben elaborated on the specific need for trust and freedom, as well as selection process in order to find talented scientists in order to fund.

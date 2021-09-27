@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       56477AC5-EC16-4502-B30F-7C0D37C13F64
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: cloud
+#+TITLE: cloud
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]

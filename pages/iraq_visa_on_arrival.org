@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       2789FB48-C5C9-469B-A1FA-AF9B16D74703
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: iraq_visa_on_arrival
+#+TITLE: iraq visa on arrival
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+- https://gds.gov.iq/ar/iraq-lifts-requirement-to-obtain-pre-arrival-visas-for-citizens-of-30-countries/

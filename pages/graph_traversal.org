@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       5C23824F-3B4B-4350-A73C-E2578272490F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: graph_traversal
+#+TITLE: graph traversal
+
+Tags: [[id:2C626284-F74C-4110-83A7-AE07B6D0A451][algorithms]]

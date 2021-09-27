@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       3A151692-5786-4F5E-B755-165CDFA29BB9
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: political_science
+#+TITLE: political science
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]
+
+- https://politicalscienceguide.com/research/concepts-and-measurements/ for the [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]]

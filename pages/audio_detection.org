@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       452A6E27-9BA3-4FB1-9762-888E8BF05509
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: audio_detection
+#+TITLE: audio detection
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- https://github.com/midas-research/audino
+- https://en.wikipedia.org/wiki/Wow_(recording)
+- https://en.wikipedia.org/wiki/RIAA_equalization
+- https://news.ycombinator.com/item?id=25178349
+  - sending messages over [[id:E01FF835-475C-4DE4-BA04-9C0E89F252B9][robot36]]

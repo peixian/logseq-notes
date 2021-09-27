@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       412147F6-53D6-4015-A2AA-FB3D691C9283
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: string_matching
+#+TITLE: string matching
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+* Simstring
+  - http://chokkan.org/software/simstring/
+  - Cosine similarity,
+  - C++ but has python bindings

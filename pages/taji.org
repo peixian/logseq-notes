@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       651DB6B5-FCEF-46BC-B04C-A012006899FC
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: taji
+#+TITLE: taji
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+Rural district north of [[id:105A47A9-B2B1-46B8-9531-52E9E39414AB][baghdad]]

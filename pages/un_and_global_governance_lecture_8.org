@@ -1,0 +1,73 @@
+:PROPERTIES:
+:ID:       12F00EA9-429E-459D-BF21-6931507C2823
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: un_and_global_governance_lecture_8
+#+TITLE: un and global governance lecture 8
+
+Tags: [[id:6377293C-2556-4797-9A2B-FED088E549BA][UN and Global Governance]]
+
+- conflict mitigation styles
+  - what are the trigger points for people to heighten their emotions?
+- peace agreements and warring factions
+* Peacekeeping and Peacebuilding
+  - "action to identify and support structures which will strength and solidfy in order to avoid a relapse into conflict"
+  - instiutionalization of peacebuilding
+    - weak states are a threat to intl stability, more peacebuilding continues
+  - early peacebuilding
+  - authoritarian to democracy
+    - transitioning with democracy incrementally
+      - free market, who decides when a state is ready for liberalization
+      - elections are considered destabilizing, when should we not hold an election?
+        - UN has learned not to rush into an election
+  - is it realistic for peacekeepers to hold this role?
+    - can we have an expectation that a peacekeeper should help?
+  - peackeepers in mali and drc cannot physically protect civilians
+    - nhormative values of poc does not exist
+    - how much more can we adopt?
+  - how can peacekeeping be useful?
+    - early peacebuilding can be useful, but often still treated as a sequential
+  - conflicts that were off the radar of the SC, taking a look at conflicts that were slow burning, or short of war ([[id:75596EDC-4243-41A7-A85A-8BC334C2048C][burundi]])
+* conflict & peace
+- thinking in terms of johan galtung's model of peace
+  - negative peace (absence of violence)
+  - positive peace (absense of all 3 forms of violence: structural, cultural, and direct)
+- for a conflict, looking at the characteristics of behaviors
+- peacebuilding, peacemaking, peacekeeping - trinity
+- peace as a policy goal
+- foundations of peace as more than just the absence of war
+  - sg policy committee in 2007 in thinking about how to reduce risks
+- cannot be a boilerplate, afghanistan and peru are two different things
+  - ideally, peacebuilding needs to be prioritized and sequenced
+    - can then achieve its goals
+    - politics needs to be considered in peacebuilding
+- quick impact projects are not considered economic revitalization
+- new deal - nationally owned peacebuilding plans
+  - peacebuilding used to be run by IO's, which did not always know what was happening
+  - external drivers may not necessarily have the required participation
+  - how many and where was the new deal implemented?
+  - how do you create fully functional states in the matter of a decade?
+  - how do you ameloriate social issues?
+- peacekeeping vs peacebuilding
+  - how to build durable peace
+    - building institutions?
+- state fragility is a recurring problem
+  - countries can relapse
+- "idle youth" problem
+- peacebuilding archiecture
+  - peacebuilding comission
+  - peacebuilding fund
+  - peacebuilding support office
+- strategic entry points
+  - avoiding relapse into violence (guniea)
+  - protecting peacekeeping (liberia, sierra leone)
+  - quick statebuilding ([[id:87825E0D-CF52-42BD-AC39-4EAC4B565EA3][yemen]])
+  - supporting UN leadership ([[id:A5CACE85-C257-4B0D-93ED-1D1FD8D9BEB5][sierra leone]])
+  - accompaniement ([[id:75596EDC-4243-41A7-A85A-8BC334C2048C][burundi]])
+* critques
+  - examining the dimensions of peacekeeping
+    - how peacekeepers can be early peacebuilders
+    - definition of peacebuilding is ambigious and vague
+  - peacekeeping can construct the space for peacebuilding to occur
+  - democratic bias of instiution building, but not necessarily accepted or addressing the root causes
+    - too much focus on building instiutions

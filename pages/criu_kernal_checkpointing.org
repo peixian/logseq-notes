@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       B81CA5F3-9127-4F4E-B9D5-1F35CBE5BC70
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: criu_kernal_checkpointing
+#+TITLE: criu/kernal checkpointing
+
+Tags: [[id:23A8ABE3-EBAF-4E73-9896-691178B03933][kernel]], [[id:E00FA741-9906-4793-BC95-AC454362D138][linux]]
+
+Provides checkpointing and snapshotting of applications and containers to disk
+- https://en.wikipedia.org/wiki/CRIU
+- https://criu.org/Main_Page
+- https://access.redhat.com/articles/2455211
+- https://github.com/checkpoint-restore/criu
+
+Fortran days this was common to checkpoint against cores being used, however now issues with:
+- signal states, semaphores, futexes, SELinux state, ptrace status, CPU affinities, special purpose file descriptors ~epoll_wait()~

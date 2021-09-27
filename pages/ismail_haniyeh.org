@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       B22BBC85-0E06-4E7B-AC8B-CCD849FC57D4
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ismail_haniyeh
+#+TITLE: ismail haniyeh
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:9DDCE3FC-7518-4C9F-B6D7-231A8B2AC27C][hamas]]
+
+Chair of the exiled political office in [[id:8F9A287D-3CD8-4E17-AF4E-228F5661554B][damascus]]

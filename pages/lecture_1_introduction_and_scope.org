@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       F4327CDC-2AFE-46BA-A229-6A97F7AC9C13
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: lecture_1_introduction_and_scope
+#+TITLE: ling 1012 lecture 1 - introduction and scope
+
+Tags: [[id:5D94563B-C811-4568-9983-6F934F9E13EA][ling-ga 1012 (nlp and semantics)]]
+- goal: conduct original research worthy of a top tier conference
+  - do research on nlu
+  - drawining on ideas from linguistics, especially syntax and semantics
+    - will be covered
+- what is [[id:29303C71-98D0-46CD-BBD0-E177FC42D1FB][nlu]]?
+- [[id:DCF8D543-265E-4077-9437-9C449BA6036D][formal semantics]]
+- [[id:A475182B-C7B6-441C-8D92-4C6704A9B54F][computational syntax]]
+- [[id:079575C4-65AF-468E-A538-BD1342ED947F][quick history of nlp]]
+- [[id:87C96564-858E-493B-9D83-1FBEC478055B][computational linguistics]]

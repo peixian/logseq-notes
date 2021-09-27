@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       F56A8565-CED0-45C2-A53B-B186DF72A1C9
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: kataib_hezbollah_kh
+#+TITLE: kataib hezbollah (kh)
+
+Tags: [[id:ADFAE0CB-D584-4CE9-9965-4E76C474546E][hashd al-shaabi (PMF)]], [[id:C403589A-21CC-411A-A58E-1C2FDC31F72C][brigades]], [[id:A0834C86-F136-4F49-8139-77B077E65FBC][iraqi shia]]

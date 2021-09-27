@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       E69D04FC-4187-4A6A-B30C-C732D00C14D5
+:END:
+#+TITLE: central asia
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]
+
+#+SETUPFILE:./hugo_setup.org

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       89BCB0B1-6C3A-423D-A756-EF32ED382B31
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: dataflow
+#+TITLE: dataflow
+
+Tags: [[id:4D8F680D-3043-42F2-8635-12EE3F560C8B][Databases]], [[id:60E89DE2-2826-4C7F-9DF6-69A0C00F11A2][distributed systems]]
+
+- https://github.com/TimelyDataflow/timely-dataflow

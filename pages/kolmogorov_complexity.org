@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       677FEA11-382A-4718-8A81-E7B723EC24CE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: kolmogorov_complexity
+#+TITLE: kolmogorov complexity
+
+Tags: [[id:A07603AF-95CB-44F7-A19B-0B09C18C4470][information theory]], [[id:45D20E51-F38E-4A83-8DB1-DB8442811E30][andrei kolmogorov]]
+
+
+https://en.wikipedia.org/wiki/Kolmogorov_complexity

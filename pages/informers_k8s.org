@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       A65BA6E5-654C-4520-8293-966A010B5F5C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: informers_k8s
+#+TITLE: informers (k8s)
+
+Tags: [[id:A0A37A5E-A266-46B3-8148-D7A40A5F1F78][kubernetes (k8s)]]
+
+- Gives higher level programming interface for most common use case of watches: in memory caching and fast lookup of objects by name or other properties
+- basically an in-mem cache that sits between watch events and the user code
+- has advanced error behaviors, such as correcting for when long-running watch connections break
+- one of the main concepts of k8s design
+- preferred over polling, but creates load on the API server, each binary should only instantiate one informer per GVR
+- generated from a code generator and shipped as part of client-go
+- register handlers, and then start the shared informer factory
+- note: there is a lag between when the api server updates something and when the informer updates something
+- note: never mutate objects from informers, always deep copy

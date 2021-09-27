@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       40D265D6-72EC-4150-BED7-FAA85050C05F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hashd_in_sinjar
+#+TITLE: hashd in sinjar
+
+Tags: [[id:5D4FD56C-329E-4881-AEBC-EFE6DDF0F29D][articles]], [[id:ADFAE0CB-D584-4CE9-9965-4E76C474546E][hashd al-shaabi (PMF)]]
+
+- https://www.aymennjawad.org/2021/01/the-hashd-in-sinjar-interview
+
+- Talks about the "sinjar force", possibly [[id:EEE8C8C2-0632-4F77-9AE6-33700164A80D][brigade 80]]
+- also spoilers of the [[id:2707650F-BCD9-4399-BD2B-BBE3A5BCF7D8][sinjar agreement (2020)]]
+- also claims that the armed forces are not political
+#+DOWNLOADED: screenshot @ 2021-01-20 18:52:59
+[[file:2021-01-20_18-52-59_screenshot.png]]

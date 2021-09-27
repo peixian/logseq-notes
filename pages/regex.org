@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       64886F47-7F11-4528-A9F7-169253D24CB3
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: regex
+#+title: regex
+
+- https://regex101.com/
+- can also use ~-r~ or ~-E~ in sed

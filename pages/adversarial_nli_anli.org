@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       B183BF01-4F8F-4B30-97CB-27E1C695B01C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: adversarial_nli
+#+TITLE: Adversarial NLI (ANLI)
+
+Tags: [[id:D9C1DCB3-C95F-4778-BBA4-59E7AEBFC961][nli]], [[id:A904921D-F574-41FC-B41C-4B6114932AC5][datasets]]
+
+- Attempts to explicitly difficult to guess based on only the hypothesis
+- Same creation as [[id:C7A085F8-512A-49CE-A050-D01AE7E4D58C][Multi-Genre NLI (MNLI)]], but annotators can only submit an example if a [[id:B23DDBD4-476A-4518-97B2-F433192A023D][bert]]-style model gets it wrong
+- BERT actually does pretty well as NLI, so the dataset is largely with tricky cases

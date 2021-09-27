@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       9041353A-C74C-4503-95BF-A5743775884B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: secular_stagnation
+#+TITLE: secular stagnation
+
+Tags: [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]]
+
+- Loaded baggage of a term
+- Describes a long term period of low growth
+- Similar to [[id:62E85EBD-21E3-42DB-88A6-691F6271331C][japan]] in the last 20 years or the US post 2008

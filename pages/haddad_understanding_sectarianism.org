@@ -1,0 +1,99 @@
+:PROPERTIES:
+:ID:       CF8BEB8D-B9F0-47D7-A838-7A0473F1907B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: haddad_understanding_sectarianism
+#+TITLE: Haddad - Understanding Sectarianism
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:5FA1EE8F-1114-4C3A-B5B4-BA4753ED2E15][sectarianism]]
+
+* Overview
+- 'sectarianism' as a term is too broad and doesn't mean anything
+- he suggests a 4 pillar approach, building on top of [[id:41916275-B19E-48AF-90C7-EC4C38D7BADA][Hinnebusch - Identity and State Formation in Multi‐sectarian Societies]]
+  1. doctrinal
+  2. substate
+  3. state
+  4. suprastate
+- [[id:F732BBD9-72C1-4EC9-9FF5-D05FEFF50582][Brubaker: Religious Dimensions of Political Conflict and Violence]]
+- Religion is a necessary but not sufficient event for the formation of sectarian identities
+- Skip past the fetishization doctrine and the pervasive binary of Sunni/Shia
+- Also poor debates that unity is a manichean good that opposes sectarianism
+  - coexistence, intermarriage, and kinship are not a bar to the outbreak of hostilities
+- context, flebility, and salience
+  - enough for raw symbolisism for everything to be framed
+  - [[id:0ABCF41E-52BC-460B-A884-F32EA5803A5B][everything is correlated]] - the context, flexibility, and salience make religious markers easy to adapt
+- we cannot view things as a dichmoety of above/below, for elites are also the product of their own systems, so the cynical view of elites manipulating their system is false
+
+* Formations of Sectarian identities
+- Identity is a difference between contest vs contestation
+  - [[id:D0AEB1C0-1F1D-431F-9E6E-57BF1B3757FC][Weiss - In the Shadows of Sectarianism]]
+- [[id:3388BFB5-46D9-4C53-9A09-D70F82B8471A][amman message (2005)]] and [[id:C5E56873-2F9D-4CFC-B734-61274BFE5297][mecca declaration (2006)]] were doctrinal and had clerical buy in, but did bridge sectarian divisions
+- religion is often times not the main driver but can fan the flames, schisms can create legitimacy for divisions
+#+begin_quote
+"To ask if sectarian dynamics are driven by religion or politics is to ask the wrong question. Seldom is it clearly one or the other: when it comes to how sectarian identities and sectarian relations are produced, both religious doctrine and politics are inescapable factors, with the balance between the two being dictated by context. A particular facet of sectarian identity - for example, personal status codes - may become a political issue, but this is neither inevitable nor impossible. Indeed, rather than a strict binary, politics and religion exist often in a reciprocal relationship characterized by circularity rather than antagonism or exclusivity - two separate but nevertheless intertwined concepts, to borrow from Brubaker's analysis of religion and nationalism" (Haddad 2020:68)
+
+#+end_quote
+- sectarian problems are not reducible to religion
+- [[id:9B83B603-B44D-48FF-A154-E6C36F7D2225][shia]]'s are less than 20% of all muslims
+  - excluding [[id:6300B463-204F-4CB8-9404-8B1FFB1CB275][zaidi]], less than 11%
+- 60% of [[id:9B83B603-B44D-48FF-A154-E6C36F7D2225][shia]]'s are [[id:A0834C86-F136-4F49-8139-77B077E65FBC][iraqi shia]]
+- salience of identity does not match with the salience of politics
+- the [[id:A92CAA9F-7E0A-4AD3-A915-E621510FD037][sunni]] sect is rooted in more opportunism, the [[id:9B83B603-B44D-48FF-A154-E6C36F7D2225][shia]] idea is rooted in their persecution as a sect
+- [[id:9B83B603-B44D-48FF-A154-E6C36F7D2225][shia]]'s then put a premimum on their minority status
+- terms like /nawasib/ and [[id:B56B5651-A789-4470-83EC-71B852796046][Wahhabi]] are used to demarcate who is a "good Sunni" and "bad Sunni"
+- Shia polemics rarely ever frame ordinary Sunnis as a threat, even [[id:63886BB7-8489-4BD3-BD62-346A47DC8A6C][Yasser al-Habib]] refrains from this
+- shia are often protrayed as a threat in sunni culture, but this is not the same
+- This is because Shiis need the sunni recongition, while sunnis do not need shia recongition
+  - [[id:5E8A9793-6DE6-4E2C-A33B-D85714A3C06C][iran]] portrays itself as the vanguard of Islam
+  - sunni led pan-Islam does not need shiis
+  - shii-led pan-Islam does need Sunniso
+- [[id:08575A90-1002-48E6-9EE5-6F165FAEA275][Maher - Salafi-Jihadism: The History of an Idea]]
+- not every binary is balanced!
+- leads to the question of how states shape sectarian relations?
+  - [[id:D4B35C6D-544A-481C-B5C0-7C2A2ABCF9AC][lebanon]] - lacking a strong central state
+  - [[id:69E391EC-184C-497C-992C-0F488E069418][Mervin - The Shi'a worlds and Iran]] - Olivier Roy makes the point that Sunni/Shia tensions are more likely to be state-led than mass-led in current era, although this is not exclusively a state policy
+  - Azmi Bishara rejects the idea that the Sunnis are even a sect
+  - [[id:B006F3A4-8853-4DF5-905F-FB960643DD97][Hanf - Coexistence in Wartime Lebanon]] - intergroup conflict is more common in the clash of Jacobinistic, culturally blind views
+  - [[id:8F61067F-15F8-48A1-A77F-67F1571F0AE1][Safouan - Why are the Arabs Not Free?]] - unconditional attachment to unity treats difference as a threat to life
+- [[id:F270F2E9-C565-4EFD-96D8-5FAE0F8430F1][Makram Ebeid]]
+- 2003 and the sectarian wave
+- fears of group identity extinction by assimilation
+- [[id:027F5D13-55A2-43DA-81FC-C3973988904D][Khan - The Great Partition]]
+- sectarian identities become seklf reinforcing once tied to political, social, economic good
+- 21st century emergence of sunni victim identity
+- tedency for regimes to securitize identities that treat them as foreign identities
+  - shias as iranian fourth pillars as examples
+
+* [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]] - 2003-2008
+  - shia centraic statebuilding
+  - [[id:E9EF11D0-1311-44E6-B1C7-64EC32E8108D][Bouillion et al - Iraq: Preventing Another Generation of Conflict]]
+    - vacauum of statea empowers sectarian entrepeurs
+  - [[id:06DB4234-A5C2-408C-9C0C-1D3A783E8462][Blaydes - State of Repression]]
+  - shia cleric @ independence called for half of cabinet seats to be reserved for shias
+  - [[id:19F17EAA-8177-431D-8E34-FD911841545F][muhsin abu-tbikh]] and [[id:52CF19E4-8646-4564-A388-5C978F380BFB][abd al-karim al-uzri]] all emphasized the shia minority identity
+  - 1990's opposition in exile was dominated by Kurdish ethno-nationalism and shia-sect centrism
+  - [[id:3D7F6932-51DB-425B-8EAE-E81E5E1539F9][declaration of the shia in iraq]]
+  - post 2015
+    - diminishing relevance of sectarian identity
+    - less conflation of shia == iran
+  - 2 cycles
+    - 03-05 - entrenchment
+    - 05-07 - war
+    - 08-10 - retreat
+    - 11-12 - entrenchment
+    - 13-15 - war
+    - 16-18 - retreat
+  - shia symbols have become banal in the modern age
+  - [[id:57DE1BA8-C534-4994-B5DE-4BF89C74F9CE][muhasasa]]
+  - 2005 elections were was sect census
+  - [[id:D5049E3D-4C2C-432F-B5CD-C10B4100E099][Harmes: Political Marketing in Post Conflict Elections]]
+  - [[id:D565EE03-B588-489C-BDB7-DACD67FA5F8A][islamic state (is/isis/isil)]] forced an ambivilant sunni political actors to align with the state
+  - [[id:F865749E-FE10-4D67-B256-A742D9FA1490][khamis al-khajar]]
+  - shia politicians now has as much to fear from shia public
+  - shift from sect to class
+
+* Conclusion
+- sectarianism stigmatizes real greviances based on class and ethnic lines
+- sects are often more accomodating than non-sectarian countries
+- "sectarianism" is often instrumentalized
+- each part of sectarianism requires a different theory

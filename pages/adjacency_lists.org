@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       9F7976A7-87F4-4039-8B4C-B2CAA52C873C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: adjacency_lists
+#+TITLE: adjacency lists
+
+Tags: [[id:2C626284-F74C-4110-83A7-AE07B6D0A451][algorithms]]

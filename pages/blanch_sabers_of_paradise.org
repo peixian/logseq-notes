@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       D97C7080-FF2F-4D11-84A5-C805202F1690
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: blanch_sabers_of_paradise
+#+TITLE: Blanch - Sabers of Paradise
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]]
+
+- Heavily influenced Dune
+- Revolves around Imam Shamyl, “The Lion of Dagestan,” during the struggle against Russians
+- https://lareviewofbooks.org/article/the-secret-history-of-dune/

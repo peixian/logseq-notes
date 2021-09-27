@@ -1,0 +1,59 @@
+:PROPERTIES:
+:ID:       2E747AB7-60C7-4EFC-AA31-FD8AB58DDD00
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: un_and_global_governance_lecture_4
+#+TITLE: un and global governance lecture 4
+
+Tags: [[id:6377293C-2556-4797-9A2B-FED088E549BA][UN and Global Governance]]
+
+- Operational uncertainty
+- Overambitious mandates and underresourced
+  - Brahimi and HIPPO
+    - similar roles
+  - long leads on budgeting process
+    - inflexibilty of budgeting process
+- Adamczyk - view of poc mandates wrt to force differ between UNSC and TCC
+  - penholder roles and uncertainty?
+- IOM - UNMISS were poorly coordinated
+- [[id:7F21E0FF-7A07-47B2-B37C-75C2AD210FCB][Gorur and Sharland: Prioritizing the Protection of Civilians in UN Peace Operations]]
+  - phaesd mandates
+- [[id:13DCA783-FD1B-4C8A-9905-FE4DAF8003A1][Blocq: The Fog of UN Peacekeeping]]
+- is it possible to write a mandate process that is the actually aligned with the situation on the ground?
+  - tripe hatting -> is this fundalmentally wrong?
+- instituional knowledge -> is this fundalmentally lacking?
+- how much is the idea of PoC a lipstick on a pig?
+- merger of equals
+  - merger of different departments without firing
+  - complicated task of poc
+    - impossible to itemize all potential issues
+- humanitarian space
+  - when the UN enters the humanitarian space, what does that forclose?
+  - IOM report talked about how the UN as a place of support, but if the mandates are interpreted differently, what happens?
+- how much does tcc influence have on the mandate?
+* Regulatory Frameworks
+- International Humanitarian Law
+- UN Mandates
+* PKO roles
+- Local communities should be made aware of the mandate and role of PKO's
+- tipping off gas is #1 crime
+* focus on civilian protection
+- 1999 studies show 90% of deaths on civilians
+* Range of POC Activities
+1. Protection through Political Process
+2. Protection from Physical Violence
+3. Establishing a protective environment
+* Challenges
+- Political diversity
+- Reactive capability
+- Unclear structures
+- Weak command and control, bad troop interop
+- Poor in house information and intel analysis
+- Bad information sharing <- airwars
+* Organization
+- The triple hatting of the deupty SRSG (RC/HC) is very difficult
+- The Deputy SRSG political controls UNPOL
+* Timeline for Deployments
+- very long lag between troops promised and troops delivered
+- transition period happens as the troops go up
+  - expansion of civilian protection mandate recieve increasing more scruinty

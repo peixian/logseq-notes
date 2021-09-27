@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       757F8C94-7D61-49C8-BD3F-2ED80D433D74
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: adnan_al_asadi
+#+TITLE: adnan al-asadi
+
+Tags: [[id:892AA907-7AC7-416C-9E42-21B70840A14F][iraqi parliment]]
+
+Ally of [[id:551974DA-A83D-409F-8426-61DE3A40D43F][nouri al-maliki]]

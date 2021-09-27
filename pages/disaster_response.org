@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       00620668-69B5-4981-8FF6-70C3CBC5B3B0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: disaster_response
+#+TITLE: disaster response
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]

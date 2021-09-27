@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       1B67B157-E442-4F2B-BDDD-E4B715ADBE5A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: organizational_structure_of_the_hashd
+#+TITLE: organizational structure of the hashd
+
+Tags: [[id:0AE7D45A-DA37-40AE-A5CD-AEB6694E810D][Knight et al - Honored, Not Contained]], [[id:9E5E0478-4353-45D3-A480-0AED0A7AD64B][hashd commission]], [[id:ADFAE0CB-D584-4CE9-9965-4E76C474546E][hashd al-shaabi (PMF)]]
+
+- over 150k personnel
+- 2.097 trillion iraqi dinars (2.16 bilion USD)
+- operations in every province except [[id:0B9FAF9E-0A55-44FE-96CE-D6D382CF6617][KRG/iraqi kurdistan]]
+- proto-ministry structure has emerged, solidifed with [[id:A39A92BB-5AF1-4C86-8B5D-007981E4CEEA][executive order 331 (2019)]]
+* National Leadership
+  - Chairman/President of the Comission
+    - Termed chairman until sep 17, 2019
+    - can be drawn from anywhere, [[id:4F59D34B-7839-4FA8-A61F-97BCE0E62359][iraqi prime minister]] canchoose whoever and can delegate whatever powers
+    - similar to a civilian minister
+  - Chairman/President's office
+    - Office has never had a large staff
+    - Longtime chair [[id:9D5A77DF-EF89-4DA3-B9C4-CA80B260EDD5][faleh al-fayyad]] admits he does not closely control it
+    - likely to wield day to day operational authority
+  - Deputy Chairs' Office
+    - [[id:F643CE85-DE07-4F56-B49E-8439D1479B34][executive order 85 (2018)]] specifies two deputy/vice chairs
+    - held by [[id:B4495945-1A3F-4927-967A-03C0D2992069][abu mahdi al-muhandis]] until his death
+    - [[id:A39A92BB-5AF1-4C86-8B5D-007981E4CEEA][executive order 331 (2019)]] nominally dissolves this
+  - Chief of Staff's office
+    - minimal under muhands
+    - 331 restores this as one of the top posts
+  - Assistant Chairs' office
+    - 331 envisions assistant chairs for
+      - tribal affairs (currently held by [[id:B0B17D02-C93A-4C87-B2A0-0B277A3B22AF][thamir al-tamimi]])
+      - fighter affairs (currently [[id:EEC025E4-7A8A-428B-AE4C-662BA736F2B2][ali shakir al-khafaf]])
+      - administration (currently [[id:8181BD02-B1B0-4AB5-ACB2-32A0BCC479C6][hamid al-shatri]])
+* Staff Directorates
+  - 26 directorates pre-331
+  - 46 directorates post-[[id:A39A92BB-5AF1-4C86-8B5D-007981E4CEEA][executive order 331 (2019)]]
+** Directorates reporting to the Hashd President
+   - Administrate affairs (currently [[id:07CD7BEA-BCD8-4606-94DF-F5C7DE4C1866][sultan al-musawi]])
+   - Financial affairs (currently [[id:8B3339F5-33B9-4D86-AC83-C5991BC9A044][hussein ismail khalil]])
+   - Security directorate (currently [[id:E155DA42-9C5D-45F4-8B03-51B9D88754C5][abu zainab al-lami/hussein falal aziz al-lami]]
+     - monitors discipline and security
+     - also developing into internal affairs force with intelligence and special forces capabilities
+   - Office of inspector general (currently [[id:5066CAA4-A73A-4F48-8535-C71B388E8504][abu ali al-basri/adnan ibrahim al-najjar]])
+   - Religious guidance directorate (currently [[id:C82A3553-9E7B-4459-BB83-BEA09BA4E675][muhammad al-haidari]])
+     - one of the first directorates
+     - offers classes on literacy and computer/smartphones
+   - Planning and budgeting directorate (currently [[id:77049DFD-F9B9-453B-9FD5-A5FD026FBA5A][haider al-furaiji]]
+     - currently very small and limited
+   - Others
+     - Legal
+     - Verification and Oversight
+     - Education
+     - Public Relations (currently done by the Mobilization Directorate lead by [[id:36C7666B-F1B8-4F40-9ED2-6E6D456C3759][sheikh abdul rahman al-kakhimi]])
+     - Media (currently [[id:1C572C65-6CDE-4E41-B351-E9C8311D8812][muhannad al-aqabi]])
+       - part of hte War Media Team
+     - Spokesman (not a formal department, currently [[id:C4FD3722-E791-40C0-ADCA-0147DE914032][abdul hadi al-darraji]])

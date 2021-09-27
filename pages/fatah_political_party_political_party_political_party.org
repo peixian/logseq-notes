@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       DA59FDA7-A1B8-4BB1-8592-C9EB9014CF5C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: fatah
+#+TITLE: fatah (political party)
+
+Tags: [[id:5E8F7C5C-9300-41D5-A90C-8E7A4235E584][iraqi political parties]]
+
+for [[id:ADFAE0CB-D584-4CE9-9965-4E76C474546E][hashd al-shaabi (PMF)]], run by [[id:FC44D1C5-85B1-4B42-A03C-5D91C0C11FAD][hadi al-ameri]]

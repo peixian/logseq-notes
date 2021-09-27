@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       C0F54F6C-C9A6-4ECB-AEDE-64ED7477C8DC
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: food_production
+#+TITLE: worldwide food production
+
+Tags: [[id:2F891118-4D17-4227-BD32-4964F6DBF8D6][fao]]
+
+#+begin_quote
+Currently, worldwide food production exceeds 2,750 kilocalories per person per day [15], which exceeds the amount required to feed the global population. Although these data account for farm-level waste, they do not include the estimated 20% household food waste [44]. Hence, currently available calories are likely to be about 2,200 kilocalories per person per day, which is sufficient for the world’s current population [23].
+#+end_quote
+
+from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6198966/

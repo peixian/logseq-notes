@@ -1,0 +1,97 @@
+:PROPERTIES:
+:ID:       779E6EF7-2A90-4D3E-A0AE-78B25F1C3FCD
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: un_and_global_governance_lecture_12
+#+TITLE: un and global governance lecture 12
+
+Tags: [[id:6377293C-2556-4797-9A2B-FED088E549BA][UN and Global Governance]]
+* Joseph Galtun
+- IMF and World Bank - unholy trinity
+-
+* mali
+  - coup
+  - UN mandate is unrelated to the mali coup
+  - sequencing in what peacekeeping should be doing and asking who is dirivng the peacebuilding process?
+  - more targeted and specific interventions
+  - gap between level of intervention (scale) and what it attempts to do
+    - what the end state should look like
+* lecture
+  - vast majority of states reconstructed has been democratic state
+  - seems to be an end-state in what peacebuilding looks like
+  - supporting role of the UN government makes it easier on UN to shirk their responsbilities
+  - shifting conflict prevention
+    - moving from patching emergencies to preventing conflict from happening
+* readings
+  1. political barriers of conflict prevention
+     - RC system
+       - is this conservative?
+       - runs into challenges for political reasons
+       - hard to sell, people are not interested in conflicts that may or may not emerge
+       - intra-state conflict has greatly surged
+         - internationalized interstate conflict
+  2. aspects of prevention
+     - conflict prevention is more localized
+     - seeking to address capacity issues
+     - [[id:8432F27D-0BB5-484E-B3F6-360B0D04B91D][Cliffe: UN Peace and Security Reform]] praises the reorganization
+     - managing short term priorities while also mitigating the long term risks
+       - lack of respect for human rights
+     - important of coalition, prevention must be a collective effort
+
+  3. concepts:
+     - prevenative diplomacy
+       - narrow focus, clear trigger, works by shifting decision-making calculations of conflict actors away from violence
+       - move actors away from the local and try to get a comprimise
+     - structural violence prevention
+       - what are the structural conditions that contribute to the onset of conflict?
+       - how do we transform these structures?
+       - largely solidified
+  4. evolution
+     - Dag Hammarskjold
+     - Perez de Cuellar
+     - Bourtros Boutros-Ghali
+     - Kofi Annan
+     - Ban Ki-Moon - restructuring
+     - Antonio Guterres - prevention became THE priority
+       - prevention ops is much larger, almost the size of peace operations
+
+         #+DOWNLOADED: screenshot @ 2021-04-21 17:04:00
+         [[file:readings/2021-04-21_17-04-00_screenshot.png]]
+
+
+- when do host governments spoil peace?
+- should allocations go to near term emergencies?
+- been a demand for mediation experts
+  - is this workable? can mediators be dispatched anywhere?
+- bureaucratic misalignments in structural prevention
+- reform plan from Gueterres
+  - still assessing whether the decoupling has a good impact
+  - prevenative diplomacy has shrunk, this has been regrowing
+* questions
+  - causing of funding with engagements from local actors
+    - strategic frameworks is done every two years, across the board entites that recieve regular budget (aka from member state dues)
+      - specific member states are very interested in funding initiatives such as gender or sexual based violence
+      - existing multi-donor trust fund
+        - goes hand in hand with technical assistance
+        - remains to be seen if the member states
+  - lots of readings focus on diplomatic solutions
+    - is there a role or benefit forceful action?
+    - carrot and stick strategy has no consistency
+      - multidimensional peacekeeping missions in the [[id:1A7F8EC9-B51F-460B-A078-FCB63DEC29B7][democratic republic of the congo (DRC)]], in every iteration since 2006
+        - issues with local actors not trusting MONUSCO
+  - how much is funding involved in prevention plans? how much can be expected of the UN in conflict prevention?
+    - existing trust fund
+    - started to shift certain departments
+    - emphasis on power sharing agreements
+      - what are they modeled on?
+      - liklihood of breakdown
+      - nonconsolidation of democracy
+  - "sustaining" is the operative word
+  - dealing with the binary of peace/non-peace
+    - moving to hybrid notions of how to co-opt
+    - social cohesion to build "resilence", but only one layer
+    - very troublesome, still powerbase driven, lack of curiosity
+    - disapora - less so with the UN, focused on a statist approach
+      - more promentiant on smaller NGO's
+      - the UN is focused on spoilers to the peace process, not specifically power players
+  - what is the role f

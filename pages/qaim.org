@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       5546F23D-E4B4-4A1C-98D9-CEF11DDF394B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: qaim
+#+TITLE: qaim
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+- Cited in [[id:5B1EEFCB-617C-455A-875B-C4F933D92DF6][Akdedian et al: State atrophy and the reconfiguration of borderlands in Syria and Iraq]]
+
+- City in Iraq
+- Large phosphate industry
+  - due to connection with [[id:105A47A9-B2B1-46B8-9531-52E9E39414AB][baghdad]] via railroad
+- Suffered due to 1991 bombings and then subsequent sanctions
+- Now a hotspot for insurgents

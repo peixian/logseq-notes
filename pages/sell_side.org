@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       B19CB7FA-A904-4F66-AFF3-230E15033ED3
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sell_side
+#+TITLE: sell side
+
+Tags: [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]]

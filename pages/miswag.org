@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       A2A280FB-6732-4E94-BAC4-F39CEF78E435
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: miswag
+#+TITLE: miswag
+
+Tags: [[id:973C72C6-68A8-47F4-AEAF-290F4785DCE1][iraqi tech community]]
+https://www.wamda.com/2020/09/miswag-closes-second-seed-round
+https://www.crunchbase.com/organization/miswag

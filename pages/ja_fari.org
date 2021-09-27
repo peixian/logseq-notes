@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       D6E63144-DA56-4125-AAFA-13AE3DECF7F5
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ja_fari
+#+TITLE: ja'fari
+
+Tags: [[id:BB2783B7-0E6B-4886-8007-EC63A9C67096][islamic jurisprudence]]

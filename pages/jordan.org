@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       67DC79D4-6A11-4491-8A71-8C9746477DE4
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: jordan
+#+TITLE: jordan
+
+Tags: [[id:C61C3FE4-06C6-4621-818B-503E36E83B7C][middle east]]

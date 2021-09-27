@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       0E4E6ABB-2CD6-4D9E-9E8F-2B2B1500B2F0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: java
+#+TITLE: java
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+* [[id:536A2E92-A8DF-4C50-ACFC-144169FCA6B5][tail call optimization]]
+  - https://github.com/Sipkab/jvm-tail-recursion
+
+* JVM profiling
+- https://blunders.io/
+- Java Flight

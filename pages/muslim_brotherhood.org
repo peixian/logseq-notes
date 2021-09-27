@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       E48F6D7F-36EB-4F1E-8DF6-35AF238E024F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: muslim_brotherhood
+#+TITLE: muslim brotherhood
+
+Tags: [[id:5E5E8287-6677-468A-8B62-7AA634A3E5CC][islam]], [[id:42F0A616-7195-4034-8A0C-53BBA045A294][islamic political thought]]

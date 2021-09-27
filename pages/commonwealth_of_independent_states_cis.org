@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       FE053A71-9A78-4B8A-8263-E60D8FCD2BAA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: commonwealth_of_independent_states_cis
+#+TITLE: commonwealth of independent states (cis)
+
+Tags: [[id:E69D04FC-4187-4A6A-B30C-C732D00C14D5][central asia]]

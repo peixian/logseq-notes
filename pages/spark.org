@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       E707C883-BDB6-4409-B19A-FCAEE65985B2
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: spark
+#+TITLE: spark
+
+Tags: [[id:EF04E878-C5CD-4CDC-AB77-4CF215733221][scala]]

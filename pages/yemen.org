@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       87825E0D-CF52-42BD-AC39-4EAC4B565EA3
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: yemen
+#+TITLE: yemen
+
+Tags: [[id:C61C3FE4-06C6-4621-818B-503E36E83B7C][middle east]]
+
+- http://www.eternal-yemen.com/visa-for-yemen/
+- https://www.wanderingearl.com/is-yemen-safe-for-travelers/
+- https://en.wikipedia.org/wiki/Yemen_Gate
+- https://en.wikipedia.org/wiki/Socotra

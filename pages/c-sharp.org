@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       94FC4D5C-D198-4AE8-91F9-FE73C24E1AC0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: c-sharp
+#+title: c-sharp
+
+[[id:5717AC93-7D2F-4E0B-BB2D-FD5C09FE4A9B][programming languages]]

@@ -1,0 +1,61 @@
+:PROPERTIES:
+:ID:       01A50F62-11A4-4F59-A576-BDDAAD1017EC
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: un_and_global_governance_lecture_13
+#+TITLE: un and global governance lecture 13
+
+Tags: [[id:6377293C-2556-4797-9A2B-FED088E549BA][UN and Global Governance]]
+
+* presentation planning
+- small summary
+- background and history of sexual violence
+  - how it became popular
+- issues with papers and methodology
+  - statistics here implies intercorrelation under casual networks
+    - everything is correlated and bet on sparsity principals
+- paper one pager
+  - The mechanics of the mission entails several second order effects
+    - interactions with local populations
+      - sexual exploitation and abuse (SEA) - Karim & Beardsly
+        - Finds that reductions of SEA require "cultivation of value for gender equality among all peacekeepers"
+      - peacekeeper babies - Simić and O'Brien
+        - First became a concern in Liberia and East Timor
+        - Zero tolerance policy remains muddly and makes little distinction between exploitative and consensual relationships.
+    - host government
+      - taxation and pay
+        - Host governments are often in a weak position, and UN tax exemptions "undermines the building of a viable local revenue authority"
+        - Because the UN often pays more than civil service positions, a "brain drain" may occur from civil servant roles towards UN ones
+      - question of whether the government exists or not
+        - Lack of sweage and sanitation systems can magnify issues the UN brings, such as cholera - Lemay-Hébert
+    - these effects have a direct impact on the success of the mission
+      - technocratic fixes tend to ignore interactions with the local populace
+      - engagements with the host government are shallow and often act as the UN is not on the ground
+      - these effects are not necessarily "unintented", but rather delayed and not considered at the start of the mission
+
+
+- Second order effects abound:
+  - Sexual exploitation and abuse of local populations by peacekeepers began to be addressed in 2002
+
+* presentation
+- will talk about uninteded and second order effects of UN peacekeepers
+- focuses on the mechanics of peacekeeping troops
+- Will be split into talking about the UN's interactions with local populations, with the host government and broader takeaways
+
+* adam day
+  - political economy lens
+    - understands how the impact of interventions in the systems in the markets
+  - modern conflicts are driven by greed
+    - greed vs grievance (jake sherman - greed and greivance)
+    - paul collier - greed explains better than grievance, economic models predict better than political ones
+      - binary does not necessarily exist
+      - granularity of nation level does not actually tell us very much
+  - shift in scope and ambition and usage of force in peacekeeping
+  - oversight of peace agreements to building of state authority and capacity building
+  - model of conflict where the state needs to be extended
+  - give war a chance - luttwak
+    - elite bargins project
+  - peacebuilding and authoritarianism
+  - statebuilding ideaology - susan woodward
+  - elite capture of peacebuilding
+  - severene autessare - the trouble with the congo

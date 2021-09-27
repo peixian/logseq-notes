@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8BDE1C16-9C61-41CC-97C4-CDDD1BC289DF
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: google_ngrams_for_historians
+#+TITLE: google ngrams for historians
+
+Tags: [[id:5D4FD56C-329E-4881-AEBC-EFE6DDF0F29D][articles]]
+
+
+https://hazine.info/google-ngram-for-historians/

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       564A88CF-CBDF-47BA-9D75-3481D70B4398
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ukraine
+#+TITLE: ukraine
+
+Tags: [[id:E2821844-9819-49F2-9CE7-CD04EDDB2E85][europe]]

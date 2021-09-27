@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       C20B3868-AB59-4712-A876-4793674B3D87
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: writing_tools
+#+TITLE: writing tools
+
+Tags: [[id:D51D4006-2F02-4305-BBEF-5EDEFDCFD334][writing]], [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+
+- https://github.com/abingham/flycheck-vale
+- http://proselint.com/
+- https://github.com/bnbeckwith/writegood-mode
+- https://github.com/ksafford/bannedit
+- https://en.m.wikipedia.org/wiki/Writer%27s_Workbench
+- https://www.youtube.com/watch?v=aFwVf5a3pZM
+- https://news.ycombinator.com/item?id=23911577
+- https://alexnixon.github.io/2019/12/10/writing.html

@@ -1,0 +1,85 @@
+:PROPERTIES:
+:ID:       4D99D1A7-7BEF-4A2D-ABCA-47F3961575FD
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hugo
+#+TITLE: hugo
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][Computers]]
+
+{{< katex  display>}}
+{{< /katex >}}
+
+
+- Quickstart - https://gohugo.io/getting-started/quick-start/
+Themes:
+- https://themes.gohugo.io/hugo-book/
+
+- https://willschenk.com/articles/2019/using_org_mode_in_hugo/
+
+* Hugo Theme Demo Features
+
+** Code
+   #+begin_src python
+     import os
+
+     os.print("test")
+   #+end_src
+
+** Buttons
+   {{< button relref="/" class="..." >}}Get Home{{< /button >}}
+   {{< button href="https://github.com/alex-shpak/hugo-book" >}}Contribute{{< /button >}}
+
+** Columns
+   {{< columns >}} <!-- begin columns block -->
+   # Left Content
+   Lorem markdownum insigne...
+
+   <---> <!-- magic sparator, between columns -->
+
+   # Mid Content
+   Lorem markdownum insigne...
+
+   <---> <!-- magic sparator, between columns -->
+
+   # Right Content
+   Lorem markdownum insigne...
+   {{< /columns >}}
+
+** Expand
+   {{< expand "Custom Label" "..." >}}
+   ## Markdown content
+   Lorem markdownum insigne...
+   {{< /expand >}}
+
+** Hints
+   {{< hint danger >}}
+   **Markdown content**
+   Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
+   stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
+   {{< /hint >}}
+
+** Katex
+
+   \( f^* = p - \frac{q}{b} = \frac{bp-q}{b} = \frac{bp-(1-p)}{b} = \frac{p(b+1) - 1}{b}\)
+
+** Mermaid
+   {{< mermaid class="text-center">}}
+   sequenceDiagram
+   Alice->>Bob: Hello Bob, how are you?
+   alt is sick
+   Bob->>Alice: Not so good :(
+   else is well
+   Bob->>Alice: Feeling fresh like a daisy
+   end
+   opt Extra response
+   Bob->>Alice: Thanks for asking
+   end
+   {{< /mermaid >}}
+
+** Tabs
+   {{< tabs "uniqueid" >}}
+   {{< tab "MacOS" >}} # MacOS Content {{< /tab >}}
+   {{< tab "Linux" >}} # Linux Content {{< /tab >}}
+   {{< tab "Windows" >}} # Windows Content {{< /tab >}}
+   {{< /tabs >}}

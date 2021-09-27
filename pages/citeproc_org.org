@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6B4E597F-6263-4EE2-87F5-F9730E38F647
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: citeproc_org
+#+title: citeproc-org
+
+
+[[id:A5B60132-60E3-41C5-BCC7-622F05AA203A][org-mode]] extension to allow for easy export of [[id:EB366621-52E8-4E72-A786-A4E62913A794][Org-ref]]
+
+- https://github.com/andras-simonyi/citeproc-org

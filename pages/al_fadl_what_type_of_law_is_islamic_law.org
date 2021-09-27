@@ -1,0 +1,85 @@
+:PROPERTIES:
+:ID:       8B3E233D-7371-4E24-98FB-A98A8E7FB165
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: al_fadl_what_type_of_law_is_islamic_law
+#+TITLE: al-Fadl: What Type of Law is Islamic Law
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:BB2783B7-0E6B-4886-8007-EC63A9C67096][islamic jurisprudence]]
+
+Fadl, Khaled Abou El. “What Type of Law Is Islamic Law?” In Routledge Handbook of Islamic Law, edited by Khaled Abou El Fadl, Ahmad Atif Ahmad, and Said Fares Hassan, 1st ed., 11–39. New York, NY : Routledge, 2019.: Routledge, 2019. https://doi.org/10.4324/9781315753881-2.
+
+* Notes
+[[id:6D1614AE-5942-4FAA-A20C-F50C09327993][- sharia law]] as not a "law" but as a result of islamic normativity
+- sharia as a practised disipline of deliverative and purposeful practical reasoning
+- reduction of sharia through western eyes, codification of sharia actually reduces
+  - cannot disembody sharia law from the norms that constructed it
+  - codifciation of sharia in terms of western jurisprudence is like a phantom limb, feeling something that isn't there
+  - codification of the divine
+- poses two main questions: is modern state law, focused on centralized burecratic control, the 'ruin' of Islamic law? and can Islamic law exist in the modern age outside the state?
+  - is islamic law doomed to be passed down from the state?
+- what is the nature and purpose of Islamic law?
+  - Islamic jurisprudencial theory talks about the complexity of the divine
+  - does not fault jurists for arriving at wrong conclusions, so long as they make an attempt
+
+- Islamic law is "bottom up", derived from communities and norms
+- Western law is "top down", derived from a centralized state
+  - interesting that the reading addresses [[id:A599953A-8285-40F8-8DEF-EB07A4BA8C66][austin's theory of law]] but does not address [[id:DBE91307-ADE7-443A-A72C-75ED3A701770][hart's theory of law]]
+  - hart considers the law as conferring powers and imposing duties, such as the problems of duty imposing laws and continuity of laws
+  - is Islamic "law" more closer to how Hart perceives it? Hart actually assumes a pre-legal society where "laws" are social customs, diving into the problem of uncertainty and problem of stasis
+  - hart's rule of change and rule of adjudication
+    - rule of change -> confers authority and positions to change the rules
+      - al-Fadl talks about the difference between sharia and [[id:35BCB864-E558-4DB1-9C8E-39D0E9BBE664][fiqh]]
+        - sharia confers authority only to god
+        - [[id:35BCB864-E558-4DB1-9C8E-39D0E9BBE664][fiqh]] confers authority to jurists
+    - rule of adjucation -> distinguishes which rules are which
+      - already stated as above
+
+- foundations of Islamic jurisprudence:
+  1. Qur'an
+  2. Sunnah
+  3. qiyas (analytical reasoning)/reason for shi'i's
+  4. ijma (juridical consensus)
+- notes that many jursists already recongized that the authenticity of the qur'an was divine, but the practices of the prophet were not always the most accurate
+- Pluralism of islamic law
+  - early schools proliferated and had to walk a fine line between upsetting the state and mediating between the masses and the state
+
+- [[id:EADA020D-3020-4971-BCC5-589259B1CE26][al-Juwayni]] recongized that there was no correct answer in legal questions, but there were /best/ answers
+- as long as jursists exerted effort and due diligence, the resulting determination held legitimancy
+- sharia is the divine, ffqh is recongized only to be potentially so
+- very few parts of sharia that were exempty from human inquiry
+  #+begin_quote
+During the age of proliferation, one does notice the incredibly broad expanse of space which came under the legitimate jurisdiction of fiqh. Put differently, there did not seem to be many issues in the shari'ah that were off limits for the inquiries of fiqh
+  #+end_quote
+
+- sharia seeks to promote 5 principals
+  1. life
+  2. intellect
+  3. reputation or dignity
+  4. lineage or family
+  5. property
+- four sunni schools
+  - [[id:9C5BD69C-A677-4EFD-828E-50ABC522626F][hanafi]]
+  - [[id:2273137A-7246-4B89-A704-252AFCEF2DBA][maliki]]
+  - [[id:96DA0009-D506-4D5E-968D-C45655EE5136][al-shafi'i]]
+  - [[id:AA226DFB-A4D4-437D-BA93-C310004E63A1][hanbali]]
+- three shia schools
+  - [[id:D6E63144-DA56-4125-AAFA-13AE3DECF7F5][ja'fari]]
+  - [[id:7C7F574A-E99D-4B01-B2C3-1F2181B7144F][zaydi]]
+  - [[id:40C1E4D1-B02F-4F6B-8A61-9F71CBB0BAAC][ismaili]]
+- also talks about islamic revivalism, and how that lead to the codification of shariah in the contemporary age
+- difference between ibadat and mu'amalat
+  - ibadat deals with matters of ritual and worship
+    - favors textualism and originalism
+  - mu'amalat regulates human relationships
+    - favors creativity and reasoning
+- possible to specialize in either ibadat or mu'amalat without doing the other
+- considerable debate under what is considered ibadat or mu'amlat
+  - zina (fornication or adultery) or alcohol consumption, for example
+
+- fiqh is contextual and temporal
+  - [[id:E04E75BC-3E9E-4115-8AF8-0D9276510FFF][abu hamid al-ghazali]]
+
+- jursists agreed that humans cannot benefit or harm god, so unlike the rights owed to human beings, the rights of god do not involve any actual interests of god
+  - leading to ideas about how huquq al-ibad (rights of god) does not refer to public or common rights, but the material interests and benefits of all mankin
+  - god does not need to empower an agent, humans do

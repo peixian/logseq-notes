@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       337E0E6C-F76D-41C3-8C8E-170052E10131
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: executive_order_237_2019
+#+TITLE: executive order 237 (2019)
+
+Tags: [[id:ADFAE0CB-D584-4CE9-9965-4E76C474546E][hashd al-shaabi (PMF)]]
+
+Issued July 1, 2019, followed form a June 18th statement, with a July 31st deadline
+
+July 29, chairman [[id:9D5A77DF-EF89-4DA3-B9C4-CA80B260EDD5][faleh al-fayyad]] asked for 2 more months
+
+* Elements
+- Removal of Unit Names from Hashd Formations
+- Shutting down of nonauthorized camps and offices

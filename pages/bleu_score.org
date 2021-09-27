@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       709E579A-9E03-402A-8DCB-B4015BB6B6AE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: bleu_score
+#+TITLE: bleu score
+
+Tags: [[id:48350662-53E9-4A91-9ADB-2BC9DFEA6098][nlp]]
+
+
+- https://en.wikipedia.org/wiki/BLEU
+- evaluating the quality of text that's been machine translated from one language to another

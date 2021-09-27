@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       E327AF20-D000-4518-AF20-0693BF5262D0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: nasiriyah
+#+TITLE: nasiriyah
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

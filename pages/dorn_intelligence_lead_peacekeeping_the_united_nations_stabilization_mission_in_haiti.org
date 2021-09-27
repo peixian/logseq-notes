@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       1B2E2248-A01C-4D1B-89A2-44B8FEE3DDD7
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: dorn_intelligence_lead_peacekeeping_the_united_nations_stabilization_mission_in_haiti
+#+TITLE: Dorn: Intelligence Lead Peacekeeping - The United Nations Stabilization Mission in Haiti
+
+Tags: [[id:CFDF435E-7655-449A-BE22-8926D8F1CD40][un and global governance lecture 6]], [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:A61A851F-F49E-4ADE-83BB-BA4FF1F1812F][haiti]]
+
+Dorn, A. Walter. “Intelligence-Led Peacekeeping: The United Nations Stabilization Mission in Haiti (MINUSTAH), 2006–07.” Intelligence and National Security 24, no. 6 (December 2009): 805–35. https://doi.org/10.1080/02684520903320410.
+
+- the PKO in haiti adopted a joint mission analysis center that allowed them to synthesize information
+- one of the first pioneers of "intelligence led" UN operations
+- largest slums were in the Cite Soleil slum of Port au Prince, flushed out through expert recon and intelligence gathering
+- carefully monitored "Blue House", the central location of the gang lord
+- Noted that intelligence capability came and left with different contingents
+- Setup a tip hotline, although it wasn't that useful in the end
+- first operation to use a UAV

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       9CCF2FDC-4B10-4E45-8414-9D1815AD7ADB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: euclid_s_theorem
+#+TITLE: euclid's theorem
+
+Tags: [[id:0C55E344-F9AE-4584-B54F-83EC2FCE9062][math]]
+
+Reasoning provides proof of numbers

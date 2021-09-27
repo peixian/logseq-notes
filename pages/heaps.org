@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       4A1E851C-FD6F-41EC-B3F0-C121B88AB9E4
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: heaps
+#+TITLE: heaps
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- https://en.wikipedia.org/wiki/D-ary_heap

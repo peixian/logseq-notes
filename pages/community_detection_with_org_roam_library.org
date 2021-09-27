@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       16466BE0-9783-491E-8E46-92C98D3B7494
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: community_detection_with_org_roam_library
+#+TITLE: community detection with org-roam library
+
+Tags: [[id:07B6B671-AF53-4AF5-BCDF-468F5FE7489A][org-roam]], [[id:9217175F-EC79-4828-9A53-FD9F1FD8C09C][python]], [[id:56FE5F20-C0E8-4DFD-98E0-1025598E0AB8][d3]], [[id:6327B337-4ECF-499F-853A-9D94F8650975][community detection]]
+
+- build tool
+- ipynb
+- export and build tool picks it up automatically
+- dump it out into a html file and json file
+- https://www.d3-graph-gallery.com/graph/arc_highlight.html
+* blog post
+  - 2d right now
+    - physical space reveals link proximity
+    - coloring reveals communities among the links
+  - 3d with colors
+    - colors reveal something else
+    - leiden within communities
+  - future plans:
+    - automated zone detection?
+    - better choices of

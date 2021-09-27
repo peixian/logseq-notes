@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       7958FF31-D30E-495D-BF23-DA5EABA099C6
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: paper_mario_orgami_king
+#+TITLE: paper mario orgami king
+
+Tags: [[id:CAFF2018-7C24-402E-9528-464A87D2DC39][personal]]
+
+- Paper mario orgami king battles use "good" and "perfect" for when the battles in up properly
+- How well can we solve this via SMT?
+- Two main targets:
+  - Hammer 2x2
+  - Boots 1x4
+- N moves:
+  - 4 rings
+  - Up/down
+  - Left right
+- Possible board states:
+  - 12 ring spokes
+  - 4 ring slots per spoke
+  - 48 total positions
+- Via constraints
+  - 12x4 array
+    - 0 as the horizontal index rotating clockwise
+  - solve s.t. row is either:
+    - all filed (1,1,1,1)
+    - half filled (1,1,0,0)
+  - movements: either shift backwards/upwards by any mount
+    - (1,1,0,0) -> (0,1,1,0), -> (0,0,1,1)
+    - or upwards
+      - (0,0,0,0) & (0,0,0,1) -> (0,0,0,1) & (0,0,0,0)

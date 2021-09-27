@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7C05085A-564D-4186-B4E7-AD9DC612310A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: un
+#+TITLE: un
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]
+
+* R2P
+  - Responsbility to protect

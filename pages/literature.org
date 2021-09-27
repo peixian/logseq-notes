@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       8C57517D-1831-426A-93CB-2AC9C3FA0157
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: literature
+#+TITLE: literature
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]

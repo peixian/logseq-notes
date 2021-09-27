@@ -1,0 +1,64 @@
+:PROPERTIES:
+:ID:       04A759EE-25B3-4939-9A3B-D06D2516B54E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: mcquinn_ddr_and_the_internal_organization_of_non_state_armed_groups
+#+TITLE: McQuinn: DDR and the Internal Organization of Non-State Armed Groups
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]
+* Summary
+Argues that [[id:E900796C-250A-474B-9054-C0C109C94A24][ddr]] can be seen through rebel groups with their command structure and financing
+
+Posists two axes:
+|                          | Formal  Command Structure | Informal  Command Structure |
+|--------------------------+---------------------------+-----------------------------|
+| Community Based Resource | CPN-Maoists               | Thubactis Battlaion         |
+| Resource Based Resource  | FARC-EP                   | AUC                         |
+
+Compares [[id:0E683482-1AA6-4DE1-9C07-4F52F96CAEDE][maoist fighters in nepal]], [[id:3CA8482E-FE58-4943-95C9-A1705574BF08][FARC in Colombia]], [[id:87DB6C1A-2828-40AF-923C-3D673FC52C99][thubactics battlion]], and [[id:13A519A6-B219-48AD-A9AB-836095AC819D][autodefensas unidas de colombia (AUC)]]
+
+Links to [[id:5915E4D5-6F4F-4B64-B435-DCA3FD99C50F][Kalyvas - The Logic of Violence in Civil War]] and
+- Roy Licklider's seminal study that that 5 years is a standard for peace
+- Also talks about [[id:0F39D232-47FB-4BDF-9AFD-809C65DB7A08][liberia]]'s war based networks and command structures playing a role in DDR
+  - [[id:75596EDC-4243-41A7-A85A-8BC334C2048C][same in burundi]]
+- Notes that relationships between group's internal structure and DDR trajectories have not been studied
+
+
+* Previous research
+  - Civil wars did not account for heterogenity of non-state armed groups until quite late
+  - Several factors
+    1. frequency and severity
+    2. economic drivers
+    3. onset
+    4. duration
+    5. outcomes
+    6. peacemaking negotions
+  - Paper used
+    - recruitment strategies
+    - rebel governance
+    - economic models for group formation
+    - prevalance of child soldiers
+    - the strategies behind violence against communities
+    - fighting tactics
+    - pre-war social networks
+    - role of gender
+    - persistence of small and lightly armed guerilla groups
+  - Uses [[id:8406BD82-EF70-4BB6-B946-A7D8BB85F38D][Weinstein: Resources and the Information Problem in Rebel Recruitment]]
+  - incorporates [[id:87279FA7-E0DC-4A9C-B9E8-F3532210FC31][Staniland - Networks of Rebellion]]
+
+* Command Profile and Economic Profile
+  - Comand profiles can be driven by terror or internal organization
+  - Quasi-judicial processes can enforce greater cohesion, leading to lower levels of uncertainty
+    - [[id:0E683482-1AA6-4DE1-9C07-4F52F96CAEDE][maoist fighters in nepal]] did this, were able to prevent from going back to war despite long term reintegration being stalled
+  - terror caused by individual groups can lead to higher levels of uncertainty, ruling through fear
+    - [[id:13A519A6-B219-48AD-A9AB-836095AC819D][autodefensas unidas de colombia (AUC)]] did this
+
+#+DOWNLOADED: screenshot @ 2020-12-08 21:42:53
+[[file:Command_Profile_and_Economic_Profile/2020-12-08_21-42-53_screenshot.png]]
+- Financing can be either predation on the local community, which leads to higher levels of organizatoin, or resource-extractive based, leading to lower levels of coordination
+
+#+DOWNLOADED: screenshot @ 2020-12-08 21:43:41
+[[file:Command_Profile_and_Economic_Profile/2020-12-08_21-43-41_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-12-08 21:43:54
+[[file:Command_Profile_and_Economic_Profile/2020-12-08_21-43-54_screenshot.png]]

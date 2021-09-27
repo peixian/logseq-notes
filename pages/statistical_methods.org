@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       1E95EA69-5FA9-4065-B175-48E0A4391924
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: statistical_methods
+#+TITLE: statistical methods
+
+Tags: [[id:F2643E37-CED2-492A-A77C-B632F3D203FD][statistics]]
+
+- https://mc-stan.org/

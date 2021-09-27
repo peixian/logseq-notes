@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       CB5B6883-CA3D-4E35-A993-38A57B2E4AB3
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: yt_and_computational_social_sciences
+#+TITLE: yt and computational social sciences
+
+Tags: [[id:5C09008D-C61B-4A8E-BB77-9CF0085D90F6][project ideas]]
+
+usage of yt and root for [[id:4376102D-60BC-475A-B463-8B27B00A4B08][computational social science]]

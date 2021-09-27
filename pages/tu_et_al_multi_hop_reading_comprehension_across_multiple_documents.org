@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       B0233E2D-9BB6-495E-B3C2-1A940E9741F7
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: tu_et_al_multi_hop_reading_comprehension_across_multiple_documents
+#+TITLE: Tu et al - Multi-hop Reading Comprehension across Multiple Documents
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:48350662-53E9-4A91-9ADB-2BC9DFEA6098][nlp]]
+
+- Tu, Ming, Guangtao Wang, Jing Huang, Yun Tang, Xiaodong He, and Bowen Zhou. “Multi-Hop Reading Comprehension across Multiple Documents by Reasoning over Heterogeneous Graphs.” In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, 2704–13. Florence, Italy: Association for Computational Linguistics, 2019. https://doi.org/10.18653/v1/P19-1260.
+- video: https://vimeo.com/384732193
+
+
+- proposes a heterogenous document entity graph with different granularities, uses a graph neural network
+
+- notes that there are two types of reading comphrension problems:
+  1. adding a layer to neural rc models using doc and entity level info
+
+  2. graph neural networks

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       7AA21908-A342-4E50-824D-D5089B9BA570
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: bismayah
+#+TITLE: bismayah
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+Town east of 10km southeast of [[id:105A47A9-B2B1-46B8-9531-52E9E39414AB][baghdad]]

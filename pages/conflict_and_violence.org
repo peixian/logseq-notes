@@ -1,0 +1,147 @@
+:PROPERTIES:
+:ID:       2CA4ACAD-7B98-4C7E-AA8B-FC2E0ADE676A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: conflict_and_violence
+#+TITLE: conflict and violence
+
+Tags: [[id:A63D0CEC-6083-46C5-BD8D-7A8D750FF1A4][classes]]
+
+* Lecture 1
+  - What is violence?
+    - are surgons violent?
+    - what about natural disasters?
+    - what responsbilities do people hve to violence?
+  - structural violence?
+  - is violence only physical?
+    - state effects, social/racial/ethnic lines?
+  - war & violence are defined only as physical violence
+  - "The coming anomoly" - Kaplan - 1995
+  - [[id:2AE1E1F1-FD4C-406D-8455-CC867CF5AFBF][francis fukuyama]] - 1992
+  - Did these two people look at different processes?
+    - did the nature of wars change?
+    - the african civil wars lead to the "new wars theory"
+      - resources instead of identity
+  - how do we define conflict?
+    - [[id:1A7F8EC9-B51F-460B-A078-FCB63DEC29B7][democratic republic of the congo (DRC)]] vs [[id:97BD1E12-9693-4CF4-8A7E-61DFAC324300][united states]] were both in conflict in 2008
+  - how do people research a conflict? Body counts?
+  - Modern warfare tends to harm women/children
+
+
+* Lecture 2
+ What drives violence? Why do people become violent?
+** Shame: Emotions of Morality and Violence
+   [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]
+   - Shame as a motivator
+     - Desire to seek basic forms of dignity
+   - Compares violence to a contagious diease (undetected)
+     - Not very convincing tbh, the metaphor somewhat falls flat
+     - However, Bonnasse-Gahot et. al in 2005 had a study on how French riots followed a similar "contagion" model
+   - Talks about how prisons have a cycle of punishment, harsh behaviors lead to harsh punishments
+   - Proposes 3 conditions of violence
+     1) Feel deeply ashamed of something
+     2) Feel like they have no non-violent alternatives
+     3) Lacks emotional capabilities at the time that inhibit the violent impulses
+   - Fact note: before large scale woman's shelters, the homicide rate between men/women were about the same. After shelters, the homicide rate of husbands killing wives doubled
+   - "It is difficult for many of us to abandon our moral and legal way of thinking about violence" - pg 134
+     - Does this also mean we tend to interpret state violence through an inherent legalistic kind of view?
+** [[id:AF5C49CE-494A-45B0-9F1D-A6BA108772EB][Glick and Paluck: The Aftermath of Genocide]]
+** Lecture
+   - Fukuyama's end of history
+   - Kaplan's "The Coming Anarchy"
+   - DId both of these look at different processes?
+   - Did the nature of war mangle the definitions?
+   - "new wars theory" - wars are fought over ideaology, not resources
+   - Categorizing War
+     - Scale
+     - Type
+     - Actors
+** Connecting Points
+   - Remeberence as a victimization
+* Nationalism, Ethnicity, and Conflict
+  - Richard Semour - Disaster nationalism
+  - ethnic groups as culture bearing units - Bareh: 1965
+  - ethnic groups do not have strict political orientaitons
+  - what are the forms of collective belonging?
+  - [[id:36EA0708-46F0-487A-8B7A-1E7029207144][modernist (nationalism)]] vs [[id:3853DF76-5505-4FBA-8B4F-470F66028E3C][marxist (nationalism)]]
+  - instrumentalism
+    - since ethnicty and nationalism are results of other circumstances
+      - can be co-oped by elites
+      - do elites bring out these identities?
+  - in reality it is very hard to dismiss the actual actors
+  - [[id:9CD7EE97-493A-4EA7-9059-53628490F80D][Mamdani - Trans-African Slaveries Thinking Historically]]
+    - political violence in africa is a continuation of colonial rule
+  - ethnically delinated regimes tend to be created by colonial rule
+* Migration & Violence
+  - people/territory/state -> trinitarian state idea
+* Violence and its victims
+  - humanitarian challenges
+  - victim centered discourse
+  - [[id:9D10B6E5-974C-46D9-BDDF-FA5F1BB3F557][battle of solfernio]]
+  - [[id:BFC2383C-A752-421A-B350-7600A7EB6FF9][ww1]] and [[id:ABC1E9B2-3A87-4BB8-8CB2-19C319EE3510][ww2]] were international humantiarian conflicts
+  - challenges violence by creating victim and victimized
+    - this discourse tends to be too simplistic
+  - problems of the victimhood
+    - victim/villan dichotemy
+      - forced vs non-forced violence
+    - force solutions upon refugees
+      - we see them as passive
+      - harret-bone 1989 imposing aid
+      - jennifer hinnman work in kenya of somali refugees
+    - excludes
+      - the "wrong types" of victims
+        - Fassin 2005, ticktin 2005 - Humantiarian borders
+          - Ticktin, Miriam. “Where Ethics and Politics Meet: The Violence of Humanitarianism in France.” American Ethnologist 33, no. 1 (2006): 33–49.
+  - how do communities resist violence?
+    - peace communities in colombia
+    - migration as resistance
+      - involves agency
+      - choosing to take their lives into their own hands
+  - resisting camps & detention centers
+    - protests and riots in camps
+    - often times these places are detention like
+  - what is resistance?
+    - is resistance collective or individual?
+      - protests/riots/strikes
+    - contentious politics?
+      - contention, collective action
+    - score -> weapons of the weak
+  - theorizing migrant resistance
+    - acts of citizenship
+      - enactment of citizenship from below
+        - migration gets people to get their righs and claiming of risks
+      - acts of citizenship, what changes citizenship
+      - dynamic and accounts for rights of migrants
+        - but also ignores citizenship's ills
+  - automomy of migration movement
+  - border securitization
+* Refugges & Nationalism & Violence
+  - structure & agency in [[id:85B58094-76CD-470D-AD88-2676C2D2A605][sociology]] terms
+  - agency - ability for people to take on rules
+    - is agency the ability to resist a label imposed by an outsider?
+  - context of individual resistance vs collective resistance
+    - relationships between resistance and violence?
+      - resistance is key to struggling against violence
+      - violence breeds resistance
+* Security Climate
+  - Cold war security
+    - whose security was threatened?
+      - primarily state security
+  - post cold war shift
+    - changes the way security was concieved
+    - shift from security studies to constrictivism
+    - power struggles between states
+    - how are threats constituted?
+  - what does a "human security" consist of?
+    - states are:
+      - armies
+      - states
+      - terrotires
+    - humans are:
+      - food
+      - health
+      - education
+      - poverty
+  - is this a peculiar masking as a universal?
+  - how are things concieved of as security threats?
+    - what happens when things become a "other" security threat?

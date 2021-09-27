@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       309B960F-4C34-4FC1-84C0-DE8534FD7747
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: roberta
+#+TITLE: roberta
+
+Tags: [[id:B23DDBD4-476A-4518-97B2-F433192A023D][bert]]
+
+- https://arxiv.org/pdf/1907.11692.pdf
+- https://ai.facebook.com/blog/roberta-an-optimized-method-for-pretraining-self-supervised-nlp-systems/

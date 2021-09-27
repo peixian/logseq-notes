@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       16FDE518-37D0-4E2F-B1F6-86F774FF1E90
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: stoica_et_al_chord_a_scalable_peer_to_peer_lookup_service_for_internet_applications
+#+TITLE: Stoica et al: Chord - A Scalable Peer-to-peer Lookup Service for Internet Applications
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:20BF909F-1046-43B8-8AAE-89A3297FE792][p2p]]
+
+Peer to peer applications have a hard time efficiently locating the node that stores some data items, this presents a key-node mapping functionality, which can then determine data location
+
+Has support for adaption of nodes joining/leaving, and answering queries, scales logarithmically

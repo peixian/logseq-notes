@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       40850F42-F0BE-4E45-B983-D4FA8B9308D1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: average_is_over
+#+TITLE: Average is Over
+
+Tags: [[id:5D4FD56C-329E-4881-AEBC-EFE6DDF0F29D][articles]]
+- https://www.instapaper.com/read/1370386323
+
+Talks about the book /Average is Over/ by Tyler Cowen
+
+Identifies largely 3 winners:
+ - Cognitive elite
+ - Service class to cognitive elite
+
+Bifurcation of class, globalization, labor transfer from less productive regions, etc

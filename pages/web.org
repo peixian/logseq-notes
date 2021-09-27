@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       883B29DB-4BDF-4DD0-A615-02B1220889D1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: web
+#+TITLE: web
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]

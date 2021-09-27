@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       05A29786-1CB7-4622-9317-409D2493613C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: 1_1_meetings
+#+TITLE: 1-1 meetings
+
+Tags: [[id:CAFF2018-7C24-402E-9528-464A87D2DC39][personal]]
+
+1-1 meetings are useful for collecting and receiving feedback early.
+* Avoid:
+- One sided convo
+- All business
+- MIA
+- Distractions
+* Do:
+- Goal settings
+- Consistency is key!
+- Give and receieve feedback
+- Get to known your intern and prioritize personal well-being
+- Encourage brainstorming and problem solving
+- Okay to skip once, never skip twice
+- Ask about their goals
+  - What've they been working on in the side?
+  - Use open ended questions
+- Dig deeper, ask them a lot of questions
+- Guide, without just giving the answers and have people brainstorm with you
+- Setup a time for the intern to meet with other team members

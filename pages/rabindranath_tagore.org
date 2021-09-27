@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       6ED7643B-B77F-4699-B86E-98DE6B52F238
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: rabindranath_tagore
+#+title: Rabindranath Tagore
+
+- [[id:08442549-7E03-4DC0-AC9D-AFB23CD6AC48][bangladesh]], [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]
+
+Bengali liberal

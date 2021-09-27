@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       2F90E8E5-3B4B-4ACC-89D9-10998AB7517F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: palestine_liberation_organization_plo
+#+TITLE: palestine liberation organization (PLO)
+
+Tags: [[id:C61C3FE4-06C6-4621-818B-503E36E83B7C][middle east]] [[id:C8DCDFD7-F287-4705-8908-3273E85A7856][palestine]]
+
+- Started out as secular pluralist with [[id:BD56BD03-7DC7-4118-9F87-FD51D4E912F2][Mahmoud Darwish]], [[id:35ADA899-337E-4430-BF61-B828FEF0DB5F][Elias Khoury]], [[id:344670ED-BA2A-4DBC-A485-316E8BF12C8D][Ghassan Kanafani]]

@@ -1,0 +1,73 @@
+:PROPERTIES:
+:ID:       F1B3F2D2-CAAC-457D-A302-DD223805B4E3
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: williams_research_handbook_on_post_conflict_statebuilding
+#+TITLE: Williams - Research Handbook on Post-Conflict Statebuilding
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]]
+
+* Part 1: Political Infrastructure
+  - Consists of public sector institutions that facilitate governance
+    - vital for statebuilding
+    - allows the state to exert authority
+  - [[id:9EED7EC0-E91D-4644-A232-D426D44A6FE3][constitution making (research handbook)]]
+* Part 2: Social Infrastructure
+  - Defined as
+    #+begin_quote
+    The nexus of horizontal and verticle society relations is the foundation for social reconcilation
+    #+end_quote
+    - From Putnam
+      - Horizontal - norms, valjues, and social relations within communities
+      - Verticle - Communal groups, civic society, and state
+  - How do states rebuild interpersonal bonds and intercommunal bridges?
+  - Inclusive peace is on the rise as a concern
+
+** [[id:34E6A6D9-ABE4-4A67-8105-C92F994C7F66][sterio and levy: social cohesion and inclusivity]]
+
+** [[id:B721D454-ACA0-4CA8-B6DA-2D5D151AAFD9][day and kreutzner: civil society]]
+
+* Part 3: Security Infrastructure
+  - Construction of security infrastructure is often the top priority
+  - need to construct a stable state *and* enable individuals to feel secure in their lives
+  - two major appraoches: [[id:E900796C-250A-474B-9054-C0C109C94A24][ddr]] and [[id:5C5EF2E8-8CA2-4082-A6DE-933C82F35383][security sector reform (ssr)]]
+    - both aim to restore monopoly on force
+    - [[id:87C732A7-3DA8-4542-8584-E078C89AD7A1][secure chat apps]] includes efforts to regain civilian control of military and policing institutions
+    - [[id:E900796C-250A-474B-9054-C0C109C94A24][ddr]]  often incorporates treatment for psycological damage
+
+* Part 4: Legacies of Conflict
+  - Transitional justice & peacebuilding scholars disagree often
+  - Transitional justice is:
+    - truth telling
+    - reparations
+    - prosectuions
+    - legislation
+    - vetting of institutions
+  - io's can aid the process by providing funding, legal guidence, and increased legitmacy
+    - [[id:B7499357-D6DD-4419-B930-1338431AED56][Pouligny - Peace Operations Seen From Below]] describes how the UN provides legitamacy
+  - IDP's and refugees need to be resettled
+    - property disputes especially
+      - i.e. [[id:A9E01CBD-FC46-42E8-B5D8-41CC27DC6E60][Philliou: Interpreting the Ottoman Past through the National Present]]
+
+* Part 5: Rule of Law
+  - Poorly implemented in [[id:4A892609-EEF5-441D-92CD-0330210D954F][bosnia]]
+  - conflict removes power from pre-existing laws
+  - Defined as:
+    #+begin_quote
+    a principal for goverence in which all persons, institutions, and entities, public and private, including the state itself are accountable to laws that are public promulgated, equally enforced, and independently adjudicated, and which are consistent with international human rights norms and standards
+    #+end_quote
+  - Loosely 3 perspectives:
+    1. procedural/narrow view
+       - creation of an impartial court system
+       - no IO influence on what the laws actually say
+    2. substantive/middle view
+       - adds some concerns about what the laws say
+       - some io influence
+    3. Human rights/broad
+       - requires states to uphold human rights & promotion of democratic freedoms
+       - significant io involvement in laws
+  - The perfect legal code has little impact without proper judicial procedures
+
+* Part 6: Development
+  - Deficits, debt, domestic revenue problems, poverty, unemployment, inequality
+  - Distinction between relief and emergency aid

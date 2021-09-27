@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       4D07A7F6-AA30-415E-B718-B82E4151A482
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: religion
+#+TITLE: religion
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]

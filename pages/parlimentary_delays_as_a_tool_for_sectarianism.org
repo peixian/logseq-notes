@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       7309BA6A-1961-479A-BB43-D5A4ED2CC8DD
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: parlimentary_delays_as_a_tool_for_sectarianism
+#+TITLE: parlimentary delays as a tool for sectarianism
+
+Tags: [[id:5C09008D-C61B-4A8E-BB77-9CF0085D90F6][project ideas]], [[id:5FA1EE8F-1114-4C3A-B5B4-BA4753ED2E15][sectarianism]]
+
+How are parlimentary procedures used for sectarianism? [[id:D4B35C6D-544A-481C-B5C0-7C2A2ABCF9AC][lebanon]] politicians are brilliant at delays. Is this the same for iraq?

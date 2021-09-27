@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       AE99CD5B-4870-40E7-9E82-0EA43BE24CAD
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: moraru_et_al_there_is_more_consensus_in_egalitarian_parliaments
+#+title: Moraru et al: There Is More Consensus in Egalitarian Parliaments
+
+[[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:B61CD1FF-6157-4754-A625-A1AE4FCC5770][paxos]]
+
+- https://dl.acm.org/doi/pdf/10.1145/2517349.2517350

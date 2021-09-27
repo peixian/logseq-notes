@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       AF4087A1-C2A5-47B8-8438-AC2797FEDCEA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: philippines
+#+TITLE: philippines
+
+Tags: [[id:54A7E315-9721-4BC9-BE36-EE6B40B82889][south asia]]

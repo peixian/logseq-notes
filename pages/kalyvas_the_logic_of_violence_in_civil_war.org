@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5915E4D5-6F4F-4B64-B435-DCA3FD99C50F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: kalyvas_the_logic_of_violence_in_civil_war
+#+TITLE: Kalyvas - The Logic of Violence in Civil War
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]]
+
+- From [[id:D0DFC0A3-D11C-44A5-B5C0-410F1B5A5FD5][Simpson - War from the Ground Up]]
+  - posits that mainstream narratives of most civil wars tend to locate violence in terms of macro-level emotions, ideaologies, or cultures.
+  - empirical evidence points to a far more complex or fragmented analysis
+  - incorrectly labeled as 'madness'
+    - [[id:9DBF7DD0-F691-41D8-B55F-C662F21456B8][Cramer - Civil War is Not a Stupid Thing]]
+  - Civil war works the other way around, it privatizes politics, transforms local and personal grievances into lethal violence, and endows violence with political meaning that may naturalize into new and enduring identities
+  - logic of civil war is to be found on a micro level
+    - Domination of national level cleavages, grassroots dynamics are often percieved merely as their local manifestations
+  - argues that the agency in the violence of civil wars is partially a function of 'alliance' between the center and the periphery that both use the other to their advantage
+  - 'master-narratives' can legitmately identify main cleavages, but is usually accorded too much significane
+  - 'actions in civil war' are not necssarily politica, and do not always reflect deep ideological polarization
+    - civil war fosters a process of interaction between actors with distinct idenitites and interests
+    - it is the convergence between local motives and supralocal that endows civil war with its inttimate character and leads to joint violence that straddles the divide betwen the political and the private, the collective and the individual

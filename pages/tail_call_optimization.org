@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       536A2E92-A8DF-4C50-ACFC-144169FCA6B5
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: tail_call_optimization
+#+TITLE: tail call optimization
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]

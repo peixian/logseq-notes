@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9CC2547A-E0DC-4836-8CDC-DC0EDB38454C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: analogy_and_cognition
+#+TITLE: analogy and cognition
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+- https://www.youtube.com/watch?v=n8m7lFQ3njk
+- analogy in [[id:BB2783B7-0E6B-4886-8007-EC63A9C67096][islamic jurisprudence]], and how islamic jurists always used analoghy

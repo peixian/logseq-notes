@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       BBFDEDEC-51A6-4D99-BD64-F690D1EE8F67
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: nepal
+#+TITLE: nepal
+
+Tags: [[id:AD9C4325-95C2-4DBC-83A0-5081D68D60D3][east asia]]

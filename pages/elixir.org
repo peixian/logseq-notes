@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       D669100C-6203-4458-A8F0-8A917513BB1E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: elixir
+#+TITLE: elixir
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- https://elixir.bootlin.com/linux/latest/ident/lock_kernel

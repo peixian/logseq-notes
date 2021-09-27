@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       A3DFE340-6A74-4950-A883-1B775A597B86
+:END:
+#+TITLE: airlines bailout - 2020
+
+Tags: [[id:5D4FD56C-329E-4881-AEBC-EFE6DDF0F29D][articles]], [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]]
+
+- https://www.instapaper.com/read/1296234054
+
+- Airlines spent 96% of free cash flow on stock buybacks
+- Airline bailout is not strict
+  - _For instance, some of the money is in cheap loans, and some in grants that will be forgiven if the carriers fly right_
+- No minders
+  - _But in a less capital-serving bailout, another problem is who the minders would be. Remember AIG? The government appointed three trustees. There’s no evidence they did anything other than collect fees and confer a veneer of legitimacy._
+- Bailout doesn't even work for all airlines, such as budget tourist ones like JetBlue
+  - Very likely more bailouts are needed
+
+https://www.nakedcapitalism.com/2020/12/congress-to-pass-17-billion-bailout-of-airlines-to-top-off-prior-bailout.html
+- followup bailout of 17 million with second stimulus package
+#+SETUPFILE:./hugo_setup.org

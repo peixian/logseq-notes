@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       EE79BFBB-AB9B-499D-9D15-AEA6C5EE6487
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: rules_for_writing
+#+TITLE: rules for writing
+
+Tags: [[id:D51D4006-2F02-4305-BBEF-5EDEFDCFD334][writing]]
+https://youtu.be/aFwVf5a3pZM
+- don't really exist except for spelling
+- large chunks of rules aren't errors
+- languges is not rule following, it's controlling the process of the readers
+- language as a technique to control the reader's reading process
+- sentence stress and importance
+- how to create value for the readers?
+- creating value for the reading process -> how?
+- "tells what the paper will be about" -> this is not a source of value, because they should be reading the entire article
+- writing is not about something
+- do you describe something when writing a paper? Do professional papers describe? No, they argue
+- what the paper will argue -> state what the arguments is
+- tells us what question the paper will answer -> this is the best one -> best way "tells you what question you have"
+- leave space for the reader!!! The reader is not passive, don't simply have the writer talk about the world
+- example: use "tools" vs "ideas" -> the word "tools" implies value, tells you that you can use it. Describe is fine, but describe what the reader might believe!! Describe the readers, not the world.
+- your job is not to reveal your head, your job is to change their heads
+- outside the academy, open with what the reader needs and how they think, if you open with what you're talking, they might not see the value
+- use words like "crisis" and "seize" and create a sense of urgency, to entertain
+- entertaining draws people's attention, it's how it changes what we read
+- people are drawn to conflict, tension, and trouble
+- stop demonstrating and look at why the readers are reading it
+- from the first sentence, start by writing about how they think
+- readers do not trust you by default
+- the subject needs to align with the reader's focus
+- concision is shortening between word and understandings, not just sentences
+- focus and stress positions of the sentence -> everything is processed in terms of the focus
+- subject focus: "studies of the book of Amos" vs "book of Amos" vs "we"
+- underline the subjects and see what the readers care about, always put what the readers care about in the subject of the sentence

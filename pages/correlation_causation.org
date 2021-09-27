@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       2EEA77CF-9B2C-4779-B349-F468F0933943
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: correlation_causation
+#+TITLE: correlation != causation
+
+Tags: [[id:BF68B582-1EC9-4DDB-BFCA-AB4A42AABF0B][probability]]
+
+- https://www.gwern.net/Correlation
+- https://en.wikipedia.org/wiki/Berkson%27s_paradox
+- https://www.gwern.net/Everything
+
+
+- At large scales, everything is correlated
+- Interrcorrelation implies causal networks
+  - A correlates to B, B correlates to A, or A correlates to C + C correlates to B
+    - This is most often wrong, since it's actually:
+      - A correlates to B
+      - B correlates to A
+      - A correlates to C1, B correlates to C1
+      - A correlatees to C2, B correlates to C2, etc
+  - Relationships are directly casual, or they can flow through a huge number of causal chains

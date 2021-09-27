@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       1E6ED065-14DA-40D3-9165-3441580A275D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: physalia_amazon_ebs
+#+TITLE: physalia - amazon ebs
+
+Tags: [[id:2C626284-F74C-4110-83A7-AE07B6D0A451][algorithms]], [[id:60E89DE2-2826-4C7F-9DF6-69A0C00F11A2][distributed systems]]
+
+https://www.usenix.org/conference/nsdi20/presentation/brooker

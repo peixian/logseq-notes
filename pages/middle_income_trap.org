@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       AB011668-11F8-4E24-B76A-04A44639B361
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: middle_income_trap
+#+TITLE: middle income trap
+
+Tags: [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]]
+
+- high growth wages in developing countries tends to stagnate when [[id:6CA1D951-E8B8-4A75-9963-97923F61DFC6][gross national income (gni)]] sticks at a certain level, such as [[id:F8CA4C8E-F55A-4FF6-8709-52BE50E88DB4][brazil]] or [[id:6C7B15AA-88F1-4AC5-BA43-218890C897D6][mexico]]
+- [[id:EF015767-B777-44AF-A829-066B50FDCE37][taiwan]] and [[id:91F14011-04E8-4862-BCDC-17DB96B965F5][south korea]] and [[id:62E85EBD-21E3-42DB-88A6-691F6271331C][japan]] and [[id:B941C35C-0211-417A-A73A-F7BB028A53B0][hong kong]] have escaped the middle income trap
+  - suggestions of a highly educated populace once they have achieved middle income allows countries to escape the middle income trap

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       BB769AD5-6A9D-44AD-AD36-EA115BF2147F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sentences_involving_compositional_knowledge_sick_e
+#+TITLE: Sentences Involving Compositional Knowledge (SICK-E)
+
+Tags: [[id:D9C1DCB3-C95F-4778-BBA4-59E7AEBFC961][nli]], [[id:A904921D-F574-41FC-B41C-4B6114932AC5][datasets]]
+
+- Corpus for 2014 SemEval
+- Deliberately restricted tasks, no named entities, idioms, etc
+- around 10k examples

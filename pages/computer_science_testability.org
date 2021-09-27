@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       D48677B6-FB4E-4640-B7F9-AF7B4FF90FA4
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: computer_science_testability
+#+TITLE: computer science testability
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]], [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+computer science can actually be tested despite being easy to learn
+- either systems are formalistic and hard to learn (lots of acquired knowledge) but easy to validate
+- or systems are easy to learn but hard to validate
+- cs straddles the intermediary

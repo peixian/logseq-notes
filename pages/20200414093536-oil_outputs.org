@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       206097F2-2744-4A4B-999B-12D3AF4390CB
+:END:
+#+TITLE: Oil Outputs in Iraq
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]], [[id:A12B1B28-2B00-4929-A3BC-EF8ED43A377F][oil]]
+
+- Oil production peaks to around 100m barrels per day
+
+* 2020 - Coronavirus
+  - Per April 23
+    - Oil revenues expected to drop 50% in 2020
+    - expectations of 40 billion of output this year
+    - Kurdistan itself produces 500k (per quarter? per year? unsure)
+
+#+SETUPFILE:./hugo_setup.org

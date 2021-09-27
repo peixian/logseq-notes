@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       DB2CC264-A435-4715-8AF6-905254C4A07A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sudan
+#+TITLE: sudan
+
+Tags: [[id:4716EF6A-B378-4010-B090-41D487EB8B72][africa]]

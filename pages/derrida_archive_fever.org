@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       903654E5-78C0-492B-9410-BE6367C8A24E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: derrida_archive_fever
+#+TITLE: Derrida - Archive Fever
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]]
+
+- Book about the "archon" as a guardian of the documents, with 3 pillars: the archon, the place, and the law
+-

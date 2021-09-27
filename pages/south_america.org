@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       5121BC41-924F-4A73-A596-AAFDE7E34C79
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: south_america
+#+TITLE: south america
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]], [[id:541B7BAF-591F-4CF8-8292-D83E8FB9D095][latam]]

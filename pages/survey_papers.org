@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       8CE85559-A568-4173-A5DE-12FCD5E52AC9
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: survey_papers
+#+TITLE: survey papers
+
+Tags: [[id:D51D4006-2F02-4305-BBEF-5EDEFDCFD334][writing]], [[id:08700B30-6476-438A-A1CB-8452DB3DEA4F][grad school]]
+
+
+- https://www.journals.elsevier.com/computers-and-operations-research/what-makes-a-good-survey/
+- http://www.cs.ucf.edu/~lboloni/Teaching/EEL6788_2008/slides/SurveyTutorial.pdf

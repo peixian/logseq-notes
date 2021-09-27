@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       13A2D8AD-B386-4937-9054-78A0D2C91F54
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: iraqi_communist_party
+#+TITLE: iraqi communist party
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+
+- Peaked under the leadership of [[id:F2622494-7FD0-4CE3-9AFC-F550C35AB972][Yusuf Salman Yusuf]]
+- 1958: 3000 party members with 3000 supporters, backed [[id:6F62AAA8-8FE6-495C-A9A4-00CCC6AF62D2][abdul karim qasim]]'s leadership and gained a constituancy from land reform and government housing ([[id:91F18E55-0C3A-4AAD-9B9B-08DDAC831E5E][Dodge - Bourdieu goes to Baghdad]])

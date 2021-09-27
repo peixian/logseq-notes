@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       B88CAA25-6019-44E6-9AC5-B54C5BB96929
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: avionics
+#+TITLE: avionics
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       0B869A0E-BCE4-4121-8258-1309F327143E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: astronomy
+#+TITLE: astronomy
+
+Tags: [[id:7A929556-F8FE-4588-9440-655F9368B1F0][physics]]

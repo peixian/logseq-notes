@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       9E39ED66-5334-4B26-9B94-B3BBDC17FEE5
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: task_juggler
+#+TITLE: taskjuggler
+
+Tags: [[id:A5B60132-60E3-41C5-BCC7-622F05AA203A][org-mode]]
+
+Open source project management tool:
+- https://taskjuggler.org/index.html
+- Documentation: https://taskjuggler.org/tj3/manual/index.html
+
+
+Integrates with org mode via properties:
+- https://orgmode.org/worg/org-tutorials/org-taskjuggler.html
+- https://orgmode.org/worg/exporters/taskjuggler/ox-taskjuggler.html
+
+Mode:
+http://www.skamphausen.de/cgi-bin/ska/taskjuggler-mode
+Code:
+- https://github.com/emacsmirror/org/blob/master/contrib/lisp/ox-taskjuggler.el
+Issues:
+- Parses the deadline from the org-deadline property, but uses :start: property to determine task start?
+- Default project length is 280, this must be manually set at the top via the scheduled and deadline properties
+http://www.skamphausen.de/cgi-bin/ska/taskjuggler-mode
+
+* Post Draft
+  - What is Taskjuggler?
+  - Why use it?
+    - Looking for a gantt chart to plan out grad school
+    - Didn't want to pay or use something like omnifocus
+      - Not cross platform
+    - Preferred a website or a local app
+  - Installing
+    - Ruby
+    - Included by default in emacs?
+  - Quirks
+    - Parses the deadline from the org-deadline property, uses the start property
+    - Default project length
+    - Consult the source for most things

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       13E143C7-0B7F-4835-B1A4-56AE6B18C88D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: remarkable
+#+TITLE: remarkable
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+https://github.com/ddvk/remarkable-stylus
+https://github.com/ddvk/remarkable-hacks
+http://www.davisr.me/projects/rcu/
+https://github.com/bruot/pyrmexplorer/wiki
+https://gitlab.com/wrobell/remt

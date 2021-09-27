@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ID:       B7E62F6D-1397-4EB2-98D3-74B0F260A78D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: spengler_and_the_search_for_a_science_of_human_culture
+#+TITLE: Spengler and the Search for a Science of Human Culture
+
+Tags: [[id:5D4FD56C-329E-4881-AEBC-EFE6DDF0F29D][articles]]
+
+https://www.instapaper.com/read/1370117850 - By T Greer
+
+- Talks about how Oswald Spengler's /Decline of the West/
+- [[id:44A22D1B-8486-4A01-9B5C-D275A848CC97][ibn khaldun]]ian understand of civilization: civilization rises and falls going through the birth cycles like a human/organism
+- greer talks about how this is a fundalmentally pop culture idea
+  - coporations as people, states as people, etc
+    #+begin_quote
+  Corporate personhood” is simply folk sociology encoded in law. It is not hard to jump from treating a collective as an agent to treating a collective as a living agent, possessing all the attributes of animals and people, the living agents we are most familiar with. It is natural to talk of the ‘death of Rome’ or ‘national birthdays.”
+    #+end_quote
+  - abstractions meant to simply complex realities - "folk sociology"
+  - useful heuristic but poor understanding
+- Describes two actual schools of anthropology:
+  - Paris School
+    - "Cultural epidemiology"
+    - uses systems theory, calls "attractors"
+    - cultural attractors are expressions of culture that human behavior that recur as cultural practices
+      - i.e. weddings
+    - cares about cultural recurrence
+  - California School
+    - "Cultural evolution"/evolutionary anthropology
+    - Dan Sperber, Pascal Boyer
+    - concerned with cultural divergence
+    - how much of idiosyncratic ideas are gathered before they become mainstream?
+      #+begin_quote
+Complex cultural practices are the accretion of one small innovation after another—the products of decades or centuries of small cultural mutations. But if these practices emerge randomly, their persistence is anything but random. Like biological traits, cultural traits are subject to selection. Rituals, beliefs, and attitudes, hunting, foraging, and farming techniques, property and kin systems, clothing and decorations, any and every aspect of a lifeway has a potential effect on fitness of the individual who practices them. If a cultural practice increases the likelihood that the person who practices it will live, thrive, and raise up the next generation of practitioners, then it will survive
+      #+end_quote
+    - Offers up the idea that cultural practices are evolutionary in nature
+      - https://scholars-stage.blogspot.com/2018/08/tradition-is-smarter-than-you-are.html
+      - cultural practices survive testing of time
+  - Both see individual human beings as agents of culture, larger cultural patterns are treated as emergent phenoomena that arise from the interactions of agents
+  - diverge on how it transmisses
+    - ecology of culture -> why do some practices die out and others get copied?
+      - [[id:238217F2-7536-4013-9147-49163DB26C16][Bateson - Steps to an Ecology of Mind]]
+  - debates issues like spread of [[id:4D07A7F6-AA30-415E-B718-B82E4151A482][religion]] among east asia
+    - ~possible similarities to strains of islam in the middle east?~

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       98594571-EF33-4F36-91EC-F23BB3D7A72A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: 2006_lebanon_israel_war
+#+TITLE: 2006 lebanon israel war
+
+Tags: [[id:D4B35C6D-544A-481C-B5C0-7C2A2ABCF9AC][lebanon]], [[id:BCB88E11-A4E5-4362-AE55-73D18B323882][israel]]
+
+Israel's war objectives were not defined consistently, wanted to both destroy [[id:DE11B1DE-9DE7-4B29-A074-C962666085E1][hezbollah]], return israeli soldiers, halt the firiing of rockets, etc
+
+Ultimately seen as a failure, the critical issue was that israel assumed everyone subscribed to the same understanding of objectives, whereas hezbollah's objective was to simply survive
+
+General Dan Halutz stepped down after this war, advocated that 'vicotry is a matter of consciousness'
+
+[[id:B15A9F8C-E140-4C79-9E30-6949FACE530A][Porter - Military Orientalism]]

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       B0D5A7DA-C4ED-4310-8ED6-20D87B05B550
+:END:
+#+TITLE: anki
+[[id:9675FEBA-A78E-4DE1-83CF-E04D66C221AF][Taking Smart Notes]]
+- Anki thread: https://old.reddit.com/r/Anki/comments/g02f9s/help_me_reevaluate_anki_and_my_study_plan_in/
+#+SETUPFILE:./hugo_setup.org

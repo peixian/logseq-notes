@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       B54391B6-737B-4B73-ACB2-C6E07800A51D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: south_africa
+#+TITLE: south africa
+
+Tags: [[id:4716EF6A-B378-4010-B090-41D487EB8B72][africa]]

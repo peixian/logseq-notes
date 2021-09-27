@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       AFFCD4BE-51EF-4405-99C4-F6844B0CC863
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: tuareg
+#+TITLE: tuareg
+
+Tags: [[id:C21DF9B0-E7E9-44F9-91A2-EEA809BD6293][libya]]

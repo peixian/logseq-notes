@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       3C62E0B5-B282-4E57-AEFC-9C765384B7EA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sahwa_awakening
+#+TITLE: sahwa (awakening)
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+- Started in 2006, spread in 2007
+- Largely tribal Sunni affair in [[id:3464FEDB-2602-4248-BB3C-188CF3417AE6][anbar]]
+- Fought against [[id:9A5BA9BB-E9FE-4D70-A796-5D403D01CF92][al-Qaeda]] with american support

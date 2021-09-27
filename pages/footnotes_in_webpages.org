@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7216E7A7-BD17-4DBB-8B58-3E9428E02C25
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: footnotes_in_webpages
+#+TITLE: footnotes in webpages
+
+Tags: [[id:883B29DB-4BDF-4DD0-A615-02B1220889D1][web]]
+
+- https://www.gwern.net/Sidenotes
+- https://edwardtufte.github.io/tufte-css/

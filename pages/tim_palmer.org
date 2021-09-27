@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       E170EA8D-A342-4CE1-903C-D8219D2A10B4
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: tim_palmer
+#+TITLE: tim palmer
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:7A929556-F8FE-4588-9440-655F9368B1F0][physics]]

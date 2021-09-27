@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       40D8F42B-F69F-4A51-8F60-B5771FF99F86
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: adil_abdul_mahdi
+#+TITLE: adil abdul-mahdi
+
+Tags: [[id:4F59D34B-7839-4FA8-A61F-97BCE0E62359][iraqi prime minister]], [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]

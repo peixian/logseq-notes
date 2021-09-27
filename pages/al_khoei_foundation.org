@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       1AD97C03-B9ED-4029-B2B3-FE482BF1A58F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: al_khoei_foundation
+#+title:  al-khoei foundation
+
+- lineage of [[id:9E8E5375-3849-407C-B376-BA758FE8033C][Ayatollah al-Khoei]]
+- khoei foundation recieves around 80% of khums worldwide
+
+* al-Khoei in UK (charity # 802000)
+  - https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/802000
+  - financial records: https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/802000/accounts-and-annual-returns
+  - online form recording: https://www.shiachat.com/forum/topic/234973651-ayatullah-seestani-khums-account-located/

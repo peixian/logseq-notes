@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       8478A246-6B23-4E16-808F-66776283FCCC
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ninawa
+#+TITLE: ninawa
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

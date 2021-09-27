@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       18B93019-0F53-439D-A366-10D353BE5A68
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: control_theory
+#+TITLE: control theory
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]], [[id:85B58094-76CD-470D-AD88-2676C2D2A605][sociology]]
+
+- https://smile.amazon.com/Modern-Control-Systems-13th-Richard-dp-0134407628/dp/0134407628/
+- https://people.eecs.berkeley.edu/~brecht/
+- https://www.argmin.net/2020/06/29/tour-revisited/
+- https://arxiv.org/abs/1806.09460
+- https://web.stanford.edu/class/aa228/cgi-bin/wp/
+  - [[id:C9584111-9EA8-4B03-ACCD-912E29EFF69C][algorithms for decision making]]

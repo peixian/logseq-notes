@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       68C8C661-164F-4CC8-9162-981B62EB8DE7
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ads_cft
+#+TITLE: ads/cft
+
+Tags: [[id:52CD27A8-2C71-470B-8669-DCFBB4BC4405][string theory]]
+
+https://en.wikipedia.org/wiki/AdS/CFT_correspondence

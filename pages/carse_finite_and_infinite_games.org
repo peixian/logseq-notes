@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       D8FD7BDF-C406-4930-99C5-C08A722CA599
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: carse_finite_and_infinite_games
+#+TITLE: Carse - Finite and Infinite Games
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:85B58094-76CD-470D-AD88-2676C2D2A605][sociology]], [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]]
+
+Ideas
+ - Finite and infinite games vs war and counter insurgency -> [[id:D0DFC0A3-D11C-44A5-B5C0-410F1B5A5FD5][Simpson - War from the Ground Up]]
+   - [[id:83D0572A-B773-4E7C-848A-CD60F02D0820][counter insurgency as an infinite game]]
+- Names and Titles -> titles as a reward for finite games, names as a beginning for an infinite one
+     - [[id:D4D0EDA6-3B4D-4DD6-9429-1D3D8F532912][kunyas]]
+       - https://www.sid.ir/en/journal/ViewPaper.aspx?ID=13322
+     - Schimmel, Annemarie. “The Structure of a ‘Name.’” In Islamic Names, 1–13. An Introduction. Edinburgh University Press, 1989. https://doi.org/10.3366/j.ctvxcrrhx.4.
+     - Hekmat Dirbas. “Who Has More Names than Me? Lion Designations in Arabic.” Zeitschrift Der Deutschen Morgenländischen Gesellschaft 167, no. 2 (2017): 323. https://doi.org/10.13173/zeitdeutmorggese.167.2.0323.

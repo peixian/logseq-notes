@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       9A89319D-EC58-4836-A436-6BB0CF0270C8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ebooks
+#+TITLE: ebooks
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]

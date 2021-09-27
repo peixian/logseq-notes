@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       97352B79-C582-44C9-AA93-C0F79590889F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: good_cpp_codebases_to_read
+#+TITLE: good cpp codebases to read
+
+Tags: [[id:B188FE0E-140C-44C3-9280-490E2202CC17][c/cpp]]
+
+https://news.ycombinator.com/item?id=24901244

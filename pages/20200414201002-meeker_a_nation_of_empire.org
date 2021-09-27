@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ID:       99981776-EE2F-405B-8346-433BF45688B6
+:END:
+#+TITLE: Meeker - A Nation of Empire
+
+Tags: [[id:FAC6D0F0-7797-4330-B988-37260A98CBC1][turkey]], [[id:C61C3FE4-06C6-4621-818B-503E36E83B7C][middle east]], [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:A438ACD2-2C1E-40EB-9502-74E5B69EA9FF][Post-Ottoman Near East]]
+
+* Ottoman era power circuits were maintained in Trapzon
+** Despite issues with Trapzon's outward Islamism people bought into the concept of a kemalist turkey
+
+
+* Notes
+  - Brings to light provincial governments of turkey
+  - Maintains same relationships, the same pipes of power remain while shifting the actors slightly
+    - Aghas replaced by large families
+  - Style of emulation of central gov remains
+    - "Citizens had represented an agha and hodja"
+  - Interpersonal connections w/in the modern age has slightly disrupted
+  - Role of women
+    - Passive throughout the book, draws a parallel to the silent viziers of the ottoman empire
+  - Selimoglu vs Muradoglu
+  - Tea cooperative story, where Hussein sits at a large desk at the tea co-op emulating the president
+  - Mehmet Bey's fall from grace due to not being engaged within the two family system
+  - Familial ties remain, where nicknames stuck <--- on an anthropological level
+  - Reorinetation of social structures
+  - Life and death in the empire
+  - Stories about the french traveling, and the mouth and organs of the central empire sets up the logical nature of recursive emulation
+  - Blindness of outsiders to this recursive system, where the French/British consul was the only one would took into account this system
+  - Name law, unveiling encouragement
+  - Uneven application of methods: history transitions into anthropology
+* Response
+  - Hodjas are brought up, so much of the book is focused on Islam as a passive force, but islam actually remains one of the more consistent aspects of the region
+  - Exisiting power circuits remain, but islam glues this together, rooted in some kind of islamic notion
+    - Supported via the "conservatism" notion of Of (women need to be veiled)
+    - Supported via the notion that Oflus are religious extremists
+    - Oflus felt lost without an Imam
+* Questions
+  - What is the legitmate affect of Islam today within this region?
+  - Ottoman is a highly loaded term, typically drawing upon the hiers of the great islamic empires
+  - Shifting of turkish identity from Islam and the Ottoman house/state to an individual identity
+    - Battle of Of
+    - Giant mosque being built as of 1980
+  - General conversion of Greeks into Islamic beliefs
+#+SETUPFILE:./hugo_setup.org

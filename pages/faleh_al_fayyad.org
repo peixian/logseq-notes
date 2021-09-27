@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       9D5A77DF-EF89-4DA3-B9C4-CA80B260EDD5
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: faleh_al_fayyad
+#+TITLE: faleh al-fayyad
+
+Tags: [[id:9E5E0478-4353-45D3-A480-0AED0A7AD64B][hashd commission]], [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]
+
+Chairman of the hashd commision in 2019

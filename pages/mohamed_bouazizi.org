@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6005E7CC-3C52-420A-B99A-8531BE324C8E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: mohamed_bouazizi
+#+TITLE: Mohamed Bouazizi
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]
+
+- Set himself on fire when his vegetable cart and electronic scale were confiscated by the polics in Sidi Bouzid, in Tunis
+- Died in the hospital ninteen days later

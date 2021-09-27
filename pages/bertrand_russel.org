@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       A2F29B2B-7EE3-492F-8D5B-C37DDF777FEB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: bertrand_russel
+#+TITLE: bertrand russel
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:0C55E344-F9AE-4584-B54F-83EC2FCE9062][math]]
+
+Author of the [[id:816F355C-8A52-4208-82F8-BFC00A110C5C][principa mathmatica]]

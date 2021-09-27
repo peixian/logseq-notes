@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       F2720867-91B3-4C8A-9C29-4C09DA986669
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: parks_stuff_you_can_kick
+#+TITLE: Parks - Stuff You Can Kick
+
+Tags: [[id:FAD07E42-4924-452A-A438-6F6DADFAD1BE][problems and methods]], [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]]
+https://www.academia.edu/16426095/Stuff_You_Can_Kick_Toward_a_Theory_of_Media_Infrastructures
+
+Infrastructure as a medium for understanding things
+- explores "media infrastrucutres"
+  - actual signals, which cables are private, etc
+  - what is the stuff you can see, what is the stuff you can kick?
+    #+begin_quote
+  "integrated ciruits" or as part of the biotechnical or technosocial formations
+    #+end_quote
+    - what does this even mean
+  - asks us to think about what infrastructure is made of and how they arrived
+- distinguishes between mail sorters, power poles, and satellite dishes
+- similar: https://www.leilastegemoeller.com/blog/2018/12/10/towards-a-phenomenology-of-infrastructure

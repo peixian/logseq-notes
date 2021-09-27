@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0F0D40B0-21C3-4413-8358-5326F64D122C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: plywood
+#+TITLE: plywood
+
+Tags: [[id:B188FE0E-140C-44C3-9280-490E2202CC17][c/cpp]], [[id:F2F13EAE-7363-4665-861A-FED580CD22C1][programming frameworks]]
+
+- https://plywood.arc80.com/
+- framework for cpp that allows for different workspaces, and built-in modules with runtime reflection

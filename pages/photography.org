@@ -1,0 +1,108 @@
+:PROPERTIES:
+:ID:       27DBFFB5-332B-4007-8E5E-3F58F0E0AF24
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: photography
+#+TITLE: photography
+
+Tags: [[id:CAFF2018-7C24-402E-9528-464A87D2DC39][personal]]
+* Classes
+  - https://www.linkedin.com/learning/photography-foundations-mobile-photography/
+- https://www.linkedin.com/learning/photography-advanced-composition/welcome?u=2131553
+* Aperature
+  - Lower aperature means lower lens open
+    - f/2.4 - f/8, etc
+  - Changing aperture changes depth of field
+  - Shallow depth of field is basically impossible on phone
+  - Wider aperture means shallower depth of field
+  - Shallower depth of field means more focus on closer thing
+
+* ISO
+  - Higher ISO means higher noise, but allows for faster shutter speed
+
+* Exposure Triangle
+#+DOWNLOADED: screenshot @ 2020-05-21 09:27:25
+[[file:Light/2020-05-21_09-27-25_screenshot.png]]
+
+
+
+* Light Meter
+  - Only works on generalized assumptions
+  - Databases, facial recongition, etc
+
+* Depth of Field
+  - Unlikely to achieve shallow depth of field from smartphone, due to small sensor
+  - Has to make changes to ISO
+    - No aperature changes on phones
+  - Phone camers don't have a shutter!
+  - Fast moving objects should be test shotted first!
+  - ISO range is very different
+  - Does have exposure compensation control
+    - Makes up for the lack of manual overrides
+  - Shooting in a RAW format lets you use manual exposure
+  - Biggest diferences is in the actual mechanics of shooting
+* Shooting with a smartphone
+  - The flash is usually not needed. Typically switch it off
+  - HDR feature should be turned off until assured needed
+* Exposure
+  - Use most of the frame
+  - Dynamic range: ratio of darkest to brightest dynamic range
+  - Brightness is measured in stops
+    - Double light -> "1 stop"
+    - Human eye has ~18 stops
+  - Further away from the subject reduces the dynamic range
+  - Pay attention, as the camera moves around, it makes for different decisions
+  - Tapping for focus and exposure
+* Low Light Shooting
+  - Flash is unnatural
+    - Especially for low light
+  - Make sure elbows at your side
+  - Don't hold breath (makes you shake more)
+  - Wait for screen to go black
+    - Don't trust the view finder
+  - Careful of motion blur, view blurring, and others
+    - Careful to tell you when the exposure is done
+* Night Mode
+  - Night mode on phones composite large numbers of photos
+* Focal Length
+  - Shooting with different focal length does not mean the image is the same
+  - Lens changes the background
+* Zooming
+  - Don't bother with pinch to zoom
+  - Take the shop, crop it later
+* Shooting with flash
+  - Fill flash -> filling in the shadowy areas with flash to compensate for high light in background
+  - Flash on phones is not very strong, range is 3-4 ft
+* Orientation
+  - Most people shoot in portriat orientation
+  - Drop to your knees to take a different PoV
+* Aspect Ratio
+  - 4:3 to 16:9
+  - crop everything out you don't need
+  - play around with where to put the horizon
+* Black and White Photos
+  - Potenially easier, less information
+  - Stripping out the information density
+  - The conversion in post-production is a lot easier
+  - Gives the option to make the photo simplier
+    - Look for photos about lines and shape and form
+* Portrait Mode
+  - Computational photography
+    - Fakes shallow depth of field
+  - Look for mistakes in the portrait mode filters
+  - Not compatible with RAW
+* Panorama Mode
+  - Most useful for wider angle in a small space
+    - Fakes a wide-angle lens
+* Shooting in raw
+  - Camera doesn't apply changes
+  - Raw data from senors
+  - Adjust white balance
+  - Sometimes recover overexposed highlights
+  - Higher bit depth
+  - Does not:
+    - Sharper image
+    - Greater dynamic range
+  - Strictly about editing
+* Add on lenses
+  - Macro lens lets you scale 1:1

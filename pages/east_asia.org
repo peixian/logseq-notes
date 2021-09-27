@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       AD9C4325-95C2-4DBC-83A0-5081D68D60D3
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: east_asia
+#+TITLE: east asia
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]

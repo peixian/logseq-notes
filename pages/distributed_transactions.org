@@ -1,0 +1,106 @@
+:PROPERTIES:
+:ID:       FDC93D37-4F12-461F-A77B-E4C43B61B499
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: distributed_transactions
+#+TITLE: distributed transactions
+
+Tags: [[id:60E89DE2-2826-4C7F-9DF6-69A0C00F11A2][distributed systems]]
+
+- early 2000's
+  - sharding sucks
+  - no cross shard transactions
+- nosql after 2004
+- newsql after 2010
+  - spanner in 2012
+  - cockraoch in 2014
+  - tradeoff is increased latency
+* keyspace and sharding
+- two main questions
+  - how do I locate a piece of data?
+  - what granularity is it distributed?
+- options
+  - hashing
+  - order preserving
+    - need an index on a range
+    - for scanning
+  - shards
+    - small enough to be moved
+    - large enough to amortize indexing overhead
+* replication and fault tolerance
+  - primary secondary replication
+  - async replication
+    - ack before replication
+  - primary secondary is very tough to get correct
+  - almost always need a third party to arbitrate
+  - how do we replicate to N nodes?
+    - use consensus protocol
+    - how do we get stuff onto the followers?
+      - usually considered written when we have a quorum of writes
+  - failure
+    - ranges are the unit of replciation
+    - consensus algorithm
+      - multi-paxos or raft
+    - generally has a "replication factor" (typically an odd number to achieve qourum)
+  - raft
+    - raft provides atomic replication
+    - a "leaseholder" allows for nonqorum reads
+    - range leases
+      - for a timeboxed time, this can guarentee a quorum read
+      - a failure at leaseholder means that nothing else can become a leaseholder
+* replica placement
+  - how do we choose where replicas go?
+  - hundreds of nodes
+  - choose where they lie based on
+    - space, diversity, load, latency
+    - diversity
+      - want to make sure it's diverse
+      - tradeoff here is always latency
+    - load
+      - always move things around based on load
+      - avoid hot ranges
+      - balance as best you can
+        - range splitting
+          - move replicas around after range splitting
+      - ranges: geo-latency
+  - rebalancing
+    - adding a new node
+      - any system should be able to do this
+    - rebalancing replicas
+      - automate repair
+* cockroach API
+  - originally did not use SQL
+  - used some weird transaction API
+  - converting sql to key value
+  - mapping sql's to key value store
+* transactions
+  - acid and isolation levels
+    - a - all or nothing
+    - c - database state is internally consistent
+    - i - isolation
+    - d - durability don't lose committed data
+  - what isolation levels?
+    - read uncommitted (could read ongoing but uncommited writes) - no locks
+    - read committed (could read different values in the same txn)
+    - repeatable read *(could range read different values in same txn)
+    - snapshot isolation - could make decisions based on stale reads - no phantom read, every read is guarneteed to be consistent, but txns can read same data and independently write to different keys
+    - serializable - none of the above, run one by one
+  - single node db transations
+    - if a single node comes back up after failing, guarneteed it's not losing data
+  - multi-node db transactions
+    - atomicity and durability are achieved by bootstrapping off of a lower write
+      - quorum of disk writes is good enough
+    - need different states - spans multiple machines, not a single lock
+      - pending
+      - committed
+      - approved
+  - 2pc
+    - group writing of the transaction record with the first write
+  - questions
+    - quroum while doing replication
+    - what happens if 2/3 agree?
+      - 3 replicas - tolerant to one node failure
+      - 5 - tolerant to 2 node failures
+    - how do to ranges?
+      - require an index, preserving
+    - think about the entire thing as a whole as knowing a record is committed

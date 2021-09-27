@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       95867CC1-E58D-4A76-9F9A-08E6BA7FEF67
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: anastasio_somoza
+#+TITLE: Anastasio Somoza
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]
+
+Nicaraguan dictator backed by the US, overthrown by the Sandistas

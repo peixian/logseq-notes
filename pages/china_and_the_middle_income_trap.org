@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       E1DA5B18-90BB-4AFB-8BAA-37A2C7D8F8C9
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: china_and_the_middle_income_trap
+#+TITLE: china and the middle income trap
+
+Tags: [[id:0E21DFCA-3016-427A-965E-341DE95432B7][china]], [[id:AB011668-11F8-4E24-B76A-04A44639B361][middle income trap]]
+
+- https://english.ckgsb.edu.cn/knowledges/china-middle-income-trap/
+- are there strategies to escape the middle income trap for china?
+  - [[id:89876888-34FE-43F7-891F-0C8FFD05D5AA][chinese urban/rural divide]] threatens growth

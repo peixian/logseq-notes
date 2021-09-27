@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       02D38C8D-ACB3-4026-BEA4-0E543AEE8CFA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gilligan_do_un_interventions_cause_peace_using_matching_to_improve_causal_inference
+#+TITLE: Gilligan: Do UN Interventions Cause Peace? Using Matching to Improve Causal Inference
+
+Tags: [[id:C74E2141-B04C-4B46-8BDF-C8223263BA88][un and global governance lecture 7]], [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]
+
+Gilligan, Michael J. “Do UN Interventions Cause Peace? Using Matching to Improve Causal Inference.” Quarterly Journal of Political Science 3, no. 2 (July 31, 2008): 89–122. https://doi.org/10.1561/100.00007051.
+
+- Argues that the normal approaches for measuring by counterfactuals don't work
+  - UN internventions are not randomly assigned, so selection bias is present
+- finds that there is a casual effect

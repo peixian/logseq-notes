@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       B64F6F20-78E6-4DB5-9E53-A83213036B76
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: azam_sexual_violation_in_islamic_law
+#+TITLE: Azam - Sexual Violation in Islamic Law
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:BB2783B7-0E6B-4886-8007-EC63A9C67096][islamic jurisprudence]]

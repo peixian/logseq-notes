@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       F9481EED-99A7-4478-B3A7-1D1AA3C43D2C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: next_generation_disarmament_demobilization_and_reintegration
+#+TITLE: next generation disarmament, demobilization, and reintegration
+
+Tags: [[id:E900796C-250A-474B-9054-C0C109C94A24][ddr]], [[id:44848562-7F27-4906-95F4-6A9BFEC7A473][militias]], [[id:5D4FD56C-329E-4881-AEBC-EFE6DDF0F29D][articles]]
+
+DDR continues to rely on outdated principles and requires a rethink. The third generation of DDR is around, involving the integration of local elites alongside soldiers, rebels and miltias, in place like the [[id:394D057C-5937-4CF2-9587-3F14238485E4][central african republic (CAR)]], [[id:C21DF9B0-E7E9-44F9-91A2-EEA809BD6293][libya]], [[id:24347B84-1571-47CF-8225-14D7C357B1AC][mali]] and the [[id:223DAD28-AE76-42F8-BFD2-B598398171EF][niger delta]]
+
+Examples in Haiti and the DRC, with greater experimental design: https://journals.sagepub.com/doi/abs/10.1177/0022002707302790
+
+[[id:DE06E988-C805-48A4-973A-7128C7971835][integrated ddr standards]] has helped fusion of DDR with wider recovery and reconstruction strats
+
+_Although there appears to be consensus on the imperative for DDR from Colombia and Haiti to Afghanistan and Libya, there are still many outstanding questions about how this ought to be pursued_
+
+[[id:0E683482-1AA6-4DE1-9C07-4F52F96CAEDE][maoist fighters in nepal]] have rejected the discourse of DDR, but they have successfully integrated into the government
+
+DDR has not adapted to engage with terrorist groups, reoccurring problem is the effective "targeting" of assistance.
+
+Important to also realize the difference between "local ownership" and "local particpation" - from [[id:B056E87F-E805-4B20-A4AC-7202993AADD3][Subedi - Combatants to Civilians]]
+
+next gen DDR takes place before peace agreements have been reached
+
+targets groups that may not be explicit parties in eventual peace agreement
+
+attempts to force and revisits the voluntary nature
+
+[[id:E900796C-250A-474B-9054-C0C109C94A24][ddr]] and [[id:5C5EF2E8-8CA2-4082-A6DE-933C82F35383][security sector reform (ssr)]] are seen as intimately related, alongside [[id:3A6BC162-B42F-4C25-9EE2-935C8EC5BAB7][transitional justice]]
+
+ddr is reconcieved as a dynamic political process that has to be negotiated with each context and fundalmentally connected to local conditions

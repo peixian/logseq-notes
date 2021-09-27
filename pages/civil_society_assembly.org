@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       D7385E7F-41E6-49F4-A44E-2994D54A3BBB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: civil_society_assembly
+#+TITLE: Civil Society Assembly
+
+Tags: [[id:E09392BA-8392-4387-8556-F1B7FB456941][guatemala]]
+
+Santioned organization through peace accords

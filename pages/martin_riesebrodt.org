@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       A93822C1-5F85-46EE-B9C7-95F7FD1F5F30
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: asad_formations_of_the_secular
+#+title: Martin Riesebrodt
+
+[[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:4D07A7F6-AA30-415E-B718-B82E4151A482][religion]]
+
+- Contests [[id:2D1182A8-F06B-4E3A-BC2B-5BA30C8C90BF][Asad - Formations of the Secular]] on his denial of the concept of religion
+- Uses a perspectivist approach that he calls 'referential legitimation'
+- Through competition, borrowings, identifications, and syncretisms, religion gets recgonized as religion by its religious peers
+- Agrees with the [[id:4C8F7C01-8A9A-41D2-A99E-5F594D261F14][Durkheim]]ian point of view that religion is a response to crisis, contingency and the limits of human capacities, and the sacrality of society is of limited generalizability.

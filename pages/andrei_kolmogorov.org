@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       45D20E51-F38E-4A83-8DB1-DB8442811E30
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: andrei_kolmogorov
+#+TITLE: andrei kolmogorov
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:0C55E344-F9AE-4584-B54F-83EC2FCE9062][math]], [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]

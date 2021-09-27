@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       116909C1-7C11-4685-84DC-5F73A187B49E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: multi_country_demobilisation_and_reintegration_programme_mdrp
+#+TITLE: multi-country demobilisation and reintegration programme (MDRP)
+
+Tags: [[id:7C05085A-564D-4186-B4E7-AD9DC612310A][un]], [[id:E900796C-250A-474B-9054-C0C109C94A24][ddr]]
+- https://reliefweb.int/report/angola/multi-country-demobilization-and-reintegration-program-end-program-evaluation-final
+Largest ever DDR program, involved Great Lakes region of [[id:4716EF6A-B378-4010-B090-41D487EB8B72][africa]] between 2002 and 2009.
+
+Included [[id:70011E62-E704-4EFE-BC9F-34260FEECCE1][angola]], [[id:75596EDC-4243-41A7-A85A-8BC334C2048C][burundi]], [[id:394D057C-5937-4CF2-9587-3F14238485E4][central african republic]], [[id:90AA4B42-8F5A-4510-A447-9F31B8834797][republic of the congo (RoC)]], [[id:1A7F8EC9-B51F-460B-A078-FCB63DEC29B7][democratic republic of the congo (drc)]], [[id:C8C5D0B0-C8FD-437B-AC1C-8CAD30C7D9CB][rwanda]], and [[id:9347A041-2696-4CCC-B8F6-842549F366CD][uganda]]
+
+Successfully demobilized around 300,000 ex-combatnats, but results varied significantly from one country to the next

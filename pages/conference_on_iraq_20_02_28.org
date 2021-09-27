@@ -1,0 +1,56 @@
+:PROPERTIES:
+:ID:       C780567B-2B4F-4A6E-AE1E-A8F9D2AC4D99
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: conference_on_iraq_20_02_28
+#+TITLE: conference on iraq - 20-02-28
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]], [[id:08700B30-6476-438A-A1CB-8452DB3DEA4F][grad school]]
+
+Notes from the Iraqi conference: http://cih.columbia.edu/iraqi-studies-past-present-and-future/
+Archive: https://pinboard.in/cached/38304eb62267/
+
+- October Revolution - Davis
+  - Definition of grpups that define themselves as "iraqi"
+  - Ultimiately a war of position
+  - emotional baggage generated from the post-2003
+- Reflections on Iraqi Studies - Pursely
+  - Driven by post-invasion
+  - Shaping of modern iraqi scholars
+  - Oversimplication
+  - Destruction of 21st century iraq via imperialism
+  - Can we define iraq from post-colonial notions?
+  - How many states are built on necropolitics
+  - Have iraqi scholars engaged in a purely defensive study?
+    - Due to implications of the artificial iraqi state?
+    - Due to implications of the artificial iraqi state?
+  - Post colonial vs post conflict?
+  - Lack of real archival research
+  - Notions of "unmanagability" of the iraqi population
+    - Needs to be understood as part of statebuilding
+  - Modern iraq is defined by its particularities
+  - is iraqi studies inherently nationalist?
+  - Methodlogical nationalism in iraq vs india, iran, [[id:98F9993A-F5AD-44C5-A732-8BBAD7FA6BEE][egypt]]
+  - how can we move past the sectarian past
+  - many studies consider iraq as bound to fail
+    - artificial and natural binary?
+    - co-constitution of the binary trapped behind an inherent artificial iraqi state?
+  - paradox of articial nation state feeding into artificial sects
+  - application of mdoern identities back in time
+  - flexibility of imperial power via artificial state
+    - artificial states arose as a reason for the mandates
+    - artificial states assume sects are transtemporal and unchanging
+  - some colonial narratives have disappeared
+    - early british fears about bolshivekism no longer persists
+  - tribalism vs nationalism in iraq?
+- Bashkin
+  - The study of the geography of iraq
+  - Provicial towns
+  - Baghdad
+    - Hospitals and schools are constructive of human geography
+  - Nadia Ali and Azhara Ali
+  - How do Iraqis talk about themselves?
+  - Movement of palestinians into iraq?
+  - Disaspora?
+  - Critiques of secularism and how it fits in, before that becomes a trope?
+  - What is the langauge of articulation for the talk?

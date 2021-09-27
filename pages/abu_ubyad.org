@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       9A2B4F6E-5773-4054-97BF-D4BF3F2DDD75
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: abu_ubyad
+#+TITLE: abu ubyad
+
+Tags: [[id:BB2783B7-0E6B-4886-8007-EC63A9C67096][islamic jurisprudence]], [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]

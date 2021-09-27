@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       263DC518-4136-451F-8B8B-0809978D3C62
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: avocados_in_the_middle_east
+#+TITLE: avocados in the middle east
+
+Tags: [[id:C61C3FE4-06C6-4621-818B-503E36E83B7C][middle east]]
+
+- https://www.al-monitor.com/originals/2019/07/avocado-growing-qalquilya-beneficial-despite-lack-experience.html
+  - avocado growing in west bank?
+- [[id:0B9FAF9E-0A55-44FE-96CE-D6D382CF6617][KRG/iraqi kurdistan]] has avocados in [[id:412A228D-498C-4471-B003-ABC16F8AB987][erbil]], likely passing through [[id:1DFBC9C6-5D32-4EA5-B165-D89AB9372650][ibrahim khalil]]
+  - plan: find a fruit vendor in Duhok and see if they have contacts
+  - O'Caffe and Cafe Barbera in [[id:412A228D-498C-4471-B003-ABC16F8AB987][erbil]] both serve avocados, maybe need to find a supply chain
+    - where do people go for fruit markets in erbil?
+    - where do people usually go for fruit in [[id:E906A2F2-9E16-4B49-A315-6B306ECC7AB9][duhok]]?
+      - [[id:91D91F5A-1218-4DE7-BD13-CFCCABA6693F][zakho]]?

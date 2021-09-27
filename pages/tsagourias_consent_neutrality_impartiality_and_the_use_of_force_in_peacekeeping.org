@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       18872C61-E225-465C-A95D-DFFAB5119E9C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: tsagourias_consent_neutrality_impartiality_and_the_use_of_force_in_peacekeeping
+#+TITLE: Tsagourias: Consent, Neutrality/Impartiality and the Use of Force in Peacekeeping
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]],[[id:AF22C8D3-5841-4CB4-858B-AB86D90017CC][un and global governance lecture 3]]
+
+#+begin_quote
+Peacekeeping is based on the trinity of consent, neutrality/impartiality and the use of force in self-defence.
+#+end_quote
+
+Talks about how neutrality has been abandoned, but the impartailty of force should make up for it
+
+Makes a clear distinction between a peacekeeping operation and a coercive peace enforcement action
+
+However, the UN must mediate between actors, and in selecting the actors it inherently legitimizes by making them a party to the negotiations
+
+Notes that UN also must have verticle consent, between some groups on the ground, the state, and everyone in between, but not necessarily all the groups of each category

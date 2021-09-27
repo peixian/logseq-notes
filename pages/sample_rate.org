@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       5A2320A9-6519-4DAF-AEFF-8078ECB4601B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sample_rate
+#+TITLE: sample rate
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+https://en.wikipedia.org/wiki/Sampling_%28signal_processing%29?ref=hackernoon.com#Sampling_rate

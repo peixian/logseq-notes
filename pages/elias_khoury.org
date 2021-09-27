@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       35ADA899-337E-4430-BF61-B828FEF0DB5F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: elias_khoury
+#+TITLE: Elias Khoury
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]

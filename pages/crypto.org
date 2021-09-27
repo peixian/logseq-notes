@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       98976F6B-9E67-4331-8141-20D7136B5476
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: crypto
+#+TITLE: crypto (for cryptography)
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][Computers]]
+
+* Bulletproofs
+  - https://crypto.stanford.edu/bulletproofs/

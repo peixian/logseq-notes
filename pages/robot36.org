@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       E01FF835-475C-4DE4-BA04-9C0E89F252B9
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: robot36
+#+TITLE: robot36
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+
+https://github.com/xdsopl/robot36

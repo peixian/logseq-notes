@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       8124FC24-FB7B-48BF-8165-77614CFC2E4B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: optuna
+#+TITLE: optuna
+
+Tags: [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]]
+- https://optuna.org/
+
+[[id:AE205EF3-0F38-4602-B1F1-7729B79B7A6F][open source]] hyperparameter optimization framework
+
+works with [[id:8CF9A0F7-2E51-4922-B6B7-2C42E8E2BE16][pytorch]]

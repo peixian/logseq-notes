@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       7516C9D2-C858-4B4F-8608-4610982B233B
+:END:
+#+TITLE: development theory
+
+#+SETUPFILE:./hugo_setup.org
+
+- put forward by sociologists such as Daniel Lerner
+- argues about the appeal of development policies and decolonization as an introduction into modernity
+- ties together capitalist development and [[id:B429CB22-EF9C-49D7-B32A-66D4BD04C8D8][cold war]] theory

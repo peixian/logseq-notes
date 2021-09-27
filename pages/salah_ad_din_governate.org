@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       A27DD606-1134-4EE7-96D8-4FAE1305930F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: salah_ad_din_governate
+#+title: salah ad din governate
+
+[[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]] governate

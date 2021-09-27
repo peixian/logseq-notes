@@ -1,0 +1,89 @@
+:PROPERTIES:
+:ID:       C45D33E0-E996-47BE-BD16-A0DE8D4979BE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: programming_kubernetes_chapter_3_client_go
+#+TITLE: programming kubernetes chapter 3 - client-go
+
+Tags: [[id:565A859A-81C4-493B-83C9-CB96D65C479B][hausenblas - programming kubernetes]]
+- Overview: controllers can be constructed by calling the client-go library, which provides a set of sensible defaults such as work queues and informers
+
+- https://github.com/kubernetes/client-go
+  - most api types can be found under https://github.com/kubernetes/client-go/tree/master/listers
+- api definitions: https://github.com/kubernetes/api
+- https://github.com/kubernetes/apimachinery - generic building blocks to kube-like API, not restricted to container management
+  - most of the generic API types (~ObjectMeta~, ~TypeMeta~, ~GetOptions~, ~ListOptions~) are in https://github.com/kubernetes/apimachinery/tree/master/pkg/apis/meta/v1
+
+#+begin_src go
+  // basic client
+
+  import (
+      metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
+      "k8s.io/client-go/tools/clientcmd"
+      "k8s.io/client-go/kubernetes"
+  )
+
+  kubeconfig = flag.String("kubeconfig, "~/.kube/config", "kubeconfig file")
+  flag.Parse()
+  config, err := clientcmd.BuildConfigFromFlags("", *kubeconfig)
+  clientset, err := kubernetes.NewForConfig(config)
+
+  pod, err := clientset.CoreV1().Pods("book").Get("example", metav1.GetOptions{})
+#+end_src
+
+This parses the appropriate kubeconfig and then gets the pods using the ~GetOptions~
+
+If you run a binary inside of a pod inside a cluster, ~kubelet~ automatically mounts a sservice account into ~/var/run/secrets/kubernetes.io/serviceaccount~
+
+CRUD operations are run through the ~XOptions~, such as ~CreateOptions~ or ~DeleteOptions~. ALl of htem are part of ~ObjectMeta~
+
+- alpha/beta/vN verisons are what you would expect (alpha changes, beta is unlikely to break, vN is stable)
+
+- each object stored in etcd is stored as a specific version known as the /storage version/ of that resource
+
+- anything served as a kind is a struct
+  - all objects can be retrived and deepcopied
+  - each object stores its groupversionkind
+* type meta
+- https://github.com/kubernetes/apimachinery/blob/10b38829b6211c0d672e14a126479221312d3368/pkg/apis/meta/v1/types.go#L41
+
+example of a pod declaration
+#+begin_src go
+  type Pod struct {
+      metav1.TypeMeta `json:",inline"`
+
+      metav1.ObjectMeta `json:"metadata,omitempty"`
+
+      Spec PodSpec `json:"spec,omitempty"`
+
+      Status PodStatus `json:"status,omitempty"`
+  }
+#+end_src
+
+Note that the type and version are not set by the user, they are set when being marshaled in the versionserializer
+* ~ObjectMeta~
+- corresponds to the ~metadata~ section in yaml
+- rarely read or written from in client-go code, but very key to the system
+* Client Sets
+- gives access to multiple API groups and resources
+- also gives access to the discovery client
+* Status subresources
+- each deployment has a status subresource, updatestatus uses an additional http endpoint with ~/status~
+- used with ~/apis/apps/v1beta1/namespaces/ns/deployments/name/status~ can change the status of an object
+* Listing and Deletions
+- ALlows to delete multiple objects of a namespace at once
+* Watches
+- Gives an event interface for all changes, returns a channel
+  - actually discouraged, should try to use [[id:A65BA6E5-654C-4520-8293-966A010B5F5C][informers (k8s)]] instead
+* Client Options
+- can set:
+  - the version
+  - wire format
+  - user agent (allows for debugging and better log readability)
+* [[id:A65BA6E5-654C-4520-8293-966A010B5F5C][informers (k8s)]] and caching
+* work queue
+- example: https://github.com/kubernetes/client-go/blob/master/examples/workqueue/main.go
+- premade implementation of queue for building controllers
+* [[id:E77CAC60-0DAB-41BD-9BE6-91958F86C4AC][api machinery (k8s)]]
+* vendoring
+- typical golang vendoring, or modules

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       E891F4C2-DE95-4DBA-AE5D-3286CF298435
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: collusion_rings
+#+title: collusion rings
+
+Tags: [[id:08700B30-6476-438A-A1CB-8452DB3DEA4F][grad school]]
+
+- https://cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext
+[[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]] science collusion rings where one paper gets accepted in exchange for others being accepted at another place

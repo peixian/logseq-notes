@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       BAB0CCCB-79CC-48E7-AC7E-3E8F2FF2AE02
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: nlu_crowdsourcing_lab
+#+TITLE: nlu crowdsourcing lab
+
+Tags: [[id:29303C71-98D0-46CD-BBD0-E177FC42D1FB][nlu]]
+
+Crowdsourcing annotations
+- label annotations instructions
+- pay and incentive structure

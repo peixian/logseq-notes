@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       344670ED-BA2A-4DBC-A485-316E8BF12C8D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ghassan_kanafani
+#+TITLE: Ghassan Kanafani
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]
+
+- Marxist novelist and strategist

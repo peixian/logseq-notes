@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       67E243BB-3F94-461D-96FF-4EAB34B16EE4
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: geb_chaper_4_consistency_completeness_and_geometry
+#+TITLE: geb chaper 4 (consistency, completeness, and geometry)
+
+Tags: [[id:02E1C06A-9354-4671-9F73-4D1D3E198024][Hofstadter - Godel, Escher, Bach]]
+
+More complexity of isomorphism -> the more software is required ot extract meaning
+
+Language uses isomorphisms to generate meaning, the symbols are imbued with meaning
+
+Example: two objects collide in a vaccum, noise is not created, noise a function of the medium, not the collision
+
+Music -> level one meaning of the grooves on a viynl
+
+level two depends on a chain of isomorphisms
+
+[[id:216FDDEA-884B-43BD-990C-EF8F0F0E8009][godel's incompleteness theorem]]
+- no formal system can reproduce every single statement of theorems
+- truth transcends all formal systems
+
+eculid's elements
+- founder of rigor in mathematics
+- 4 posutlate geometry vs 5th postulate gemoetry
+- attempts at proving geometry with 4 postulates creates non-euclidian geometry, ellipital vs hyperbolic geometry
+
+Consistency
+- consistency is not a product of hte systems but of the interpreations we put on it
+- internal vs external consistencies
+
+Completeness
+- everything produced by a system is true
+- if a system is consistent but incomplete, that means that meanings we interpret from it are wrong

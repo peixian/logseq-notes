@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       FA5B6A36-3875-459E-B249-E14F0DBFC6AB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: multicore_ocaml
+#+TITLE: multicore ocaml
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][Computers]]
+
+https://www.instapaper.com/read/1297636718
+#+SETUPFILE:./hugo_setup.org

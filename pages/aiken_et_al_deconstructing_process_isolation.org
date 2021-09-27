@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       DF24C940-1A41-49EE-B80B-20B85E4A8701
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: aiken_et_al_deconstructing_process_isolation
+#+TITLE: Aiken et al: Deconstructing Process Isolation
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:B05008D3-364D-4C69-AE50-798AD2860551][operating systems]]
+
+Aiken, Mark, Manuel Fähndrich, Chris Hawblitzel, Galen Hunt, and James Larus. “Deconstructing Process Isolation.” In Proceedings of the 2006 Workshop on Memory System Performance and Correctness  - MSPC ’06, 1. San Jose, California: ACM Press, 2006. https://doi.org/10.1145/1178597.1178599.
+
+Operating systems usually enforce process isolation via hardware mechanisms, this paper compares the performance of a software isolated process

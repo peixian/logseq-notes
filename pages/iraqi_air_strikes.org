@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       5FB67260-843C-4354-BD5C-0E7D4F25AA5A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: iraqi_air_strikes
+#+TITLE: iraqi air strikes
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+https://docs.google.com/spreadsheets/d/1ARRruWyxvZjgGcSKDV5ml3yvVux81zbPzNdwkFBga0s/edit#gid=0

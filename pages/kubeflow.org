@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       716C6B3C-D028-47CD-98E9-E1EA0EAF9D05
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: kubeflow
+#+TITLE: kubeflow
+
+Tags: [[id:A0A37A5E-A266-46B3-8148-D7A40A5F1F78][kubernetes (k8s)]], [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       E4BFF830-4C57-4D41-8F42-3DC418565EF4
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: g_2_muon
+#+TITLE: g-2 muon
+
+Tags: [[id:7A929556-F8FE-4588-9440-655F9368B1F0][physics]]
+
+- https://www.math.columbia.edu/~woit/wordpress/?p=12292
+- http://resonaances.blogspot.com/2021/04/why-is-it-when-something-happens-it-is.html

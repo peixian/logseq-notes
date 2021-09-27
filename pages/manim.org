@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       BB9A15F8-0302-443A-87A7-688473F05F73
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: manim
+#+TITLE: manim
+
+Tags: [[id:0C55E344-F9AE-4584-B54F-83EC2FCE9062][math]], [[id:F448290E-5B55-41FA-8D27-0817F50328C5][javascript]], [[id:FA88E208-F69E-4E5C-91A0-2D745AE84BDE][visualization]]
+
+animation library for math:
+- https://3b1b.github.io/manim/index.html

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       461B1C33-274F-4DA9-A238-2B84384905BA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: finite_state_machines
+#+TITLE: finite state machines
+
+Tags: [[id:2AAEFE6A-3D1C-4EA0-8E33-AC48101A105B][state machines]]
+
+
+* Tools
+https://www.fsmpro.io/#feature-area

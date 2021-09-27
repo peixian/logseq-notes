@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       CE41F521-D44D-429A-8E8D-08FCAFEF6067
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: thread_building_blocks
+#+TITLE: thread building blocks
+
+Tags:  [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+C++ library made by intel to support multi-threaded processing.
+
+Book: https://www.apress.com/gp/book/9781484243978
+Wiki: https://en.wikipedia.org/wiki/Threading_Building_Blocks
+GH: https://github.com/oneapi-src/oneTBB

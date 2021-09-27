@@ -1,0 +1,64 @@
+:PROPERTIES:
+:ID:       07B6B671-AF53-4AF5-BCDF-468F5FE7489A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: org_roam
+#+TITLE: org-roam
+
+Tags: [[id:A5B60132-60E3-41C5-BCC7-622F05AA203A][org-mode]]
+
+* Org-Download
+- https://github.com/syl20bnr/spacemacs/issues/8479
+- https://github.com/abo-abo/org-download
+- https://github.com/org-roam/org-roam-server/blob/master/org-roam-server.el
+
+* Graphs
+  - Groups - https://org-roam.discourse.group/t/analysing-the-semantic-network/56
+  - Example:
+    #+begin_src r
+      ## Fetch data
+      library(DBI) # Sqlite
+      con <- dbConnect(RSQLite::SQLite(), "org-roam.db")
+      dbListTables(con)
+      links <- dbSendQuery(con, "SELECT [from], [to] FROM links")
+      links <- dbFetch(links)
+      titles <- dbSendQuery(con, "SELECT * FROM titles")
+      titles <- dbFetch(titles)
+      dbDisconnect(con)
+
+      ## Create edge list [from - to] with clean labels
+      library(dplyr) # Transformation
+      library(stringr) # String manipulation
+      edges <- inner_join(links, titles, by = c("from" = "file")) %>%
+        inner_join(titles, by = c("to" = "file")) %>%
+        select(From = titles.x, To = titles.y) %>%
+        mutate(From = str_sub(From, 3, -3), # Clean titles
+               From = str_replace(From, '" "' ,"/"),
+               To = str_sub(To, 3, -3),
+               To = str_replace(To, '" "' ,"/"),
+               )
+
+      ## Visualise and save as png
+      library(igraph) # Network analysis
+      svg("./org-roam-graph.svg", width = 19200, height = 10800)
+      par(mar = rep(0,4))
+      g <- graph_from_edgelist(as.matrix(edges), directed = FALSE)
+      g <- simplify(g)
+      coms <- spinglass.community(g) # Community detection
+      plot(coms, g, layout = layout_with_fr,
+                  vertex.size=degree(g))
+      dev.off()
+
+    #+end_src
+
+* Org-roam-bibtex
+
+https://github.com/zaeph/org-roam-bibtex
+
+* Org-roam-v2
+  :PROPERTIES:
+  :ID:       1B13FEEE-CA29-49CF-85E7-B424E6958FCB
+  :END:
+  - https://org-roam.discourse.group/t/org-roam-backlinks-not-recognized-after-migration-to-v2/1726/4
+  - https://org-roam.discourse.group/t/the-org-roam-v2-great-migration/1505/62
+  - https://org-roam.discourse.group/t/v2-a-few-questions/1724

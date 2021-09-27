@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       C4E274D9-F287-4386-8FBC-68C36C46A541
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: muhammad_baqir_as_sadr
+#+TITLE: Muhammad Baqir as-Sadr
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]], [[id:42F0A616-7195-4034-8A0C-53BBA045A294][islamic political thought]]

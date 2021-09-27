@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       AB300662-3E3E-4452-A29D-468522B35C3E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: languages_lingustics
+#+TITLE: languages/linguistics
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]
+
+- http://norvig.com/chomsky.html

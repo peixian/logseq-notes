@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       744440E6-E804-4734-AB34-48B5357222EF
+:END:
+#+TITLE: Phd Planning
+
+Tags: [[id:08700B30-6476-438A-A1CB-8452DB3DEA4F][grad school]]
+
+- Part time tech job?
+- Get back into contracting?
+- Setup an LLC?
+- http://matt.might.net/articles/phd-commandments/
+- http://matt.might.net/articles/ways-to-fail-a-phd/
+#+SETUPFILE:./hugo_setup.org

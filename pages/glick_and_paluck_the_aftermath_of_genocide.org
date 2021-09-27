@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       AF5C49CE-494A-45B0-9F1D-A6BA108772EB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: glick_and_paluck_the_aftermath_of_genocide
+#+TITLE: Glick and Paluck: The Aftermath of Genocide
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:2CA4ACAD-7B98-4C7E-AA8B-FC2E0ADE676A][conflict and violence]]
+
+- Social psychologists tend to emphaizie proximal situational causes
+- Talks about how victim groups experiece an ambivalent relationship to the past
+  - Rememberence is often painful
+    - [[id:C478E6D3-9BBA-450C-A2AE-2D750F69DE7C][Adar - Emotions and Nationalism: Armenian Genocide as a Case Study]]
+  - Holocaust remeberance not only creates solidarity within the group but also strongly motivates the rejection of a continuing victim identity
+- Past recession leads to denial and distancing of colonialization, mass violence, and genocide.
+  - Being told the victim group is currently doing well diminishes collective guilt

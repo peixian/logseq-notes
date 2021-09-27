@@ -1,0 +1,66 @@
+:PROPERTIES:
+:ID:       42D5EA33-3EE3-4A69-BDDC-2F590D82B9FE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: bayat_revolution_without_revolutionaries
+#+TITLE: Bayat - Revolution without Revolutionaries
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]]
+
+* Introduction
+- Most people expect revolutions to "simply" happen
+- Revolution without "revolutionary ideas"
+  - No shariati, Rousseau, etc
+
+* Revolutions of Wrong Times
+  - Marxist-Lenist liberation front in PDRY and Oman
+  - Why did the meaning of "revolution" become "refolution"?
+  - 1970 Revolutions
+    - Reza Shah
+      - [[id:3040A268-B128-4755-B9AC-0853CB9CFF1C][Ali Shariati]]
+      - Moderate Clerics and Islamic figures like Mehdi Bazagarn became leaders and evening lecturers
+      - Oil refinery workers and nationwide strike brought down the regime
+    - Arab World
+      - Nasserite anti-Imperialism
+      - Maxism-Lenism
+        - [[id:87825E0D-CF52-42BD-AC39-4EAC4B565EA3][Victory for NLF in yemen]] opened the door for a People's Front for the Liberation of [[id:F23234C0-1F44-48C7-A7EF-10A59976DD6F][Oman]] in mid 1960's
+        - [[id:2F90E8E5-3B4B-4ACC-89D9-10998AB7517F][palestine liberation organization (PLO)]]
+  - Arab Spring
+    - [[id:6005E7CC-3C52-420A-B99A-8531BE324C8E][Mohamed Bouazizi]]
+    - [[id:B7920589-79CC-4353-A685-8C5DAE0AEAB4][tunisia]]
+      - Trade unionists played pivotal role
+    - [[id:98F9993A-F5AD-44C5-A732-8BBAD7FA6BEE][egypt]]
+      - Largely related to Tunisia
+      - the "We are all Khaled Said" movement (April 6 Youth Movement)
+      - Toppled Mubarak
+    - [[id:87825E0D-CF52-42BD-AC39-4EAC4B565EA3][yemen]] brought down [[id:B48A4C18-13C4-4975-A88B-FE670A1107E6][Ali Abudllah Saleh]]
+    - [[id:8FBC97DD-DF57-4E32-BB34-2F1F81B76025][bahrain]] - thousands of Sunni and Shia occupied Pearl Roundable in Manama, three month Emergency law in response
+  - Big differences between Arab Spring and 1970 Revolutions
+    - "Lacked any associated intellectual anchor" - pg 11
+    - "Unlike the revolutions of the 1970's that espoused a powerful socialist, anti-imperialist, anticapitalist, and social justice implulse, Arab revolutionaries were preoccupied more with the borad issues oif human rights, political accountability, and legal reform" - pg 11
+      - How much of this is due to peripherialization? As the power of individual states fade on the global stage, does that mean our goals are similariy less defined?
+  - "Occupy"
+    - Draws links to the [[id:89F1EBBE-2B1E-439A-98BA-47AAA849BAFA][occupy movement]]
+      - "Almost all expressed dissent against the effects of neoliberal policies, notably staggering inequality, unemployment, precarious work, and uncertain life that had gripped  a large segment of ordinary citizens" - pg 13
+      - "Sociologists Manuel Castells and Sideny Tarrow suggest that the achievement of the Occupy movements was their very operation. Consdering the process as the product" - pg 13
+      - "Philosphers Alain Badiuo and Slavoj Zizek imagined in these revolutionary arenas the propsect of a new social order..."
+        - Matt Ford points out - "one cannot live in a cradle forever"
+    - Questionable linkage, given that they were temporally and capitally the same
+      - One can ask, why did the same type of revolutions not play out as a result of the [[id:BEA3898C-4D64-450E-9A9D-BB35B463BB49][1997 asian financial crisis]]
+      - mid-way between 1970 and 2010
+      - Why did the asian financial crisis coalese into protests? Massive looting, but less structural reform? Was that because many of the governements knew what to do?
+      - "The protests of 2011, however, were neither for revolution nor for reform; rather, they expressed a rebellion against the insitutions of representative democracy without offering any alternative" - pg 17
+        - What baggage does this claim bring?
+      - Alternative political parties, Syriza in Greece, Pdemos in Spaim, Aam Aadmi Party in India gained support
+  - "Refolutions"
+    - Complex mix of revolutions in the 20th century fashion and reform
+    - If we take the fact that these revolutions happened at all as the achievement, why did they not happen in 1997
+      - "The arab revolutions occured at an ideaological time in post-cold war history, when the very idea of revolution had largely disappeared from social thought and political struggles, where the three major postcolonial ideaologies - anticolonial nationalism, maxism-leninism, and militant islam - that vigorously advocated revolution had vanished or had been undermined. In their place was the powerful neoliberal paradigm and its normative frame" - pg 18
+    - "Foucault's idea of entrapment in disciplinary power, as Edward Said contended, ended up replacing "insurrenctionary scholarship" with "quietism"
+    - Movemnts became more fluid, states become more intelligent
+  - "Neoliberal Effect"
+    - 1974 military coup against Chile
+    - Argues that the diminishing of hte social contract with the IMF and World Bank, alongside structural adjustment policies and liberalization had initiaited this
+  - Novel revolutions?
+    - Why did the 2011 revolutions turn out to be different?
+  -

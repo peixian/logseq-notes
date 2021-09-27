@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       2F99F3BD-1CF4-4CEE-A1FA-8064531D1441
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: number_theory_book_club
+#+TITLE: number theory book club
+
+Tags: [[id:1D34FEF8-11D9-4160-A2D5-743F55B364CF][number theory]]
+
+- https://spxy.github.io/bc/

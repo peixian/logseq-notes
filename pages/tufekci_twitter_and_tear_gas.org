@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       0F15D205-63B9-4969-8417-EAE3174689A4
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: tufekci_twitter_and_tear_gas
+#+TITLE: Tufekci - Twitter and Tear Gas
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]]
+
+- /Reverse Streisand effect/ - deliberate information glut to hide the truth
+* Review (https://www.instapaper.com/read/1368619081)
+  - Talks about how Tufeki focuses on the structuring power of technology
+  - Also asks which mechanism does a social movement lead to change, and how to we assess the impact of social movements?
+    - Tufeki's idea of capacity signaling as a means to study capabilities and possible impacts of movements

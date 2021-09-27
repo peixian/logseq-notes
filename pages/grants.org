@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       E00987C9-7344-4450-941D-1FCC38359D6A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: grants
+#+TITLE: grants
+
+Tags: [[id:08700B30-6476-438A-A1CB-8452DB3DEA4F][grad school]]
+- https://grants.nih.gov/grants/funding/r01.htm

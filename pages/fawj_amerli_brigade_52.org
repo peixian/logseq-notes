@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       3B73ABCF-BB5E-4254-848C-E68718AB6BE2
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: fawj_amerli_brigade_52
+#+TITLE: fawj amerli (brigade 52)
+
+Tags: [[id:C403589A-21CC-411A-A58E-1C2FDC31F72C][brigades]]

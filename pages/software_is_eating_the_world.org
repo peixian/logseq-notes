@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1527B375-477A-4833-AC09-B63DDD6C534B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: software_is_eating_the_world
+#+TITLE: software is eating the world
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+- do things become more like software if "software is eating the world"?
+- how many more markets are feast/famine?
+- metrics lead to harmonization -> more people being added on papers
+- focus on efficiency?  big data insights are often counter intuitive
+- secondary effects of making things legible?
+- roles of consensus?
+- network effects
+- shift towards platforms? https://stratechery.com/2019/shopify-and-the-power-of-platforms/
+- two track in tech: Tech’s Two Philosophies highlighted how Facebook and Google want to do things for you; Microsoft and Apple were about helping you do things better.
+- https://stratechery.com/2018/the-moat-map/
+- https://stratechery.com/2018/the-bill-gates-line/
+- https://www.wsj.com/articles/SB10001424053111903480904576512250915629460

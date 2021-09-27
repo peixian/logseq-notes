@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       D65AB5DB-746F-4C5D-A100-15FB4F4831C0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: vaccine_manufacturing
+#+TITLE: vaccine manufacturing
+
+Tags: [[id:A06959EF-A349-4F8E-B58A-4C8B11A83DAA][covid]]
+
+- https://blogs.sciencemag.org/pipeline/archives/2021/02/02/myths-of-vaccine-manufacturing

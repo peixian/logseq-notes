@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       52CD27A8-2C71-470B-8669-DCFBB4BC4405
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: string_theory
+#+TITLE: string theory
+
+Tags: [[id:7A929556-F8FE-4588-9440-655F9368B1F0][physics]]
+
+* Criticisms of string theory
+- https://www.math.columbia.edu/~woit/wordpress/?p=12069
+- https://arxiv.org/pdf/physics/0102051.pdf

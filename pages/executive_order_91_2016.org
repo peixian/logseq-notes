@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       801423C7-E414-4B9C-8D5C-55E72598511C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: executive_order_91_2016
+#+TITLE: executive order 91 (2016)
+
+Tags: [[id:ADFAE0CB-D584-4CE9-9965-4E76C474546E][hashd al-shaabi (PMF)]]
+
+Issued by [[id:95DA0D77-6FC2-4BD5-9C16-20B037DCB31E][haider al-abadi]], later followed by [[id:E040B3F6-B6A6-456E-891C-CA56FD8AB488][popular mobilization comission law (2016)]]
+
+* Elements
+- Independent command of Iraqi armed forces - article 1, article 2, similar to [[id:BD2CF075-A324-4F5B-B9C5-DBCE0E4E4A4D][counter terrorism service (iraq)]]
+- under military regulations - article 4, article 5
+- notionally depolitized - ordered to break ties with political parties, although this now contradicts [[id:DA59FDA7-A1B8-4BB1-8592-C9EB9014CF5C][fatah (political party)]]

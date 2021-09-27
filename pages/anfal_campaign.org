@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       8677BAF0-235D-44BC-BA3B-7276F9CEE360
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: anfal_campaign
+#+TITLE: anfal campaign
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+Gas attacks under Baath that killed over 200,000 Kurds

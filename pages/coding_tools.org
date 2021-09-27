@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       6B55E235-0F36-421A-88B8-92499B3255FF
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: coding_tools
+#+TITLE: coding tools
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- https://artifacts.bypaulshen.com/code-explorer/02/

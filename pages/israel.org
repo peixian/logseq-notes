@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       BCB88E11-A4E5-4362-AE55-73D18B323882
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: israel
+#+TITLE: israel
+
+Tags: [[id:C61C3FE4-06C6-4621-818B-503E36E83B7C][middle east]]

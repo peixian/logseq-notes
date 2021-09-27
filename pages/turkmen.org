@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       AE44078E-56B5-4ED4-90D8-332F2BDBF053
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: turkmen
+#+TITLE: turkmen
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       54B4DE42-7DE9-4A65-8FD5-644D6C8EB981
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: rpc_tools_blog_post
+#+TITLE: rpc tools blog post
+
+Tags: [[id:D51D4006-2F02-4305-BBEF-5EDEFDCFD334][writing]]
+
+Here's a list of infrastructure technologies I've worked with in the past two years:
+
+- grpc
+- kubernetes
+- istio
+- envoy
+- kubeflow
+- kfserving
+- etcd
+- rabbitmq
+- redis
+- kyoto tycoon
+- cassandra
+- hbase
+- postgres
+- haproxy
+- solr
+- kafka
+- pulsar
+- zookeeper
+- consul
+
+These are loosely organized since each of the technologies do multiple things. Looking back on this, it's a little /absurd/ that this is the case. There's far too much going on here, and I think I'm not out of the ordinary for programmers in usage of these tools.
+
+If you squint at it, these tools largely fall into the classical two buckets of "middleware" and "database". Middleware consists of grpc/k8s/etc, while database consists of redis/cassandra/kyoto/pg/etc. One concept that has been discussed for this cambrian explosion of technologies is that
+
+Service infrastructure has become too complicated
+
+- istio
+- kubernetes
+
+- grpc
+- kubeflow
+- kfserving
+- envoy
+- consul
+- zookeeper
+- kafka
+- pulsar
+- rabbit
+- redis
+- cassandra
+- pg/mysql
+- hbase
+- haproxy
+- varnish
+- solr
+- ace/tao/ciao/dance

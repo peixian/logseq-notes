@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       D35F8653-70A4-4D69-97CE-963027822C78
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: interest_rates
+#+TITLE: interest rates
+
+Tags: [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]]

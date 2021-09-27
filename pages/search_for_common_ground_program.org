@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       24F2B63F-678B-4654-BAC7-C8C80CC77EC9
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: search_for_common_ground_program
+#+TITLE: search for common ground program
+
+Tags: [[id:7C05085A-564D-4186-B4E7-AD9DC612310A][un]]
+
+https://www.sfcg.org/

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       2CEBA35B-DA5B-4795-B4BD-2616BBD9A9AC
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: paxos_vs_raft_reading_group
+#+title: paxos vs raft reading group
+
+link: http://charap.co/reading-group-paxos-vs-raft-have-we-reached-consensus-on-distributed-consensus/
+
+- using [[id:F6AB05A3-B84F-42DB-8A9F-62470C836025][raft]] terminology to describe [[id:B61CD1FF-6157-4754-A625-A1AE4FCC5770][paxos]]
+- raft has weird situation when majority-accepted but not committed value may get chopped off due to leader churn
+#+DOWNLOADED: screenshot @ 2021-07-22 18:33:30
+[[file:2021-07-22_18-33-30_screenshot.png]]
+states that:
+- paxos is hard to understand because the language is obtuse, raft was written with an engineering audience in mind
+- raft has significantly more reference implementations
+- leader election efficiency
+  - [[id:E26C2A70-898F-4FC6-8DCE-E9009A631AE2][cloudflare outage]]
+- [[id:F6AB05A3-B84F-42DB-8A9F-62470C836025][raft]] may be an implementation of [[id:7D1A0BE4-7B9F-47C7-AD76-AE8D17A3E3BB][multi-paxos]]
+- [[id:401ECB02-63D9-4A4D-9AA8-95853F5232AA][Wang et al: On the Parallels between Paxos and Raft, and how to Port Optimizations]]
+  - can you port raft optimizations back into paxos
+- what other algorithms are out there?  [[id:605258DD-10C6-4840-AE8F-28F636DB8C24][epaxos]]
+- which one is more teachable?

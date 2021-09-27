@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       408D144C-0201-4293-B27C-DB4FF52BF528
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: one_belt_one_road
+#+TITLE: one belt one road
+
+Tags: [[id:0E21DFCA-3016-427A-965E-341DE95432B7][china]]

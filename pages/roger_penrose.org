@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       0C5FE8E4-7A56-430C-9749-986F2BB85665
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: roger_penrose
+#+TITLE: roger penrose
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:7A929556-F8FE-4588-9440-655F9368B1F0][physics]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       EA30B619-E3C1-415A-8625-14A827F0A439
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: geb_chapter_2
+#+TITLE: geb chapter 2
+
+Tags: [[id:02E1C06A-9354-4671-9F73-4D1D3E198024][Hofstadter - Godel, Escher, Bach]]
+
+- Axiom schema are the framework for axioms
+- Any formal system that lets you make longer theorems from shorter ones requires a decision procedure, which leads to [[id:670B0AC3-A80D-4DBE-8B4F-7B1FB74A8DA1][halting problem]]
+- any constructions of an isomorphism induces meaning, because if there is a way to transform the information without losing it, then there is inherent meaning in the information
+- interpretation vs meaning
+  - intepretation - what the symbol represents
+  - meaning - the underlying thing
+- systems can take on multipl;e passive meanings
+- do formal systems always need to map onto reality?
+- how do we "prove" isomorphism?
+- numbers misbehave, although people have an innate sense that they do not
+- [[id:9CCF2FDC-4B10-4E45-8414-9D1815AD7ADB][euclid's theorem]]
+- Proofs can be broken down into discontinous jumps that never make sense until zoomed out

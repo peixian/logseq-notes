@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       D70E8E40-D68C-46C2-B1F2-7E7926107883
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: de_soto_del_castillo_implementation_of_comphrensive_peace_accords
+#+TITLE: de Soto & del Castillo: Implementation of Comphrensive Peace Accords
+
+Tags: [[id:19451263-FE36-4A8C-BF90-A34E7A22A5FE][el salvador]], [[id:FD50208D-FC0D-4FED-A164-1CCA8E3E0ADB][un and global governance lecture 5]]
+
+- UN proclaims success in el salvador, but it's highly likely this wasn't possible
+- problems
+  - national civil police in el salvador
+  - transfer of land to former combatants
+- UN peace accords started from 1990 to 1991, a "negotiated revolution"
+- appearance of armed bands following the peace accords
+- [[id:99CEA7D9-CE28-4B6A-91F7-24D06F28429B][ONUSAL]] was asked to be extended by the salvadoreans
+  - extremely intrusive, basically UN "omnipresence"
+- el salvador was largely broken due to income inequality, which then had the landed class nurture a powerful armed forces to protect themselves
+- constant external financing problems, especially in light of the problems caused by the collapse in coffee prices, lead to need for more external financing
+- international negotiating effor was developed and maintained by the sec gen
+- makes the case that el salvador's gains are not irreversible, and the various assinations and killings presents a difficult problem to solve
+- "race towards elections" - lulls the international community into thinking that the problem is finished
+- questions of "exit scenario", what consitutes a proper exit scenario?

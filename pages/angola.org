@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       70011E62-E704-4EFE-BC9F-34260FEECCE1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: angola
+#+TITLE: angola
+
+Tags: [[id:4716EF6A-B378-4010-B090-41D487EB8B72][africa]]

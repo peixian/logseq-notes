@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       6300B463-204F-4CB8-9404-8B1FFB1CB275
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: zaidi
+#+TITLE: zaidi
+
+Tags: [[id:5E5E8287-6677-468A-8B62-7AA634A3E5CC][islam]]

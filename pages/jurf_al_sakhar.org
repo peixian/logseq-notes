@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       35A3635E-D174-4EA7-9FAF-78A2C776C46B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: jurf_al_sakhar
+#+TITLE: jurf al-sakhar/jurf al-nasr
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+Small town 60 kilometers south of [[id:105A47A9-B2B1-46B8-9531-52E9E39414AB][baghdad]]
+
+Has a [[id:F56A8565-CED0-45C2-A53B-B186DF72A1C9][kataib hezbollah (kh)]] training camp

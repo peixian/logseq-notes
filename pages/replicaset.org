@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       F1C4307F-F3C2-427B-ABAE-1007E08BD047
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: replicaset
+#+TITLE: replicaset
+
+Tags: [[id:F5441954-B74E-4FF3-BE85-653D7B55AD50][controllers (k8s)]]
+
+Specific kube controller that encodes the ability to startup and stop identical pods
+https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/
+Source: https://github.com/kubernetes/kubernetes/blob/master/pkg/controller/replicaset/replica_set.go#L540-L641

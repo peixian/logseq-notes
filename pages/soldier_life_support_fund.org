@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       3C2B66A8-BD8A-4456-B59E-E2182963E7A7
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: soldier_life_support_fund
+#+TITLE: soldier life support fund
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+Funds for commanders to support their troops, typically a key driver of corruption and money skimming via [[id:EE01C721-DAE5-435E-A9E0-C4367F69C288][iraqi ghost militias]]

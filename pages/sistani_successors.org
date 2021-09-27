@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       53EFCC9C-6679-4A88-A819-6DE168E97D9F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sistani_successors
+#+title: sistani successors
+
+[[id:3F2EE985-63C3-42AD-95C0-8ADD543FCF21][sistani]]
+
+3 potential ones:
+- Mohammed Saeed al-Hakim - http://alhakeem.com/
+- Mohammed Ishaq al-Fayadh - http://alfayadh.org/
+- Bashir Hussain al-Najafi - http://www.alnajafi.org/
+
+Transition from Khoei to Sistani took 6 years to finish: https://www.al-islam.org/articles/brief-biography-memory-his-late-holiness-ayatullah-al-uzma-sayyid-abul-qasim-al-khui-yasin
+
+Suggestions of 1-2 year transition? https://web.archive.org/web/20190830164059/http://www.niqash.org/en/articles/society/2917/

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       0326CE0B-4137-4190-B243-FCC683373D9A
+:END:
+#+TITLE: base period training
+
+Tags: [[id:3B5A43C1-21E5-4002-BFA9-66B71284CAD0][Workouts]]
+
+* Mountaineering objectives
+- 2x max strength workout with Scott's Killer Core Routine
+- 1 long zone 1 workout with 25-30% of the weekly volume
+- 1 zone 1-2 workout with 20% of the weekly volume on steep terrain
+- Rest in zone 1 or recovery aerobic
+
+Focus on
+#+SETUPFILE:./hugo_setup.org

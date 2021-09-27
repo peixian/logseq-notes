@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       F5441954-B74E-4FF3-BE85-653D7B55AD50
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: controllers_k8s
+#+TITLE: controllers (k8s)
+
+Tags: [[id:A0A37A5E-A266-46B3-8148-D7A40A5F1F78][kubernetes (k8s)]]
+
+Core component that implements a control loop and optimistically transitions state
+
+Docs: https://kubernetes.io/docs/concepts/architecture/controller/

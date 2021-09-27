@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       DE11B1DE-9DE7-4B29-A074-C962666085E1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hezbollah
+#+TITLE: hezbollah
+
+Tags: [[id:44848562-7F27-4906-95F4-6A9BFEC7A473][militias]], [[id:D4B35C6D-544A-481C-B5C0-7C2A2ABCF9AC][lebanon]]

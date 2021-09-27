@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       97F2C822-F4AC-4A54-BC33-E4D20F8455BD
+:END:
+#+TITLE: Aciksoz - Sacrificial Limbs of Soverignty
+
+Tags: [[id:FAC6D0F0-7797-4330-B988-37260A98CBC1][turkey]], [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]
+
+- Veterans organizations have become the locus of ultranationalist campaigns against dissident intellectuals
+- Two sides of the same coin: nation as a nurturer of children and protector of the nation as a man
+#+SETUPFILE:./hugo_setup.org

@@ -1,0 +1,70 @@
+:PROPERTIES:
+:ID:       A5B60132-60E3-41C5-BCC7-622F05AA203A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+TITLE: org-mode
+Tags: [[id:9675FEBA-A78E-4DE1-83CF-E04D66C221AF][Taking Smart Notes]], [[id:C6A0DE9C-3E50-49C8-9073-69912962D29B][emacs]]
+- org deft: https://jblevins.org/projects/deft/
+- https://www.leonrische.me/ has org flashcards (https://www.leonrische.me/pages/org_flashcards.html) and org zettelkasten (https://github.com/l3kn/org-zettelkasten)
+- org roam appendix: https://org-roam.readthedocs.io/en/master/notetaking_workflow/
+- org roam HN thread: https://news.ycombinator.com/item?id=22767658
+- Org bullets: https://www.spacemacs.org/layers/+emacs/org/README.html
+
+* Org-ref
+  :PROPERTIES:
+  :ID:       EB366621-52E8-4E72-A786-A4E62913A794
+  :END:
+  - https://github.com/jkitchin/org-ref/blob/master/org-ref.org
+  - Example: https://raw.githubusercontent.com/jkitchin/org-ref/master/tests/test-1.org
+** setup
+   need
+   #+begin_src org
+     ,#+latex_header: \usepackage[citestyle=verbose,bibstyle=numeric, hyperref=true,backref=true,maxcitenames=3,url=true,backend=biber,natbib=true] {biblatex}
+     ,#+latex_header: \addbibresource{~/Dropbox/bib/refs.bib}
+     ,#+EXCLUDE_TAGS: noexport
+   #+end_src
+
+   at the start of every file. ~:noexport:~ marks headings to not export within the file
+   also see https://tex.stackexchange.com/questions/21439/is-there-any-advantage-to-using-addbibresource-over-bibliography
+   - Footcites: https://tex.stackexchange.com/questions/344116/setting-bibliography-style-in-footnotes-with-biblatex
+** Biblatex vs bibtex vs biber
+   - https://tex.stackexchange.com/questions/25701/bibtex-vs-biber-and-biblatex-vs-natbib
+
+
+** Cite types
+   - defined in ~org-ref-cite-types~
+
+** Citing with pages https://old.reddit.com/r/orgmode/comments/90sk11/how_do_you_cite_pages_for_quotes_with_orgref/
+*** use ~[[cite:test][pg. 222]]~ types
+* Notdeft
+  Replacement for deft using xapian
+  - https://github.com/hasu/notdeft/blob/xapian/notdeft-example.el
+  - https://github.com/hasu/notdeft
+  - https://tero.hasu.is/notdeft/
+* Related projects
+  - https://github.com/rochus-keller/crossline/
+* Org Special Blocks
+  #+begin_src elisp
+ '(org-structure-template-alist
+   '(("a" . "export ascii")
+     ("c" . "center")
+     ("C" . "comment")
+     ("e" . "example")
+     ("E" . "export")
+     ("h" . "export html")
+     ("l" . "export latex")
+     ("q" . "quote")
+     ("s" . "src")
+     ("v" . "verse")))
+
+  #+end_src
+* Truncating on startup
+  https://superuser.com/questions/299886/linewrap-in-org-mode-of-emacs/299897
+* org-id
+  :PROPERTIES:
+  :ID:       D087FBB3-E440-48AF-951A-B7C0CD4DCC42
+  :END:
+- org id is an extension that maps a specific place to an id
+- https://github.com/syl20bnr/spacemacs/issues/8054
+- reads off of agenda files
+- use ~org-id-update-id-information~ to update ~~/.emacs.d/.org-id-locations~

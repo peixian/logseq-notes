@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       932F1176-A02B-451F-A0E5-75BDC0840344
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: word_embeddings
+#+TITLE: word embeddings
+
+Tags: [[id:48350662-53E9-4A91-9ADB-2BC9DFEA6098][nlp]]
+
+https://medium.com/deeper-learning/glossary-of-deep-learning-word-embedding-f90c3cec34ca

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       B574E542-4791-4291-A64E-7F25073E1BA9
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: alfred_north_whitehead
+#+TITLE: alfred north whitehead
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:0C55E344-F9AE-4584-B54F-83EC2FCE9062][math]]
+
+Co-author of [[id:816F355C-8A52-4208-82F8-BFC00A110C5C][principa mathmatica]]

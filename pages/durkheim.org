@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       4C8F7C01-8A9A-41D2-A99E-5F594D261F14
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: durkheim
+#+title: Durkheim
+
+[[id:85B58094-76CD-470D-AD88-2676C2D2A605][sociology]], [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]
+
+- Believed that religion is a 'social fact', and the source of moral authority
+  - Contrasts to [[id:3853DF76-5505-4FBA-8B4F-470F66028E3C][marxist (nationalism)]]
+  - Thought that religion was just society worshipping itself

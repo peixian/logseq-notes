@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: papers
+#+TITLE: papers
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       2035E5EC-FDE4-4F3C-9F38-FD5F3A81D096
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: scitail
+#+TITLE: SciTail
+
+Tags: [[id:D9C1DCB3-C95F-4778-BBA4-59E7AEBFC961][nli]], [[id:A904921D-F574-41FC-B41C-4B6114932AC5][datasets]]
+
+- Created by pairing statements from science tests with information from the web
+- First NLI set built entirely on existing text (middle school level exams)
+- 27k

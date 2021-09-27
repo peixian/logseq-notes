@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       895B4E1C-4853-427A-9F99-DABC82002C2F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: compilers_classes
+#+TITLE: compilers classes
+
+Tags: [[id:5B3FA555-7C9B-47B1-A463-983A682072FC][compilers]]
+
+https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/

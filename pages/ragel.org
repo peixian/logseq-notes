@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       4D632873-D07E-4E7F-96C3-DCBDF0F8D509
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ragel
+#+TITLE: ragel
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]], [[id:5B3FA555-7C9B-47B1-A463-983A682072FC][compilers]]
+
+
+- https://www.colm.net/files/ragel/ragel-guide-6.9.pdf
+- http://thingsaaronmade.com/blog/a-simple-intro-to-writing-a-lexer-with-ragel.html

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       AC66B7A2-B94E-41C7-81F6-E379C1B00B6A
+:END:
+#+TITLE: Adalet - Hotels and Highways
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:FAC6D0F0-7797-4330-B988-37260A98CBC1][turkey]], [[id:C61C3FE4-06C6-4621-818B-503E36E83B7C][middle east]], [[id:7516C9D2-C858-4B4F-8608-4610982B233B][development theory]]
+
+- Conrad Hilton - Cairo held "the key to Africa and the Middle East" - p 1
+- Early phases of the cold war gave Americans endless opportunities
+  - Same for Iraq development like [[id:B91A9E4D-0BCC-4FDB-A377-CC56F26E5F01][dujayla land project]]
+  - Truman's "underdeveloped areas" and Kennedy's "Development Decade" in the 1960's
+- _Turkey served as both the template Modernization theory was based on and the object on which it was enacted_ - p. 3
+  - 3 parts, fact gathering, theory development, and experimentation
+- _Postwar consolidation of American hegemony rested on the active construction of geography of development_ - p 5
+  - Turkey was an example for the rest of the underdeveloped middle east
+  - Shared ideaology among DP and Republican People's Party even as the DP took power
+- Treated with gloves by the western states, ignored nationalism ([[id:300022C0-7BEB-468C-A370-069F1EF4759E][Nationalism and Outsiders in the Middle East - Midterm]]) because Turkey was supposedly modernizing
+- [[id:7516C9D2-C858-4B4F-8608-4610982B233B][development theory]] brought along a positivist orientation: knowledge existed in the world, understanding said knowledge would allow them to harness the world
+- Experts had to package [[id:7516C9D2-C858-4B4F-8608-4610982B233B][development theory]] for it to be replicated
+- Ankara University teachers exerted active push and pull like described in [[id:2EBAA08C-FB3A-43F4-9411-EEC9EFF8861F][Humanism in Ruins - Discussion Questions]]
+- [[id:7516C9D2-C858-4B4F-8608-4610982B233B][development theory]] was not internally consistent
+#+SETUPFILE:./hugo_setup.org

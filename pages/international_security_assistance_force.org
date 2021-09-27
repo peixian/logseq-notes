@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       75E79884-8B96-4CAF-A5B6-A7CB8D99221D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: international_security_assistance_force
+#+TITLE: international security assistance force (ISAF)
+
+Tags: [[id:086B0579-8C85-4CE5-9E65-EB8980FB2C2E][afghanistan]]
+
+Supporing security force from [[id:4B1F18B0-59A6-49A6-9D1F-8858F0D80707][nato]] in [[id:086B0579-8C85-4CE5-9E65-EB8980FB2C2E][afghanistan]]

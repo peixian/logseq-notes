@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       96B2C069-EFCA-4808-94B1-76DB26763ECE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: safer_oil_tanker
+#+TITLE: safer oil tanker
+
+Tags: [[id:87825E0D-CF52-42BD-AC39-4EAC4B565EA3][yemen]]
+
+Oil tanker in yemen, off the coast, stranded 5 nautical miles. Seawater entered the engine department in 2015. UN has been asking for access to move, but Houthi controlled.
+- Near Hoedida
+Refs:
+- https://ceobs.org/is-an-ageing-oil-tanker-threatening-an-environmental-disaster-off-the-coast-of-yemen/
+- https://www.atlanticcouncil.org/blogs/energysource/gaming-out-the-disaster-what-could-go-wrong-with-the-fso-safer/
+- https://www.instapaper.com/read/1327991103

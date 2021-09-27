@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       69BC902A-30D8-4B13-8EEB-50F5D656DD4F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: fuzzing
+#+TITLE: fuzzing
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+* Fuzzing Image IO
+- https://www.instapaper.com/read/1303612511
+
+- No source code, large range of inptus is perfect for fuzzing
+- Choosing type of fuzzing is more difficult
+  - Try https://github.com/google/honggfuzz
+  - Covered in https://arxiv.org/abs/1812.11875
+
+* Libfuzzing
+- https://github.com/Microsvuln/Awesome-Libfuzzer-Harness
+* Google
+- https://github.com/google/fuzzing/tree/master/dictionaries

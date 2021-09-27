@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       40C1E4D1-B02F-4F6B-8A61-9F71CBB0BAAC
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ismaili
+#+TITLE: ismaili
+
+Tags: [[id:BB2783B7-0E6B-4886-8007-EC63A9C67096][islamic jurisprudence]]

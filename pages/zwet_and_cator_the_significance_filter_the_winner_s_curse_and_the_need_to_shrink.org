@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       048D34FB-ACDB-4BE8-B493-46EB3505348A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: zwet_and_cator_the_significance_filter_the_winner_s_curse_and_the_need_to_shrink
+#+TITLE: Zwet and Cator: The Significance Filter, the Winner's Curse, and the Need to Shrink
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]], [[id:A75E8675-6FA2-427F-AC64-64D3F4DEE1F1][philosophy of science]]
+- Zwet, Erik van, and Eric Cator. “The Significance Filter, the Winner’s Curse and the Need to Shrink.” ArXiv:2009.09440 [Stat], September 20, 2020. http://arxiv.org/abs/2009.09440.
+
+"Signficance filter" means only focusing on statistically significant results, which means that it can lead to an overestimation of the magnitude of the parameter.
+
+Attempts to study this from a [[id:9052F935-3F34-463B-B185-A8666C191341][bayesian]] perspective, shows that the
+#+begin_quote
+the  relativebias of the magnitude is a decreasing function of the power and thatthe usual confidence interval undercovers when the power is less than50%.   We  conclude  that  failure  to  apply  the  appropriate  amount  ofshrinkage can lead to misleading inferences.
+#+end_quote
+
+
+Basically only focusing on statistically significant data means that the intervals are poorly estimated, since the significance filter is a step function

@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       B617D525-7D0F-4362-A1F5-B3BB78B3C8C5
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: stoler_colonial_archives_and_the_arts_of_governance
+#+TITLE: Stoler: Colonial Archives and the Arts of Governance
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:F6DEBD6F-7B47-4A1B-9C73-4E32B62E31EA][Problems and Methods - Archival Turn]]
+
+* Colonial Archives and the Arts of Goverance - Ann Stoler
+  - Complains that the archival studies remain more extractive than ethnographic
+  - Focus on "archive as a process" rather than things
+  - "Archives as epistemological experiments rather than as sources, to colonial archives as cross-sections of contested knowledge"
+    - Similar to [[id:B1E26B6E-6A74-4E81-8A49-B18EF81BFDAE][DiCapua - Gatekeepers of the Arab Past]]
+  - EE Evans Prtichard's warning that "anthropology would have to choose between being history and being nothing"
+    - E.E. Evans-Pritchard "Social Antropology: Past and Present. The Marett Lecture, 1950"
+  - "Archive fever" has grasped modern anthropology
+  - Students reject the content of colonial archives but rather attend to the form or context
+    - We reject the information in the archives
+    - But who is interviewed? Why are they interviewed
+  - Identifying bias:
+    - Shaped:
+      - What could be written
+      - What warrented repetition
+      - What competensies were rewarded in archival writing
+      - What stories could not be told
+      - What could not be said
+  - Derrida's "there is no political power without control of the archive"
+    - Who controls the [[id:A03F7254-8635-4AB2-B420-AB5A01DF1F10][iraqi archives]]
+  - Colonial archives reproduced the power of the state
+    - Modern readings of colonial archives are read against the grain
+  - Pause at, rather than bypass the unspoken practices
+    - How are things organized? Why are they collected together?
+  - Archives also keep secrets
+    - What secrets are worth keeping?
+    - What secrets are kept because of disagreements?
+      - Dutch colonial archives classified documents beacuse they could not agree, or sometimes because of the magnitude of the problem

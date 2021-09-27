@@ -1,0 +1,73 @@
+:PROPERTIES:
+:ID:       C502879F-6192-46A0-B178-E331F8607116
+:END:
+#+TITLE: Blumi - Ottoman Refugees, 1878-1939
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:A438ACD2-2C1E-40EB-9502-74E5B69EA9FF][Post-Ottoman Near East]]
+
+Refugees and history are a two way street, internal refugees of the Ottoman empire are seen as chess pieces when in fact they shape policy. The book attemps to bring Balkan refugees, Albania, Anatolia, and Mandata Iraq and Syria in the same style as [[id:360914DB-207A-458E-A677-B1DC2302A2FA][Anscombe - State, Faith, and Nation]], enlarging the frame of the "post-Ottoman". Also pulls in the domination of international finance and capitalism as a centripedal force.
+
+- _The refugee is, in other words, a monolith, a categorical point of reference made subordinate to a larger narrative about the trajectory of the empire and its successor ethno-national states._ - pg 3
+- Refugees are invoked to reinforce the myths of the modern state's inevitability rather thana way to understand complex social and economic changes surrounding their experience.
+- Ideas about a "historically inevitable" violent collapse of the premodern multiethnic empire presupposes the nation shedding a "backward" or "Oriental" past by becoming an ethnostate.
+- Refugees often became armed [[id:44848562-7F27-4906-95F4-6A9BFEC7A473][militias]], social clubs, viable constituencies demanding institutional attention.
+
+
+
+* Finance Capitalism
+  - [[id:434F9B62-7240-40A3-815C-B06F2B10B143][tanzimat]] reforms introduced the financial reforms that opened up the Ottoman empire during the Crimean war
+    - retrograde Hamidian era did not attempt to reform this
+    - large amounts of Ottoman debt
+  - Emergent financial cartel of Europe wanted their hands on the Ottoman empire
+  - Infrastructure projects gave European bank cartels cover for finance capitalism
+
+* Provisional Modernity in the Western Balkans
+  - Argues against the cultural identity as a sole factor
+  - Demands the refugges put on host communities disrupted or even outright destroyed indigenous political structures - pg 47
+  - Refugees dispaced as part of the resetllement regime formed interest groups that worked their way into local affairs
+    - Kosovo and Albania (mostly autonomous) reached out to the Ottoman government to request state assistance in the mobilized and hostile refugee communities
+    - Serbia state bureaucracies became political battlegrounds, and due to inheriting debt from the Ottoman empire, required opening their economies to European private capital
+  - Hasa drought of 1890 chased out large group of people and drove them towards [[id:477EE8EF-627A-4143-BCAB-373FDA98ED09][basra]]
+* Romania, Bulgaria, and Egypt
+  - Both less hostile to integrating the dynamic Ottoman refugees
+  - Drita - famous social club in Bucharest that communicated to the larger Ottoman diaspora via a Osmanli (CUP publication in Geneva)
+    - School textbooks seemed to fit [[id:47EF592A-10D4-4923-BE86-E3E03918624D][Anderson - Imagined Communities]], but Drita denies this because every one of their publications was inspired by beyond ethno-linguistic lines alone
+    - Opponents also felt it was necessary to publically challenge Drita
+    - If ethno-linguistic lines hold, neither of these would've been needed, but rather the "market share" of Dirta was what was important
+  - [[id:98F9993A-F5AD-44C5-A732-8BBAD7FA6BEE][egypt]] had developed a panoply of modern-looking, ethno-national, or sectarian oriented communities via European patrons
+
+* Transnational Migrants
+  - Connection of global finance allowed Arab workers to go as far as Indochina and the Philippines
+    - Criminalizing of indigenous trade opened up international middle men
+  - Baghdadi Jews occupied a wealthy entrepreneur class of tea traders
+    - Treaty of Naking
+  - British envisioned supplanting all competiting interests within the Middle East by the cultivation of Hadhrami families
+  - 'Alawi and Nakshabandi families of Sufi Hadhriami were linked to a network of commerce and spirituality, similar to [[id:64151A69-C7D3-435A-9D04-9DB692D01A1D][Can - Spiritual Subjects]]
+
+* Missionaries at the Imperial Idealogical Edge
+  - Erection of schools, madrasas, and mosques in the 1850's are typically seen as emblematic of proactive Ottman state trying to harness Islam
+  - But also argued that regardless of actual need, the determination of these resources were allocated based on the strength of the regional representation within the halls of power
+  - _I will ultimately conclude that there is no identifiable pattern to how different Muslims interact with the world._ - pg 116
+  - [[id:64151A69-C7D3-435A-9D04-9DB692D01A1D][Can - Spiritual Subjects]] describes sufi orders in the Hamidian era, could we consider these people an [[id:47EF592A-10D4-4923-BE86-E3E03918624D][Anderson - Imagined Communities]]?
+  - In order to centralize state power, Ottoman governoners like in the Shkoder mountains formed organizations like the "Committee of the Shkoder Mountains" and given formal titles and salaries
+    - Shared negotiations like in [[id:99981776-EE2F-405B-8346-433BF45688B6][Meeker - A Nation of Empire]]
+** Ottoman Internationalism
+   - 'Alawiyya missionaries in the Hijaz sought to convert people and trade in East Africa, mostly starting from Zanzibar
+
+* Collapse of Ottoman Empire
+  - _literature on the refugees of Ottoman collapse often asserts qualitative differences between the experiences of “Armenian” internally displaced peoples and those of “Muslims” during the same period of tragic events throughout the last half century of Ottoman existence, but the crucial factor here was the very fact one group of victims of war was “Christian” and the other “Muslim.” The difficulty with breaking out of this neat, but ethically suspect binary compass is that the tools available to the historian often seem inadequate. Generic categories such as sectarian or ethno-national identity used to capture an “experience” as vast as famine do so to distinguish particular categories of people from others, not to explore the actual diversity of experiences and fluid contexts._ - pg 136-137
+  - _It is even more disappointing when the scholarship invokes sect, tribe, and ethnicity to try to explain what happens in these same territories when facing a constant flow of refugees, migrants, missionaries and “foreign” troops. 89 Again, while there have been challenges to the superstructure of “Ottoman Studies” and the epistemologies that confine the study of “Pan-Islam” to a “universal” struggle with “Christianity” or “the West,” unless we disaggregate with specific cases the categories of analysis, in other words, complicate them to the point they no longer have any meaningful value as explanatory tools, we simply repeat the essentialist “crimes” of the past._ - pg 138
+
+* Conclusion
+  What’s the recipe for a Turk? Take the 25 de Março [downtown São Paulo market district] street cocktail shaker and put in a Syrian, an Arab, an Armenian, a Persian, and Egyptian, a Kurd. Shake it up really well and—boom—out comes a Turk. [Guilherme de Almedia] - Turco de mierda . . . Turco bruto
+
+  - Ottoman refugee experience must be disaggregated from post-Ottoman narratives that suit certain ethic and political orders
+
+
+* Discussion in class
+- Financial cartel undergirds the refugees and how they shape the world
+- Tackles the question of essentialisms in historiography
+- Reads globalization as a monolithic entity, but he argues against a monolithic view of culture in the same hand
+- Is the success of various people related to their ottoman practices, or the capitalist society?
+- This book and its relationship to [[id:64FE24B5-2EAA-4819-8E1D-8C0DBF239DC7][habitus]]
+#+SETUPFILE:./hugo_setup.org

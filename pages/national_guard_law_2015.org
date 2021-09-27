@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       19B6AC64-2EDE-40BE-8F7A-B8FBC87D8FB8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: national_guard_law_2015
+#+TITLE: national guard law (2015)
+
+Tags: [[id:ADFAE0CB-D584-4CE9-9965-4E76C474546E][hashd al-shaabi (PMF)]]
+
+- Submitted to Cabinet Jan 27, 2015
+- Approved on Feb 3, 205
+- Read in Parliment on March 2, 2015
+- Not passed, was under [[id:95DA0D77-6FC2-4BD5-9C16-20B037DCB31E][haider al-abadi]]
+- [[id:D39E518B-12D0-4178-9A36-9F40437DDCC3][iraqi sunni]] wanted command to be under provincial govs, [[id:A0834C86-F136-4F49-8139-77B077E65FBC][iraqi shia]] groups wanted it to be under the command in chief
+* Elements
+  - Provincial level recruitment - article 2 and 13
+  - Placement outside security ministry - article 4 calls for independent budget and command directly answerable to the [[id:4F59D34B-7839-4FA8-A61F-97BCE0E62359][iraqi prime minister]]
+  - Full set of staff directories - article 5
+  - two tier system of full-time and reservist - article 10
+  - Capabilities less than an army infrantry brigade - article 12

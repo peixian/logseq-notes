@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5717AC93-7D2F-4E0B-BB2D-FD5C09FE4A9B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: programming_languages
+#+TITLE: programming languages
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+* What programming langauges are used mostly on weekends?
+- https://stackoverflow.blog/2017/02/07/what-programming-languages-weekends/?cb=1

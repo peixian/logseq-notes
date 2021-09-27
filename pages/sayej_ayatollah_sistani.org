@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       4CEA8F71-B77F-48C4-8B10-954E010896D1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sayej_ayatollah_sistani
+#+TITLE: sayej - ayatollah sistani
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]
+
+- [[id:3F2EE985-63C3-42AD-95C0-8ADD543FCF21][sistani]] politicized his role
+- similar to [[id:025B5FBB-A8D1-4732-AB11-1DABD7BF0001][Dodge - Rethinking Political Identities in Iraq After 2003]]
+- reached out for pan-Iraqi nationalism
+  - However his singular role as a shi'a cleric leads to some contention
+- demands that his fatwas bound all muslims
+- Najaf mantra - ayatollahs as guides

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       FE9DDD5D-B5D8-468F-B290-8B88B2075A55
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: tribal_disputes_regulation_act
+#+title: Tribal Disputes Regulation Act
+
+[[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+Mandate era protection that gave dual legal systems for cities and tribes

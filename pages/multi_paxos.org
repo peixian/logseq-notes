@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       7D1A0BE4-7B9F-47C7-AD76-AE8D17A3E3BB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: multi_paxos
+#+title: multi-paxos
+
+[[id:B61CD1FF-6157-4754-A625-A1AE4FCC5770][paxos]]

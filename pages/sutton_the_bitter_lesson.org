@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       1A1F511E-B83E-4906-9757-52950602551A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sutton_the_bitter_lesson
+#+TITLE: Sutton: The Bitter Lesson
+
+Tags: [[id:5D4FD56C-329E-4881-AEBC-EFE6DDF0F29D][articles]], [[id:572EA03C-52DA-4BC3-BFD5-BB73EB49042C][hardware]], [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]]
+
+- http://www.incompleteideas.net/IncIdeas/BitterLesson.html
+- Similar to [[id:C055CC5D-858C-4E97-9A32-861905EC2B45][Hooker - The Hardware Lottery]]
+- makes the point that "compute >> clever"
+- https://papers.nips.cc/paper/1999/file/464d828b85b0bed98e80ade0a5c43b0f-Paper.pdf
+
+* Responses
+- https://staff.fnwi.uva.nl/m.welling/wp-content/uploads/Model-versus-Data-AI-1.pdf
+- https://rodneybrooks.com/a-better-lesson/
+
+* Discussion
+- Role of open source
+- Rise of intermediate representation
+  - abstract interpretation?
+- active learning and weak supervision
+- malloc and fpga
+  - performance constraints of cache misses?
+  - cache analysis?
+- compilers
+  - text/stack/heap
+  - isa maps to blocks of code
+  - profile guided optimizations to burn in your hot spots
+- what other types of machine learning are being foreclosed because we don't have the hardware?
+  - what can we do?
+    - can we invest in IR's?
+      - FPGA's, ML IR, compiler IR's
+    - reconfigurable network in datacenters
+- capsul neural networks
+- log file system (ssds)
+- polynomial error correction -> needs eponetnial speedup

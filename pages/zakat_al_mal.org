@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       178CA9E7-B07B-4E9D-91F6-7BB4DEF5CEB8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: zakat_al_mal
+#+TITLE: zakat al-mal
+
+Tags: [[id:60238003-519B-4EC2-BA79-95D114DF0C50][zakat]]
+
+ordinary zakat given during any time

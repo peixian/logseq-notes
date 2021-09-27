@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       607B156A-FCDC-419D-AD12-217EE5EFE57A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: normalization_and_capitalization_in_nlp_blog_post
+#+TITLE: normalization and capitalization in nlp blog post
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]], [[id:48350662-53E9-4A91-9ADB-2BC9DFEA6098][nlp]], [[id:ED6F69D5-4336-4042-B0E5-EC5707F22838][arabic nlp]]
+
+Capitalization affects how models perform (we've seen this at work)
+
+Normalization definitely affects how models perform, but most arabic models already normalize ([[id:AC9BF5A5-C99B-481B-A568-628477C1B76C][camel]], [[id:5B03F3AB-AA70-45E7-9037-BD3BF5CD01AE][Zampieri et al: SemEval-2020 Task 12: Multilingual Offensive Language Identiﬁcation in Social Media (OffensEval 2020)]]), etc.
+
+What are we losing with normalizing? What are we losing with case folding?
+- https://nlp.stanford.edu/IR-book/html/htmledition/capitalizationcase-folding-1.html
+- NER and entity linking
+- Preprocessing is normalizing and reducing casing without much thought
+  - increases the consistency of the output by reducing the search space, but has the problem of losing potential context
+  - example: spongbob text encodes sentiment
+  - this becomes more problematic with arabic, since diacritziation actually has meaning
+    - arabizi et al
+
+* Draft
+Currently, most natural langauge processing models have a pre-processing stage, where the text itself is cleaned up, before feeding into the model. This has quite a few benefits, mostly to reduce the amount of information the model has to learn, and gives more consistent results. For example, you wouldn't want your model to distinguish ~iphone~ and ~IPHONE~ as two different things (normally). The same thing happens in a similar process for Arabic (when written with unicode). A Unicode normalization step usually happens, especially for tools like [[https://github.com/CAMeL-Lab/camel_tools][CAMeL]], which is necessary since letters in Arabic can have many different forms ("لا", for example, is comprised of two different letters, ل and ا). On top of this, another form of orthographic normalization is performed, which converts visually similar letters into a single form[fn:1].
+
+One thing that I'm concerned with is the fact that Arabic tools seem to take it to another level and [[https://colab.research.google.com/drive/1Y3qCbD6Gw1KEw-lixQx1rI6WlyWnrnDS#scrollTo=i2I9gP03CHrR][remove diacritics from words as well]]. To me, this seems like a problem, since diacritics are not a function of the written form of Arabic, but actually have bearing on the specific meanings. Here, there's three layers:
+1. The meaning of the word in Arabic <-- diacritics are here
+2. The written form of the word in Arabic <-- orthographic normalization is here
+3. The written form of the word in Unicode <-- Unicode normalization is here
+
+For natural language processing models to work, the models need data that is as close to the meanings of the words (which may not map nicely to the word itself), without removing too much meaning from each word. Unicode normalization and orthographic normalization are necessary because they unravel the quirks of the Arabic script, which is largely independent of what the word means (a misspelled word still means the same thing with enough context).
+
+To put it in English terms, take the [[https://www.cemerick.com/stopthatrightnow/][Spongebob Text Meme]]. Capitalization here actually /does/ modify the meaning of the text, it makes the text sarcastic! However, if you feed a model all lowercased text, it'll never learn to distinguish when capitalization does have a bearing on meaning. For purposes such as sentiment analysis, this is a major problem.
+
+From how I see it, capitalization in English and diacritics in Arabic take on similar roles, where they can /sometimes/ embue meaning on top of the words themselves. And while it's kind of lame to end a post talking about how people need to be more careful about their data and their goals, we shouldn't blindly take text preprocessing as a "solved" problem.
+
+* Footnotes
+
+[fn:1] Done for datasets used in stuff like Zampieri, Marcos, Preslav Nakov, Sara Rosenthal, Pepa Atanasova, Georgi Karadzhov, Hamdy Mubarak, Leon Derczynski, Zeses Pitenis, and Çağrı Çöltekin. “SemEval-2020 Task 12: Multilingual Offensive Language Identification in Social Media (OffensEval 2020).” ArXiv:2006.07235 [Cs], September 30, 2020. http://arxiv.org/abs/2006.07235.

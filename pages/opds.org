@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       FC75395F-C689-465D-859D-D724B08191C3
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: opds
+#+TITLE: opds
+
+Tags: [[id:9A89319D-EC58-4836-A436-6BB0CF0270C8][ebooks]]
+
+Open Publication Distribution System
+- https://en.wikipedia.org/wiki/Open_Publication_Distribution_System
+
+Similar to Atom, can be used in https://johnfactotum.github.io/foliate/

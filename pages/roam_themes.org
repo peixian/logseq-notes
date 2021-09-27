@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       830DFEED-14B1-45E2-83E6-B62DC1F66505
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: roam_themes
+#+TITLE: roam themes
+
+Tags: [[id:07B6B671-AF53-4AF5-BCDF-468F5FE7489A][org-roam]]
+
+
+https://github.com/Azeirah/tokiwa-roam-theme

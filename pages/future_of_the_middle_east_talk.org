@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       7C9C02D7-129D-4D6D-863E-7B454814BEA0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: future_of_the_middle_east_talk
+#+TITLE: Future of the Middle East Talk
+
+Tags: [[id:F6BB188D-BA42-48AA-958E-21CE91DC147C][talks]]
+
+
+Toby Dodge/Ranj Alaadin
+
+- Protest movements demanding a specific unitary state
+- overwheming security sort
+- large outcomes on what is being sought
+- empowerment of local governments
+- powersharing agreements
+  - compartive politics has addressed how power sharing arrangements promote certain outcomes
+    - inconclusive
+  - does power sharing increase gridlock or elite collusion
+  - what are the different variaties of power sharing (split executive, electoral systems, etc)
+  - lebanon
+    - local govs have great deal of responsbiltiy, but are deeply dependant
+      - responsbility with autonomy
+      - aka local govs works when closer to multi-party regime
+      - closes the room on reformist regimes
+  - discussion of change is largely presumed by foreign intervention
+- ariel ahram
+  - security devolution
+  - is this an manifestation of one kind of a larger breaking of the state?
+  - schooling/sanitation/etc
+  - resilance of societies
+  - [[id:87825E0D-CF52-42BD-AC39-4EAC4B565EA3][yemen]] -> weaknest, most vulnerable
+    - yemenis still believe the monopolgy of the state as a symbol2
+      - polling in yemen
+    - SSR challenges -> states are not evaporating normatively even if they are decrepit
+    - bargins will have to be struck with the shadow of the state attached to it
+- joseph bahout
+  - tensions of pan-arabism and individual state
+  - what is the identity of the state?
+- linda robinson
+  - minimalist view - stablization projects of post-isis, UNDP involved in ensuring local voices (provicinal led and local council council setup)
+    - [[id:B480A462-5180-4A3B-929F-3B2F388074AA][ninewa]] - provicinal governor has been removed

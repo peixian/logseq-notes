@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       C74691E0-20F1-4C56-8493-605A6BF87620
+:END:
+#+HUGO_BASE_DIR: ~/code/hugo/
+
+#+EXCLUDE_TAGS: noexport
+# Local Variables:
+# eval: (org-hugo-auto-export-mode -1)
+# End:

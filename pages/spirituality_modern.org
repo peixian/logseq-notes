@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       AAC48A50-D531-4734-9D9C-B9E08893315B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: spirituality_modern
+#+title: spirituality (modern)
+
+created through [[id:4D07A7F6-AA30-415E-B718-B82E4151A482][religion]], Peter van der Veer also mentions how this concept of modern 'spirituality' arises simultanously with the secular

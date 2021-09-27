@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       BFFE592E-7A99-4B20-933D-5FC66762996E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: exactly_once_semantics_in_kafka
+#+TITLE: exactly once semantics in kafka (atomic broadcast)
+
+Tags: [[id:B99D51CF-2AED-4239-831F-66A4F026B8D5][Kafka]], [[id:6FC1FCE6-2E7F-47AB-AEE0-BFFB83B8AEF0][atomic broadcast]]
+
+- https://www.instapaper.com/read/1298476349
+
+Exactly once semantics in Kafka are defined in terms of atomic broadcast:
+
+#+begin_quote
+Messages are published and they will be delivered one time exactly by one or more receiving applications.
+#+end_quote
+
+
+Design docs:
+1. https://cwiki.apache.org/confluence/display/KAFKA/KIP-98+-+Exactly+Once+Delivery+and+Transactional+Messaging
+2. https://cwiki.apache.org/confluence/display/KAFKA/KIP-129%3A+Streams+Exactly-Once+Semantics
+3. https://docs.google.com/document/d/11Jqy_GjUGtdXJK94XGsEIK7CP1SnQGdp2eF0wSw9ra8/edit#heading=h.xq0ee1vnpz4o
+
+
+* Notes
+- Original [[id:C7A4C32D-7710-4E0A-8BAE-F27B577F7C05][impossibility of consensus with one faulty process]] describes failures within extremely limited scenarios
+- few main problems:
+  - If the producer writes to the log but doesn't get an ack
+    - solved by the idempotence of kafka, producer can write as much as it wants (and kafka will just drop duplicates)
+  - consumer reads from the log but doesn't update its offset
+    - Consumer ensures the dervied states it creates and the offsets in the upstream need to stay in sync
+    - so we can:
+      - store offsets in the same db as derive state, and only update them as a transaction, restarting reads current offset from the db
+      - write both state updates and offsets in idempotent fashion
+    - not technically "exactly once", more like "effectively once"
+  - leverages [[id:811C5EF1-57D4-4FC9-88D7-CFBD64E1789D][kafka streams]]
+    - 3 components:
+      - log compaction in kafka allows it to be used for a journal and snapshot state changes
+      - reading data from kafka = advancing offsets
+      - writing to kafka
+    - wrapping all 3 in a kafka stream as a whole transaction allows for the atomic broadcasts

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       A125D949-8FCF-4C14-9B71-08A49C78335C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: low_latency
+#+TITLE: low latency
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]

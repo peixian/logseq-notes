@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       752931E3-E592-49D3-BF89-617FCDD816F6
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: deep_learning
+#+TITLE: deep learning
+
+Tags: [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]]
+
+
+https://www.youtube.com/channel/UCF9O8Vj-FEbRDA5DcDGz-Pg/videos

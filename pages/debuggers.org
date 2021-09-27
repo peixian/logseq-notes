@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       E7375D66-02DB-4EC4-8891-BAE0266D864E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: debuggers
+#+TITLE: debuggers
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]

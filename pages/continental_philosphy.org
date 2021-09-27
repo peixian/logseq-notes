@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       BC69BD6D-62DE-4309-A194-59223FC65039
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: continental_philosphy
+#+TITLE: continental philosphy
+
+Tags: [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]]

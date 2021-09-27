@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       36A03499-8542-4013-87DC-52A1911DABF9
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: parallelizing_shell_scripts
+#+TITLE: parallelizing shell scripts
+
+Tags: [[id:9A7E312D-C659-4B63-8637-E048510A6929][shell]]
+
+https://arxiv.org/pdf/2007.09436.pdf

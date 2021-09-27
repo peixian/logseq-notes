@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       2F72EC47-E94C-49B2-B8AB-AF78AB87F838
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: nyc
+#+title: nyc
+
+[[id:97BD1E12-9693-4CF4-8A7E-61DFAC324300][united states]]

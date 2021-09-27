@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       8AA3EA8F-5EDD-4284-A251-84BD505257DB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: rfc_reader
+#+TITLE: rfc reader
+
+Tags: [[id:45303402-D619-41CC-BFAB-289B6847D389][rfc's]]
+
+- http://www.rfcreader.com/

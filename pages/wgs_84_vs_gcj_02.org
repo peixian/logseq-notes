@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       7823FC5E-4F38-4BBC-A7B4-502840381CA9
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: wgs_84_vs_gcj_02
+#+title: wgs-84 vs gcj-02
+
+[[id:BBD06BE9-5738-4445-A252-6CA185E20CFE][gps]]
+
+- two coordinate systems, WGS-84 is the most common, but [[id:0E21DFCA-3016-427A-965E-341DE95432B7][china]] uses the GCJ-02 system
+- GCJ-02 system includes an algorithm to obfuscates the results
+- there are some open source libraries to convert from one to the other
+- this is why [[id:3DE83B18-1DA8-4360-896B-2706B08AC1BF][google maps]] is slightly off in china by around 50m, roads are slighty off
+- https://ihatecoordinatesystems.com/
+- https://www.youtube.com/watch?v=L9Di-UVC-_4

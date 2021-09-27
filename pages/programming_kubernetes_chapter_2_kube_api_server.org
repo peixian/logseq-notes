@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       43939030-00AE-4438-A9EA-B6BD8A6B39FA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: programming_kubernetes_chapter_2_kube_api_server
+#+TITLE: programming kubernetes chapter 2 - kube api server
+
+Tags: [[id:565A859A-81C4-493B-83C9-CB96D65C479B][hausenblas - programming kubernetes]]
+
+Kube API basics
+- Core responsbilities
+  - serve the Kube API -> reading/manipluating state, usually in etcd
+  - proxy cluster components
+
+* HTTP Interface
+[[id:41841396-B9E0-4E93-81AF-6371999B3B38][http]] interface provides 4 structures:
+1. Kinds
+   - Type of entity, each object has a kind
+   - usually 3 categories of kinds
+     1) objects -> a persistent entity within the system
+     2) lists -> 1 or more kinds
+     3) special purpose -> for special actions, like status
+2. API Group
+   - collection of kinds that are logically related
+   - like ~/apis/core~
+3. Version
+   - each API group can (and likely does) exist as multiple versions
+   - All objects are either in one API version or none
+4. Resource
+   - lowercase, plural word that identifies a set of HTTP endpoints
+     - usually sends and receives a single kind
+     - can have subrouses, usually implemented with custom HTTP protocols like [[id:853EF83B-71AB-4B99-A19A-F3C72FDAB838][websockets]]
+   - always corresponds to an HTTP path
+
+
+
+* GVR and GVK
+  - Group Version Resource (GVR)
+    - Uniquely identifies a HTTP path
+  - Group Version Kind (GVK)
+    - what a GVR returns
+
+
+* Special Notes
+- ~api/v1~ exists outside of ~apis~ as a legacy holdover, should be ~apis/core/v1~
+- cluster wide entities have different values, such as ~/metrics~, ~/logs~, and ~/healthz~
+- specs vs status
+  - specifications - desired state for a resource
+  - status - observed state for a resource
+* API server internals
+Each API group has a specific handler, and there are 6 different phases internally
+1. Entry
+2. Authn/authz
+3. mutation admission -> this is where the incoming request can be transformed
+4. schema validation
+5. validating admission -> large part of the validation logic
+6. etcd

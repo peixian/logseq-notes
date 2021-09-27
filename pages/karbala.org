@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       23FAD3AC-19A3-404C-89D5-5A123043A582
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: karbala
+#+TITLE: karbala
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+- Karbala Center for Studies and Research
+  - https://maps.app.goo.gl/5Qtw7qYmbnAkn3b66

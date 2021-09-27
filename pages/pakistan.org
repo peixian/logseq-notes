@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       E414E54E-F7C1-4837-A904-7947522C8025
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: pakistan
+#+TITLE: pakistan
+
+Tags: [[id:54A7E315-9721-4BC9-BE36-EE6B40B82889][south asia]]

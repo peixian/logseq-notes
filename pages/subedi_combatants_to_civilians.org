@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       B056E87F-E805-4B20-A4AC-7202993AADD3
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: subedi_combatants_to_civilians
+#+TITLE: Subedi - Combatants to Civilians
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:E900796C-250A-474B-9054-C0C109C94A24][ddr]]
+
+* Summary
+  - Talks about DDR within the context of [[id:BBFDEDEC-51A6-4D99-BD64-F690D1EE8F67][nepal]]
+  - Specifically about the [[id:0E683482-1AA6-4DE1-9C07-4F52F96CAEDE][maoist fighters in nepal]]
+** Chapter 1
+   - Nepal followed unconventional DDR
+   - Mixed model of combining disarmament and demobilization with [[id:8E3ADDBF-9B7B-4F47-B177-9E43AF359F14][cash based incentives for ddr]]
+     - questionable how useful this was
+     - can [[id:8E3ADDBF-9B7B-4F47-B177-9E43AF359F14][cash based incentives for ddr]] depolitize DDR?
+       - What are the risks
+   - Talks about how DDR is a social, economic, and political process
+   - [[id:A9219775-B124-4B65-8998-05C95F282EF2][ex-combatants]] do not form a homogenous social category, depends on their ability to forge social networks and social capital, particularly in roles of the "war family"
+   - [[id:F9481EED-99A7-4478-B3A7-1D1AA3C43D2C][next generation disarmament, demobilization, and reintegration]], national governments taking the lead
+   - talks about DDR in terms of minimalist vs maximalist terms
+     - minimalist
+       - security focused
+     - maximalist
+       - socioeconomic development agenda
+   - talks about family as a concept
+   - Lessons learned
+     - nepal was a typical enivronment where politics and political veiews are influenced by economic influence
+     - b/c the management of [[id:A9219775-B124-4B65-8998-05C95F282EF2][ex-combatants]] was seen as a political process rather than a social end economic process, maoists used their commitment to as a power bargin in politics
+     - not all [[id:A9219775-B124-4B65-8998-05C95F282EF2][ex-combatants]] reintegrate in the same way, especially when the DDR is cash based
+   - Further research
+     - army integration was on the central agenda with [[id:5C5EF2E8-8CA2-4082-A6DE-933C82F35383][security sector reform (ssr)]]
+     - reconciliation and reintegration

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       BE927125-40C5-4537-B437-48861747D111
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: operation_moshtarak
+#+TITLE: operation moshtarak
+
+Tags: [[id:086B0579-8C85-4CE5-9E65-EB8980FB2C2E][afghanistan]]
+
+- Operation in Central Helmand ([[id:C21AB214-8835-4964-9B2A-22832BF0BB2C][marjah]] and [[id:D0661649-DA24-4F76-BBA5-A9F708FE0AF8][nad-ali]]) to oust insurgents

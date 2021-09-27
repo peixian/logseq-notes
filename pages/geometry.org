@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       E1C1CA5E-172A-472C-AD82-BA07E9A9ACDB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: geometry
+#+TITLE: geometry
+
+Tags: [[id:0C55E344-F9AE-4584-B54F-83EC2FCE9062][math]]

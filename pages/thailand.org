@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       268E1F7D-3F00-4AE3-B785-5B1E8F3BCE08
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: thailand
+#+TITLE: thailand
+
+Tags: [[id:AD9C4325-95C2-4DBC-83A0-5081D68D60D3][east asia]]

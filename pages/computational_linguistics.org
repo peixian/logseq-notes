@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       87C96564-858E-493B-9D83-1FBEC478055B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: computational_linguistics
+#+TITLE: computational linguistics
+
+Tags: [[id:AB300662-3E3E-4452-A29D-468522B35C3E][languages/linguistics]]
+
+- two possible motivations for research
+  1. technological: /best/ performance on some /applied/ task
+  2. cognitive: single model with /human-like/ performance across a broad range of abilities, plus biological/cognitive plausibility
+- what does success look like?
+  - most [[id:29303C71-98D0-46CD-BBD0-E177FC42D1FB][nlu]] takes a behavioral approach, a modelis assumed to learn/understand iff
+    - can perform the task
+    - on data that wasn't used to build/train it
+    - (possibly) makes errors and uses resources similarily to humans
+  - note that this sets aside the question of "what is /understanding/", "what/when does conciousness emerge", etc
+- what is the background for [[id:29303C71-98D0-46CD-BBD0-E177FC42D1FB][nlu]] need?
+  - two main questions:
+    1) how much does a system need?
+    2) how much can it learn from data, how much built-in knowledge does it need?
+  - one big trend is that learning from the data is actually better than building explicit knowledge
+    #+begin_quote
+  Every time I fire a linguist, the performance of the speech recongizer goes up - apocryphal, Fred Jelinek, 1988
+    #+end_quote
+  - relates to [[id:482B102F-BD69-463F-BAD3-076344A3F59F][are experts real?]]

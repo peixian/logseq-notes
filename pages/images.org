@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       CE2C6C87-1652-4C2E-AB32-CFF8DE71B240
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: images
+#+TITLE: images
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- Raster library: https://gdal.org/ - [[id:1B15F82C-A484-40D1-B7C1-FCD69CE78CE0][rasterization]]
+- [[id:E85591D5-35FF-4EBA-802B-C8C9B2FD3D3F][satellites]] imagery: https://github.com/plant99/felicette

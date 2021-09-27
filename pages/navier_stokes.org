@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       BAADE89D-7727-41DB-AF51-9C3B7FD394CE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: navier_stokes
+#+TITLE: navier-stokes
+
+Tags: [[id:0C55E344-F9AE-4584-B54F-83EC2FCE9062][math]]
+
+- Fluids have some initial amount of energy
+- Turblent flow causes energy to get concentrated
+  - Uneven distribution of energy causes gatherings in arbitrarily small eddies, which then become accelerated to infinite velocity

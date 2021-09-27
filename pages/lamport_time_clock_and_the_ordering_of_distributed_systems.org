@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       D69F5D06-D5AE-420A-BAEB-EFD2590DB07A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: time_clock_and_the_ordering_of_distributed_systems
+#+TITLE: Lamport: Time Clock and the Ordering of Distributed Systems
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- https://lamport.azurewebsites.net/pubs/time-clocks.pdf
+- Uses "happens before" - partial ordering of events
+  - Introduces a way to sync the /total/ ordering
+  - provides for clocks, how to translate it to actual clocks
+
+- is time subjective? is it independent of observers?
+- is there a way to capture "happen before" without clocks?
+  - can we determine if a single event preceded another without the measurement of objective time?
+  - on differing nodes
+  - total ordering of events cannot be done, only partial ordering on specific nodes
+    - 1: a-b-c
+    - 2: x-y-z
+    - a comes before b and c, but a does /not/ come before x, y, or z
+- "happens before"
+  - /a/ and /b/ are in the same process, and /a/ comes before /b/, /a/ happens before /b/
+  - if /a/ sends a message and /b/ receives it, /a/ must happen before /b/
+  - if /a/ -> /t/ and /t/ -> /b/ then /a/ -> /b/
+    - transitivity

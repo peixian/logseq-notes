@@ -1,0 +1,52 @@
+:PROPERTIES:
+:ID:       6AF2DE23-ACBA-4712-992F-CB3AB65EDF71
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: how_to_write_a_technical_paper
+#+TITLE: how to write a technical paper
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:D51D4006-2F02-4305-BBEF-5EDEFDCFD334][writing]]
+
+* Introduction
+  - Two purposes:
+    - Background and motivation
+    - Summary and outline
+  - Background review should include:
+    - trends
+    - open problems
+    - recent developments
+    - also introduce specific terminology
+  - Summary:
+    - Problem description
+    - Description of the solution
+    - Arguments about the imacpts
+  - Close introduction with paper outline
+
+* Related Work
+  - Gives a list of works that show what has happened in the field
+  - Provides a critque to the approaches in the literature, establishes the importance of the paper
+  - Show sthat the "homework" has been done
+  - Distinguish and describe all the different approaches to the problem
+
+* System Model
+  - Describe all the hypothesis and assumptions of the environment for which the problem will be solved
+
+* Problem Statement
+  - Often merged with the system model
+  - State the problem clearly, be exact in stating the question
+
+* Solution
+  - Provide overview of solution
+  - Thorough description of the solution and its functionality
+
+
+* Analysis
+  - Qualitative and quantitative
+  - Qualitative shows some properties of the solution
+    - Profess of correctness
+  - Quantitive shows some performance aspects of the solution
+    - Performance analysis, which metrics?
+
+* Simulation and Experimentation
+  - Describe the environment of the simluation and experiments
+  - Make sure that the simluation or experiments are statistically stable

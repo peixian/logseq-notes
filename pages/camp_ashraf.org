@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       FECBB41F-7DA3-455A-976B-5DE4604DE9C2
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: camp_ashraf
+#+TITLE: camp ashraf
+
+Tags: [[id:ADFAE0CB-D584-4CE9-9965-4E76C474546E][hashd al-shaabi (PMF)]]
+
+[[id:BC40CBC8-81AC-4CFD-8121-7419EC9CB63B][badr]] training camp in [[id:DFFDDD2B-BAF5-4B23-BC43-CF0FA486BC3A][diyala (town)]]
+
+[[id:54E8B6ED-4DFE-4316-A177-38F58CAB8983][liwa al-muntazier]] once held a course here

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       CD29B54A-D1FF-4B1D-B835-0FF3DF321DCF
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: kuznets_curve
+#+TITLE: kuznets curve
+
+Tags: [[id:85CCE0EB-E358-4A63-A947-423CF92D79A2][economics]]
+
+Stated that all economies go through a "bell shaped" curve of inequality expanding at first with only a portion able to capture productive output to reducing at later points

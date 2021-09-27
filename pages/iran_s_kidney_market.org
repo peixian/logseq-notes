@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       1CFAD4BD-A4DD-4DB6-BE83-9E46BCD0E54E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: iran_s_kidney_market
+#+TITLE: iran's kidney market
+
+Tags: [[id:5E8A9793-6DE6-4E2C-A33B-D85714A3C06C][iran]], [[id:85CCE0EB-E358-4A63-A947-423CF92D79A2][economics]]
+
+Iran has the world's only regulated kidney market
+
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2322914/
+- demand for organs has always exceeded supply, especially due to diabetes and hypertension
+- already appears to be booming in [[id:FAC6D0F0-7797-4330-B988-37260A98CBC1][turkey]], [[id:FC6E4EC6-A8C0-4D5B-B96F-D6FC2D1F30B4][russia]], and [[id:B54391B6-737B-4B73-ACB2-C6E07800A51D][south africa]]
+- Iran used to pay for its citizens to have transplants (mostly in [[id:998BF318-0B23-48A3-A3FF-5E86BE7FADCB][united kingdom]]), but the costs balloooned for people with end stage renal diease
+- illegal for anyone to have "middle men" in iran
+- anecdotal stories of people "touring" their kidneys in iran
+- currently (july 22nd, 2021) sells for 4600

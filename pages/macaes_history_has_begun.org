@@ -1,0 +1,120 @@
+:PROPERTIES:
+:ID:       61CD4B11-3134-45D1-8149-30F841C1805A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: macaes_history_has_begun
+#+TITLE: Macaes - History has Begun
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]]
+
+Polemic argument about how america was shaped by television and gives onto it's own unreality
+* Preface
+  - "Revolutionaries who have lost faith in the revolution" -> [[id:42D5EA33-3EE3-4A69-BDDC-2F590D82B9FE][Bayat - Revolution without Revolutionaries]]
+  - Poses the question "can the chinese economy master technology?" Assumptions of neoliberal frame is that the democratic/western/liberal was the king of technology
+  - Argues that the US is more addicted to global primacy than liberal values
+* One
+  - Cycles of government ([[id:44A22D1B-8486-4A01-9B5C-D275A848CC97][ibn khaldun]])
+  - American constiutional triumpalism as a marker of decline - ben ackerman
+  - Does a broad stroke comparison of UK/Europe/American as Romans/Greeks
+    - Incredibly orientialist and draws upon lots of bad history
+  - US affirmed global primacy against europe more oftan than with it
+* Two
+  - past looms large in the american mind
+  - Frontier lands and the notions of settler colonialism
+    - More and more americans migrated towards "the west", where "the east" was seen as an extension of europe
+      - Is this why the "real" american is stereotyped as this conception of midwestern american
+  - Toqville comments on how future improvements in america are aimed to make life slightly more convient
+    - pg 36
+  - Talks about how the [[id:97BD1E12-9693-4CF4-8A7E-61DFAC324300][united states]] has blended [[id:4D07A7F6-AA30-415E-B718-B82E4151A482][religion]] and democracy
+    - [[id:08718E6F-CB03-47E2-91CD-A45E3F04A4BD][Soper, Fetzer - Religion and Nationalism in Global Perspective]]
+  - "echoes of vast asian despotic states"
+    - pg 39
+    - oddly shallow in meaning
+* Three
+  - "Once a relative distribution of power no longer favors the west...the search for a new foreign policy begins"
+    - Once freed of european shackles, the US can search for a new future
+  - Babitt
+  - American society as a theme park, no longer as a home
+* Four
+  - Americans were the first visual culture with tv
+  - starts to be the appearance of things that matter, rather than the things themselves
+    - aesthtics matter more than the actual thing
+  - "reality and unreality briged together"
+    - pg 71
+  - concept that things had become fiction
+    - US exports unreality and imports reality
+      - arms exports are the ultimate fiction, they largely are for show and not meant to be used
+  - "On the one hand,. the unmasking of the bourgious belief in objective reality that any meaningful struggle against reality has become absurd"
+  - American life continously emphasizes its own artificiality
+    - show that you know how to have fun, not just having fun
+    - job interviews show more than that you just know the job, you also know how to interview
+    - elements with strong narrative structures
+  - Reality is experienced through the fictionalized enactment of the opposite
+    - kurt anderson
+  - memes as a fictionalized structure
+    - before you had to conceptualize the story, now you just have to look at the meme
+    - the meme makes complex topics legible and simple topics complex
+    - content collapse
+    - allows you to avert your eyes from the reality
+  - political correctness stands for the shift whereby social actors become increasingly concerned less with the way they live and more with the way they are portrayed in the narrative
+* Five
+  - Changing presidents is now changing the TV channel
+  - We are larping through the events
+  - society is performative, online spaces
+    - you need to generate content to be "alive" in the digital space
+  - Hannah Arendt -> hitler and stalin generated lies
+  - socialism became rehabitiated in this manner
+  - trump offers the virtual experiences of a nationalist regime without the real world consequences of one for privilaged people
+    - As reality moves on, enchanted by mammon, macheviallan tech workers, authoritarian regimes
+  - AOC is inventing a relatiy
+* Six
+  - Concept of overlapping circles of religion, freedom, artists, etc
+    - With liberalism encompassing everything else
+  - Makes the argument aht we miss the promise of unreality, that now that there are no shackles, we can truly explore alternative system
+  - Old american: freedom is fine as long as you don't harm someone
+  - New american: freedom is fine as long as you don't impose your realities on someone
+  - Memes as a storytelling experiments without being reminded of their flaws and incomptetncies
+    - Amish/Hasidics as experiecing a different reality?
+    - [[id:C377F6F2-7028-4A8A-ADD5-37A6C33EF99F][boogaloo boys blog post]]?
+  - "overbearing concern with fostering skeptical attitude prevents us from actually engaging with life"
+    - if we are skpetical towards everything (like anti-vaccers) do we reatreat into our own realities?
+  - amusing that macaes talks about americanism and TV while constantly referencing westworld
+  - American populism is freedom in its own way, foretting the truth
+    - alt-right rail against political correctness not b/c they are racist, but because the political correctness esposes a single truth
+  - democracy is less the incorporation of values but appealing to values now
+    - need to turn out voters instead of growing the tent
+  - states do not shape reality anymore, they are mere actors again
+    - [[id:94E1C967-7986-4D92-B82C-69322612F4FE][the twin insurgency]]
+    - "plundering of states" theory
+  - The religious question is a dead one
+  - reconcilation of technoly and political values need to happen
+  - paradox of stopping the historical clock looks bad in a progressive society
+    - historical clock looks less attractive for those who feel like they are living in a fundalmentally just society
+  - liberals like to pretend to fight against the establishment or the oligarchy, but they are fighting religion and technology
+    - do whatever you want, but you can't shake the mighty edifice of freedom
+  - finance takes on a specific role if the future is indefinite
+    - peter theil
+    - money as a means to an end vs money as optionality
+  - tech VC's and [[id:D43D63F1-C8FA-4230-A6E1-1331E97E4778][Braben - Scientific Freedom: The Elixir of Civilization]]
+* Seven
+  - Action creates reality, liberally manifesting destiny
+    - western settlers have shown the way
+      - [[id:2601444F-18B9-4E44-8F26-92F625BCB161][settler colonialism]]
+  - [[id:B4710362-365E-423D-8986-F970DA78CCFB][vietnam]] was where the logs breaks down adn the pathos took over
+    - kennan's "total withdraw, followed by silence"
+    - [[id:ABA986CD-3EFF-405C-AE7F-EAD1D08EF3C0][american amnesia]]
+  - Massive force only works in a few circumstances where the risk of escalation is low
+    - [[id:D4B35C6D-544A-481C-B5C0-7C2A2ABCF9AC][lebanon]] in 1958
+    - [[id:96E35353-0BC4-4856-8663-428C7D132C5C][dominican republic]]
+  - Power projection fantasy
+    - technology changes in light of desert storm, first televised war
+    - war is now santizied, removed from the death for the domestic audienc e
+  - [[id:3196ECF7-71C2-43FE-A065-F3984D89DD1E][kosovo]]
+    - mobilized nato citizens as spectators
+    - [[id:BCB88E11-A4E5-4362-AE55-73D18B323882][israel]] mobilizes citizens to a new level?
+  - [[id:408D144C-0201-4293-B27C-DB4FF52BF528][one belt one road]]
+    - macaes suggests obor is a geopolitical quest
+      - even though it's largely patchwork
+    - peripheral and absent from all global questions
+      - [[id:1E42A6F9-DBE5-4570-92F4-76125FE3AB85][peripheralization]]
+    - US & Chaina are moving closer as a they move ideaologically apart

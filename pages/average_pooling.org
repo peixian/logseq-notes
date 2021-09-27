@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       6482C021-3D7F-4992-AA73-6AEC2B69A00C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: average_pooling
+#+TITLE: average pooling
+
+Tags: [[id:D010B569-6F86-4109-A6CD-5FB0B6D97E70][convolutional neural networks (cnn)]]
+
+Summarizes the average presence of a feature

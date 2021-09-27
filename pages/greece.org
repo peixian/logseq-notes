@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       D8E7997D-829D-4433-929D-1D7AD4270904
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: greece
+#+TITLE: greece
+
+Tags: [[id:E2821844-9819-49F2-9CE7-CD04EDDB2E85][europe]]
+
+- Independence from [[id:E0568496-6835-438C-A394-B387291A7BDA][ottoman]] in early 1830's, created the Kingdom of Greece under Great Power protection
+- Recent years of detante with Turkey

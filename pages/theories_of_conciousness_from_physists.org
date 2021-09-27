@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       676C6A83-4E4C-43AA-9884-7E1771C89D19
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: theories_of_conciousness_from_physists
+#+TITLE: theories of conciousness from physists
+
+Tags: [[id:7A929556-F8FE-4588-9440-655F9368B1F0][physics]], [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]], [[id:F24757A4-56C4-49D0-9151-15CA0E1E3A2F][cognition]]
+
+- https://www.youtube.com/watch?v=efVBUDnD_no
+- talks about [[id:F62982D7-958A-4B4A-8654-BB720CC78677][integrated information theory]]
+- also talks about how conciousness from quantum effects in the brain due to microtubules
+  - put forward by [[id:0C5FE8E4-7A56-430C-9749-986F2BB85665][roger penrose]] and [[id:53FB7ECD-9775-468D-8692-95085CD61E4A][stuart hamaroff]]
+  - [[id:E170EA8D-A342-4CE1-903C-D8219D2A10B4][tim palmer]] also thinks quantum fluctuations has something to do with it, but thinks that noise created in quantum fluctations is what gives rise to conciousness
+- [[id:7A588D77-A824-4DEC-B7A2-B7F9DB9B53D8][ramon erra]] talks about how watching people's brain in seizures to understand conciousness
+- [[id:A4E24613-8A53-4EEA-9833-743D58052DEA][jonathan mason]] talks about seeing conciousness like reading from a CD
+- https://en.wikipedia.org/wiki/Hard_problem_of_consciousness

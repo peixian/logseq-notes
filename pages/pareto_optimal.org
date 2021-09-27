@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID:       600BD015-640D-4328-A46D-784FE12C8D3E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: pareto_optimal
+#+TITLE: pareto optimal
+
+Tags: [[id:CAFF2018-7C24-402E-9528-464A87D2DC39][personal]]
+- https://en.wikipedia.org/wiki/Pareto_efficiency
+* Goal
+  - Statistics optimal, nlp specialization between arabic/mandarin/english, able to construct reintegration programs for post-conflict
+  - +passable knowledge at math/physics/soft stuff+ declining this in favor of focus on others
+* Status
+- good at statistics <- not doing anything for this currently
+  - Doing probability theory first and starting from the bottom again
+  - Possibily statistics for programmers?
+- good at ddr, post-conflict <- reading and learning <- working on it
+- good at ml/NLP <- work adjacent <- working on it
+- good at mandarin/arabic <- halt
+  - arabic learning:
+    - 1hr lessons on sat, mon, tues, wed
+    - 3 books by june 1
+    - possibily sijal/qasid in the summer?
+- good- at writing <- getting better by osmosis, no deliberate practice
+- good- at linguistics <- LING-GA class
+- good- at iraqi culture/history <- occasional reading, no deliberate practice
+- good- on climbing <- going to the gym 2-3 times a week
+- good- on running <- running 2 times a week
+- good- on episteme <- reading, thinking, joining ii
+- good- on kubernentes <- reading two books
+  - Kubeflow book
+  - Kube native book
+- +fluent in queuing theory <- nothing deliberate+
+- +fluent in math <- nothing deliberate+
+- +fluent in Islamic theory <- nothing deliberate+
+- +fluent in physics <- nothing deliberate+
+- fluent in distributed systems <- reading, but no active usage
+  - CSAPP <- minimum
+  - Distributed Systems Book <- minimum
+  - Learn you an erlang? <- reach goal
+
+- +fluent in low level programming <- nothing deliberate+
+- +fluent in leadership <- very occasional reading+
+- +fluent in project management  <- very occasional reading+
+- +fluent in mentoring and teaching <- nothing deliberate+
+- fluent at data visualization/soft big science stuff/js <- occassionally building thing
+- fluent in middle east history and its methods <- nothing deliberate

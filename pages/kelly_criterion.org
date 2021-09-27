@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       5C2AAA5A-C093-43EF-A9E3-C8F3083EC979
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: kelly_criterion
+#+TITLE: kelly criterion
+
+Tags: [[id:F2643E37-CED2-492A-A77C-B632F3D203FD][statistics]]
+
+{{< katex display >}}
+{{< /katex >}}
+
+- http://www.herrold.com/brokerage/kelly.pdf
+
+- Criterion: \( f^* = p - \frac{q}{b} = \frac{bp-q}{b} = \frac{bp-(1-p)}{b} = \frac{p(b+1) - 1}{b}\)
+  - \(f^*\) is the fraction of the current bankroll to wager
+    - how much to bet
+  - \(b\) is the net odds received on the wager
+    - betting $10, on win, rewards $4 -> \(b = 0.4\)
+  - \(p\) is the probability of a win
+  - \(q = 1-p\) is the probability of loss
+
+
+- Maximize the expected log of wealth
+  - sometimes known as the "geometric mean maximizing portfolio strategy", maximimizing logarithmic utility, etc
+  - derived from [[id:3E0B9612-FC1C-486C-85C5-F1F6BB60E53A][Shannon - A Mathematical Theory of Communication]]
+
+- relatively simple proof: https://en.wikipedia.org/wiki/Kelly_criterion#Proof
+- Usage in blackjack: https://wayback.archive-it.org/all/20090320125959/http://www.edwardothorp.com/sitebuildercontent/sitebuilderfiles/KellyCriterion2007.pdf
+- https://www.amazon.com/dp/B000SBTWNC/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1

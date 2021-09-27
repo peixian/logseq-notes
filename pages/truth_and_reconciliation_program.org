@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       C2C348DE-ADD1-48BE-9991-E1CEDA93D42D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: truth_and_reconciliation_program
+#+TITLE: truth and reconciliation program
+
+Tags: [[id:A5CACE85-C257-4B0D-93ED-1D1FD8D9BEB5][sierra leone]], [[id:E900796C-250A-474B-9054-C0C109C94A24][ddr]]

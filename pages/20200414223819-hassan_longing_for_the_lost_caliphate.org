@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       A5D510FC-AEDA-4CB2-8AFC-0CB7308ED48A
+:END:
+#+TITLE: Hassan - Longing for the Lost Caliphate
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:A438ACD2-2C1E-40EB-9502-74E5B69EA9FF][Post-Ottoman Near East]]
+
+#+SETUPFILE:./hugo_setup.org

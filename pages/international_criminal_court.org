@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       F57D119F-2F13-480D-B441-8698192223B0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: international_criminal_court
+#+TITLE: international criminal court
+
+Tags: [[id:7C05085A-564D-4186-B4E7-AD9DC612310A][un]]

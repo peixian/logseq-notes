@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ID:       BC94FA61-1B97-4B16-A105-E0D96C3CBD3D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: stedman_and_downs_evaluating_issues_in_peace_implementation
+#+TITLE: Stedman and Downs: Evaluating Issues in Peace Implementation
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:C74E2141-B04C-4B46-8BDF-C8223263BA88][un and global governance lecture 7]]
+
+- Stedman, Stephen John, and George Downs, eds. “Evaluating Issues in Peace Implementation.” In Ending Civil Wars: The Implementation of Peace Agreements. Boulder, Colo: Lynne Rienner, 2002.
+
+- Peace implementation differs based on peace environment, including three major factors
+  1. Presence of spoilers
+  2. Hostile neighboring states
+  3. Resources available for extraction ([[id:ACAEDCED-C16E-47CB-8EE5-2A8C0977735C][resource curse]])
+
+- UN has only succeeded in the least challenging environments
+- How do we measure success?
+  - measurement by mandate achievement
+    - can be worked around by setting modest mandate goals
+    - nations can also offload impossible tasks to the UN
+    - does not ask any questions about the appropriateness of the mandate
+  - conflict reduction, disputant resolution, etc
+    - variety of metrics can be evaluated
+    - how/what is the appropriate ensemble
+    - difficulty in ascribing a casual relationship to the mission
+- can success be measued by looking @ subgoals?
+  - likely to be biased towards ascribing a clean casual relationship
+  - i.e. human rights watch is more likely to say the failure of human rights causes problems
+- mission success as:
+  - end of large scale violence
+  - sustainable peace in wartime
+- certain regions are off limits (less in Asia, never in a P5 country, avoids civil war in countries with large armies)
+- issues with success
+  - # of warring parties
+  - absense of pre-signed peace agreement
+  - liklihood of spoilers
+  - collapsed state
+  - # of soldiers
+  - disposable natural resources
+  - hostile neighboring states
+  - wars of succession
+
+- conclusion: important to think about the metrics that we think of as "successful"

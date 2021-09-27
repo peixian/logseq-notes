@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       A75E8675-6FA2-427F-AC64-64D3F4DEE1F1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: philosophy_of_science
+#+TITLE: philosophy of science
+
+Tags: [[id:7A929556-F8FE-4588-9440-655F9368B1F0][physics]]
+
+- https://www.connectedpapers.com/main/14aabfdc217b7aeaa42be73aa2f37b345c36acc1/Falsificationism-and-the-structure-of-theories-the-PopperKuhn-controversy-about-the-rationality-of-normal-science/graph
+
+- https://www.amazon.com/Bacteria-Bach-Back-Evolution-Minds/dp/0393242072

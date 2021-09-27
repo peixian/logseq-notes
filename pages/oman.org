@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       F23234C0-1F44-48C7-A7EF-10A59976DD6F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: oman
+#+TITLE: Oman
+
+Tags: [[id:C61C3FE4-06C6-4621-818B-503E36E83B7C][middle east]]

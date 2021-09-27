@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       4B72BC93-CCF8-4260-875E-0371DB7ED6A2
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: karp_et_al_the_organization_of_computations_for_uniform_recurrence_equations
+#+TITLE: Karp et al: The Organization of Computations for Uniform Recurrence Equations
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+
+Raymond, Richard M Karp, E Miller, and Shmuel Winograd. “The Organization of Computations for Uniform Recurrence Equations.” Journal of the Association for Computing Machinery 14, no. 3 (1967): 28.
+
+Talks about how to organize processes in parallel, depending on iterative decomposition into subgraphs

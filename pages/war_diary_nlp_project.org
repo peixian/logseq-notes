@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3843C5D0-0738-422D-8065-EC1A08FFCC6D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: war_diary_nlp_project
+#+TITLE: war diary nlp project
+
+Tags: [[id:5C09008D-C61B-4A8E-BB77-9CF0085D90F6][project ideas]], [[id:48350662-53E9-4A91-9ADB-2BC9DFEA6098][nlp]]
+
+- https://wikileaks.org/afg/ - [[id:086B0579-8C85-4CE5-9E65-EB8980FB2C2E][afghanistan]]
+  - https://www.wikileaks.org/wiki/Afghan_War_Diary,_2004-2010
+- https://wardiaries.wikileaks.org/search/
+- https://www.iraqbodycount.org/database/incidents/k4724
+- https://airwars.org/civilian-casualties/?belligerent=coalition&country=iraq
+- https://wikileaks.org/irq/event/2007/03/IRQ20070315n8.html
+- https://www.iraqbodycount.org/database/ - [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+  - https://www.iraqbodycount.org/analysis/numbers/warlogs/
+  - https://www.iraqbodycount.org/analysis/beyond/warlogs/
+- https://www.nber.org/papers/w16152
+- https://www.iraqbodycount.org/analysis/beyond/warlogs/
+- https://www.iraqbodycount.org/database/incidents/k4724

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       33820624-5CCF-4172-A393-DB0B88FEEA38
+:END:
+#+TITLE: food for training
+
+Tags: [[id:3B5A43C1-21E5-4002-BFA9-66B71284CAD0][Workouts]]
+
+| Period                                                                                            | Carb Intake                        | Protein Intake                       |
+|---------------------------------------------------------------------------------------------------+------------------------------------+--------------------------------------|
+| 3-5 hours before training/climbing                                                                | 1-4 g/kg or .5-1.8 g/lb or 50-300g | 15-20g                               |
+| 30-60 min before training climbing                                                                | 30-50g                             | 10g before strength training session |
+| Fueling during training/climbing                                                                  | 1g/min or 30-60g per hour          | no intake                            |
+| Within 30-60 min of training session or post-climb, especially important for twice a day sessions | 1 g/kg or .4g/lb or 50-70 g        | 10-15g                               |
+#+SETUPFILE:./hugo_setup.org

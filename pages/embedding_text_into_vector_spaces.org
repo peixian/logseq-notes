@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       00E21B40-64C5-4FEE-B54B-4962FADC29C7
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: embedding_text_into_vector_spaces
+#+TITLE: embedding text into vector spaces
+
+Tags: [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]], [[id:5D4FD56C-329E-4881-AEBC-EFE6DDF0F29D][articles]]
+
+- https://www.instapaper.com/read/1260653942
+
+- Word embedding is an [[id:48350662-53E9-4A91-9ADB-2BC9DFEA6098][nlp]] technique to map text or words to vectors
+- Allows vector space operations to happen, such as summing or computing the distances of vectors
+  - [[id:DC95D051-3F40-4B0D-915F-5BBBB6C9C4DE][word2vec]]
+  - [[id:A9CA6DE4-CF43-4B36-8AC5-2C804AFF55DA][fasttext]]
+  - [[id:16F392E7-63A2-419E-9AFC-9BF823027B3B][gpt2]]
+- Once words are generated into individual vectors, combine them into text vectors (aka document or sentence vecotrs)
+  - Easy way typically sums or averages the vectors together
+
+
+#+DOWNLOADED: screenshot @ 2020-04-21 11:55:39
+[[file:2020-04-21_11-55-39_screenshot.png]]
+
+- Two snippets of text are discovered by mapping both of them into vector space and finding the distances between the vectors
+  - Typically uses the angular distance
+
+- [[id:E57BD040-B5EE-4482-BE9B-728CDDF168CB][nearest neighbor]] can be used
+  - high dimensional vectors of word embeddings typically break down
+  - approximate nearest neighbor must be used (ANN)
+- uses [[id:FC370333-2EA5-47EF-B9D1-8E5291B7EEA8][hierarchical navigable small-world graph]]
+
+- assuming 4 billion 200-dimensional query vectors
+  - 4 billions lets you store each dimension as a 4 byte float
+  - ~3TB
+  - tried [[id:97F5A685-47A2-4867-B47B-8260A4640A70][quantization/discretization]]
+
+- Cliqz uses [[id:08E78B05-A505-4D00-BB0D-19FDBB44505F][graph based approximate nearest neighbor search (granne)]]

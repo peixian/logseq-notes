@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       D39E518B-12D0-4178-9A36-9F40437DDCC3
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: iraqi_sunni
+#+TITLE: iraqi sunni
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

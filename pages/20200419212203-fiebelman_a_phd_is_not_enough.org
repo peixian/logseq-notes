@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       9D017DAA-EB8B-4E93-ADF6-00FD2DFAD44A
+:END:
+#+TITLE: Fiebelman - A PhD is Not Enough
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:08700B30-6476-438A-A1CB-8452DB3DEA4F][grad school]]
+
+- Always a place a theme to your work
+- Postdoctoral advisors do not necessarily have your best interests in mind
+- Aggressively try to find a mentor
+  - Most professors take a darwinian approach because it is less work and they are not at fault
+  - Make sure the mentor teaches survival skills
+- Postdocs are cheap labor
+  - Important notes:
+    - Thesis presentation
+    - Not overtly long PhD time
+- If fields are being changed, start reading *before* the postdoc position starts
+- Clocks start ticking the moment you leave grad school!
+- *Finish something* as a postdoc. Do not take on long projects with future payoff, focus on projects that can be quickly accomplished.
+- Postdoc should give you 3-4 staff members with good letters of recommendation.
+- Write compelling papers via:
+  - _The structure of a news article is a good model to follow in preparing a scientiﬁc publication. Newspaper readers, like your research colleagues, rarely have much time for acquiring new information. This is just the reason that news articles present a story several times, in increasing levels of detail. Their headlines, equivalent to the titles of your scientiﬁc papers, are there to draw readers in by providing a succinct description of what is noteworthy._
+  - Missing links in logic and wishy-washy arguments require more work
+- Professorships
+  - Aim to teach less in the first few years to setup a lab
+- Dilittantes are not looked upon favorably
+- Do not waste time grant writing as a postdoc, this skill will be learned later on
+- Become problem oriented instead of technique oriented
+#+SETUPFILE:./hugo_setup.org

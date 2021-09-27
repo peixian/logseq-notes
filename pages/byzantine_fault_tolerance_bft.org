@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       B6DE7239-010F-4AD8-B6A2-214E4B4E367A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: byzantine_fault_tolerance_bft
+#+title: byzantine fault tolerance (BFT)
+
+[[id:60E89DE2-2826-4C7F-9DF6-69A0C00F11A2][distributed systems]]

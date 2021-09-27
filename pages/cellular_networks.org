@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       CB6E08CC-BEB9-4D02-9CA3-0B290E8EBE39
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: cellular_networks
+#+TITLE: cellular networks
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]

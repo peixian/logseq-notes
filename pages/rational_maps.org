@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       9C3257C3-E985-4256-A320-EB9DF97363F6
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: rational_maps
+#+TITLE: rational maps
+
+Tags: [[id:E1C1CA5E-172A-472C-AD82-BA07E9A9ACDB][geometry]]
+
+https://en.wikipedia.org/wiki/Rational_mapping

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       B58955C7-B23E-4298-A770-57287E91CCC4
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: arabian_satire_poetry_from_hmedan
+#+TITLE: arabian satire - poetry from hmedan
+
+Tags: [[id:8C57517D-1831-426A-93CB-2AC9C3FA0157][literature]], [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]]
+
+- enjoyable
+- favorite line was "time is pregnant and events are its midwife"
+- lots of good lessons about life in it

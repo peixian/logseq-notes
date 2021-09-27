@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       BF94E285-63E1-47AC-B228-2359842F79C7
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: drafts
+#+TITLE: drafts
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]

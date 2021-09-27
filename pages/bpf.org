@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       0B24ACE2-DACC-4086-8207-1F66C255C01F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: bpf
+#+TITLE: bpf
+
+Tags: [[id:23A8ABE3-EBAF-4E73-9896-691178B03933][kernel]]
+- originally named for the packet filter, extended for a generic kernel execution engine
+
+- Main frontends are BCC (https://github.com/iovisor/bcc) and bpftrace (https://github.com/iovisor/bpftrace)
+
+- https://www.linux.com/news/bpf-tour-program-types/
+- https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git
+- http://www.brendangregg.com/bpf-performance-tools-book.html

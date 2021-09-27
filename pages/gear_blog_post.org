@@ -1,0 +1,52 @@
+:PROPERTIES:
+:ID:       6ABE275B-B86E-4815-9F1A-FD08F0765D19
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gear_blog_post
+#+TITLE: gear blog post
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+- Emacs
+  - Org mode
+  - Org roam
+  - Org page
+  - Deft
+  - Spacemacs
+- Reeder
+  - Reeder ios
+  - Feedbin
+- Instapaper
+- Pinboard
+- Zotero
+- Readwise
+- Fantastical
+- Things
+- Pdfexpert
+- Anki
+- Overcast
+- Remarkable
+- Tweetbot/Twitter
+- Goodreads
+- Spotify
+- Alfred
+- Contextual
+- Bartender
+- iStat Menus
+- Keepingyouawake
+- Little Snitch
+- Arq
+- Dropbox
+- Alacritty
+- Tmux
+- Mailmate
+- GCP
+  - GCE
+  - GCS
+- Kaleidoscope
+- Dash
+- Monodraw
+- Paw
+- Sketch
+- Transmit
+- Authy

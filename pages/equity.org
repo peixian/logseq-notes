@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       FF6029D1-A160-4D6F-87D0-B1985B7B8357
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: equity
+#+TITLE: equity
+
+Tags: [[id:5CBD10FB-8097-46B5-B9A5-47E66739DB60][tech working]]
+
+- https://withcompound.com/r/equity-guide-to-fast-growing-companies
+- https://carta.com/blog/category/employee-resource-center/
+- https://news.ycombinator.com/item?id=25469435

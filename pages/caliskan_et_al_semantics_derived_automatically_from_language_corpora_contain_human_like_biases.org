@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       9AD9410C-E1CA-41FB-9222-3C362DA88ED9
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: caliskan_et_al_semantics_derived_automatically_from_language_corpora_contain_human_like_biases
+#+TITLE: Caliskan et al: Semantics derived automatically from language corpora contain human-like biases
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:48350662-53E9-4A91-9ADB-2BC9DFEA6098][nlp]], [[id:15F31B89-B6AC-4D26-8838-89C9A0ADF748][bias nlp project]]
+
+* Summary
+- The researchers showed that using biases are inherent to the statistical frequency of specific words - distributional hypothesis in linguistics
+- They developed a method similar to the Implict Association Test called Word Embedding Association Test, which measures the cosine similarity of specific words.
+- Largely a study that shows that all the stereotypes and biases show from the IAT are apart of word embeddings, meaning that bias is not necessarily escapable here by tuning the dataset
+- Note that this only captured word embeddings and only captured Glove.
+  - Likely, if not certain, that the same biases are in fasttext or w2v
+- Paper was from 2017, so no mention of sentence embeddings
+- Relates specifically to the work done by Bolukbasi et al who proposed a method to debias word embeddings (T. Bolukbasi, K.-W. Chang, J. Y. Zou, V. Saligrama, A. T. Kalai, Adv. Neural Inf. Process. Syst. 2016, 4349–4357 (2016).)

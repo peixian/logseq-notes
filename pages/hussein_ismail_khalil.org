@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       8B3339F5-33B9-4D86-AC83-C5991BC9A044
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hussein_ismail_khalil
+#+TITLE: hussein ismail khalil
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+Replaced Qassim Dhaif al-Zubaidi, also the head of the hashd office in [[id:23FAD3AC-19A3-404C-89D5-5A123043A582][karbala]] and [[id:D8844D33-60F4-4179-8C64-BE35BCA245A3][liwa ali al-akbar (brigade 11)]]

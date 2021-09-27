@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       8F9A287D-3CD8-4E17-AF4E-228F5661554B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: damascus
+#+TITLE: damascus
+
+Tags: [[id:BE234E49-5E49-4054-8308-6EDDCA766FAB][syria]]

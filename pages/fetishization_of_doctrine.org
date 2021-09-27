@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       92975AC6-6323-488E-8DFB-9542EBECE73B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: fetishization_of_doctrine
+#+TITLE: fetishization of doctrine
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+- Jihad/security studies tends to fetishize doctrine
+  - we take these orientialist views because we view these things as foriegn
+  - these people adopt a different universalism, therefore we view it from first principals rather than viewing as a social element
+  - why do we adopt a sociological view of ourselves but doctrine based of others?
+- is fiqh the correct mode of analysis? can everything be read through fiqh?
+- islamic financing
+  - we should look at the social elements of it
+  - less studied because of relatively curious nature of it
+- Talal asad
+- UN peacekeeping fetishization on rote practice of human rights and protection of civilians without teaching it
+What is doctrine? What are the correct universalities? Is there a universality?

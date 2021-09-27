@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       1436E8CF-513F-4AB5-884D-C9931DFC5005
+:END:
+#+TITLE: ssh-notes
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+* SSH Reverse Tunneling
+  - ~ssh -L 9283:localhost:9283 space.af~ -> forward remote port 9283 to local port 9283
+
+
+#+SETUPFILE:./hugo_setup.org

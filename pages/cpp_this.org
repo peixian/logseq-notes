@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       86085744-AA51-4093-99E9-3E3AE2A8AC4C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: cpp_this
+#+TITLE: cpp this
+
+Tags: [[id:B188FE0E-140C-44C3-9280-490E2202CC17][c/cpp]]
+
+- http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/p0847r6.html

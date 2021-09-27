@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       4F4505B7-EA27-4755-B006-85797ADD1CDB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: simulation_spiral_of_death
+#+TITLE: simulation spiral of death
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+When your simulation cannot keep up with the timings, if it takes Y seconds to simulate X seconds worth of physics, and Y > X, then we have a problem

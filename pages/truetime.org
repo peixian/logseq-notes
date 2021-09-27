@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       1E49E40D-75E2-41DF-A47A-44DA6254568A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: truetime
+#+TITLE: truetime
+
+Tags: [[id:8121558B-8692-4487-B67E-F9F785D33D97][clocks (distributed systems)]], [[id:56477AC5-EC16-4502-B30F-7C0D37C13F64][cloud]]
+
+https://cloud.google.com/spanner/docs/true-time-external-consistency

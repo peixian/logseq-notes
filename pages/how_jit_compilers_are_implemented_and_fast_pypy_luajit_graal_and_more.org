@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       DFEA4EFC-0DD7-4FEF-8EA9-81FDD88ABF63
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: how_jit_compilers_are_implemented_and_fast_pypy_luajit_graal_and_more
+#+TITLE: how jit compilers are implemented and fast: pypy, luajit, graal, and more
+
+Tags: [[id:5D4FD56C-329E-4881-AEBC-EFE6DDF0F29D][articles]]
+
+https://carolchen.me/blog/jits-impls/
+
+- Interpreted languages still go down to [[id:4B2A30A1-257D-43F3-9973-CDA7502219E3][bytecode]]
+- Function reuse happens, if you compile multiply(1,2), and then wrote multiply(2,3) then the already compiled version will be used
+  - [[id:94E90FC3-D8DC-4922-BE57-0E2A3A9328F3][llvm]] bitcode can be seen
+- [[id:E0C0F234-1659-42AB-8C30-D1926315531D][jit]]s don't compile ahead of time, but still compiles source to machine code
+  - not strictly about compiling code just-in-time, but compiling optimial code at an optimal time
+- how do we generate optimal code? not all [[id:208AC046-90BF-4A74-9098-B04DA08090C1][assembly]] instructions are created equal
+  - humans typically write better assemly than a computer
+- [[id:E0C0F234-1659-42AB-8C30-D1926315531D][jit]]s usually are more expensive but make up in optimized compiled code

@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       5E6D1746-A542-4380-961E-1D323A5F1601
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+TITLE: Cassandra
+
+Tags: [[id:4D8F680D-3043-42F2-8635-12EE3F560C8B][Databases]], [[id:60E89DE2-2826-4C7F-9DF6-69A0C00F11A2][distributed systems]]
+
+* Internals
+- Seed nodes:
+  - No purpose other than bootstrapping the gossip process
+  - DO NOT MAKE ALL NODES SEED NODES
+
+* ~concurrent_compactors~
+  - Sets the number of IO threads dedicated to compaction
+  - If too high, can cause IO starvation and not servicing requests
+    - Depends on NVME drives
+  - set by the ~concurrenct_compactors~ string in yaml
+    - can also use ~nodetool setconcurrent_compactors~ in C* > 3
+
+* Counter Table TTL's
+- https://issues.apache.org/jira/browse/CASSANDRA-2103
+- https://blog.knoldus.com/cassandra-counter-column-and-table/
+- https://docs.scylladb.com/using-scylla/counters/
+- https://docs.scylladb.com/getting-started/time_to_live/
+- https://stackoverflow.com/questions/29564744/data-modeling-with-counters-in-cassandra-expiring-columns
+- https://github.com/Netflix/astyanax/wiki/Working-with-counter-columns
+- https://dzone.com/articles/cassandra-counter-columns-and-tables
+- https://stackoverflow.com/questions/24881957/what-is-the-way-for-counting-number-of-columns-in-row-in-cassandra
+- https://www.ably.io/blog/cassandra-counter-columns-nice-in-theory-hazardous-in-practice
+* Jolokia Agent
+- https://stackoverflow.com/questions/35318593/jolokia-agent-for-cassandra
+- https://stackoverflow.com/questions/35318593/jolokia-agent-for-cassandra

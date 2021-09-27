@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       97BDAC62-463D-472F-BAB2-B1C471541AE8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: job_sites
+#+TITLE: job sites
+
+Tags: [[id:CAFF2018-7C24-402E-9528-464A87D2DC39][personal]]
+
+- https://techjobsforgood.com

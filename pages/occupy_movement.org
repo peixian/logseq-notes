@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       89F1EBBE-2B1E-439A-98BA-47AAA849BAFA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: occupy_movement
+#+TITLE: occupy movement
+
+Tags: [[id:D1946AF3-6885-4AE6-875E-9A682AE37A55][events]]

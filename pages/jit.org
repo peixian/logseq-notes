@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       E0C0F234-1659-42AB-8C30-D1926315531D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: jit
+#+TITLE: jit
+
+Tags: [[id:5B3FA555-7C9B-47B1-A463-983A682072FC][compilers]]

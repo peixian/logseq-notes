@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       9D053476-2134-4C8C-A711-4C4A958C372F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: government_of_national_accord
+#+TITLE: government of national accord (GNA)
+
+Tags: [[id:C21DF9B0-E7E9-44F9-91A2-EEA809BD6293][libya]]

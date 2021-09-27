@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       902DF9BE-5B92-4C54-BB52-7F96307E064D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gdb
+#+TITLE: gdb
+
+Tags: [[id:E7375D66-02DB-4EC4-8891-BAE0266D864E][debuggers]]

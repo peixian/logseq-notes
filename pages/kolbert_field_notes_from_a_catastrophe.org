@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       DC6BABA5-ECA9-4BC2-BFFA-F4DF71AA7CC0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: kolbert_field_notes_from_a_catastrophe
+#+TITLE: Kolbert - Field Notes from a Catastrophe
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:6D96E728-B780-4735-BCA4-591F45978BBA][climate change]]
+
+- "During the Last Glacial Maximum, average global temperatures were only about ten degrees colder than they are today. It is worth noting that the total forcing that ended that ice age is estimated to have been just six and a half watts per square meter."

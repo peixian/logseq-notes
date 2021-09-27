@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       4D9304F7-5A41-4C21-AA1A-6F7316F64CE3
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: real_time_systems_rts
+#+TITLE: real time systems (rts)
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- Time sharing designs switch tasks more often than strictly needed, but give smoother multitasking, giving the illusion that a process or user has sole use of a machine.
+- Standard mem allocation schemes linear scan a linked list
+  - Can't be done for RTOS
+
+- all interrupts are disabled

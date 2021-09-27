@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       62DCF06C-0E9B-4913-8D7D-21396C8C733D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: lecun_bengio_hinton_deep_learning
+#+TITLE: LeCun, Bengio, Hinton - Deep Learning
+
+Tags: [[id:48350662-53E9-4A91-9ADB-2BC9DFEA6098][nlp]], [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]
+
+LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. “Deep Learning.” Nature 521, no. 7553 (May 2015): 436–44. https://doi.org/10.1038/nature14539.
+
+* Summary
+  Deep learning uses multiple layers to learn representations of data with multiple levels of abstraction
+** Supervised Learning
+   - most common
+   - show inputs and annotations
+   - create an objective function that measures errors
+   - most people use stochastic gradient descent
+     #+DOWNLOADED: screenshot @ 2020-11-24 21:45:23
+     [[file:Summary/2020-11-24_21-45-23_screenshot.png]]
+   - known since 1960 that linear classifers only carve their input space into very simple regions (half spaces separated by a hyperplane)
+   - multiple non-linear layers from 5-20, system can implement extremely intricate functions
+** Backprops for multilayer
+   - the derivative of the objective with respect to the input of a module can be computed by working backwards from the gardient wrt to the output of that module
+#+DOWNLOADED: screenshot @ 2020-11-24 21:47:05
+[[file:Summary/2020-11-24_21-47-05_screenshot.png]]
+   - ReLu maps fixed-size input to fixed-size output
+   - late 1990's commonly thought that simple [[id:954A6637-B199-4082-A388-C6FF5BD9653B][gradient descent]] would get caught in local minima
+     - rarely a problem for [[id:954A6637-B199-4082-A388-C6FF5BD9653B][gradient descent]] in practice
+** CNN's
+   - [[id:D010B569-6F86-4109-A6CD-5FB0B6D97E70][covolutional neural networks]]
+   -
+** RNN's
+   - [[id:9546B108-EFCC-478A-9957-1E377EFBBC1D][recurrent neural networks (rnn)]]

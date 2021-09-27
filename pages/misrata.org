@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       FF16BC57-9DF4-4262-9F83-4F443BDDF2C4
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: misrata
+#+TITLE: misrata
+
+Tags: [[id:C21DF9B0-E7E9-44F9-91A2-EEA809BD6293][libya]]

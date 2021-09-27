@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       954A6637-B199-4082-A388-C6FF5BD9653B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gradient_descent
+#+TITLE: gradient descent
+
+Tags: [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]]

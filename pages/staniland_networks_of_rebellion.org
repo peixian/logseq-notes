@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       87279FA7-E0DC-4A9C-B9E8-F3532210FC31
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: staniland_networks_of_rebellion
+#+TITLE: Staniland - Networks of Rebellion
+
+Tags: [[id:44848562-7F27-4906-95F4-6A9BFEC7A473][militias]], [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]]
+
+Four types of insurgent models:
+1. integrated
+2. parochial
+3. vanguard
+4. fragmented

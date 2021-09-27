@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       B9AA6C08-718D-4106-AF71-A9C4B5491024
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: erlang_jit
+#+TITLE: erlang jit
+
+Tags: [[id:CF577679-1813-4797-9A8C-4A20601B8F2F][erlang]]
+
+http://blog.erlang.org/the-road-to-the-jit/

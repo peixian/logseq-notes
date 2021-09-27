@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       5FA1EE8F-1114-4C3A-B5B4-BA4753ED2E15
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sectarianism
+#+TITLE: sectarianism
+
+Tags: [[id:3A151692-5786-4F5E-B755-165CDFA29BB9][political science]]

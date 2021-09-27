@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       81E31CF4-C4E7-4C84-85C7-8E066E100E3B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: erlang_in_kubernetes
+#+TITLE: erlang in kubernetes
+
+Tags: [[id:A0A37A5E-A266-46B3-8148-D7A40A5F1F78][kubernetes (k8s)]], [[id:CF577679-1813-4797-9A8C-4A20601B8F2F][erlang]]
+
+https://adoptingerlang.org/docs/production/kubernetes/

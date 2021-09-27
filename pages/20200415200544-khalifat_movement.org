@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       A08CFBEC-3E9B-4498-8570-8C9ED82E51EE
+:END:
+#+TITLE: Khalifat movement
+
+tags: [[id:C61C3FE4-06C6-4621-818B-503E36E83B7C][middle east]], [[id:8167F3DC-A169-4452-B5DC-F6F669C0C038][india]]
+#+SETUPFILE:./hugo_setup.org

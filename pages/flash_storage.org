@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       57B6F9A4-7ACE-4EE0-90C9-1ED8680A4D51
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: flash_storage
+#+TITLE: flash storage
+
+Tags: [[id:572EA03C-52DA-4BC3-BFD5-BB73EB49042C][hardware]]
+
+* Journaled Flash Storage
+- http://ithare.com/journaled-flash-storage-emulating-eeprom-over-flash-acid-transactions-and-more-part-i-flash-vs-eeprom/

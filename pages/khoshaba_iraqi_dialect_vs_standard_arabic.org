@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       90AA7FA2-AE08-436C-9C6F-96BBE21D01F5
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: khoshaba_iraqi_dialect_vs_standard_arabic
+#+title: Khoshaba - Iraqi Dialect vs Standard Arabic
+
+[[id:5BDB57E0-F17C-4248-A9A0-4D787F7D67DC][iraqi arabic]], [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]]
+
+* Consnants as Diaphones
+- Moslawis uses (غ) for ر
+  - moslawi - غاح نغوح
+  - baghdadi - راح نروح
+- Baghdadi dialect and Southern speakers use گ instead of ق
+  - baghdadi - هو گال هييه گالت
+  - standard/moslawi - هو قال هي قالت
+- Southern speakers use چ for ك in the conjuction of كان
+  - Southern - چاجه نايم - he sleemed to be sleepy
+  - Standard -  بدا كنئه نائما
+- the ال, iraqis pronounce it (il) whenever it makes the beginning of an utterence, or if there is a time space in between the words when iraqis talk slowly to each other
+- tendency in iraqi arabic to start with a two consonant cluster
+- only relative pronoun is اللي
+
+* Connectors
+  - گبل ما

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       928B2B3A-1EE3-4784-A9C1-D07D1758F368
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: pkk
+#+TITLE: kurdistan worker's party (pkk)
+
+Tags: [[id:C61C3FE4-06C6-4621-818B-503E36E83B7C][middle east]]

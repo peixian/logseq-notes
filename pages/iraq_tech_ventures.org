@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       C5D26960-16A0-4A19-94FE-5A3A39547653
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: iraq_tech_ventures
+#+TITLE: iraq tech ventures
+
+Tags: [[id:973C72C6-68A8-47F4-AEAF-290F4785DCE1][iraqi tech community]]
+
+
+https://iraqtechventures.com/companies

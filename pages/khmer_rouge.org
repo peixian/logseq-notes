@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       581693EA-42E1-4903-9144-0D88B4012241
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: khmer_rouge
+#+TITLE: khmer rouge
+
+Tags: [[id:F5EE30FC-CAAD-4D58-8AC6-087E4060E7B1][cambodia]]
+
+Genocidal regime that killed over 2MM

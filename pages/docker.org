@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       3A46FCC0-9538-4349-9468-608985086D3A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: docker
+#+TITLE: docker
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+* Debian
+- https://knowledgepill.it/posts/docker_install_upgrade/
+
+* Opening Docker Images
+- https://github.com/P3GLEG/Whaler
+- https://github.com/wagoodman/dive
+- https://www.portainer.io
+- https://github.com/google/Docker-Explorer
+- https://theartofmachinery.com/2021/03/18/reverse_engineering_a_docker_image.html

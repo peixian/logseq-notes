@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       76E118FE-5862-4D37-9B0E-89FB2A3AA715
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: textbooks
+#+TITLE: textbooks
+
+Tags: [[id:08700B30-6476-438A-A1CB-8452DB3DEA4F][grad school]]
+
+- https://open.umn.edu/opentextbooks/

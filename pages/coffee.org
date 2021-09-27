@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       DBC2957D-5E72-4F68-8DD4-72A729170560
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: coffee
+#+TITLE: coffee
+
+Tags: [[id:CAFF2018-7C24-402E-9528-464A87D2DC39][personal]]
+
+- Decaf turkish coffee: https://www.hashems.com/store/coffee/decaffeinated-turkish-coffee-16oz

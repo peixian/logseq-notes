@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       5CF31794-AE63-4B14-A949-725F47CF08E2
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: political_risk_career
+#+TITLE: political risk career
+
+Tags: [[id:581A343F-7EB9-4BC2-A240-7068DCDE3D58][career advice]]
+
+- https://www.lawsonchase.com/news/how-to-get-a-job-in-political-risk-190211/

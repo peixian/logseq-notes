@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       4395A565-2F21-4A65-BCE8-5DEA51DCDCDA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: majida_al_tamimi
+#+TITLE: majida al-tamimi
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]
+
+Leading [[id:1C1DF648-3DAE-40F7-9202-96CADE041578][sairun (sadr political party)]] on the [[id:2B6B235B-4D07-4CE7-AFC6-C8B418C7CACA][iraqi finance committee]]

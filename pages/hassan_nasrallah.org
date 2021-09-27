@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       04015558-6BC0-49E5-A577-5678856ED541
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hassan_nasrallah
+#+TITLE: hassan nasrallah
+
+Tags: [[id:DE11B1DE-9DE7-4B29-A074-C962666085E1][hezbollah]]

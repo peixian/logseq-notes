@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       F2643E37-CED2-492A-A77C-B632F3D203FD
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: statistics
+#+TITLE: statistics
+
+Tags: [[id:0C55E344-F9AE-4584-B54F-83EC2FCE9062][math]]
+
+- https://en.wikipedia.org/wiki/F-score

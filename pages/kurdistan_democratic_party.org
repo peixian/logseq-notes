@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       8C9E8C2C-D3BF-4CB0-834B-078BC4A534F7
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: kurdistan_democratic_party
+#+TITLE: kurdistan democratic party
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+Leftist urban intellectuals

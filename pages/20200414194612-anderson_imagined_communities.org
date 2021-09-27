@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       47EF592A-10D4-4923-BE86-E3E03918624D
+:END:
+#+TITLE: Anderson - Imagined Communities
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]]
+
+* Summary
+  - All nations are imagined because not everyone will meet every other community
+  - Print capitalism has helped shape imagined communities
+    - Fall of Latin, and the subsequent accessibility of knowledge allowed citizens to feel in touch with their fellow country members
+      - "Hegel observed that newspapers serve modern man as a subsitute for morning prayer" - Page 35
+  - Community because the nation is always conecived as a horizontal comradeship
+  - Loosening of 3 axioms allowed for the rise of imagined communities:
+    - Language was more accessible
+    - Homo sacer type soveriegnty, where society was organized around more than elites
+    - Unification of the conception of the temporal - We all even agree to see the same history, although with different interpretations
+  - Capitalism fueled this expansion
+    - Print, once it became capitalized, sought to move to greater consumers
+      - Inital educated elites were too small
+      - Expanded to working professionals
+      - /In the two decades 1520-1540 three times as many books were published compared to 1500-1520/
+  - "Official Nationalism" - Nationalisms sponsered by the state
+    - [[id:4068D367-6561-41C3-8F70-8F6BB39BEED5][Egypt Iron and Steel Company]] ?
+    - Created directly in response to the European nationalisms of the 1820's
+    - Can be constructed "states in which the ruling classes or leading elements in them felt threatened by the world wide spread of nationally imagined community"
+      - Sati' Al husri?
+        - [[id:8BE50F7D-C2A1-4029-8216-7C88A44716CB][Makdisi - The Ecumenical Frame]]
+      - Core of the nations in the case of Hungarian, English, and Japanese emerged as instincitvely resistant to foreign rule
+  - Bilingualism made the intellgensia powerful in colonized nations
+    - "Educational policies pursued by the indochina colonial government gave birth to an indochinese consciousness" - page 124
+  - Languages should not be treated as emblems of nationalism like flags or anthems, but rather sources of nationalism
+    - Variety of Kurdish languages
+    - Differences in Arabic dialects
+  - "Nationalism thinks in terms of historical destinies, while racism dreams of eternal contaminations" - p 149
+  - Official nationalism often co-opts levers of power - p 160
+    - [[id:99981776-EE2F-405B-8346-433BF45688B6][Kemalism]]
+
+#+SETUPFILE:./hugo_setup.org

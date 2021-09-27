@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       4F59D34B-7839-4FA8-A61F-97BCE0E62359
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: iraqi_prime_minister
+#+TITLE: iraqi prime minister
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

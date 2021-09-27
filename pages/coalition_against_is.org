@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       857B7D63-9CDA-4FE7-893A-3635041FA34C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: coalition_against_is
+#+TITLE: coalition against is
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]], [[id:97BD1E12-9693-4CF4-8A7E-61DFAC324300][united states]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       D83550DD-29A2-4FA2-B0E0-AB33853EBF58
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: r
+#+TITLE: r
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- Use brew cask
+  - ~cairo~ is not supported in homebrew R anymore: https://stackoverflow.com/questions/50767445/how-to-fix-failed-to-load-cairo-dll-in-r
+
+- https://macos.rbind.io/
+  - Extra binaries for R, details in https://yihui.org/en/2018/07/cranextra-macos/
+
+- [[id:C6A0DE9C-3E50-49C8-9073-69912962D29B][emacs]] integration with https://ess.r-project.org/Manual/ess.html#Activating-and-Loading-ESS
+- https://igraph.org/r/doc/layout_.html
+- https://dh-r.lincolnmullen.com/
+  - https://github.com/lmullen/dh-r

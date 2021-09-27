@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       D51D4006-2F02-4305-BBEF-5EDEFDCFD334
+:END:
+#+TITLE: writing
+#+SETUPFILE:./hugo_setup.org
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]
+
+- node for the actual act of writing
+
+* 4 parts of writing
+  - __Valuable__
+  - Recongizable
+  - Organized
+  - Clear
+
+* Avoid "Text based rules"
+  - Avoid rules like "don't do passive writing", or "avoid jargon"
+  - Avoid writing in a way that shapes the /text/
+  - For every rule, ask "which reader" and "which purpose"
+    - Ex: "use short sentences"
+      - For which reader?
+      - For what purpose?
+
+* Expert based writing
+  - Writing and thinking are usually entwined, writing helps out the thinking process
+  - In the real world, the function of the text you write is /to cause readers to change what they think about the world/
+    - NOT HOW YOU THINK
+    - What makes text valuable is how the readers percieve how they changed how they think
+
+* Fellowships
+- https://www.beondeck.com/writers

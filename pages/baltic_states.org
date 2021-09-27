@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       F76F42D6-DCAF-4F18-B7F3-DC44EE10F2C1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: baltic_states
+#+TITLE: baltic states
+
+Tags: [[id:E2821844-9819-49F2-9CE7-CD04EDDB2E85][europe]]
+
+* Changing frequency of electricity
+- https://www.instapaper.com/read/1338283216
+- Electrical frequency controlled largely from Moscow

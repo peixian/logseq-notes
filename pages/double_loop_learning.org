@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       D45B6781-14EF-4482-BEB5-2DE061F8225A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: double_loop_learning
+#+TITLE: double loop learning
+
+Tags: [[id:CAFF2018-7C24-402E-9528-464A87D2DC39][personal]], [[id:CA7F47BD-F4E3-4267-893D-E80F603E4A86][learning to learn and learning to teach]]
+* Single Loop Learning
+1) Find something that is like the hard thing
+2) Modify it ot match the hard thing
+3) Do the modified thing
+
+   Useful for when you know what success looks like, but cannot achieve it (such as language learning)
+* Double Loop Learning
+- https://www.drmaciver.com/2019/05/how-to-do-hard-things/
+- basically like [[id:0A80F7EE-A020-4FD3-9F22-58C4FF978122][ooda (observe orient decide act)]]
+  - https://en.wikipedia.org/wiki/Double-loop_learning
+The steps for double-loop learning are the following:
+
+1. Decide to carry out an action.
+2. Make a prediction for the outcome.
+3. Observe the actual outcome.
+4. Plan future adjustments based on feedback.

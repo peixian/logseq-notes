@@ -1,0 +1,64 @@
+:PROPERTIES:
+:ID:       6A9A7657-8C57-48B4-A4BF-8EB5505BA590
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: islamic_jurisprudence_lecture_12
+#+TITLE: islamic jurisprudence lecture 12
+
+Tags: [[id:BB2783B7-0E6B-4886-8007-EC63A9C67096][islamic jurisprudence]]
+
+* Peters - Crime in Islamic Law
+  - Chapter 2
+    - large amount of loopholes
+    - question of theft
+      - tossing of necklace and
+    - premodern scholars talk about zina hurts people who commit zina
+      - zina was happening in mecca and medina
+      - if it was happening in mecca and medina during the life of the profit, what hope is there
+    - outsourcing to the shurta/emir/sultan
+    - the idea that god is so sublime and without need that it is not necessay all the crimes against him be published
+    - the hadd crimes serve as a rhetorical device
+    - can you go unpunished for murder?
+      - the rights of man and the rights of god
+    - does the state put guardrails on power?
+      - does the lack of constraint on the state in sharia a realist understanding
+    - the personalness means less punishment?
+      - [[id:5B11645B-8579-40D5-A125-7BDF1CED5A02][foucault]]
+    - reprimand - the shame of being reprimanded
+      - for the elite it shouldn't and doesn't need to be public
+        - "anticipatory shame"
+        - status discourse of moral formation - are elites thought to be a "moral"
+        - classifical fiqh treats social repute as an asset
+    - murder - if there are no heirs, the state is the plantiff
+    - transmogrifying into monetary fines
+  - chapter 4
+    - three ways islamic law is eclisped
+      - abolished completely (usually [[id:2F7E55D6-A8D8-41B6-B7D0-09A9D1A09B22][france]])
+      - reformed ([[id:8167F3DC-A169-4452-B5DC-F6F669C0C038][india]], [[id:AFEF9FA6-B022-46F4-AE2B-DE70CE370215][nigeria]])
+        - british sort of saw some aspects of islamic law, mostly that it was non-deterministic and the payment of blood money
+        - british caring about limbs over life
+          - easier to forget the dead, the sight of the mutilated engenders moral outrage
+          - mini-theaters of punishment
+        - transmogrify blood money into lengths of incarceration
+          - does blood money threaten the stabilty of the state?
+          - the discretion of the victim
+          - the rape victim with the mahar
+            - victim made it stick - page 139
+      - sisasa reform ([[id:E0568496-6835-438C-A394-B387291A7BDA][ottoman]], [[id:98F9993A-F5AD-44C5-A732-8BBAD7FA6BEE][egypt]])
+        - when did stonings stop? when did amputations stop?
+
+* eltantawi - Shariah on Trial
+  - how is she defining democracy?
+    - her interlocutor defines democracy as a
+  - reading by ache - the ways in which sharia was implemented there
+  - belief in the moral rengeration of society
+  - sufi discourses -> being part of a tariqa -> disambiguating islamic teachings
+    - having a teacher that makes it monovocal for you
+    - when we search for multi-vocality, is that fundalmentally wrong?
+
+
+
+* kenthammer
+- the sharia paradox
+- when the discourse is more inclusive, do we believe its actually mono-vocal
+- is this because non-learned voices are not part of the conversation?

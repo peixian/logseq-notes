@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       73331959-68D0-4673-888B-610A64E0E90D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: conv2d
+#+TITLE: conv2d
+
+Tags: [[id:8CF9A0F7-2E51-4922-B6B7-2C42E8E2BE16][pytorch]]
+
+
+https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html

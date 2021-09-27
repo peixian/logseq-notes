@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       B420DE50-E700-4833-9224-D64C50E246E6
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: iraqi_agriculture
+#+title: iraqi agriculture
+
+- checkpoints exist between [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]] and the [[id:0B9FAF9E-0A55-44FE-96CE-D6D382CF6617][KRG/iraqi kurdistan]]
+  - https://www.rudaw.net/english/kurdistan/260520211
+  - https://www.rudaw.net/english/business/05072021

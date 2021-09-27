@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       A0A37A5E-A266-46B3-8148-D7A40A5F1F78
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: kubernentes
+#+TITLE: kubernetes (k8s)
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]], [[id:60E89DE2-2826-4C7F-9DF6-69A0C00F11A2][distributed systems]]
+
+- https://github.com/ramitsurana/awesome-kubernetes
+- https://k8s.af/
+- https://deploy.live/blog/kubernetes-networking-problems-due-to-the-conntrack/

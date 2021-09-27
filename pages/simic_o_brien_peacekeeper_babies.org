@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       1A3A3125-9275-4706-B12D-DE92AFF4041E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: simic_o_brien_peacekeeper_babies
+#+TITLE: Simic & O'Brien: Peacekeeper Babies
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:01A50F62-11A4-4F59-A576-BDDAAD1017EC][un and global governance lecture 13]]
+
+
+- Simić and O’Brien, “‘Peacekeeper Babies.’”
+- Strategic strategy began to be adopted in 2008 on the status of sexual abuse in peacekeepign missions
+- argues that the UN policy fails to distinguish between sexually explotive and consenual relationships
+- first allegations of sexually explotive peacekeepers were from Mozambique, [[id:4A892609-EEF5-441D-92CD-0330210D954F][bosnia]], [[id:F5EE30FC-CAAD-4D58-8AC6-087E4060E7B1][cambodia]], [[id:87480B74-4E7F-485F-988B-EC8CC559F15F][somalia]], as well as west africa
+- lack of reporting has hindered clear distinction of what forms sexual explotiation and abuse has taken
+- UN began to address SEA in 2002
+- explores the consequences of peacekeepers in the host state wrt to sexual relationships engaged while in the mission
+  - then turns to the case of Marko Susnja - a boy fathered and abonded by a Bosnian peacekeeper

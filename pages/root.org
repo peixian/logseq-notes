@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       173C5C8B-9D57-432D-9896-41DB95A56EA7
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: root
+#+TITLE: root
+
+Notes in [[https://en.wikipedia.org/wiki/Zettelkasten][Zettelkasten]].
+
+Main site and more complete thoughts are at http://space.af.
+
+It's built with:
+- [[https://github.com/org-roam/org-roam][org-roam]]
+- [[https://ox-hugo.scripter.co/][ox-hugo]]
+- [[https://gohugo.io/][hugo]]
+- [[https://github.com/peixian/cortex][hugo theme]]

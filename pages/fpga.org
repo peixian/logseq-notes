@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       C6F34A16-09B1-474B-A0B3-C1EEE8C3E472
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: fpga
+#+TITLE: fpga
+
+Tags: [[id:D66F26E9-44AA-4706-BA51-68C8F6BC2908][chips]]
+- https://github.com/litex-hub/fpga_101
+
+- Adaptive on chip memory management - https://ieeexplore.ieee.org/document/6927471?arnumber=6927471

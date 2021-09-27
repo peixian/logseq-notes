@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       69011C19-51F2-47FC-9348-3D85A1214919
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: compile_time_regex
+#+TITLE: compile time regex
+
+Tags: [[id:B188FE0E-140C-44C3-9280-490E2202CC17][c/cpp]]
+
+https://github.com/hanickadot/compile-time-regular-expressions

@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       74277F04-64B2-45C8-83E6-232886F00E24
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: murphy_united_nations_peacekeeping_in_lebanon_and_somalia_and_the_use_of_force
+#+TITLE: Murphy: United Nations Peacekeeping in Lebanon and Somalia, and the Use of Force
+
+Tags: [[id:D4B35C6D-544A-481C-B5C0-7C2A2ABCF9AC][lebanon]], [[id:87480B74-4E7F-485F-988B-EC8CC559F15F][somalia]], [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:FD50208D-FC0D-4FED-A164-1CCA8E3E0ADB][un and global governance lecture 5]]
+
+- Examines [[id:1E643F52-8B76-4E7A-93B2-117255EF9DA2][unifil]] and UN operations in somalia, especially wrt to the rule of engagement
+- Two aspects of the use of force in peacekeeping
+  - Minimum use of force
+    - This was used (and crossed) by the somilia missions
+      - going after a specific actor placed the UN as "one actor among many"
+  - Force for self defense only
+    - UNFIL's stand and holding villages has allowed them to maintain a pretense of neutrality
+- somalia as a testing ground for new use of force rules (chapter VII)
+- UNIFIL has been awkward since the lebanese gov has depended upon it for various enforcement activities
+  - UNIFIL ROE has been modified to become less restricive over time, as compared to the UNPROFOR (somalia) ones, where they were very restrictive
+  - after May 1993, the UNOSOM II ROE was changed to become a "blank check"
+    - UNOSOM II ROE was largely confused and no effort was made to integrate (especially with the italians)
+      - incoherence of Italians, where the italians knew how to negotiate whereas the rest of the UN forces did not
+- UNIFIL not confronting the PLO meant that they couldn't confront the Israeli de facto forces either
+- UNIFIL stand at At-Tiri lead to the creation of Force Mobile Reserve

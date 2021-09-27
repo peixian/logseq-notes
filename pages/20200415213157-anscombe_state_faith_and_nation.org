@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       360914DB-207A-458E-A677-B1DC2302A2FA
+:END:
+#+TITLE: Anscombe - State, Faith, and Nation
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:A438ACD2-2C1E-40EB-9502-74E5B69EA9FF][Post-Ottoman Near East]]
+
+Challenges readers to move away from a Middle East centered approach, including the Balkans, Anatolia, and the Middle East under the same analytical umbrella.
+
+#+SETUPFILE:./hugo_setup.org

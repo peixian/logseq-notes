@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       077C712C-9D05-4ABA-937E-60E53877058E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ivory_coast
+#+TITLE: ivory coast
+
+Tags: [[id:4716EF6A-B378-4010-B090-41D487EB8B72][africa]]

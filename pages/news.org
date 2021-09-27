@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       C085FBC2-864E-4792-A849-ED3BE48BBA2B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: news
+#+TITLE: news
+
+Tags: [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]]

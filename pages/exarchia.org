@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       D74DF782-302C-4A2A-9C4A-7FA6107193AC
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: exarchia
+#+TITLE: exarchia
+
+Tags: [[id:D8E7997D-829D-4433-929D-1D7AD4270904][greece]]
+
+Central part of Athens, home to militant leftists, radical politics, and intellectual activism, partly due to Athens Polytechnic

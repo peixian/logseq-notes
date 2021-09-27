@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       8FBC97DD-DF57-4E32-BB34-2F1F81B76025
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: bahrain
+#+TITLE: bahrain
+
+Tags: [[id:C61C3FE4-06C6-4621-818B-503E36E83B7C][middle east]]

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       ED10B407-8689-471E-B72D-1AFFD27B16D1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: bovcon_france_s_conflict_resolution_strategy_in_cote_d_ivoire_and_its_ethical_implications
+#+TITLE: Bovcon: France's Conflict Resolution Strategy in Côte d'Ivoire and its Ethical Implications
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:2F7E55D6-A8D8-41B6-B7D0-09A9D1A09B22][france]], [[id:CDA4DF10-6A09-4A00-8666-9A6B5DFC49EC][cote d'ivore]], [[id:FD50208D-FC0D-4FED-A164-1CCA8E3E0ADB][un and global governance lecture 5]]
+
+- France has done a better job than expected in cote d'ivore
+- Cote d'iovre magnet for immigration in the francophone africa poses a problem
+- France has saved money by allowing the UN to take the lead, while being independent as a rapid response force

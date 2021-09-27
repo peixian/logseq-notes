@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       B088E6B2-081B-4FA3-8D5E-35B895A0B53D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: woodward_the_paradox_of_state_failure
+#+TITLE: Woodward: The Paradox of State Failure
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]

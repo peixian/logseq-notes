@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       01180EB9-83F9-458F-9A9E-B22A24502A8B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: nahjul_balaghah
+#+TITLE: nahjul balaghah
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:5E5E8287-6677-468A-8B62-7AA634A3E5CC][islam]]
+
+- https://www.al-islam.org/nahjul-balagha-part-1-sermons

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       19F17EAA-8177-431D-8E34-FD911841545F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: muhsin_abu_tbikh
+#+TITLE: muhsin abu-tbikh
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+- iraqi nationalist figure and stateman in the 1930's

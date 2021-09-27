@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       6A60E781-E426-499A-8131-5D15694EC438
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: afl_american_fuzzy_lop
+#+TITLE: afl (american fuzzy lop)
+
+Tags: [[id:69BC902A-30D8-4B13-8EEB-50F5D656DD4F][fuzzing]]
+
+- instrumenting fuzzing with afl: https://liveoverflow.com/why-pick-sudo-research-target-part-1/#instrumenting-sudo-with-afl

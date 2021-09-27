@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       02CAC3ED-AB13-4272-908D-CE07D83E81A9
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: progressive_socialist_party_lebanon
+#+TITLE: progressive socialist party (lebanon)
+
+Tags: [[id:D4B35C6D-544A-481C-B5C0-7C2A2ABCF9AC][lebanon]]

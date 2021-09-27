@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       DE9E0893-B70F-486C-9E0A-BF41BEAA3B84
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: international_smart_card
+#+TITLE: International Smart Card
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]], [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]]
+
+Company owned by Iraq's two largest state-owned banks [[id:C2A59438-8335-4757-B091-4DBB85984976][Rafidain Bank]] and [[id:03D3EF57-DBEC-4026-A3AD-872995522299][rasheed bank]]

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       092E967F-8E43-42E3-88B5-867AACF158D0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: grammar_in_the_brain
+#+title: grammar in the brain
+
+[[id:B80A87C7-A04A-4E1C-9059-0D3B00F09036][Chomsky - Language and Mind]]

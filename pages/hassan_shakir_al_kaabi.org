@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       568B32DD-B2EC-4B13-A75A-7C47BA97DE1A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hassan_shakir_al_kaabi
+#+TITLE: hassan shakir al-kaabi
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]
+
+[[id:DA59FDA7-A1B8-4BB1-8592-C9EB9014CF5C][fatah (political party)]] MP

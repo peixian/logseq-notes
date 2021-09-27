@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       67096193-0BA9-4CE6-81A8-6EE477DDC692
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: balkans
+#+TITLE: balkans
+
+Tags: [[id:E2821844-9819-49F2-9CE7-CD04EDDB2E85][europe]]

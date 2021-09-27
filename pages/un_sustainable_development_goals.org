@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       D4217BDA-C95C-4736-89BD-E368D03CA5BC
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: un_sustainable_development_goals
+#+TITLE: un sustainable development goals
+
+Tags: [[id:7C05085A-564D-4186-B4E7-AD9DC612310A][un]]

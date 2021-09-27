@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       C62FB6A2-C6E4-43D5-A060-A694E678FB6E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: j_programming_language
+#+TITLE: j programming language
+
+Tags: [[id:5717AC93-7D2F-4E0B-BB2D-FD5C09FE4A9B][programming languages]]
+
+- https://www.jsoftware.com/#/

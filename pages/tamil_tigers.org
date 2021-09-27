@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       EE092FA1-EA88-4F8C-BE9C-1AFE8A90E3AC
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: tamil_tigers
+#+TITLE: tamil tigers
+
+Tags: [[id:8695311A-9674-4DC9-A8E5-C68C79C6A75F][sri lanka]], [[id:44848562-7F27-4906-95F4-6A9BFEC7A473][militias]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       F4A135A5-A9C4-44B0-B1A4-10397145AFBC
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: berdal_what_are_the_limits_to_the_use_of_force_in_un_peacekeeping
+#+TITLE: Berdal: What Are the Limits to the Use of Force in UN Peacekeeping?
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:AF22C8D3-5841-4CB4-858B-AB86D90017CC][un and global governance lecture 3]]
+
+- Force does not solve all problems, and force and peacekeeping are two different things
+  - We must understand that this means peacekeeping is only one part of it
+  - force only works in conjunction with the political ends, much like counterterrorism
+  - [[id:D0DFC0A3-D11C-44A5-B5C0-410F1B5A5FD5][Simpson - War from the Ground Up]]
+#+begin_quote
+"For all its finely balanced and properly justified criticism of UN actions in Bosnia, that conclusion was also at the heart of the Srebrenica Report issued in 1999: "peacekeeping and war fighting are distinct activities and should not be mixed" (UN 1999a, 107). An inescapable corollary of this is that there will also be circumstances when the instrument of peacekeeping is not appropriate. The history of UN operations over the past decade and a half does not fundamentally alter these lessons." (Berdal 2019:125)
+#+end_quote
+- deteorating UN conditions where peacekeepers operate have laid bare the problems of UN dysfunction
+- use of force limitations has bad applications for state soveriengty
+  - host govs can be uncooperative, even spoilers as the UN sets up shop
+- political status often gets complicated by the arrival of peacekeepers
+  - disputants need to be carved out

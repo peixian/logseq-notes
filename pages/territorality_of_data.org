@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       B9CE461A-D3B6-469D-828F-80F7EB6483EB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: territorality_of_data
+#+TITLE: territorality of data
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+- Cloud act
+  - https://www.congress.gov/bill/115th-congress/house-bill/4943
+- https://www.yalelawjournal.org/article/the-un-territoriality-of-data
+- GDPR
+  - Ireland as a datahaven and tax haven
+- AWS/GCP Zones
+  - AWS China
+  - Alibaba
+- Southeast Asia as cloud ground: https://www.ft.com/content/1e2b9cd9-f82e-4d3b-a2d8-f20c08bdc3aa
+  - https://en.cifnews.com/southeast-asia-cloud-computing/
+
+- Links to [[id:94E1C967-7986-4D92-B82C-69322612F4FE][the twin insurgency]]
+#+DOWNLOADED: screenshot @ 2020-06-13 22:04:09
+[[file:2020-06-13_22-04-09_screenshot.png]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7E995468-5ED3-45FE-8A35-A61D8E6F7427
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: arab_image_foundation
+#+TITLE: Arab Image Foundation
+
+Tags: [[id:7FEA6B9D-8C21-4614-8F22-38F3D514D378][ngo]]
+
+- Image foundation that preserves photographs
+- As of 2019, holds more than 500,000 photographs as of 2019

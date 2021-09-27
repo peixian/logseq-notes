@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       D6ED617E-5498-41C3-AC2E-F1193D8A924A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gz_green_zone
+#+TITLE: gz (green zone)
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

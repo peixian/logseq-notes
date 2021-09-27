@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       44A22D1B-8486-4A01-9B5C-D275A848CC97
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ibn_khaldun
+#+TITLE: ibn khaldun
+
+[[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]

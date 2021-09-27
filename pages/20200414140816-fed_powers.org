@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       6A6D5789-4F65-48F0-8710-6937412D5F70
+:END:
+#+TITLE: FED Powers
+
+Tags: [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]]
+
+- Current main street lending programs are new
+- FED used to have powers to buy municipal bonds, but those were removed in 1958
+  - https://www.instapaper.com/read/1295232505/12653295
+  - Big change of monetary policy, loosening the financial constraints of state and local governments
+#+SETUPFILE:./hugo_setup.org

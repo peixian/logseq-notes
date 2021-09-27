@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       9EDB758B-6C62-4E35-9E3F-938405E4C2FC
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: windows
+#+title: windows
+
+[[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]

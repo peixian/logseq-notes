@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       795C58DB-5936-428C-958F-A239A8DF3C2E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: volunteering
+#+TITLE: volunteering
+
+Tags: [[id:CAFF2018-7C24-402E-9528-464A87D2DC39][personal]]

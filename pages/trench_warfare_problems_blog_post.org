@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       E97B2714-7722-4C55-8842-32ACE4DC73E0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: trench_warfare_problems_blog_post
+#+TITLE: trench warfare problems blog post
+
+Tags: [[id:D51D4006-2F02-4305-BBEF-5EDEFDCFD334][writing]]
+
+- most problems are trench warfare problems now
+  - lots of fighting for little gain
+  - long and laborous
+  - leads to people consistently searching for new markets
+  - leads to building of "career moats" and "the dip"
+  - physicists elide this problem via being blinded by math
+- recongize when a problem is a trench warfare problem
+- low hanging fruit is gone
+- benefits of problems being in trench warfare
+  - no beginner's path is new
+    - well tread, any amount of info is out there
+  - largely shifted to discoverability and learning to rank style problems

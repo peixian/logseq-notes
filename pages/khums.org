@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       C94C4326-2553-46CB-8EC5-6215D3B04DE8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: khums
+#+TITLE: khums
+
+Tags: [[id:BB2783B7-0E6B-4886-8007-EC63A9C67096][islamic jurisprudence]]
+
+- https://en.wikipedia.org/wiki/Khums

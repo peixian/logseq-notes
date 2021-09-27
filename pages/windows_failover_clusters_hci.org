@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       2C14D3F0-F562-4F06-A6CD-D91897964369
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: windows_failover_clusters_hci
+#+title: windows failover clusters (hci)
+
+way for [[id:9EDB758B-6C62-4E35-9E3F-938405E4C2FC][windows]] servers to achieve failover in [[id:60E89DE2-2826-4C7F-9DF6-69A0C00F11A2][distributed systems]]
+- https://docs.microsoft.com/en-us/windows-server/failover-clustering/failover-clustering-overview

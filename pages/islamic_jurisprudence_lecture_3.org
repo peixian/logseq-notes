@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       9D4C01B9-516D-4DA5-A653-CA71D8931F2A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: islamic_jurisprudence_lecture_3
+#+TITLE: islamic jurisprudence lecture 3
+
+Tags: [[id:BB2783B7-0E6B-4886-8007-EC63A9C67096][islamic jurisprudence]]

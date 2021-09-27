@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       3AE91F50-C8D5-4E53-9CC9-5FA42297442D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: saudi_arabia
+#+TITLE: saudi arabia
+
+Tags: [[id:C61C3FE4-06C6-4621-818B-503E36E83B7C][middle east]]

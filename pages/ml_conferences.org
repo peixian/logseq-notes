@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       3269433F-81A7-4F67-B781-3B9969240615
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ml_conferences
+#+TITLE: ml conferences
+
+Tags: [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]]
+
+- https://iclr.cc/virtual_2020/poster_HyxnMyBKwB.html
+- https://iclr.cc/virtual_2020/papers.html?filter=keywords
+
+* NeurIPS Impact Statement
+- https://medium.com/@GovAI/a-guide-to-writing-the-neurips-impact-statement-4293b723f832

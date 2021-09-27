@@ -1,0 +1,79 @@
+:PROPERTIES:
+:ID:       46F8D1FC-226F-4EA9-873F-B2ECB42BBF41
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: yemen_bank_notes
+#+TITLE: yemen bank notes
+
+Tags: [[id:87825E0D-CF52-42BD-AC39-4EAC4B565EA3][yemen]], [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]]
+
+* Sources
+- https://www.instapaper.com/read/1308681693
+- https://www.instapaper.com/read/1308706393
+- https://www.instapaper.com/read/1307034446
+- http://documents.worldbank.org/curated/en/339571587498517757/pdf/Yemen-Monthly-Economic-Update-March-2020.pdf
+- https://reliefweb.int/report/yemen/yemen-2019-humanitarian-needs-overview-enar
+- old bank note: https://banknotenews.com/?p=1848
+- new bank note: https://banknotenews.com/?p=14813
+
+* 2 Bank Notes: https://www.instapaper.com/read/1307034446
+- Yemen currently has two bank notes
+- One printed by the central bank in Aden and one by the one in Sana
+- Split occured in late 2016
+  #+begin_quote
+The rebels were not happy with the new notes. It's easy to guess why. Fresh money could be used to pay government fighters, not rebel fighters. This "blood money" would then cheekily flow north via trade. Since anyone who holds a banknote is by definition funding the government that issues it with a no-interest loan, the rebel north was financing its own enemies. (The technical term for this sort of financing is seigniorage).
+  #+end_quote
+  - From https://www.instapaper.com/read/1307034446
+- December 18, 2019 - Full out ban of new bank notes in the North
+- Exchange rate:
+  #+DOWNLOADED: screenshot @ 2020-05-25 16:08:11
+  [[file:2_Bank_Notes/2020-05-25_16-08-11_screenshot.png]]
+- expectations of [[id:0D8C6829-B5F3-4F0C-BB62-FD5AD7ABB21F][Gresham's Law]]
+- large scale black market currency trading and smuggling currently occuring
+* Sana'a Center for Strategic Studies: https://www.instapaper.com/read/1308681693
+- first 6 months of 2016 over 300 billion yemeni rials left the system
+- cutoff of oil exports in 2015 caused yemen to lose foreign currency
+- September 18, 2016 - CBY moves to Aden
+- 2019 new currency increased money supply by 53% from CBY aden
+- June 2018 - Houth Ministry of Industry and Trade told importers to not use new CBY Aden notes
+- Electronic currency provided for swapping, either through:
+  #+begin_quote
+The Sana’a central bank specified three service providers where “illegal” banknotes could be swapped for the electronic currency, or ‘e-Rial’: M Floos (owned by Al Kuraimi Islamic Microfinance Bank); Mobile Money (owned by Cooperative & Agricultural Credit Bank); and Quality Connect (jointly owned by Yemen Kuwait Bank, Swaid & Sons for Exchange, and Al Akwaa Exchange).
+  #+end_quote
+  - Electronic currency can only be used for water and electricity utility bills and mobile phone payments
+  - No mechanism for exchanging e-currency for hard currency
+- Houthi ban is not complete
+  - Black market is thriving for bank notes
+- Liquity crisis is starting to happen in yemen
+- [[id:3AE91F50-C8D5-4E53-9CC9-5FA42297442D][saudi arabia]] has provided the CBY Aden with 2.4 bil USD in FX currency support
+  - 2 bil for underwriting essential imports
+  - 380mm in foreign currency and fuel grants for power
+  - +370 million Saudi riyals (~100mm USD) to CBY aden monthly
+* OpenDemocracy: https://www.instapaper.com/read/1308706393
+  - CBY was the only institution to preserve national-level functionary for over 5 years apart from the Ministry of Health
+  - helped to maintain basic public services
+    #+begin_quote
+Despite this, the CBY’s financial coordination with local governing entities persisted. Prior to the outbreak of war, local councils in the country’s various governorates would regularly collect taxes and revenues on behalf of the central government and submit these to their local CBY branch. In return, the CBY would disperse operating funds to the local councils for public sector salaries and the provision of local services, as proportioned in the national budget. This system continued even after the onset of war and the division of the country
+    #+end_quote
+  - CBY Sana'a would charter state airline to fly physical currency to CBY Aden
+  - Cash distributions began to be reduced in 2015
+    - 1.2m Yemenis on the public payroll (~25% of employed pop)
+  - Soldiers on both sides have been receiving payroll from CBY as of 2014
+    - Paid according to the ministry of defense roster
+    - MoD roster added by Houthis after they took Sana'a in 2014
+  - Pre-war Yemen imported 90% of food stamples
+  - Yemen is a overwhelmingly cash economy
+  - Most Yemen civil servants received their salary in August 2016
+  - Hadi began to attack the CBY in July 2016, caused the CBY to be denied cash reserves held outside Yemen
+    #+begin_quote
+As recently at June 2016 the IMF Mission Chief for Yemen, Albert Jaeger, had publicly stated: “The central bank is certainly serious about being neutral in a very difficult political and security setting, and it has been to a large extent successful in maintaining basic financial stability throughout the conflict.”
+    #+end_quote
+  - Aden gov still operates largely from Riyadh
+    - Lack of institutional experience at CBY Aden
+    - Large chunk of financial infrastructure based in Sana'a
+  - [[id:7C05085A-564D-4186-B4E7-AD9DC612310A][un]] r2p protocol?
+
+
+* Images
+#+DOWNLOADED: screenshot @ 2020-05-25 16:07:23
+[[file:Bank_Notes/2020-05-25_16-07-23_screenshot.png]]

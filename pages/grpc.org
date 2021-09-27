@@ -1,0 +1,74 @@
+:PROPERTIES:
+:ID:       D1AEFDFD-A1E9-44E7-875E-1FA1ACB063F6
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: grpc
+#+TITLE: grpc
+
+Tags: [[id:A0A37A5E-A266-46B3-8148-D7A40A5F1F78][kubernetes (k8s)]]
+
+
+* gRPC communication patterns
+- contract first, protobuf IDL, binary messaging on the wire w/ HTTP2, duplex
+** rpc flow
+    1. take message
+    2. encode message
+    3. add message headers
+    4. send message across network
+** http2 level
+   - once the HTTP 2 connection has been created, this is a grpc channel
+     - each rpc call is a single stream
+   - message frames
+     - headers and data frames
+   - request messages
+     - contains
+       - header frame
+       - framed message that spans one or more data frames
+       - eos flag in the last data frame
+   - response emssages
+     - same structure, except with trailers
+** rpc types
+   - simple rpc
+     - single request/single response
+     - the stub sends to the server, one block of headers, message, and eos (end of stream) for request
+   - server streaming
+     - one request, multiple response
+     - multiple data frames being sent back
+   - client streaming
+     - multiple request, single response
+   - bidirectional streaming
+     - each request is length prefixed! there is one header in the request, and one eos, but each mmessage in between is a length-prefixed value
+** request/response headers
+   - two types of headers
+     - call definition headers
+       - predefined headers supported by http/2
+       - headers starting with `:` are reserved headers
+     - custom metadata
+       - any other header, arbitrary set of kv pairs
+       - use metadata to share info about RPC calls that are not related to business context
+       - `grpc-` is a reserved metadata header
+** length prefixed message
+   - 4 bytes are allocated to send the size of the image -> uses big endian integer
+   - 1 byte is used to talk about the compressed flag
+   - compression algo is defined in the request headers
+** encoding of binary messages
+   - default is protobuf
+   - encoded binary message consists of tag-value pairs and message ends with 0
+   - each message field value is represented by tag-value in binary format
+** error handling
+   - first class concept
+   - https://github.com/grpc/grpc/blob/master/doc/statuscodes.md
+   - status code and status message
+   - uses the headers `grpc-status` and `grpc-message`, sent in the trailing headers in the response
+   - do not include error details in response payloads
+** deadlines
+   - allows both client and services when to abort
+   - clients are responsible for setting deadlines
+   - normally set as an absolute time
+   - deadlines are propagated to other services
+** inteceptors
+   - mechanism to execute common logic before/after the execution of remote function
+   - unary inteceptors or streaming inteceptors
+   - useful for logging, authetnication, metrics
+** extending service definition
+   - service level, method level, and field level options in the service definition, allows you to access those options at runtimemoder

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       9895C467-13F5-4F0B-A6B4-BF5235D5BCB6
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: archiving_a_revolution_smartphones_social_media_protest
+#+TITLE: Archiving a Revolution: Smartphones, Social Media, & Protest
+
+Tags: [[id:FAD07E42-4924-452A-A438-6F6DADFAD1BE][problems and methods]]
+
+
+* Articles
+- https://www.middleeasteye.net/news/internet-interrupted-how-middle-east-countries-use-network-restrictions-clamp-down-dissent
+  - many countries have similar network restrictions
+  - https://netblocks.org/reports/social-media-blocked-in-turkey-as-idlib-military-crisis-escalates-r8VWGXA5
+  - signal's DNS bypass -> open sooq
+  - turkey's blocking of wikipedia earlier in the year
+  - sudanese resistance by organizing early
+
+* Thoughts
+  - How are the current modes of archiving relating to photos captured by the protestors?
+    - playing baby shark in iraq, lebanon music festival,
+  - Privilaging of social media because that is what is accessible
+  - Does having images of Tahrir next to images of cats devalue Tahrir?

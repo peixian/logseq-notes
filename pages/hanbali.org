@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       AA226DFB-A4D4-437D-BA93-C310004E63A1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hanbali
+#+TITLE: hanbali
+
+Tags: [[id:BB2783B7-0E6B-4886-8007-EC63A9C67096][islamic jurisprudence]]

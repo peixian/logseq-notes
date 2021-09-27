@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       6CC6CB17-F15D-49AD-8603-6091063FBC78
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: un_and_global_governance_lecture_9
+#+TITLE: un and global governance lecture 9
+
+Tags: [[id:6377293C-2556-4797-9A2B-FED088E549BA][UN and Global Governance]]
+
+- interactions of host societies and external actors causes issues within peacebuilding
+- current inadequacies in peacebuilding, resources must be shifted to new ones
+- what is a civil society?
+  - does a civil society exist? - peacekeeprs usually enter with an idea of what the society looks like
+- what are the expectations? what do the host societies expect these people to do?
+- AGE report talks about lack of funding leading to unmet expectations
+  - host societies do not trust the UN
+- how long should the UN be in a region?
+  - AGE report states that the UN should commit to long term peace building projects
+  - Talentino -> international actors should make a meaningful impact and get out
+    - is this framing incorrect? Afghanistan and Iraq
+- who needs to be brought into the loop?
+  - AGE -> focused on more collaboration between the UN pillars
+    - should also work with the international financial instiutions
+      - World Bank, IMF, etc
+- How should we approach the range of social actors?
+  - war torn societies are not lacking in structure, they simply have a /different/ structure that may not be apparent to the western eye
+- is the binary of the bottom up approach and top down approach valid? does this binary hold?
+  - local NGO's may not exist
+    - [[id:A61A851F-F49E-4ADE-83BB-BA4FF1F1812F][haiti]]
+  - where does the local become the national? when it does it become the international?
+  - when does NGO's replace local capacity?
+  - somalialand -> benefitted from sustained grassroot initatives
+    - vs somalia -> largely top down
+  - civil vs political binary?
+    - depends on the situation -> civil socities are not untainted, oftentimes political organizations
+    - hybrid notions of interaction
+  - concerns about INGO's and UN replacing state capacity?
+- tension between simple narratives and complex issues
+  - simple narratives may tild the overall framing and moving it twards
+* religious actors in peacekeeping
+- andrea barkloy notre dame -
+- older work in the 90's and 2000's and comparative religious institutions in negotiations
+- latin america - rural catholic priests

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       5BDCA193-3829-4C56-8FD6-5A7B427ADD17
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: al_aziziyah
+#+TITLE: al-aziziyah
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+Small town 80km west of [[id:96F485D3-F5D1-4184-B2CB-AB42BC16CA41][kut]]
+
+[[id:D6002CC8-4179-4065-9777-499AA8FF95D6][kataib al-imam ali]] maintains a training camp here

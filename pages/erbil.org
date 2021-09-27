@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       412A228D-498C-4471-B003-ABC16F8AB987
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: erbil
+#+TITLE: erbil
+
+Tags: [[id:0B9FAF9E-0A55-44FE-96CE-D6D382CF6617][KRG/iraqi kurdistan]]
+
+- museums
+  - kurdish museum
+- landmarks
+  - citadel
+  - jahil mosque
+  -

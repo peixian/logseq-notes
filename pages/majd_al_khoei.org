@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       343394D8-5885-491F-9ABB-596B6B1CF00B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: majd_al_khoei
+#+title: Majd al-Khoei
+
+[[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       2707650F-BCD9-4399-BD2B-BBE3A5BCF7D8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sinjar_agreement_2020
+#+TITLE: sinjar agreement (2020)
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]], [[id:4B2F35C3-6F92-47AE-817E-122F01F72A95][sinjar]]

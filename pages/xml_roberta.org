@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       08146D28-B89B-4E7B-8237-3B6203209C3C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: xml_roberta
+#+TITLE: xml-roberta
+
+Tags: [[id:B23DDBD4-476A-4518-97B2-F433192A023D][bert]], [[id:D036E9C1-721C-4410-8E36-09CED4048051][cross-lingual]], [[id:309B960F-4C34-4FC1-84C0-DE8534FD7747][roberta]]
+
+- https://huggingface.co/transformers/model_doc/xlmroberta.html

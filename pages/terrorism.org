@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       785D4B33-E0F1-4EE6-BC8B-E3E00896F430
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: terrorism
+#+TITLE: terrorism
+
+Tags: [[id:3A151692-5786-4F5E-B755-165CDFA29BB9][political science]]

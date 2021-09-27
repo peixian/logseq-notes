@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       04826FE8-2771-4845-9C84-A35F098DD7ED
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: religious_peacebuilding
+#+TITLE: religious peacebuilding
+
+Tags: [[id:E900796C-250A-474B-9054-C0C109C94A24][ddr]], [[id:4D07A7F6-AA30-415E-B718-B82E4151A482][religion]]
+
+- From Wiley-Blackwell Companions to Religion: The Blackwell Companion to Religion and Violence
+- Grassroots activism is the interpretive locus of religious peacebuilding. According to Lederach, grassroots peacebuilding “means that the location of the actor and action is among the poor, the affected communities who … understand survival and change in terms of decades and generations, in terms of lifelong processes of transformation” (2003b: 262, 264).
+- The introduction to the book Peacemakers in Action asserts that “today, it is widely accepted that religion is a cause-rather than a solution – to many of the world's violent conflicts. This should not be surprising … the majority of contemporary conflicts involve issues of religious, national, or ethnic identity … And religious teachings are being used to legitimize wars and all forms of brutality and violence” (Tanenbaum Center for Interreligious Understanding 2007: 3–4).

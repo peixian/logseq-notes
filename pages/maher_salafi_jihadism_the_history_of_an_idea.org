@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       08575A90-1002-48E6-9EE5-6F165FAEA275
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: maher_salafi_jihadism_the_history_of_an_idea
+#+TITLE: Maher - Salafi-Jihadism: The History of an Idea
+
+Tags: [[id:5E5E8287-6677-468A-8B62-7AA634A3E5CC][islam]], [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]]
+
+- theorization of terms such as /rawafidh/ or /rafidha/ with terms like /nawsib/

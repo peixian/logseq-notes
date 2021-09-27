@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       4CBE813C-C921-42E4-8227-9C5F8FBEFD15
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: qat
+#+TITLE: qat
+
+Tags: [[id:87825E0D-CF52-42BD-AC39-4EAC4B565EA3][yemen]]
+
+- https://www.loc.gov/law/help/legal-status-of-khat/index.php

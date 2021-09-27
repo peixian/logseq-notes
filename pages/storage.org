@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       00DF33A8-C997-49FC-97B2-8F7429E55BF6
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: storage
+#+title: storage
+
+
+[[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]

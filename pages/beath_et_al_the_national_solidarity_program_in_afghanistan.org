@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       A4C4ED16-EBA0-4722-B959-36D129A4A86F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: beath_et_al_the_national_solidarity_program_in_afghanistan
+#+TITLE: Beath et al - The National Solidarity Program in Afghanistan
+
+Tags: [[id:6596B9DE-6A94-4A62-AD86-A36E1CF47766][national soldiarity program (NSP)]]
+
+Beath, Andrew, Fotini Christia, and Ruben Enikolopov. The National Solidarity Program: Assessing the Effects of Community-Driven Development in Afghanistan. Policy Research Working Papers. The World Bank, 2015. https://doi.org/10.1596/1813-9450-7415.

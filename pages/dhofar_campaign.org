@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       03AA20AB-40F8-4291-8B57-242A09649FC5
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: dhofar_campaign
+#+TITLE: dhofar campaign
+
+Tags: [[id:F23234C0-1F44-48C7-A7EF-10A59976DD6F][Oman]]
+
+- 1960-1970's counter insurgency, deliberately kept a low profile, small deployment of british troops, used local forces called the firqa
+- started going well once the SAS left, key lesson was that dhofar does not require a large scale over presnse of foreign troops, foreing actors "cannot take ownership of the problem"

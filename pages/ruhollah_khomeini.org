@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       0A3E969C-BC56-488F-BD84-BE841CB7BD69
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ruhollah_khomeini
+#+title: ruhollah khomeini
+
+[[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:5E8A9793-6DE6-4E2C-A33B-D85714A3C06C][iran]]

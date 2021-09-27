@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       60946637-F3BB-4620-888A-F3D2631281F8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: complexity_is_not_a_vice
+#+TITLE: complexity is not a vice
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+Why post-structuralism matters?
+
+We can't reduce everything into small platidutes, you can't build a single system that works for everyone, and you just need to embrace the bespoke models
+
+People dont "hate change" -> there's meaning in what we do
+You can't airlift transitional justice systems in the case of libya
+War is complex, and resists the same style of interpreation

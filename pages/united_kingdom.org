@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       998BF318-0B23-48A3-A3FF-5E86BE7FADCB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: united_kingdom
+#+TITLE: united kingdom
+
+Tags: [[id:E2821844-9819-49F2-9CE7-CD04EDDB2E85][europe]]

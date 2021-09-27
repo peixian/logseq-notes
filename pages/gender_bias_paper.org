@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       03BA3B92-A09B-453F-9D2C-A28453B39963
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gender_bias_paper
+#+TITLE: gender bias paper
+
+Tags: [[id:29303C71-98D0-46CD-BBD0-E177FC42D1FB][nlu]]
+
+
+- justification for datasets
+- details on usage
+- preparing a table for accuracy
+- word embeddings: https://aclanthology.org/W19-3805.pdf
+- https://towardsdatascience.com/tackling-gender-bias-in-word-embeddings-c965f4076a10

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       30584267-CB9F-4768-B1CB-7FB2EE8B17FA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: spac
+#+TITLE: spac
+
+Tags: [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]]
+
+special purpose acquisition company
+- https://www.nasdaq.com/articles/best-spac-stocks-to-buy-in-the-stock-market-today-4-for-your-list-2021-02-16

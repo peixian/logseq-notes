@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       861A8825-3E4F-458A-88FD-9F1DB3948B86
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: secor_children_of_paradise
+#+TITLE: Secor - Children of Paradise
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:5E8A9793-6DE6-4E2C-A33B-D85714A3C06C][iran]]
+
+/In the absence of the twelfth imam, the duty of guiding such a nation must fall to its most esteemed Islamic scholar, or faqih, who would be uniquely qualified to interpret the divine texts./

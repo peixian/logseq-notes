@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       5969E82F-DDCA-404B-A8F4-2C775C7ECF55
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: kurdish
+#+TITLE: kurdish
+
+Tags: [[id:AB300662-3E3E-4452-A29D-468522B35C3E][languages/linguistics]]
+
+- https://kurdishairforce.blogspot.com/
+
+- https://kurdishcentral.org/simple-phrases/
+- https://thekurdishproject.org/history-and-culture/kurdish-culture/kurdish-language/

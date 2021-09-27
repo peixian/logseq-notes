@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       E6DB72BE-17F1-48DA-AAB5-0E34FC5EC29A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: juniper
+#+TITLE: Juniper
+
+Tags: [[id:851F079B-17D1-411F-988B-1248B5E0579D][networks]]

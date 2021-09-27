@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       55A17177-6381-40F4-B95D-4558A177DB4A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sati_al_husri
+#+title: sati al-husri
+
+[[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

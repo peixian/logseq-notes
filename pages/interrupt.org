@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       1703A577-9E10-491F-BAEC-D0E0FEE0AA47
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: interrupt
+#+TITLE: interrupt
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- https://en.wikipedia.org/wiki/Interrupt

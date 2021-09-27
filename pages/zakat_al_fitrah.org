@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       C0B5D535-4ACB-4B58-A538-C0004F670ACE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: zakat_al_fitrah
+#+TITLE: zakat al-fitrah
+
+Tags: [[id:60238003-519B-4EC2-BA79-95D114DF0C50][zakat]]
+
+zakat done at the end of [[id:988F0B0A-03DA-4ABA-882C-CC92328B7B87][ramandan]]

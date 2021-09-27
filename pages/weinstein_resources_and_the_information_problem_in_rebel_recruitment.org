@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       8406BD82-EF70-4BB6-B946-A7D8BB85F38D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: weinstein_resources_and_the_information_problem_in_rebel_recruitment
+#+TITLE: Weinstein: Resources and the Information Problem in Rebel Recruitment
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:44848562-7F27-4906-95F4-6A9BFEC7A473][militias]]
+Argues with the model of seeing rebel recruitment through 'resource-wealthy' and 'resource-poor'

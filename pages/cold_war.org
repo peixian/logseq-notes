@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       B429CB22-EF9C-49D7-B32A-66D4BD04C8D8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: cold_war
+#+title: cold war
+
+
+[[id:D1946AF3-6885-4AE6-875E-9A682AE37A55][events]]

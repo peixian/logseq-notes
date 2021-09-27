@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       9398F182-4361-494A-9902-88EB6284A42A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: radio_adiga
+#+TITLE: radio adiga
+
+Tags: [[id:C61C3FE4-06C6-4621-818B-503E36E83B7C][middle east]]
+
+circassian radio station https://tunein.com/radio/Radio-Adiga-s104722/

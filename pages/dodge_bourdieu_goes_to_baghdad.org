@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       91F18E55-0C3A-4AAD-9B9B-08DDAC831E5E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: dodge_bourdieu_goes_to_baghdad
+#+TITLE: Dodge - Bourdieu goes to Baghdad
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]
+
+- Argues against the primordialist and ethnosymbolic theories, alongside the analysis of artificial state theories of [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+- Poposes forward 4 identities that are rooted in history and not just the past 15 years:
+  - Kurdish identity
+  - Shia
+    - Subsequent Sunni
+  - Iraqi
+  - Pan Arab
+
+* Bourdieu Influences
+  - Uses the key analytical concepts of 'field' and 'capital'
+    - Field is what comprises society, society is made up of various autonomous social microcosms
+      - Political field -> is this dominated by secular nationalism or islam umma?
+      - Bureaucratic/administrative field -> politicans play here
+    - Capital is what people can deploy to contest a field
+      - Economic capital
+      - Social capital -> extent of one's network
+      - Cultural capital -> Culture's stratifying power in society
+      - Symbolic capital -> "It is the struggle for symbolic power within Iraq's political field that has the main explanatory focus"
+        - Symbolic power legitimize power relations -> writers, teachers, journalists weild symbolic capital
+
+* Arab Nationalism
+  - Post mandate
+  - Largely formed to drive the british out
+  - British actually re-invaded after 1941 and stamped this out
+  - Social capital was fracatured between senior military and Baath party post 1958 coup
+    - [[id:6F62AAA8-8FE6-495C-A9A4-00CCC6AF62D2][abdul karim qasim]]
+    - [[id:64817B58-ADF7-4FEE-83D9-255D9D87194B][Baath]]
+
+* Iraqi Identity
+  - Emphasized by the ahali (the People) group after 1931, mostly Leftism, Liberal Democracy, and Iraqi nationalism
+  - Also promoted by the [[id:13A2D8AD-B386-4937-9054-78A0D2C91F54][iraqi communist party]]
+  - [[id:6F62AAA8-8FE6-495C-A9A4-00CCC6AF62D2][abdul karim qasim]] helped solidify the Iraqist place within the political field
+  - [[id:64817B58-ADF7-4FEE-83D9-255D9D87194B][Baath]]'s seizure of power in 1968 shut out the communists, and reinterpreted iraqists for itself
+    - "Mesopotamianism"
+    - Incorporated parts of the Kurdish identity post [[id:8FF9EEAF-AD91-456C-9B5D-4C2B95CBCA45][1975 Algiers Agreement]]
+    - Incorporated parts of the shia identity post 1977 mass protests of the Marad al-Ras
+
+* Shia identity
+  - [[id:6F62AAA8-8FE6-495C-A9A4-00CCC6AF62D2][abdul karim qasim]]'s rule started the formation of the [[id:B8B77EFA-589B-4393-8F47-75F1EED0E103][Dawa]]
+  - [[id:C4E274D9-F287-4386-8FBC-68C36C46A541][Muhammad Baqir as-Sadr]] deployed both relgious and social capital
+  - Baathist attempts at dominating the field actually cohered Shia identity
+  - Armed uprisings against the Shias following the invasion of Kuwait, especially with [[id:9E8E5375-3849-407C-B376-BA758FE8033C][Ayatollah al-Khoei]]
+  - Final change occured under [[id:B0E61BF5-9C5C-4CFB-97AA-DF7B390C8BA8][Muhammad Sadiq al-Sadr]]
+
+* Kurdish nationalism
+  - First occured under the formation of the [[id:8C9E8C2C-D3BF-4CB0-834B-078BC4A534F7][kurdistan democratic party]] and the groups around [[id:1053A6D7-2FD0-415E-A1AA-C8D3BA8497A6][mulla mustafa barzani]]
+  - modernists nationalists split from the KDP to form [[id:92A9632F-D9D1-466A-893A-4B17E76E3A5F][patriotic union of kurdistan (PUK)]]
+  - [[id:8677BAF0-235D-44BC-BA3B-7276F9CEE360][anfal campaign]] solidifed the kurdish identity

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       DB866025-FC8D-4611-B1ED-2AD491EB936C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: erlang_live_market_parser_api_on_kubernetes
+#+TITLE: erlang live market parser api on kubernetes
+
+Tags: [[id:CF577679-1813-4797-9A8C-4A20601B8F2F][erlang]], [[id:5C09008D-C61B-4A8E-BB77-9CF0085D90F6][project ideas]]
+
+- inspiration: https://matt.sh/load-balance-trades

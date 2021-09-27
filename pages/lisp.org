@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       F72A76DD-838D-485C-82E2-4259A17C8D3E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: lisp
+#+TITLE: lisp
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]

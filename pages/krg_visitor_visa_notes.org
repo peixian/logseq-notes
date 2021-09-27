@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       C72A84BF-ECC5-434C-A858-C4D9E8216B07
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: krg_visitor_visa_notes
+#+title: krg visitor visa notes
+
+- [[id:0B9FAF9E-0A55-44FE-96CE-D6D382CF6617][KRG/iraqi kurdistan]]
+* Renewing a Visitor Visa
+  - Requirements:
+    - Blood test from Government Hospital
+    - Small photo (possibly not needed)
+    - 150 dollars - 110 for visa renewal + 40 for lawyer fee
+  - Locations:
+    - Residency Office of Duhok: https://goo.gl/maps/gFaxKCfs4MHkpwd9A
+
+      #+DOWNLOADED: screenshot @ 2021-08-09 20:14:55
+      [[file:Renewing_a_Visitor_Visa/2021-08-09_20-14-55_screenshot.png]]
+    - Government Hospital for Blood Test (go to window 65): https://goo.gl/maps/294B3AoV6QGheuJU6
+      #+DOWNLOADED: screenshot @ 2021-08-09 20:15:37
+      [[file:Renewing_a_Visitor_Visa/2021-08-09_20-15-37_screenshot.png]]
+
+
+
+
+  - Notes
+    - there are roaming lawyers around the residency office, they will typically talk to the owners
+    - Note that the blood test will send it over to the residency office, you do not have to do anything
+    - fee for blood test: 31k
+    - pay at window 105, which may not have someone
+    - likely need a kurdish proxy

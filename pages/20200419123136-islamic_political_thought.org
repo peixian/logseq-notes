@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       42F0A616-7195-4034-8A0C-53BBA045A294
+:END:
+#+TITLE: islamic political thought
+#+SETUPFILE:./hugo_setup.org
+
+Tags: [[id:5E5E8287-6677-468A-8B62-7AA634A3E5CC][islam]]

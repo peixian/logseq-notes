@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       A523E85D-AAE7-4F1B-9600-259C4F34430E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: structured_logs
+#+TITLE: structured logs
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]

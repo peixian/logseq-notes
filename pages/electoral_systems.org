@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       003AD78D-CFD2-4B30-8E9C-A55791A051C8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: electoral_systems
+#+TITLE: electoral systems
+
+Tags: [[id:5E526313-F9ED-4567-8FF8-3CE7EE462CE1][post-conflict statebuilding organization]]
+
+https://aceproject.org/main/english/es/esg03.htm

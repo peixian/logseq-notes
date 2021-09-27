@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       D4F59A5F-7447-448D-BDEE-913E08A6F82F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: high_performance_erlang_project_hipe
+#+TITLE: high performance erlang project (HiPE)
+
+Tags: [[id:CF577679-1813-4797-9A8C-4A20601B8F2F][erlang]]
+
+https://www.it.uu.se/research/group/hipe/

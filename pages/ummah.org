@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       4E2288E7-DD5A-4A6B-A795-B9A3481011FA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ummah
+#+TITLE: ummah
+
+Tags: [[id:42F0A616-7195-4034-8A0C-53BBA045A294][islamic political thought]]

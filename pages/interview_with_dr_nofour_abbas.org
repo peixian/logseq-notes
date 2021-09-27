@@ -1,0 +1,53 @@
+:PROPERTIES:
+:ID:       BD18898A-7806-4BCB-9C98-4E42AD4A8468
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: interview_with_dr_nofour_abbas
+#+title: interview with Dr. Nofour Abbas
+
+[[id:2319B260-EB47-4FAF-B5E0-9D098F910DCD][interviews]]
+
+- Studied management
+- From Kerbala
+- 1959 born
+- 18 years at 3ttaba
+- Vice advisor to the director?
+- What is the role of imams during ashura?
+  - Remeberence
+  - Preaching
+  - Giving instruction
+  - Not only the past, but also giving advice about current events
+- Are there management of rituals?
+- 18k people work in the organizations
+  - many cities, economic and other
+  - عتبة الحسينية
+  - Cities?
+    - cultural centers and health centers, such as clinics
+    - inside Iraq, overseas is mostly for teaching
+- Role of the attaba during the [[id:D565EE03-B588-489C-BDB7-DACD67FA5F8A][islamic state (is/isis/isil)]] years?
+  - first - giving financing to the [[id:ADFAE0CB-D584-4CE9-9965-4E76C474546E][hashd al-shaabi (PMF)]] and iraqi armed forces
+  - funerals for dead soldiers
+  - fatwa against daesh
+    - saving cities out of homeland patriotism
+- Insitituionally, how has this changed in the 18 years?
+  - only arabeen
+  - in 2003, it was only 40 workers maintaining the shrine
+- attendance in the last 10 years
+  - # of iraqi's in 2020 - high
+    - has always increased, covid did not affect this
+  - # of foriengers
+    - went down in 2020, but due to government policies
+  - does he expect more # in 20201?
+    - does expect more, always welcomes more foriengers as long as they have visa and PCR
+  - attendenace did not go down during the daesh years
+- has anything changed with the rituals in the last 18 years?
+  - nothing
+  - (although were militant flags always as common? - me)
+- 2003 attaba
+  - attaba grew dramatically after the 2003 donations
+  - previously was maintance only on the shrine
+  - more and more festivals across all of iraq
+- management structure
+  - 7 people majlis selected by diwan office and chosen by the minister of the shrine
+  - الهيال الوظيمية
+  - 60 sections, each section has a head and has specific roles

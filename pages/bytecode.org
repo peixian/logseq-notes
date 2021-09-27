@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       4B2A30A1-257D-43F3-9973-CDA7502219E3
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: bytecode
+#+TITLE: bytecode
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]

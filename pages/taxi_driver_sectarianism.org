@@ -1,0 +1,60 @@
+:PROPERTIES:
+:ID:       9C62224C-97B4-4554-B443-72114B78C9EA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: taxi_driver_sectarianism
+#+TITLE: taxi driver sectarianism
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+Book: Gambetta, Diego, and Heather Hamill. Streetwise: How Taxi Drivers Establish Customer’s Trustworthiness, 2005
+
+Taxi drivers pre-ridesharing days had a pretty wild list of signs to watch. Among these, a driver looked at:
+
+- Age (older vs younger)
+- Gender (women vs men)
+- Race ("white" vs "black")
+- Spanish over other ethnic groups (if the driver was Spanish)
+- Group size (individual vs multiple groups)
+- Wealth (wealthier vs poorer)
+- Known passengers over strangers
+- Callers over hailers
+- Catholic over Protestant if the driver is Catholic
+- Self-absorbed over inquisitive
+- Candid over shifty
+- Friendly and calm over aggressive/agitated
+
+All of these are captured in Diego Gambetta and Heather Hamill's book /Streetwise: How Taxi Drivers Establish Customer Trustworthniess/. The book highlights differences between taxi drivers in Belfast and New York. Belfast, being a battleground during the troubles, is largely split into a "Protestant" and "Catholic" zones. As a result, Protestant taxi drivers are less willing to travel to Catholic zones, and visa versa. More interestingly is that Protestant drivers will often not even pick up customers that look like they're Catholic, to avoid confrontation.
+
+Belfast taxi drivers also demonstrate a hawkish view towards potential assailants. As a solid minority of the current taxi drivers were involved in armed groups at some point in the past and continue to hold strong ties to their communities, attempting to assult or rob a taxi driver in Belfast has the potential to lead to retribution down the line.
+
+New York taxi drivers, on the other hand, are largely "fish out of the water". New York taxi drivers do not have strong ties to the communities they drive in, sometimes don't even speak English, which causes them to adopt a far more dovish tone of deescalation when confronted. Often times the taxi driver is far more willing to simply hand the money over.
+
+The book also details various techniques that taxi drivers use once a passenger is *in* the car. Specifically, New York taxi drivers preferred not to have the customer sitting right behind them, as that obscures their view. Customers that take an active interest in how much the taxi driver is making, alongside being simply shifty, are also immediately considered to be suspicious by the taxi driver. New York taxi drivers have multiple ways of bailing out of trouble, from panic buttons to hidden lights, to even ramming a police car in the street to attract attention.
+
+Overall, streetwise is an interesting book that attempts to model human trust via game theory of maximizing revenue potential while minimizing customer risk. I'd like to see more on this topic, especially ones that cover different taxi cultures. In the Middle East, for example, male customers have an expectation of sitting in the front (since taxi drivers are overwhelmingly male). Does that provide different cues? I'd also like to see how this has adopted in the ridesharing world, all of these criteria have effectively been reduced into a single "rating". Taxi drivers in this book often talked about developing a "gut feeling", which I wonder if having that proxied by a rating bypasses the development. Do rideshare drivers have "gut Book: Gambetta, Diego, and Heather Hamill. Streetwise: How Taxi Drivers Establish Customers Trustworthiness, 2005
+
+Taxi drivers pre-ridesharing days had a pretty wild list of signs to watch. Among these, a driver looked at:
+
+- Age (older vs younger)
+- Gender (women vs men)
+- Race ("white" vs "black")
+- Spanish over other ethnic groups (if the driver was Spanish)
+- Group size (individual vs multiple groups)
+- Wealth (wealthier vs poorer)
+- Known passengers over strangers
+- Callers over hailers
+- Catholic over Protestant if the driver is Catholic
+- Self-absorbed over inquisitive
+- Candid over shifty
+- Friendly and calm over aggressive/agitated
+
+All of these are captured in Diego Gambetta and Heather Hamill's book /Streetwise: How Taxi Drivers Establish Customer Trustworthiness/. The book highlights differences between taxi drivers in Belfast and New York. Belfast, being a battleground during the troubles, is largely split into a "Protestant" and "Catholic" zones. As a result, Protestant taxi drivers are less willing to travel to Catholic zones, and visa versa. More interestingly is that Protestant drivers will often not even pick up customers that look like they're Catholic, to avoid confrontation.
+
+Belfast taxi drivers also demonstrate a hawkish view towards potential assailants. As a solid minority of the current taxi drivers were involved in armed groups at some point in the past and continue to hold strong ties to their communities, attempting to assault or rob a taxi driver in Belfast has the potential to lead to retribution down the line.
+
+New York taxi drivers, on the other hand, are largely "fish out of the water". New York taxi drivers do not have strong ties to the communities they drive in, sometimes don't even speak English, which causes them to adopt a far more dovish tone of de-escalation when confronted. Often times the taxi driver is far more willing to simply hand the money over.
+
+The book also details various techniques that taxi drivers use once a passenger is *in* the car. Specifically, New York taxi drivers preferred not to have the customer sitting right behind them, as that obscures their view. Customers that take an active interest in how much the taxi driver is making, alongside being simply shifty, are also immediately considered to be suspicious by the taxi driver. New York taxi drivers have multiple ways of bailing out of trouble, from panic buttons to hidden lights, to even ramming a police car in the street to attract attention.
+
+Overall, streetwise is an interesting book that attempts to model human trust via game theory of maximizing revenue potential while minimizing customer risk. I'd like to see more on this topic, especially ones that cover different taxi cultures. In the Middle East, for example, male customers have an expectation of sitting in the front (since taxi drivers are overwhelmingly male). Does that provide different cues? I'd also like to see how this has been adopted in the ridesharing world, all of these criteria have effectively been reduced into a single "rating". Taxi drivers in this book often talked about developing a "gut feeling", which I wonder if having that proxied by a rating bypasses the development. Do rideshare drivers have "gut feelings"?

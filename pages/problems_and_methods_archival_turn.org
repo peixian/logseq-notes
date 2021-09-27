@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       F6DEBD6F-7B47-4A1B-9C73-4E32B62E31EA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: problems_and_methods_archival_turn
+#+TITLE: Problems and Methods - Archival Turn
+
+Tags: [[id:FAD07E42-4924-452A-A438-6F6DADFAD1BE][problems and methods]]
+
+Oct 7 - Archival Turn
+* Papers
+- [[id:B617D525-7D0F-4362-A1F5-B3BB78B3C8C5][Stoler: Colonial Archives and the Arts of Governance]]
+- [[id:D850E39B-B4BE-481A-B164-E4074178C0CD][Zaatari: History and Photographic Memory]]
+- [[id:393AB2AE-511F-4FED-A260-4F46B985B26E][Azoulay: Archive]]
+
+* Questions
+- Archives hold unwritten context and not simply just document deposits. What about archives created for a specific purpose (like nationalist archives)?
+-

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       5129B53F-6D64-4B38-8E86-77F598696A3A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: golang
+#+TITLE: golang
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]

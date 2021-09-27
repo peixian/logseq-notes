@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       3A6BC162-B42F-4C25-9EE2-935C8EC5BAB7
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: transitional_justice
+#+TITLE: transitional justice
+
+Tags: [[id:5E526313-F9ED-4567-8FF8-3CE7EE462CE1][post-conflict statebuilding organization]]

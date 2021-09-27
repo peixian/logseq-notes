@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       429AAD3F-9AD1-4842-9B55-F6B18BEF36CB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: kataib_sayyid_al_shuhada
+#+TITLE: kataib sayyid al-shuhada
+
+Tags: [[id:ADFAE0CB-D584-4CE9-9965-4E76C474546E][hashd al-shaabi (PMF)]]

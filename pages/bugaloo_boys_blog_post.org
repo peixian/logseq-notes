@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       C377F6F2-7028-4A8A-ADD5-37A6C33EF99F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: boogaloo_boys_blog_post
+#+TITLE: boogaloo boys blog post
+
+Tags: [[id:44848562-7F27-4906-95F4-6A9BFEC7A473][militias]]
+
+- Question: do the boogaloo boys fight for the right to move on?
+- priors
+  - boogaloo boys is not merely a "far right" movement
+    - many different groups, not simply far right "facists" or racists
+  - they struggle for the american ideal, which is not necessarily a white genoicde (although can certainly encompass it)
+  - america explicit avoids totalization
+    - https://www.amazon.com/Shadow-Garrison-State-Aaron-Friedberg/dp/0691048908/ref=sr_1_4?keywords=Aaron+Friedberg&qid=1570393858&s=books&sr=1-4
+    - this country operates largely in decentralized components
+      - https://apps.dtic.mil/dtic/tr/fulltext/u2/a421917.pdf
+  - america experiences dramatic bouts of national amensia
+    - veitnam
+    - afghanistan
+    - iraq
+    - etc
+  - settler colonialism and it's ideals in america
+    - upholding the "midwest" as an american ideal
+    - https://www-jstor-org.proxy.library.nyu.edu/stable/pdf/10.5309/willmaryquar.76.3.0383.pdf?refreqid=excelsior%3Afbb97039cfe34c712fb23f0d7bf3e41e
+  - america, in it's unique experiences, has dispossed natives and non-natives without every undergoing any form of transitional justice
+    - native americans
+    - slavery/the south
+    - sherman's march is held up in history because of it's uniqueness -> we never disposs people
+    - transitional justice is sometimes in contracdiction to peacebuilding
+    -
+  - the boog fight for the right to forget past traumas, not because of slavery, or racism, or facism
+  - uniquely libertarian strain to american culture and notions of self
+    - unrelated to race, much like unrelated to the religion in the old days
+    - us culture is unique here, liberatarian
+- Thesis: Boog fight for uniquely american right to forget past atrocities, overriding sense of american identity
+  - start by talking about settler colonialism
+    - racism of work vs racism of land
+    - farmsted, american culture, libertarianism
+    - how the US avoids totalization
+    - how the US experiences dramatic bouts of amensia -> burst open like a dam
+  - talk about how the current experiences of the boog
+    - decentralized
+      - almost a reflection of american instiutions
+    - not completely racist
+      - inner struggle with bigotry
+      - latino member of boog shooting a cop
+      - https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Timothy%20John%20Watson%20Criminal%20Complaint.pdf
+      - https://unicornriot.ninja/2020/patriotwaves-boogaloo-engineering-an-aesthetic-of-violence/
+      - https://www.mercurynews.com/2020/05/31/federal-protection-services-officer-killed-in-oakland-drive-by-shooting-identified/
+      - support for hamas: https://www.justice.gov/opa/pr/two-self-described-boogaloo-bois-charged-attempting-provide-material-support-hamas
+      - https://www.theatlantic.com/technology/archive/2020/07/american-boogaloo-meme-or-terrorist-movement/613843/
+      - https://twitter.com/colocha_rachel/status/1319709039132086272
+      - https://www.splcenter.org/hatewatch/2020/06/05/boogaloo-started-racist-meme
+      - https://militia.watch/read/uprising-boogaloo-shooting/
+      - https://militia.watch/read/zello-operator/

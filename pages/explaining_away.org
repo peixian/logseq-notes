@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       3B27DE30-954D-4A53-9724-765E4C0BB15C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: explaining_away
+#+TITLE: explaining away
+
+Tags: [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]]
+
+- https://www.nature.com/articles/srep17531
+- https://github.com/seansaito/Explaining-Away-Attacks-Against-Neural-Networks
+- Explaining away is a pattern of reasoning that the confirmation of one cause of an obsereved event reduces the need to invoke other causes.
+Example:
+- A causes C
+- B causes C
+- C happened, A is observed
+  - Implies B did not happen
+  - However, B /and/ A can happen at the same time.
+
+- Sources
+  - “The Notion of ‘explaining Away’ Evidence.” Accessed November 25, 2020. https://www.eecs.qmul.ac.uk/~norman/BBNs/The_notion_of__explaining_away__evidence.htm.
+  - Cross Validated. “Probability - Why Does ‘Explaining Away’ Make Intuitive Sense?” Accessed November 25, 2020. https://stats.stackexchange.com/questions/54849/why-does-explaining-away-make-intuitive-sense.
+  - Wellman, M. P., and M. Henrion. “Explaining ‘Explaining Away.’” IEEE Transactions on Pattern Analysis and Machine Intelligence 15, no. 3 (March 1993): 287–92. https://doi.org/10.1109/34.204911.
+  - Moreno-Bote, Rubén, and Jan Drugowitsch. “Causal Inference and Explaining Away in a Spiking Network.” Scientific Reports 5, no. 1 (December 1, 2015): 17531. https://doi.org/10.1038/srep17531.

@@ -1,0 +1,111 @@
+:PROPERTIES:
+:ID:       007FC4B1-1649-4D80-AF5E-E84BDCEE98F3
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: toby_dodge_bassel_salloukh_talk_2020_12_22
+#+TITLE: toby dodge/bassel salloukh talk (2020-12-22)
+
+Tags: [[id:08700B30-6476-438A-A1CB-8452DB3DEA4F][grad school]], [[id:5FA1EE8F-1114-4C3A-B5B4-BA4753ED2E15][sectarianism]]
+
+* Salloukh - [[id:D4B35C6D-544A-481C-B5C0-7C2A2ABCF9AC][lebanon]]
+- sectarian order was not guarenteed
+- sectarianism was never the dominant mode of affilication, neither before 1861 or after
+- created in 1920 as a country for sects
+- intra-maronite debates dominated the early discussions of lebanon
+- post-1960 demands of sectarian identities came as a result of the post-war pheonom
+- constructs around sectarianism?
+  - coexistience without association
+  - hourani's "views of lebanon"
+  - lebanon's sectarianism as a result of convience
+  - the understanding of sectarianism (even if it does have power) does not imply that it holds historical value
+- elites depend on violence and growing army as a result of a weak tax base, weak institutional capacity based on the british empire focused on extraction, and a new ruling elite without legitimacy
+- mobilization of people among socialeconomic lines to challenge the system (students and labor)
+  - pre-war economy dominated by the christians
+- labor movements after pax-syriana (1990's)
+  - literally colonized by the sectarian parties
+- "bureacrry of the state becomes an archipeligo of clientalist networks"
+  - financing of the bloated public sector and reconstruction
+  - how to finance the debt?
+- hairiri's reconstruction and elite usage of the state as a tool for clientialist recruitment
+  - public sector amounts to 300,000+ employees
+  - only capital inflows maintained this state
+  - lebanon benefited from 2008 financial system
+- is Lebnaon an "rentier" state? With the resources being the clearinghouse of the financial system?
+- creation of the independent political movement
+  - took the 2017 protests to accerlate the destruction
+  - problem with these protests intentionally try to not politize themselves
+    - failure to organization along political lines plays into the hands of the sectarian system
+      - sectarian system is particularly good at disaggregating non-sectarian political systems
+  - 2019 crisis
+  - as long as opposition is ngo lead, sectarian leaders are confortable with that
+  - many ngo's are focused on survival
+
+* Dodge - [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+- southern iraq still houses world's oldest churches
+- sabians?
+- percy cox?
+- french played an instrumental role in weaponizing sects, french groups saw lb as a place composed of sectarian groups
+- most interesting battles in lebanon's formation are intra-sect, not inter-sect
+- 48 - civil war presented as a battle b/w christians & muslims, but
+- shia marjia -> formation of the dawa party
+  - [[id:C4E274D9-F287-4386-8FBC-68C36C46A541][Muhammad Baqir as-Sadr]] -> recgonition that society has been radically transformed by urbanization and integration into a regional and global economy
+    - his writings and economic systems are influenced by [[id:115A1830-680E-4E8E-A5D8-BC68E20897BE][marx]] and european sociology
+- 68-2003
+  - ideaology transfomration to arab nationalism to iraq nationalism
+  - sanctions stabilized the ba'athist regime
+    - [[id:06DB4234-A5C2-408C-9C0C-1D3A783E8462][Blaydes - State of Repression]]
+  - salah al-din forumla/principals (1992 conference)
+    - ahmed chalabi
+      - exiles who created development of iraq that was sectarian
+    - elevation of these exiles into government in 2003
+  - dual process of 2003
+    - unapologically imperial mission to transformation into a neoliberal state by ignoramouses
+    - fueled by the exiles's views
+    - bremmer's need to put an iraqi face on
+    - strictly view of Iraq that was sectarian
+    - even if you don't see yourself as sectarian, access to state services must require sectarian understnadings
+    - sectarianization from above, through the gifting of the state after the 2003 invasion
+      - reproduction and regeneration of the sectarian system from above
+      - "delays" as a parlimentary tactic
+  - reprodcution of sectarianism via a social issue
+- [[id:551974DA-A83D-409F-8426-61DE3A40D43F][nouri al-maliki]]
+  - was the government built to strip the state and disaggregate it?
+  - contract four
+    - head of integrity
+    - senior civil servants raise tender and pay these contracts
+      - these senior civil servants became divided among the political parties
+      - each minister is aligned, but the senior civil servants are aligned to all major parties
+      - negotiated after each elections
+        - over 500 after the 2018 elections
+          - spigots for state corruption
+  - before 2006
+    - prime minister as a weak coordinator
+    - maliki was originally seen as weak and controllable
+    - maliki disinterrs a republican era law, he begins to appoint senior civil servants
+      - expands his network below the ministerial level
+      - expands to be at the heart of network of power
+      - knits together the archiplego of networks
+        - same in army
+  - 2010 elections
+    - elites threatened by maliki and also non-sectarian movements
+    - barzani democratizes maliki's network in civil servants
+      - walkala system
+        - allocates the senior civil servants to the system
+    - "democratizes" the ability after each election to asset strip the state after each election
+  - this system gets reapportioned, at its source, a corrupt complicitly
+    - senior teirs of civil servants raise and commission the contracts
+  - electoral particpation has dropped dramatically
+    - broad population has turned thier back on the asset stripping
+    - sectarian rhetoric no longer works, overt sectarian rhetoric has declined, but sublimial mobilziation is no longer there
+
+
+
+- production of oil in iraq from 2005-2010
+  - far more resource into iraq than lebanon
+- [[id:7FEA6B9D-8C21-4614-8F22-38F3D514D378][ngo]]'s as an industry
+  - professor escobar altorouas in the ngo industry
+  - wealth from oil transferred into ngo's?
+  - separate from the iraqi state, dispersing foreign aid, who do they empower?
+  - ngos have not managed to gain autonomy from the system
+- is the titanic sinking in iraq?
+  - finance minister is suggesting structurala djustment

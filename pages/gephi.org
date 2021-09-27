@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       25E178EC-3F5A-467B-A12E-213858DF087D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gephi
+#+TITLE: gephi
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+- Open source graph exploration tool
+- Reads dot files
+- https://gephi.org/

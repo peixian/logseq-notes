@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       4716EF6A-B378-4010-B090-41D487EB8B72
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: africa
+#+TITLE: africa
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]

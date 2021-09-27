@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3040A268-B128-4755-B9AC-0853CB9CFF1C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ali_shariati
+#+TITLE: Ali Shariati
+
+Tags: [[id:5E5E8287-6677-468A-8B62-7AA634A3E5CC][islam]], [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]
+
+- Similar notions to liberation theology in Latin America
+- Marxist Muslim thinker

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       1F8602F6-4A48-46B8-8F8D-64B3D16BB74D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: democritus
+#+TITLE: democritus
+
+Tags: [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]]
+
+https://plato.stanford.edu/entries/democritus/

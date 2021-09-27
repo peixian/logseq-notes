@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       670B0AC3-A80D-4DBE-8B4F-7B1FB74A8DA1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: halting_problem
+#+TITLE: halting problem
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]

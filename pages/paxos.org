@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       B61CD1FF-6157-4754-A625-A1AE4FCC5770
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: paxos
+#+title: paxos
+
+[[id:2C626284-F74C-4110-83A7-AE07B6D0A451][algorithms]], [[id:60E89DE2-2826-4C7F-9DF6-69A0C00F11A2][distributed systems]]

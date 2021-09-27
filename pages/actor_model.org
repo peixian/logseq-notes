@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       09F78F9D-3BF1-46F0-BEB1-0D90A4337B78
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: actor_model
+#+title: actor model
+
+programming pattern for [[id:60E89DE2-2826-4C7F-9DF6-69A0C00F11A2][distributed systems]], led to innovations such as [[id:CF577679-1813-4797-9A8C-4A20601B8F2F][erlang]]

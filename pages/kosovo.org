@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       3196ECF7-71C2-43FE-A065-F3984D89DD1E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: kosovo
+#+TITLE: kosovo
+
+Tags: [[id:67096193-0BA9-4CE6-81A8-6EE477DDC692][balkans]]

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       8E3ADDBF-9B7B-4F47-B177-9E43AF359F14
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: cash_based_incentives_for_ddr
+#+TITLE: cash based incentives for ddr
+
+Tags: [[id:E900796C-250A-474B-9054-C0C109C94A24][ddr]]
+
+- Implemented in [[id:A5CACE85-C257-4B0D-93ED-1D1FD8D9BEB5][sierra leone]], [[id:CDA4DF10-6A09-4A00-8666-9A6B5DFC49EC][cote d'ivore]], and [[id:BBFDEDEC-51A6-4D99-BD64-F690D1EE8F67][nepal]]
+- Found in [[id:A5CACE85-C257-4B0D-93ED-1D1FD8D9BEB5][sierra leone]] and [[id:CDA4DF10-6A09-4A00-8666-9A6B5DFC49EC][cote d'ivore]] that this created weapons zones
+- In Nepal, cash can be attractive, but using it in liue of an actual reintegration process does not meet the needs of effective peacebuilding - [[id:B056E87F-E805-4B20-A4AC-7202993AADD3][Subedi - Combatants to Civilians]]
+  - can cause some procyclical effects wrt to gender and subgroups, cash handouts may exaserbate this

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       FFAFC5F8-2EEF-4221-A7E3-8654CBFEDC8F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: syracuse_satellite
+#+TITLE: syracuse (satellite)
+
+Tags: [[id:E85591D5-35FF-4EBA-802B-C8C9B2FD3D3F][satellites]]
+
+- https://en.wikipedia.org/wiki/Syracuse_(satellite)
+
+French military satellite system, used for communication between ships

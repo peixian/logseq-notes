@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       2AE1E1F1-FD4C-406D-8455-CC867CF5AFBF
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: francis_fukuyama
+#+TITLE: francis fukuyama
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]

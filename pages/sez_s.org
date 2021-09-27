@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       B42A6E8B-36C7-484C-97F8-6659322F47B5
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sez_s
+#+TITLE: special economic zones
+
+Tags: [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]]

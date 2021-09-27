@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       BF337BA8-CE57-41D3-89E3-595954E0F7D4
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: stanford_nli_corpus_snli
+#+TITLE: Stanford NLI Corpus (SNLI)
+
+Tags: [[id:D9C1DCB3-C95F-4778-BBA4-59E7AEBFC961][nli]], [[id:A904921D-F574-41FC-B41C-4B6114932AC5][datasets]]
+
+- 550k examples
+- big enough to use NN's without pre-training
+- caption-based

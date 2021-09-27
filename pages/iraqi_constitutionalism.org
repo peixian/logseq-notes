@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       74B098C9-54AD-4255-8680-09D079DC73F9
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: iraqi_constitutionalism
+#+TITLE: iraqi constitutionalism
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]], [[id:CC0EFB92-1661-4A5A-BE0D-46FB07D94241][jurisprudence]]
+
+- Jomana Qaddour
+- Basra as a bellweather for sectarian mobilization
+- Expanding sectarianism beyond 2003
+- Baathist approach to competition of national truths
+  - comparison of writing a monarchist historiography like in [[id:B1E26B6E-6A74-4E81-8A49-B18EF81BFDAE][DiCapua - Gatekeepers of the Arab Past]]?
+- Saddam came to power the same year as the Iran/Saudi conflict started`
+- Ahemd Chalabi's collaboration with the US/UK
+- The weak liberal secular opposition vs strong sectarian
+- Constitutionalism can be looked at in two ways:
+  - Civic rights & protections
+  - Power sharing of institutions
+
+
+* 1970's constitution
+  - Bland
+  - Typical secular dictator language
+* 1979 amendment
+  - Amendment made for Kurdistan, never acted upon
+* Transitional Administrative Law
+  - 25 member council per [[id:025B5FBB-A8D1-4732-AB11-1DABD7BF0001][Dodge - Rethinking Political Identities in Iraq After 2003]]
+  - Not intended as a governing structure
+  - Mentioned fair representation of *some* religious groups
+* Current Constitution
+  - Composition of the committee was debated
+    - Sunni's had boycotted the elections, but the constitutional framers drew from electoral maps
+    - lack of sufficient Sunni repressentation
+    - 2 months to draft
+      - Extension, but americans did not want an extension and shia's did not want an extension
+  - Preamble
+    - Extremely religious in nature
+    - Binds Islam and democracy
+  - Articles about holy shrines
+  - Introduction of personal status courts in order to weaken the judiciary
+    - Experts in Islamic jurisprudence allowed for judiciary
+  - Federalism
+    - Actually provides for construction of additional autonomous zones beyond [[id:0B9FAF9E-0A55-44FE-96CE-D6D382CF6617][iraqi kurdistan]]
+    - Autonomous regions can create embassies
+  - Resources
+    - Talks about current oil fields but is notably silent on future ones
+  - Muhasasa Ta'if system institutionalized in 2006
+  -

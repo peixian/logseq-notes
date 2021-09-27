@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       0A757486-549E-4EB8-8424-08B826F53BDB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: companies
+#+TITLE: companies
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]

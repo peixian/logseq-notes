@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       E2B82F76-33E1-414E-92CF-D9DB06333728
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: parser_combinators
+#+TITLE: parser combinators
+
+Tags: [[id:5B3FA555-7C9B-47B1-A463-983A682072FC][compilers]]
+
+- https://bodil.lol/parser-combinators/
+- https://gist.github.com/chshersh/27844477752359735dfa41ac184d3bf2

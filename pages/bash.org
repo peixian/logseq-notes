@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       ACEE024C-7129-4B3C-B1BB-05514AEDAD22
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: bash
+#+TITLE: bash
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+* If statements
+  #+begin_src sh
+    if [ -v ] # checks for the existance of a variable
+  #+end_src
+
+* Entr
+- https://jvns.ca/blog/2020/06/28/entr/
+* Positional parameters
+- https://wiki.bash-hackers.org/scripting/posparams#setting_positional_parameters

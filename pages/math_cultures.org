@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       92DCA823-FC6C-4DD5-A05F-0A5B2E421765
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: math_cultures
+#+TITLE: math cultures
+
+Tags: [[id:0C55E344-F9AE-4584-B54F-83EC2FCE9062][math]]
+
+- https://www.dpmms.cam.ac.uk/~wtg10/2cultures.pdf

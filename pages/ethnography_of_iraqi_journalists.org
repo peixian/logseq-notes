@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       752043BD-CDD1-4C2C-9F2A-33046D6F1A11
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ethnography_of_iraqi_journalists
+#+title: ethnography of iraqi journalists
+
+- [[id:5C09008D-C61B-4A8E-BB77-9CF0085D90F6][project ideas]]
+- similar to "our women on the ground", but with iraqi journalists
+- iraqi media, kurdish film festival?

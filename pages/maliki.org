@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       2273137A-7246-4B89-A704-252AFCEF2DBA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: maliki
+#+TITLE: maliki
+
+Tags: [[id:BB2783B7-0E6B-4886-8007-EC63A9C67096][islamic jurisprudence]]

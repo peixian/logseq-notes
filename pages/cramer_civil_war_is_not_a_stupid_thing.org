@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       9DBF7DD0-F691-41D8-B55F-C662F21456B8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: cramer_civil_war_is_not_a_stupid_thing
+#+TITLE: Cramer - Civil War is Not a Stupid Thing
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]]

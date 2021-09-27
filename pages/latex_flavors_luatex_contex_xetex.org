@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       E45FD375-A666-421A-A296-02F0AE707BBB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: latex_flavors_luatex_contex_xetex
+#+TITLE: latex flavors (luatex, contex, xetex)
+
+Tags: [[id:78713096-875F-4E7C-A686-7966142183E1][latex]]
+
+- https://tex.stackexchange.com/questions/36/differences-between-luatex-context-and-xetex
+- https://www.overleaf.com/learn/latex/Articles/The_TeX_family_tree:_LaTeX,_pdfTeX,_XeTeX,_LuaTeX_and_ConTeXt
+- https://www.overleaf.com/learn/latex/Articles/What's_in_a_Name:_A_Guide_to_the_Many_Flavours_of_TeX
+- http://www.tug.org/texlive//devsrc/Master/texmf-dist/doc/context/documents/general/manuals/luatex.pdf
+- https://news.ycombinator.com/item?id=25328874

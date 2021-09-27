@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       C7879811-258A-477C-BA5A-23AFDD3C9448
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: libyan_national_army
+#+TITLE: libyan national army (LNA)
+
+Tags: [[id:C21DF9B0-E7E9-44F9-91A2-EEA809BD6293][libya]]

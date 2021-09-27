@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       FE4F63CC-47AD-498E-AF27-B798C3E746BC
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gasch_events_the_dna_of_kubernetes
+#+TITLE: gasch: events, the dna of kubernetes
+
+Tags: [[id:5D4FD56C-329E-4881-AEBC-EFE6DDF0F29D][articles]], [[id:A0A37A5E-A266-46B3-8148-D7A40A5F1F78][kubernetes (k8s)]]
+
+https://www.mgasch.com/post/k8sevents/
+
+Talks about how the Kube API server is the fundalmental broker with multiple replicated logs or queues. Events are causually related, and every [[id:F5441954-B74E-4FF3-BE85-653D7B55AD50][controllers (k8s)]] can be understood to be a producer and/or consumer of events from these logs.
+- ~ListWatch~ in k8s, which lists all events from the API server when the consumer starts, then switches to "watch mode" to reduce the load
+- queue is fundalmentally decoupling both the consumer and producer (with a queue)
+
+
+#+DOWNLOADED: screenshot @ 2020-12-28 21:51:22
+[[file:2020-12-28_21-51-22_screenshot.png]]
+
+No guarentee that things will ever reach the desired state, but it is optimistically trying, which makes controllers stateless even when they handle state operations, and do not require persistency!

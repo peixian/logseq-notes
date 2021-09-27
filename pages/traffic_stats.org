@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2149EE92-6FA5-42F7-8EBA-BFDED70E4D89
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: traffic_stats
+#+TITLE: traffic stats
+
+Tags: [[id:709DC7D9-570A-44E0-B9F9-BBED07AC77C1][data]]
+- https://developers.google.com/maps/documentation/distance-matrix/overview#request-parameters
+- https://www.tomtom.com/products/historical-traffic-stats//
+- https://developers.google.com/maps/documentation/places/web-service/overview

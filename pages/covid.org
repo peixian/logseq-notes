@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       A06959EF-A349-4F8E-B58A-4C8B11A83DAA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: covid
+#+TITLE: covid
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]
+
+* Damascus, [[id:BE234E49-5E49-4054-8308-6EDDCA766FAB][syria]]
+  - https://www.instapaper.com/read/1299358661
+  - /Despite the justification given for this, on grounds of enforcing “social distancing,” I can’t help being reminded of the notion of the urban-rural binary, and the degrading treatment of people from rural areas whenever they pass through the cities./
+  - /Fear of the pandemic prompted Bashar al-Assad to issue a general amnesty for crimes committed before 22 March of this year, but this amnesty did not cover political detainees held in security branches, whom the regime does not recognize at all./
+  - /All forms of purchase and sale are now reminiscent of the black market, or the shadow economy, where things are procured with the secrecy of hashish or narcotics./
+  - /Life goes on as it did before, only now it’s concealed from the authorities and two or three times more expensive./
+
+* Bank of England forecasts a 30% drop in May:
+  - https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2020/may/monetary-policy-report-may-2020
+
+* Iraq 2020, Jun 5th
+  - 9846 confirmed cases (+1006)
+
+  - 285 reported fatalities (+14)
+
+  Iraq appears to be experiencing a spike in COVID-19 cases, with its total caseload having risen from around 4000 on May 22 to almost 10,000 today. Authorities recorded a record number of new cases on Friday.
+
+* Effects
+- https://www.latimes.com/sports/story/2020-08-12/column-bill-plaschke-covid-19-experience
+- Fever, dread

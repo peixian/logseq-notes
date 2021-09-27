@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       46AE072B-7A5E-4A2D-92B9-896284D37C81
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gui
+#+TITLE: gui
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+Shoes ([[id:206381AF-15D3-43FA-9225-591CBBF8B5C1][ruby]]):
+- http://shoesrb.com/
+- easy gui for very simple names

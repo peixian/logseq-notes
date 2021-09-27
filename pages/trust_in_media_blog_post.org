@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       3780F3FF-369B-4C1C-AB2F-5ECFA6F80F66
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: trust_in_media
+#+TITLE: trust in media blog post
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+- https://twitter.com/cd_hooks/status/1340002175607599106
+- caliphate
+  - https://www.jadaliyya.com/Details/42095
+- coinbase
+  - https://www.jadaliyya.com/Details/42095
+- trust of masks
+  - https://aelkus.github.io/problem/2020/03/18/collective
+  - https://aelkus.github.io/theory/2020/12/03/solu.html
+- opinion pages
+  - laundering of journalistic trust
+- https://nymag.com/intelligencer/2020/11/inside-the-new-york-times-heated-reckoning-with-itself.html
+- solutionism in journalistic trust
+- diversity problems
+  - https://twitter.com/Seamus_Malek/status/1340003951811260416
+- tech journalists rehash blog posts or write cultural critques that fail to understand the underlying technology
+  - the expertise gap has become more clear when twitter is your editor
+- https://www.economist.com/books-and-arts/2020/07/16/how-objectivity-in-journalism-became-a-matter-of-opinion
+- content collapse and colliding tech journalism and fueling others together
+
+- [[id:DD278F04-D6E0-4D8D-8865-0F78D7C1D4BE][cbs independent review]]

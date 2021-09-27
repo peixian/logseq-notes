@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       41BF71F5-4E32-44B9-8F37-E02359CB6F89
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ariha
+#+TITLE: ariha
+
+Tags: [[id:BE234E49-5E49-4054-8308-6EDDCA766FAB][syria]]
+
+Syrian town within the Idlib governate, sits at the center of Jisr al-Shughur, Ma'arrat al-Nu'man, Saraqeb, and Idlib

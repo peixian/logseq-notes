@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       8CC291B6-852E-4C7F-947E-08DA7F72C66E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: open_graph_protocol
+#+TITLE: open graph protocol
+
+Tags: [[id:4160986B-AFEE-4D2E-B2EF-264A43A75D91][protocols]]
+
+- https://ogp.me/

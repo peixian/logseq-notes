@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       FA88E208-F69E-4E5C-91A0-2D745AE84BDE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: visualization
+#+TITLE: visualization
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]

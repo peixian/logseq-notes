@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       B06BFC0A-8420-4C6F-ADA8-F47914440848
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: financial_action_task_force_fatf
+#+TITLE: financial action task force (FATF)
+
+Tags: [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]], [[id:785D4B33-E0F1-4EE6-BC8B-E3E00896F430][terrorism]]

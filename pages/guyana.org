@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       8552D132-3A59-46F2-B0E0-ABD680AF1170
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: guyana
+#+TITLE: guyana
+
+Tags: [[id:4716EF6A-B378-4010-B090-41D487EB8B72][africa]]

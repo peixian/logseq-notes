@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       E155DA42-9C5D-45F4-8B03-51B9D88754C5
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: abu_zainab_al_lami_hussein_falal_aziz_al_lami
+#+TITLE: abu zainab al-lami/hussein falal aziz al-lami
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+Part of [[id:F56A8565-CED0-45C2-A53B-B186DF72A1C9][kataib hezbollah (kh)]]

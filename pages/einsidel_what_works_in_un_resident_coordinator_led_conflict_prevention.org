@@ -1,0 +1,68 @@
+:PROPERTIES:
+:ID:       9DB9C208-46E7-46CC-B00B-281D2F16D7C2
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: einsidel_what_works_in_un_resident_coordinator_led_conflict_prevention
+#+TITLE: Einsidel - What Works in UN Resident Coordinator-led Conflict Prevention
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:779E6EF7-2A90-4D3E-A0AE-78B25F1C3FCD][un and global governance lecture 12]]
+
+- Sebastian von Einsiedel, “What Works in UN Resident Coordinator-Led Conflict Prevention: Lessons from the Field.”
+
+- Report attempts to study the success rates of conflict prevention with Resident Coordinators (RC's)
+  - RC's lack an explicit mandate to engage in political activities, and usually come from humanitarian backgrounds
+    - leading to them to be highly deferential to host governments
+
+- there exists a "capacity gap" in RC offices in crisis and post-crisis situations
+- human rights culture has yet to take root among UN officiers, considered "too hard"
+- Sustaining peace report highlighted the responsbilities of RCs to help build inclusive societies, but member countries did not endorse this role
+- One area where HQ actually leads the field, field needs to catch up
+* Case Studies
+- problems with RC's aside, RC preventative action does work, although RC action is not the determining factor
+- finds that RC's must have potential to seize on political opportunities when they arise
+  - tools to seize opportunities
+    - build relationships of trust
+    - maintain impartiality
+    - respect the parameters of nationally-led prevention (keep a low profile)
+    - have something to offer
+    - make the most out of looming elections
+    - if political space is constrained at the national level, go local
+    - protect UN norms
+    - analyze and avoid box-ticking
+    - drive conflict sensitivty and get everyone to agree on the prevention flag
+    - leverage other UN entities (both in HQ and the field)
+** [[id:11559A43-8E9F-4692-887C-3EC48A2C0D35][bolivia]] 2000-2009
+   - 2000s, UNDP helped the government avert political crisis and continue the consitutional dialogue
+   - RC helped with data analysis and gathering
+** [[id:1092BA8C-A5BF-45E3-81C4-2439E032DEBD][colombia]] 2012-2016
+   - RC lead action helped ensure civil society and victim's particpation in the peace process
+   - RC used his previous relationship with High Comissioner for Peace
+   - RC also undertok local-level peacebuilding when the national-level space did not exist
+** [[id:2B2ABD97-6F6B-4578-94F2-71912BC0DED5][guinea]] 2009-2015
+   - RCs worked with [[id:B8A90894-DB21-40D6-BA03-D0CF4F32FEA3][UN Regional Office for West Africa (UNOWA)]] after coup in 2009, helped with risky push of [[id:5C5EF2E8-8CA2-4082-A6DE-933C82F35383][security sector reform (ssr)]]
+   - RC provided support in the women's situation room
+** [[id:8552D132-3A59-46F2-B0E0-ABD680AF1170][guyana]] 2003-2015
+   - helped develop social dialogues in 2003, helped ensure peace during contested elections of 2015
+   - RC used [[id:08546261-BA23-4D88-83F4-B67558ED872C][UNICEF]]'s existing networks
+** [[id:FA6F5293-2FFF-4468-ACCF-A3C3C860AA5C][kenya]] 2008-17
+   - supported local prevention capacities after 2007-08 elections
+   - 2013 - RC personally engaged the newly-elected president directly around cooperation on prevention initatives
+   - RC fundraised in support of peace infrastructure
+   - focused on meaningful prevention as the gov narrowed the political space after 2015
+   - helped build the [[id:A5488635-00C9-42FD-9E8B-A02C90C2B19D][Uwiano Platform for Peace]]
+** [[id:55303653-D9B5-4D81-B6CF-B9537BC39A13][kyrgyzstan]] 2010-2017
+   - Peacebuilding projects helped after the 2010 outbreak of violence
+   - RC used his personal relationship to plant seeds for UN support
+** [[id:78FD4FB2-CEA3-4794-878C-9067B3F1333F][malawi]] 2011-2017
+   - RC positioned himself as a backstopping mechanism for mediation and dialogue effort after 2011 crisis, using the effort led by DPA
+** [[id:BBFDEDEC-51A6-4D99-BD64-F690D1EE8F67][nepal]] 2007-2015
+   - compensated for the departure of [[id:A5272B61-0BB5-4FC1-97DA-45796966CC5D][UN Mission in Nepal (UNMIN)]] in 2011
+   - RC addressed issues towards exclusion and marginalization
+   - built relationship with understanding political dynamics in rural areas
+   - RC made the most out of UNDAFs transition process in 2011 and 2013-2017
+   - DPA was called for backup
+** [[id:B7920589-79CC-4353-A685-8C5DAE0AEAB4][tunisia]] 2011-2017
+   - discrete but important role in the early years of democratic transitions
+   - RC provided technical expertise
+   - engagements of the RC during the [[id:6B7C7B43-5F44-48F1-942E-C86568CC959D][zine el abidine ben ali]] regime provided useful building blocks
+   - RC provided human rights focused assistence during the constitutional drafting process

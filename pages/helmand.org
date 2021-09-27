@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       B7286EAB-C761-4A96-81E4-468132A33BDA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: helmand
+#+TITLE: helmand
+
+Tags: [[id:086B0579-8C85-4CE5-9E65-EB8980FB2C2E][afghanistan]]

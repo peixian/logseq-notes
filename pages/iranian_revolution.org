@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       941C19F9-29FE-45A8-AC7B-2093849F012B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: iranian_revolution
+#+title: iranian revolution
+
+[[id:5E8A9793-6DE6-4E2C-A33B-D85714A3C06C][iran]], [[id:D1946AF3-6885-4AE6-875E-9A682AE37A55][events]]

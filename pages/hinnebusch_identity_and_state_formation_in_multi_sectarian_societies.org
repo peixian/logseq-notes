@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       41916275-B19E-48AF-90C7-EC4C38D7BADA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hinnebusch_identity_and_state_formation_in_multi_sectarian_societies
+#+TITLE: Hinnebusch - Identity and State Formation in Multi‐sectarian Societies
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:9BF599C3-7B0D-4E00-9E42-06CC50D30B17][Nationalism and Outsiders in the Middle East]]
+
+- State formation and identity in MENA are not necessarily co-terminus
+  - Sect and class are not necessarily orthonognal
+- Claims that the westphalian state was unnaturally applied to MENA
+- 3 levels of identity
+  - Supra-state
+    - Islam, Ummah, Pan-Arabism, etc
+  - State level
+    - Nationalism, secularism, etc
+  - Sub-state
+    - Sectarian, tribal, etc
+- Hybrid states with multiple identities can exist for a surprisingly long time
+- In the long run, strong, inclusive states and national identities work in tandem, alongside weak states and sectarianism. But the curve is not linear and has multiple permutations.
+
+* Case of Syria
+  - Intial state formation: 1946-1963
+    - Largely weak oligarchic weak states, but somewhat inclusive, subsumbed state identities
+    - Embraced pan-Arabism
+    - Largely similar lingustic background ([[id:47EF592A-10D4-4923-BE86-E3E03918624D][Anderson - Imagined Communities]]) allowed state formation
+  - Ba'thist state building and identity: 1963-2000
+    - Embraced distintly nationalist identities against Israel
+    - Also embraced low level sectarian identities with Alawis
+      - Still provided for Sunni penetration
+    - Based on cold war patronage lines like [[id:7DD5C017-105C-4E9E-BE3D-0D8A77E849E0][nasser]]
+    - sectarian arithmatic
+      - _The regime thus exploited both supra‐state (Pan‐Arabism) state (Syrian civic nationalism), class, and sectarian identities to legitimize itself._ - pg 150
+
+  - Neoliberal years: 2000-2010
+    - Neolibral reforms reduced capacity for the state to dole out based on sectarian identities
+    - No more patronage lines

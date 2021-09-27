@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       7D815C05-C23B-40CB-807C-27E749C56C27
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: redis
+#+TITLE: redis
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+KV store

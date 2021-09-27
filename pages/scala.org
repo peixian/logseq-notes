@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       EF04E878-C5CD-4CDC-AB77-4CF215733221
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: scala
+#+TITLE: scala
+
+Tags: [[id:5717AC93-7D2F-4E0B-BB2D-FD5C09FE4A9B][programming languages]]

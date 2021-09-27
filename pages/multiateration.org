@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       DC6B892D-6F0C-47C4-A7A7-E307865680A8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: multiateration
+#+TITLE: multiateration
+
+Tags: [[id:107FFA8B-C556-4F32-A032-D0D978F6C615][sdr]]
+- Multilateration is triangulation of airfcraft using a method called Time Difference of Arrival
+- Uses multiple ground stations around a single airport, listening for interrogation signals
+
+#+DOWNLOADED: screenshot @ 2020-05-03 19:19:53
+[[file:2020-05-03_19-19-53_screenshot.png]]
+
+- http://www.multilateration.com/surveillance/multilateration.html
+- https://www.icao.int/APAC/Documents/edocs/cns/mlat_concept.pdf
+- https://flightaware.com/adsb/mlat/

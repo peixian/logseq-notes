@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       3FC2206E-A175-4BCA-8247-60234887BD7D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: travel
+#+TITLE: travel
+
+Tags: [[id:CAFF2018-7C24-402E-9528-464A87D2DC39][personal]]

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       DA4E33C3-6EF1-4CE0-9B04-70314E3F4994
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: leap_smearing
+#+TITLE: leap smearing
+
+Tags: [[id:8121558B-8692-4487-B67E-F9F785D33D97][clocks (distributed systems)]]
+
+https://developers.google.com/time/smear
+- google smears the leap second before and after each leap
+https://googleblog.blogspot.com/2011/09/time-technology-and-leaping-seconds.html
+https://docs.ntpsec.org/latest/leapsmear.html
+https://packetpushers.net/ntp-leap-smearing-what-is-it/
+https://developers.redhat.com/blog/2015/06/01/five-different-ways-handle-leap-seconds-ntp/
+https://xkcd.com/2266/
+Burnicki, “Leap Second Smearing with NTP.”
+
+* Questions
+- do emergency alert systems (EAS) use internet timing?
+- what systems failover to internet timing?
+- what services actually rely directly on gps?
+  - https://ilrs.gsfc.nasa.gov/docs/timing/gpsrole.pdf

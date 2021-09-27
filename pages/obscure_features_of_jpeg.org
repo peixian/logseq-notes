@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       AD9922F6-CD24-422C-801C-163726C35C40
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: obscure_features_of_jpeg
+#+TITLE: obscure features of jpeg
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]], [[id:5D4FD56C-329E-4881-AEBC-EFE6DDF0F29D][articles]]
+
+- https://hodapple.com/blag/posts/2011-11-24-obscure-features-of-jpeg.html
+
+* Progessive JPEGs
+  - contains data in a different order, lets the decoder produce a full-sized image from first chunk of file with low detail, then fill details in as image loads
+  - originally made for web browsers over slow connections
+* Multi-Scan JPEGs
+  - Regular JPEGs are single scan sequential: all data is stored from top to bottom, with colors and coefficients in full
+  - Multi-scan stores this in a separate way, allows JPEGs to be scanned multiple times, each scan loading additional data
+    - Means that first load can show sketch of image, second load can show colors, etc

@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       0802CEEF-A8E9-4A6C-95A2-6F5D38FCBD8A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: marantz_what_do_linguists_do
+#+title: Marantz - What do linguists do?
+
+[[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:AB300662-3E3E-4452-A29D-468522B35C3E][languages/linguistics]]
+
+- Syntax is at the core of generative grammar
+- sentences of a language as a sequence of units that re-occur
+  - can be sounds, roughly represented by words (letters as a semiotic of sounds)
+  - what separates a word salad (sentence with no meaning) and a sentence with meaning?
+  - are human languages finite state languages, aka those generated from finite state grammars? - [[id:9C061A51-C534-41AD-9088-F1BE1E5AAD70][chomsky]]
+    - separators of phrases (commas and words) cannot be replaced without losing meaning, but we can insert additional phrases in between without losing original meaning
+- however, does chomsky operate on only made up sentences? We can infinitely nest variables and sentences, but does this map nicely back to human language?
+  - which lends to a rules based analysis, but we can move beyond the rules based analysis and speakers can produce and understand sentences they haven't heard before
+    - every finite corpus of setnences represents an accidental sampling of utterances
+    - which means the rules can be used to project future sentences
+- do linguists largely predict data they don't have, based on rules they can't verify?
+- computational people vs linguists
+  - "linguistic enterprise is about the knowledge of language that underlies everything that a speaker does with their language"
+  - computational people typically have a very specific use case of language (e.g. parsing a web query)
+- anthropology vs linguistics
+  - what is the relationship between culture and language?
+  - marantz argues that the language itself is a bad lens to analyze culture
+    - for Piraha by Everett, Marantz thinks that culutral constraints cannot explain behavior that strictly adheres to the constraints, a study of cultural constraints requires you to think on the boundaries and what transgresses the constraints
+- argues that lingusits are cognitive neuroscientists, who operate at many levels of abstractions

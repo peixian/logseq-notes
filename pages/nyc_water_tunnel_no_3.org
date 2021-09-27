@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       E1321B55-3AE8-4088-90AD-FC6D13C73906
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: nyc_water_tunnel_no_3
+#+title: nyc water tunnel no 3
+
+[[id:2F72EC47-E94C-49B2-B8AB-AF78AB87F838][nyc]]
+
+Water supply tunnel, largest construction project in NYC history: https://en.wikipedia.org/wiki/New_York_City_Water_Tunnel_No._3

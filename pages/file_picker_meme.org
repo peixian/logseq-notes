@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       8A575A14-C99B-4CBD-AB06-36CB0FCCE2B7
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: file_picker_meme
+#+TITLE: file picker meme
+
+Tags: [[id:8993D4A6-7570-4CB5-8E46-14934EC81AE2][gtk]]
+
+https://wiki.installgentoo.com/wiki/File_Picker_meme

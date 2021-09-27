@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       83D0572A-B773-4E7C-848A-CD60F02D0820
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: counter_insurgency_as_an_infinite_game
+#+TITLE: counter insurgency as an infinite game
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+- War has largely two strategic audiences, exists for the sake of closing the game, both sides seek to reach an ending
+- counter insurgency has groups who seek to prolong the infinite game
+- infinite games as those games with multiple stragetic audiences
+- does this mean one side can play an infinite game and its successful?

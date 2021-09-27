@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       A2422D3E-5CC1-4879-85F1-E5492022CAAA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: blogging_platforms
+#+TITLE: blogging platforms
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+- https://perspect.com/
+- https://blot.im/templates/essay

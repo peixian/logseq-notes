@@ -1,0 +1,224 @@
+:PROPERTIES:
+:ID:       5BDB57E0-F17C-4248-A9A0-4D787F7D67DC
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: iraqi_arabic
+#+TITLE: iraqi arabic
+
+Tags: [[id:EB44CC9B-3027-4BD9-A635-78DA4F61CCCB][arabic]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+
+* Grammar
+** خل + فعل
+   - Let (imperative) + فعل
+   - Example:
+     - Let us go: خل نروح
+     - Let them (f) play: خل يلعبن
+     - Let them (m) sleep: خل ينامون
+     - Let me sit: خل أگعد
+
+** هذا & هدي/هاي
+   - Demonstrative pronouns, used the same way as فصحى
+** محتاج/محتاجة/محتاجين
+   - To need/should
+   - Example:
+     - I should rest: آني محتاج اراح
+     - They need food: هم محتاجين الاكل
+     - She needs information: هي محتاجة معلومات
+** Emphasis with personal الصمائر
+   - Attach the personal pronoun for emphasis
+   - Example:
+     - Where is the book? - وينه الكيتاب
+     - Where is the professor (f)? - وينها الاستاذة
+** چان + فعل مضارع (past modal construction)
+   - States "would have <verb>"
+     - Sometimes will also take a past tense verb
+   - Example:
+     - I would have heard you.
+       - جان أسمعك
+     - You (m.s.) would have heard her.
+       - جان تسمعها
+     - I would have eaten.
+       - جان اكلت
+** اللي
+   - Means who/whoever/whomever/that/which depending on the context
+   - Example:
+     - He who tries will succeed.
+       - اللي هو يحاول راح ينجح
+     - He who sleeps well will work well.
+       - اللي ينام زين راح يشغل رين
+     - The problem he has is that he doesn't do anything.
+       - المشكلة عنده اللي هو ما يسوي اي شي
+** إذا & لو
+   - اذا means "if"
+     - Combines with ما to mean "if not"
+   - لو is a negative "if"
+   - Example:
+     - If you go to the store, I'll go too.
+       - اذا تروح المحل، اني هم راح اروح
+     - If he writes to me, I'll read his letter.
+       - اذا هو يكتب الي، اني راح رسالته
+     - If you send me the homework, I will do it.
+       - اذا تدز واجب بيتي، اني راح اسويه
+** يخبل
+   - Frequently used with راح, means to drive someone crazy
+   - Example:
+     - Haddad is going to drive his father crazy
+       - حداد راح يخبل ابوه
+** معجب ب
+   - Used to express admiration for something or someone, using ب
+   - Example:
+     - I don't admire him.
+       - اني مو معجب به
+     - I'm not very interested in him.
+       - اني مو كلش معتم بيه
+** ما/م/مو
+   - ما - Used with verb or verb like word
+     - ّI didn't eat.
+       - اني ما اكلت
+   - م - Used with verb-like word
+     - It is not necessary.
+       - ملازم
+     - We have no other.
+       - ما عدنا عيره
+   - مو - Used with nouns/pronouns/adj
+     - Not us
+       - مو احنا
+** Special construction of ناس
+   - In colloquial, ناس is almost always treated as a feminine singular word.
+   - Example:
+     - The people rest.
+       - الناس ترتاح
+     - There are people coming from the club.
+       - اكو الناس تجي الملهى
+     - There are people who don't eat meat.
+       - اكو الناش اللي ما تكل الحم
+** حتى
+   Two uses:
+*** حتى
+    - Means so/in order to
+    - Example:
+      - So she doesn't learn
+        - حتى لا تتعلم
+      - So I can sleep
+        - حتى انام
+      - So he can understand
+        - حتى يفتهم
+*** حتى او...ما
+    - Conditional sentence expressing the negative result.
+    - Means "even if...not/no".
+    - Example:
+      - Even if she is still young I do not let her go with you.
+        - حتى لو بعدها زغيرة ما أخليها تجي وياك
+** بعدني
+   - Expression of "still"/until now
+   - Constructed with بعد + personal pronoun
+     - Note that this takes the *verbal* form of the personal pronoun, so "still I" is بعدني
+   - Example:
+     - Fadi? He is still at work.
+       - فعدي؟ هو بعده بالشتعل
+     - My mother is still sleeping.
+       - امي بعدها تنام
+     - I am still hungry (f).
+       - اني بعدني جوعنة
+** Verb Conjugation Tables
+*** Double & Weak
+    - Double verbs
+      - جذر عنده two letters
+    - Weak
+      - جذر عنده vowel
+    - Table:
+      | Person | Gender | Ending |
+      |--------+--------+--------|
+      | 1st    | M/F    | يت-    |
+      | 2st    | M      | يت-    |
+      | 2nd    | F      | تي-    |
+      | 3rd    | M      | N/A    |
+      | 3rd    | F      | تن-    |
+      | 1st pl | M/F    | ينا-   |
+      | 2nd pl | M      | يتو-   |
+      | 2rd pl | F      | تن-    |
+      | 3rd pl | M      | و-     |
+      | 3rd pl | F      | ن-     |
+
+
+* Phrases
+** الله بالخير
+  - God bless
+** شكو ماكو
+  - What's up?
+** علع كيف + الصمائر
+  - As someone likes; take it easy with
+  - Example:
+    - علع كيفي - As I like
+    - علع كيفك بالسيارة - Take it (you, M) easy with the driving
+** هاي وين + الصمائر
+  - Where have (you) been?
+  - Example:
+    - اي وين همه/ هاي وينهم - Where have they been?
+** لا غالي ولا رحيص
+   - Neither expensive nor cheap
+   - Example:
+     - السيارة لا غالي ولا رحيص - The car is neither expensive nor cheap
+** لا شيش ولا كباب
+   - Not bad/okay/so-so (lit /neither the skewer nor the meat/)
+   - Example:
+     - الاكل لا شيش ولا كباب - The food is okay
+** شمدري + الصمائر
+   - How does (pronoun) know?
+   - Example:
+     - شمدريه آني جوعان - How does he know I am hungry?
+** الله يخلي + الصمائر
+   - May god preserve/keep
+   - Sometimes used as /please/
+   - Example:
+     - الله يخليك، وين التكسي؟ - Please, where is the taxi?
+** يا الله
+   - Said when someone is about to begin something
+** بلله
+   - Is it so? Is it true? Please
+   - Example:
+     - الفندق درجة اولة - The hotel is first class
+     - بلله؟ - Really?
+     - بلله فد جكارة - Would you give me a cig?
+** مو بلله؟
+   - Isn't it so? Isn't it?
+   - Example:
+     - الغرق بلد قديم، مو بلله؟ - Iraq is an ancient country, isn't it?
+** علع عيني، علع راسي
+   - With pleasure (lit /on my head/ or /on my eye/)
+   - Example:
+     - علع عيني، اصعد بالسيارة - With pleasure, get in the car
+** علع فكرة
+   - By the way
+   - Example:
+     - علع فكرة شلونه المطعم؟ - By the way, how was the resturant?
+** علع كل حال
+   - In any case, anyway
+   - Example:
+     - علع كل حل هو راح يزوح للعرق - Anyways, he will go to Iraq
+** شعبل + الصمائر
+   - What did you think?
+   - Example:
+     - شعبلك، الاكل مو زين؟ - What did you think, the food was not good?
+** ماشي الحال
+   - Okay, not bad (lit /the condition is walking/)
+   - Example:
+     - شلوم الشغل؟ - How is the work?
+     - ماشي الحال - Okay
+** دير بال + الصمائر
+   - Take care, watch out, give attention to
+   - Example:
+     - دير بالك درستك - Give attention to your study!
+     - ديري بالچ من لسيارة - Watch out for the car!
+** عاش من شاف + الصمائر
+   - It has been a long time (lit /lived he who saw you/)
+   - Example:
+     - هاي وين؟ عاش من شافك - Where have you been? It has been a long time since I saw you.
+** الخاطر
+   - For someone's sake
+   - Example:
+     - الخاطري، روح للعرق - For my sake, go to Iraq
+     - الخاطر بسمة، اكل - For Basma's sake, eat.
+* Tools
+- https://lingualism.com/product-tag/iraqi-arabic/

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       5D540E1E-8584-4888-9289-708E79CCE987
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: porting_jits_to_apple_silicon
+#+TITLE: porting jits to apple silicon
+
+Tags: [[id:E0C0F234-1659-42AB-8C30-D1926315531D][jit]]
+
+https://developer.apple.com/documentation/apple-silicon/porting-just-in-time-compilers-to-apple-silicon

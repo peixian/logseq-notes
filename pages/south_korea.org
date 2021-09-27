@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       91F14011-04E8-4862-BCDC-17DB96B965F5
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: south_korea
+#+TITLE: south korea
+
+Tags: [[id:AD9C4325-95C2-4DBC-83A0-5081D68D60D3][east asia]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       C1D6FB27-F122-45DF-84F2-6ABDF4DE1160
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ibn_al_hajj
+#+TITLE: ibn al-hajj
+
+Tags: [[id:BB2783B7-0E6B-4886-8007-EC63A9C67096][islamic jurisprudence]]
+
+- percieves women as out of control
+- isolated, misanthropic polemist

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       92A9632F-D9D1-466A-893A-4B17E76E3A5F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: patriotic_union_of_kurdistan_puk
+#+TITLE: patriotic union of kurdistan (PUK)
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+Started by Ibrahim Ahmad and Jalal Talabani

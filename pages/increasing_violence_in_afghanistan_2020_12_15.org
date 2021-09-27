@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       30EB5A8E-6BFB-4AB4-8B74-1BB6F63A0A22
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: increasing_violence_in_afghanistan_2020_12_15
+#+TITLE: increasing violence in afghanistan - 2020-12-15
+
+Tags: [[id:086B0579-8C85-4CE5-9E65-EB8980FB2C2E][afghanistan]]
+
+- https://www.instapaper.com/read/1369807124
+- https://www.instapaper.com/read/1370244169
+- https://www.instapaper.com/read/1368945228
+
+- Taliban continue to be more responsible for deaths of civs
+- Abdul Rashid Dostom (https://www.youtube.com/watch?v=E7LLPc8nXyw) and Atta MOhammad Noor (https://www.youtube.com/watch?v=--U4TvfuIvs) have gone back to their consitituancies in the northern front
+- [[id:6B209564-9A50-44CB-88EA-4A076E563850][taliban]] continue to kill the intellectual class in [[id:049F2D6F-3F05-4F82-8145-A5183790BE16][kabul]]

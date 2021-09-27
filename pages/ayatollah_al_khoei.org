@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       9E8E5375-3849-407C-B376-BA758FE8033C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ayatollah_al_khoei
+#+TITLE: Ayatollah al-Khoei
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

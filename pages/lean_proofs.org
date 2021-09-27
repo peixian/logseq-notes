@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       8FE4538B-6118-435E-B079-DCE74DC3BD72
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: lean_proofs
+#+TITLE: lean (proofs)
+
+Tags: [[id:3BD7F49F-4FF5-4576-82A1-BD28421BCB38][mechanized proofs]]
+
+- https://xenaproject.wordpress.com/what-is-the-xena-project/

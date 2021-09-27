@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       BFB9D472-3D12-4C6A-97CF-9942D540F45A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: tim_mitchell_carbon_democracy_oil_and_uso
+#+TITLE: tim mitchell, carbon democracy, oil, and USO
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+Carbon democracy -> oil infrastructure made it st that democracy was less likely to form
+
+I disagree, this is at play with how people want USO to be a permanent oil fund, but it';s never going to be that

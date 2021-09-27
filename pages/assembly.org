@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       208AC046-90BF-4A74-9098-B04DA08090C1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: assembly
+#+TITLE: assembly
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]

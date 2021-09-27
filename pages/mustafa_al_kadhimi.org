@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       7779E66E-E701-4A65-9B99-39ABC78B543B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: mustafa_al_kadhimi
+#+TITLE: mustafa al-kadhimi
+
+Tags: [[id:4F59D34B-7839-4FA8-A61F-97BCE0E62359][iraqi prime minister]]

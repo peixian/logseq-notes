@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       206381AF-15D3-43FA-9225-591CBBF8B5C1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ruby
+#+TITLE: ruby
+
+Tags: [[id:5717AC93-7D2F-4E0B-BB2D-FD5C09FE4A9B][programming languages]]

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       98B3D252-482B-4B5C-BDB1-B6F03CDE3282
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gulf_cooperation_council
+#+TITLE: gulf cooperation council
+
+Tags: [[id:C61C3FE4-06C6-4621-818B-503E36E83B7C][middle east]]

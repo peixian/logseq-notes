@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       9A4127A0-2EA8-46B9-A0C2-DA6BB24B1405
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: k_v_stores
+#+TITLE: k/v stores
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       E9343736-371F-418E-BC47-52A88B1DF0EF
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: thomas_kuhn
+#+TITLE: thomas kuhn
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:A75E8675-6FA2-427F-AC64-64D3F4DEE1F1][philosophy of science]]
+
+https://en.wikipedia.org/wiki/Thomas_Kuhn

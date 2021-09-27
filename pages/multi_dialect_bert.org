@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       55A7ACA5-FCF0-47A7-8BCC-26B9951A58A5
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: multi_dialect_bert
+#+TITLE: multi-dialect bert
+
+Tags: [[id:ED6F69D5-4336-4042-B0E5-EC5707F22838][arabic nlp]], [[id:B23DDBD4-476A-4518-97B2-F433192A023D][bert]]
+
+- https://huggingface.co/bashar-talafha/multi-dialect-bert-base-arabic?text=%D8%A8%D8%A7%D8%B1%D9%8A%D8%B3+%5BMASK%5D+%D9%81%D8%B1%D9%86%D8%B3%D8%A7.

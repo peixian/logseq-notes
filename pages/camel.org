@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       AC9BF5A5-C99B-481B-A568-628477C1B76C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: camel
+#+TITLE: camel
+
+Tags: [[id:ED6F69D5-4336-4042-B0E5-EC5707F22838][arabic nlp]]
+
+https://colab.research.google.com/drive/1Y3qCbD6Gw1KEw-lixQx1rI6WlyWnrnDS?usp=sharing#scrollTo=xsR9wuFT088o

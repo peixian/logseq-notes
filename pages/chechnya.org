@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       A521DD88-B1E7-4D84-AE55-C30C08C15A7E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: chechnya
+#+TITLE: chechnya
+
+Tags: [[id:C61C3FE4-06C6-4621-818B-503E36E83B7C][middle east]]
+
+- https://www.upenn.edu/pennpress/book/14325.html

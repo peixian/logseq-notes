@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       882926F2-3AC6-4278-BE2E-212571EEA7FC
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: isa
+#+TITLE: isa
+
+Tags: [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]]
+
+- https://www.instapaper.com/read/1362424487
+- https://careerkarma.com/[[blog/income-share-agreement-market-report-2019/#question_1
+  - from market research firm
+- https://blog.edly.info/news/state-of-the-isa-market-2019-full-report
+
+* purdue's isa
+- https://www.purdue.edu/dfa/types-of-aid/income-share-agreement/index.html
+- https://www.purdue.edu/backaboiler/FAQ/index.html
+
+* senate bill 2114 of 116th congress
+  - cosponored by chris coons, mark rubio, and mark warner

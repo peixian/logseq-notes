@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       E2A5179E-190B-4A55-A89B-A2A9A32E4202
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: kataib_jund_al_imam
+#+TITLE: kataib jund al-imam (brigade 6)
+
+Tags: [[id:ADFAE0CB-D584-4CE9-9965-4E76C474546E][hashd al-shaabi (PMF)]], [[id:C403589A-21CC-411A-A58E-1C2FDC31F72C][brigades]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       2A8E9A56-3F73-4BBB-9E52-E397B5F24AE0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: website_design_ideas
+#+TITLE: website design ideas
+
+Tags: [[id:CAFF2018-7C24-402E-9528-464A87D2DC39][personal]]
+
+- https://okomestudio.net/#/
+  - Simple, small
+- https://hypha.coop/
+  - Retro, bold
+- https://www.redclawtech.com/
+  - Clear, to the point
+- https://nodesign.dev

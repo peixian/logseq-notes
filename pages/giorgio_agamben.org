@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       A949047F-19D9-46E8-ACE5-1B4C7A7558D8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: giorgio_agamben
+#+TITLE: giorgio agamben
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]
+
+Wrote homo sacer

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       FAE465DE-69DC-4461-B045-01696CAAEAB5
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: uniformed_capabilities_support_division_ucsd
+#+TITLE: uniformed capabilities support division (UCSD)
+
+Tags: [[id:7C05085A-564D-4186-B4E7-AD9DC612310A][un]]
+
+- https://operationalsupport.un.org/en/uniformed-capabilities

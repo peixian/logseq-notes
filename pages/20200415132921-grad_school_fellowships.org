@@ -1,0 +1,61 @@
+:PROPERTIES:
+:ID:       DEA6716B-1D34-41C0-9230-640537AC2B68
+:END:
+#+TITLE: grad school fellowships
+
+Tags: [[id:08700B30-6476-438A-A1CB-8452DB3DEA4F][grad school]]
+
+| Name                | Type     | Requirements           | Link                                               |
+|---------------------+----------+------------------------+----------------------------------------------------|
+| Boren Fellowship    | Language | Matriculated           | https://www.borenawards.org/eligible-programs      |
+| CIS                 | Language | Matriculated           | https://clscholarship.org/                         |
+| New York State      | ?        | ?                      | www.hesc.org                                       |
+| Soros Fellowship    | Full     | Matriculated full time | https://www.pdsoros.org/                           |
+| Davis Putter        | ?        | ?                      | https://davisputter.org/apply-for-scholarships/    |
+| Overseas Press Club | ?        | Matriculated           | https://overseaspressclubfoundation.org/apply.html |
+| Dolores Zohrab      |          |                        | http://fdnweb.org/liebmann/                                                   |
+* Search Engines:
+- https://www.iefa.org
+- https://grad.uchicago.edu/fellowships/
+
+* Strict Fellowships
+- Minority Fellowship - March 13 - https://www.apsanet.org/mfp
+- Guggenheim Research Grant - August 1 - http://hfg.org/rg/guidelines.htm
+- ASA Science Policy Fellowship - September - https://ww2.amstat.org/policy/fellowship.cfm
+- Soros Fellowship - April 11 - https://www.pdsoros.org/apply/eligibility
+- Boren Fellowships - Jan 29 - https://www.borenawards.org/eligible-programs
+- CLS Language Scholarship - Fall - https://clscholarship.org/
+- NEH Fellowship - April - https://www.neh.gov/grants/research/fellowships
+- Third Way Fellow (internship not research) - March - https://www.thirdway.org/about/fellows-program/national-security-fellow
+- Point Fellowship - Jan 27 - https://pointfoundation.org/point-apply/apply-now/
+- Tobin Project (doctorate desired) - Feb - http://tobinproject.org/community/graduate-students/forum-fellowship-program
+- Mathematica (doctoral students) - Feb - https://www.mathematica.org/career-opportunities/summer-fellowships
+- Institute of Turkish Studies - March 29 - http://www.turkishstudies.org/grants/grants_competition.shtml
+- Rangel Fellowship - Jan - March - http://rangelprogram.org/
+- Center on Budget and Policy Priorities - Feb 10 - https://www.cbpp.org/careers/state-policy-fellowship-program
+- ARIT Summer Fellowships for Advanced Turkish Language Study - Feb - http://ccat.sas.upenn.edu/ARIT/ARITSummerLanguageProgram.html
+- American Institute for Maghrib Studies - Jan 31 - http://aimsnorthafrica.org/long-and-short-term-grants/
+- American Institute for Yemen Studies - Feb - https://www.aiys.org/fellowships
+- Council of American Overseas Research Centers in Jordan - Feb - https://www.acorjordan.org/caorc-fellowships/
+- Davis Fellows for Peace (language studies) - Dec 15 - https://www.middlebury.edu/language-schools/funding/fellowships-scholarships/davis
+- IREX Individual Advanced Research Opportunities - Nov 14 - https://www.iefa.org/scholarships/2123/Individual_Advanced_Research_Opportunities_(IARO)
+- Institute of Current World Affairs (non-school, writing) - June 15 - https://www.icwa.org/apply/
+- Gerald E. and Corinne L. Parsons Fund Award - Spring - https://www.loc.gov/item/internships/gerald-e-and-corinne-l-parsons-fund-award/
+- Academic Year FLAS - Feb 10 - https://grad.uchicago.edu/fellowship/foreign-language-area-studies-flas-summer-and-academic-year-fellowships/
+- Summer FLAS - Feb 10 - https://grad.uchicago.edu/fellowship/foreign-language-area-studies-flas-summer-and-academic-year-fellowships/
+- GSAS Global Disseration - September - https://gsas.nyu.edu/financial-support/fellowships/nyu-global-dissertation-fellowships.html
+- Fulbright US Student - August - https://gsas.nyu.edu/financial-support/fellowships/fulbright.html
+- Fulbright-Hays (Disseration only) - Feb 4 - https://gsas.nyu.edu/financial-support/fellowships/fulbright-hays.html
+- IDRF - ??? - https://www.ssrc.org/fellowships/view/idrf-fellowship/
+- Henry Luce (might not qualify) - September - https://www.nyu.edu/academics/awards-and-highlights/global-awards/scholarships/henry-luce-foundation.html
+- GRI Research - ??? - https://www.nyu.edu/research/provosts-global-research-initiatives/research-centers-faculty-graduate-students.html
+- Alpine Fellowship - April - https://gsas.nyu.edu/financial-support/fellowships/Alpine.html
+- DAAD - ??? - https://www.daad.org/en/find-funding/graduate-opportunities/research-grants/short-term-research-grants/
+- Polonsky Foundation - Feb - https://gsas.nyu.edu/financial-support/fellowships/gsas-summer-fellowships-and-graduation-prizes.html
+- https://apps.grad.illinois.edu/fellowship-finder/index.cfm?action=main.fellowship&fid=3304
+#+SETUPFILE:./hugo_setup.org
+
+* Other Places
+- https://data61.csiro.au/
+- https://www.ssrc.org/about/employment/?gh_jid=4973773002
+- kevo research grant

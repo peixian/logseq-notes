@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       FC27A8BF-DD03-4D36-8F67-2AFC76EC237F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: haskell
+#+TITLE: haskell
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+https://kowainik.github.io/posts/haskell-mini-patterns

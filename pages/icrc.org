@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       315B9DE9-4F12-4E1F-8AB7-E2F9AF46B984
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: icrc
+#+TITLE: icrc
+
+Tags: [[id:7FEA6B9D-8C21-4614-8F22-38F3D514D378][ngo]]
+
+- Usage of symbols: https://www.redcross.ca/about-us/about-the-canadian-red-cross/red-cross-emblem/it-may-just-be-a-game-to-you-but-it-means-the-world-to-us

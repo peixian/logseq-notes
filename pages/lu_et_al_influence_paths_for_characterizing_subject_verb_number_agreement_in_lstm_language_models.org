@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       615CE034-8E44-4819-BC27-BAB80EAAEC1C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: lu_et_al_influence_paths_for_characterizing_subject_verb_number_agreement_in_lstm_language_models
+#+TITLE: Lu et al: Influence Paths for Characterizing Subject-Verb Number Agreement in LSTM Language Models
+
+Tags: [[id:48350662-53E9-4A91-9ADB-2BC9DFEA6098][nlp]], [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]
+
+Finds that there is a structure they call "influence paths", that exists between gates in a LSTM that incorporates how different words relate to one another, such as the number agreement task

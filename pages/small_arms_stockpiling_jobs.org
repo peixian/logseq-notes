@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       FAB036E6-1103-4F89-9B41-A10C5174E425
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: small_arms_stockpiling_jobs
+#+TITLE: small arms stockpiling jobs
+
+Tags: [[id:946126FC-70D3-4747-A947-2D4562E06714][small arms stockpiling]]
+
+- https://www.maginternational.org/work-for-us/regional-procurement-and-logistics-manager-middle-/
+- related to [[id:6C666973-1344-483A-ACC8-403CA1BE29E4][supply chain management]]

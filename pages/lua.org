@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       45EA2DA1-E0FF-4521-9C10-550EAAB128A3
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: lua
+#+TITLE: lua
+
+Tags: [[id:5717AC93-7D2F-4E0B-BB2D-FD5C09FE4A9B][programming languages]]

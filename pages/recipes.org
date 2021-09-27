@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       E7423FFE-5218-4A71-9066-84AA15E75715
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: recipes
+#+TITLE: recipes
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]
+
+* Mushrooms
+- https://cafedelites.com/roasted-mushrooms/

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       70B2DCDC-44C4-494F-931F-C57727ABDA27
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: structural_adjustment_and_neoliberalism
+#+TITLE: structural adjustment and neoliberalism
+
+Tags: [[id:FAD07E42-4924-452A-A438-6F6DADFAD1BE][problems and methods]], [[id:85CCE0EB-E358-4A63-A947-423CF92D79A2][economics]]
+
+Neoliberalism and neoliberalization are two topics that barely need introduction. Neoliberal policies affect everday lives of most people across the world. Neoliberalization the process, broadly identified to be coincident with the rise of the Bretton Woods institutions and the dominance of a globalized financial system, has faced dramatic upheaval since the fall of the Soviet Union. No introduction to these topics is possible without mentioning Francis Fukyama's "The End of History?" and John Williamson's "The Washington Consensus". But these are two different things, neoliberalism is comprised of ideas, while neoliberalization is comprised of policies. As a result, neoliberalism is hard to pin down, while neoliberalization is far easier to see.
+
+Here, we will attempt to define neoliberalism through an examination of the neoliberization policies of Iran. Iran presents an unique lens to understand neoliberalism due to its position relative to the United States and Europe, the two key drivers of the post-Cold War neoliberal consensus.
+
+When Fukyama wrote "The End of History", he lived at the apogee of neoliberal triumpalism. With the fall of the Soviet Union consigning the model of planned economies into dust, neoliberal policies developed two decades prior were left, or as Margaret Thatcher put it, "There is no alternative".
+
+The Reagan/Thatcher era policies, continued through successive administrations, pioneered the Washington Consensus. Privitization of national resources combined with deregulation became the leading export of Washington and London to the Global South. Helmed by international organizations such as the International Monetary Fund (who is always de facto lead by an European) and the World Bank (whose president is de facto an American), these policies cohered under the umbrella of "structural adjustment", or demanding states privitize and deregulate in exchange for loans and technical support.

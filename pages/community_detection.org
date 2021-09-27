@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       6327B337-4ECF-499F-853A-9D94F8650975
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: community_detection
+#+TITLE: community detection
+
+Tags: [[id:F2643E37-CED2-492A-A77C-B632F3D203FD][statistics]]
+
+- https://arxiv.org/abs/0906.0612

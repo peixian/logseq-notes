@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       7DE37C90-1434-47F4-9997-43203812F886
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: katharopoulos_transformers_are_rnns_fast_autoregressive_transformers_with_linear_attention
+#+title: Katharopoulos: Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention
+
+[[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:51BC9BEA-4F6D-4438-87F8-F6322BA475A3][transformers]]
+
+- Katharopoulos, Angelos, Apoorv Vyas, Nikolaos Pappas, and François Fleuret. “Transformers Are RNNs: Fast Autoregressive Transformers with Linear Attention.” ArXiv:2006.16236 [Cs, Stat], August 31, 2020. http://arxiv.org/abs/2006.16236.
+
+
+- Expressing the self-attention as a linear dot-product of kernel feature maps to make the transformer linear time

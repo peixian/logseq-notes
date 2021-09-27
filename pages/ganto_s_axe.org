@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       ABC3C94A-8096-450B-A772-F95F1E7CE206
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ganto_s_axe
+#+TITLE: ganto's axe
+
+Tags: [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]]
+
+#+begin_quote
+One day Tokusan told his student Ganto, I have two monks who have been here for many years. Go and examine them. Ganto picked up an axe and went to the hut where the two monks were meditating. He raised the axe, saying, If you say a word I will cut off your heads; and if you do not say a word, I will also cut off your heads.
+
+Both monks continued their meditation as if he had not spoken. Ganto dropped the axe and said, You are true Zen students. He returned to Tokusan and related the incident. I see your side well, Tokusan agreed, but tell me, how is their side? “Tozan may admit them, replied Ganto, but they should not be admitted under Tokusan.
+#+end_quote
+
+Rejection of both, acceptance of empty set, does this imply the acceptance of self-swallowing sets?

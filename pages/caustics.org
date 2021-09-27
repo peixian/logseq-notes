@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ADD4ED4B-CA91-4FBE-9751-DFC65B5C8A02
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: caustics
+#+TITLE: caustics
+
+Tags: [[id:0C55E344-F9AE-4584-B54F-83EC2FCE9062][math]]
+
+- https://lgg.epfl.ch/publications/2012/caustics/ArchitecturalCaustics_AAG.pdf
+- Renderer: http://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2

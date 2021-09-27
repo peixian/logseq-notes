@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       DD278F04-D6E0-4D8D-8865-0F78D7C1D4BE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: cbs_independent_review
+#+TITLE: cbs independent review
+
+Tags: [[id:C085FBC2-864E-4792-A849-ED3BE48BBA2B][news]]
+
+- http://wwwimage.cbsnews.com/htdocs/pdf/complete_report/CBS_Report.pdf

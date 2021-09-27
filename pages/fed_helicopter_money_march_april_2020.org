@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       69C7738B-FFEB-4043-A091-A891D4E78876
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: fed_helicopter_money_march_april_2020
+#+TITLE: fed helicopter money march-april 2020
+
+Tags: [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]]
+
+- FED QE has dramatically slowed down since 2nd week of March
+- Same QE playblock as before, front load the bailout and cut back asset purchases
+  #+DOWNLOADED: screenshot @ 2020-05-10 09:48:22
+  [[file:2020-05-10_09-48-22_screenshot.png]]
+
+
+** MBS
+   - Balance of MBS's have actually fallen
+     - https://www.newyorkfed.org/markets/ambs/transaction-summary
+   - MBS's take weeks to actually settle
+     - Why?
+   - Boom in mortagage refinancing
+     - https://wolfstreet.com/2020/04/29/mortgage-forbearance-balloons-home-sales-plunge/
+
+** REPO
+   - Repo purchases have stalled, big REPO ops are being leftover from a few weeks ago
+
+** SPV (special purchase vehicles)
+   - Technically gets around limits imposed by the Federal Reserve Act [[id:6A6D5789-4F65-48F0-8710-6937412D5F70][FED Powers]]
+   - Remained steady at ~162 b
+   - Composed of:
+     - Primary credit
+     - Secondary Credit
+     - Seasonal Credit
+     - Primary Dealer credit
+     - Money Market Mutual Fund
+     - Paycheck Protection Program
+
+*** Central Bank Repos
+    - BoJ largest user
+      - 49%
+      - 214 bil
+    - ECB second biggest
+      - 32%
+      - 142 bil
+    - 7 days or 84 day maturities
+        -

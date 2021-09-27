@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       3D7F6932-51DB-425B-8EAE-E81E5E1539F9
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: declaration_of_the_shia_in_iraq
+#+TITLE: declaration of the shia in iraq
+
+Tags: [[id:D1946AF3-6885-4AE6-875E-9A682AE37A55][events]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+- https://al-bab.com/documents-section/declaration-shia-iraq
+
+paper describing who and who isn't the shia

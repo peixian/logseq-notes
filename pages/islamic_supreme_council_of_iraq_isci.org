@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       5DDB8727-70BF-4781-8C52-97EB33E79558
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: islamic_supreme_council_of_iraq_isci
+#+TITLE: islamic supreme council of iraq (isci)
+
+Tags: [[id:5E8F7C5C-9300-41D5-A90C-8E7A4235E584][iraqi political parties]], [[id:A0834C86-F136-4F49-8139-77B077E65FBC][iraqi shia]]
+
+Friendly with [[id:F56A8565-CED0-45C2-A53B-B186DF72A1C9][kataib hezbollah (kh)]] and [[id:C95CCC60-FDB5-470E-BFEE-80BD88A1EB6E][harakat hezbollah al-nujaba]], affilated with [[id:DA59FDA7-A1B8-4BB1-8592-C9EB9014CF5C][fatah (political party)]]
+
+Previously known as Supreme Council for the Islamic Revolution in Iraq, SCIRI
+
+Former military wing was [[id:BC40CBC8-81AC-4CFD-8121-7419EC9CB63B][badr]] corps
+
+Predominatant shia party until the rise of [[id:551974DA-A83D-409F-8426-61DE3A40D43F][nouri al-maliki]]

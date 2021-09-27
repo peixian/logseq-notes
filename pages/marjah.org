@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       C21AB214-8835-4964-9B2A-22832BF0BB2C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: marjah
+#+TITLE: marjah
+
+Tags: [[id:B7286EAB-C761-4A96-81E4-468132A33BDA][helmand]]

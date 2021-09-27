@@ -1,0 +1,88 @@
+:PROPERTIES:
+:ID:       5E8F7C5C-9300-41D5-A90C-8E7A4235E584
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: iraqi_political_parties
+#+TITLE: iraqi political parties
+
+Tags: [[id:892AA907-7AC7-416C-9E42-21B70840A14F][iraqi parliment]]
+
+* 2019 Legislative results
+** al-Tahaluf Minaj al-Dimuqratyiat wa al-Eadala (Alliance for Democracy and Justice)
+   - 2 seats
+** al-Anbar Huiatna (Anbar is Our Identity)
+   - 6 seats
+** al-Tahaluf al-Arabiyu fi Kirkuk (Arab Coalition of Kirkuk)
+   - 3 seats
+** Tajmae Rijal al-Iraq (Assembly of the Men of Iraq)
+   - 1 seat
+** Harakat Babylon (Babylon Movement)
+   - 2 seats
+** al-Tahaluf Baghdad (Baghdad Alliance)
+   - 4 seats
+** al-Majlis al-Shaabi al-Kildania al-Ushuri as-Suriania (Chaldean Syriac Assyrian Popular Council)
+   - 0 seats
+** al-Tahaluf al-Kuldan (Chaldean Coalition)
+   - 1 seat
+** al-Majlis al-Kuldaniu al-Surianiu al-Ashuriu (Chaldean Syriac Assyrian Council)
+   - 1 seat
+** al-Taghiu (Change)
+   - 0 seats
+** al-Hizb al-Mudabu (Civic Party)
+   - 1 party
+** Tamdun (Civilisation)
+   - 0 seats
+** al-Tahaluf al-Madaniu al-Dimuqratiya (Civil Democratic Coalition)
+   - 1 seat
+** al-Tahaluf al-Qarar al-Iraqi (Coalition of Iraqi Decision)
+   - 14 seats
+** al-Tahaluf al-Rafidayn (Coalition of Mesopotamia)
+   - 1 seat
+** al-Tilaf Kaffa'at Liltaghyir (Coalition of Competencies for Change)
+   - 2 seats
+** al-Tahaluf al-Fateh (Conquest Alliance)
+   - 47 seats
+   - lead by Hadi al-Amiri and includes parties previously in state of law
+** al-Nahj al-Dimuqrayt (Democratic Approach)
+   - 1 seat
+** al-Jamaeat al-Islamiya al-Kurdistan (Kurdistan Islamic Group)
+   - 2 seats
+** al-Itihad al-Islamiya al-Kurdistan (Kurdistan Islamic Union)
+   - 2 seats
+** al-Hizb al-Dimuqratiya al-Kurdistan (Kurdistan Democratic Party)
+   - 25 seats
+** al-Kurdistan al-Itihad al-Wat (Kurdistan Patriotic Union)
+   - 18 seats
+** Sayirun (Forward)
+   - 54 seats
+   - [[id:749D4B05-ADD6-4608-B99B-AD6FD0C6BC07][Muqtada al-Sadr]]'s party
+** Harakat Irada (Movement of the Will)
+   - 3 seats
+** al-Litaf al-Watania (National Coalition)
+   - 21 seats
+   - Ayad Allawi's party, called the Iraqi National Alliance in 2014
+** al-Litaf al-Qaleat al-Watania (National Fortress Coalition)
+   - 3 seats
+** al-Hizb al-Jamahiah al-Watania (National Party of the Masses)
+   - 0 seats
+** Harak al-Jil al-Jadid (New Generation Movement)
+   - 4 seats
+** Ninawa Huitana (Nineveh is Our Identity)
+   - 3 seats
+** Tayar al-Hikmat al-Wataniu (National Wisdom Movement)
+   - 19 seats
+   - successor to the Ammar al-Hakim's Citizen Alliance Party
+** Salah-ad-Din Huiatna (Saladin is Our Identity)
+   - 1 seat
+** al-Litaf Dawlat al-Qanun (State of Law Coalition)
+   - 25 seats
+   - Dawa's, Maliki's party
+** Eabirun (The Passing)
+   - 2 seats
+** Jabhat Turkoman Kirkuk (Turkoman Front of Kirkuk)
+   - 0 seats
+** al-Litaf al-Nasr (Victory Coalition)
+   - 42 seats
+   - Haider al-Abadi's party
+** al-Hizb al-Taqadum al-Yazidi (Yazidi Progress Party)
+   - ?

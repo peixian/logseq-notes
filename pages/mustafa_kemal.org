@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       56E74CD3-17D3-467F-A8CD-A8C3B8563573
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: mustafa_kemal
+#+TITLE: mustafa kemal
+
+Tags: [[id:FAC6D0F0-7797-4330-B988-37260A98CBC1][turkey]]

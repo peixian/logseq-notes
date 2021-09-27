@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       656F5351-43B5-4F7B-9DBF-50FEBFF23C18
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: un_and_global_governance_lecture_11
+#+TITLE: un and global governance lecture 11
+
+Tags: [[id:6377293C-2556-4797-9A2B-FED088E549BA][UN and Global Governance]]
+
+* Anou Borrey - Somalia
+  - governance and peacebuilding of international settings
+  - IO's do not hold the solutions!
+    - [[id:EA3D0FA6-D3E6-4497-8C42-C082F27653FC][UNSCR 1325]]
+    - noticing that 1325 is insufficient
+  - requires us to move beyond the checklist problems
+    - can we think through rules of law without aggressive policing?
+  - [[id:C8C5D0B0-C8FD-437B-AC1C-8CAD30C7D9CB][rwanda]] - women outnumbered men following the genocide, which meant that they had to take on certain roles
+    - poverty rates of women and sexual violence is very high, large power imbalance between the genders
+  - [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]] - women had to have funding to run for parliment
+    - in post conflict countries, money speaks
+    - war economies are hard to let go
+  - G7 feminist development agenda principles
+    - many unresolved questions (youth, minorities)
+    - 4 main elements
+      - transformative change
+        - aims to redress the historical power imbalances between mena nd women
+      - intersectionality
+        - multiple aspects of identity that play out in people's lives
+      - agency
+        - importance of agency, either an individual or group's ability to make choices to transform those choices into desired outcomes
+        - UN is often seen as a part of government
+      - process
+        - feminist aid prioritizes not only reuslts, but the process used to achieve them
+        - marlyin strathrone
+    - silos have very limited impact
+  - training local staff to go out and collect information in somalia
+    - found out 74% of women were breadwinners
+
+#+DOWNLOADED: screenshot @ 2021-04-14 16:27:38
+[[file:Anou_Borrey_-_Somalia/2021-04-14_16-27-38_screenshot.png]]
+ - the UN thinks it brings solutions, but does not look carefully enough at the coping mechanisms developed in communities
+ - a women is always refered to wrt to their relationship to men
+ - UNDP - local governance project being looked at
+ - most interesting work are happening in the communities
+ - not enough engagement with the local community and local history
+
+* Gender
+  - Notions of "masculinity" - peace as feminine and war as masculine
+    - which leads to the idea that women are more active in peacebuilding activites then they actually are
+    - the partipation of women in the peace process
+    - requires speciifc advocacy of women following the conflict
+  - views on sexual violence are extremely skewed towards women
+    - pregent women, mothers, and victims of sexual violence
+  - women are entering an institution where the binary of masculinity and feminity are bound
+  - gender mainstreaming -> how do you make the topic of gender dead?
+    - you make it a mechanical bureacratic process,
+    - this is difficult to assess within a particular organization

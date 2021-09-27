@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       0D8C3663-AA1B-4463-BFFB-141964A7FB06
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: category_theory
+#+TITLE: category theory
+
+Tags: [[id:0C55E344-F9AE-4584-B54F-83EC2FCE9062][math]]
+
+- https://en.wikipedia.org/wiki/Grothendieck_topology
+- https://en.wikipedia.org/wiki/Gravitation_%28book%29
+- https://ncatlab.org/nlab/show/category+theory

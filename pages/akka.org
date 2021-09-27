@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       A99FAE6C-3F78-4491-B3E5-19D1C850D822
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: akka
+#+title: akka
+
+[[id:09F78F9D-3BF1-46F0-BEB1-0D90A4337B78][actor model]] framework for [[id:0E4E6ABB-2CD6-4D9E-9E8F-2B2B1500B2F0][java]] and [[id:EF04E878-C5CD-4CDC-AB77-4CF215733221][scala]]

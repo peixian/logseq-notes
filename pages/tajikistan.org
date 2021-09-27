@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       1CB78673-A81E-4391-BBF3-8AD31900AB04
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: tajikistan
+#+TITLE: tajikistan
+
+Tags: [[id:E69D04FC-4187-4A6A-B30C-C732D00C14D5][central asia]]

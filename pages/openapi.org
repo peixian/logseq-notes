@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       E184E44E-C990-46D8-BF47-E5003380AB41
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: openapi
+#+TITLE: openapi
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+- https://hackersandslackers.com/flask-assets/
+- https://swagger.io/docs/specification/basic-structure/

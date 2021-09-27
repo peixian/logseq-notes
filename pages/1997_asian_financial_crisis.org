@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       BEA3898C-4D64-450E-9A9D-BB35B463BB49
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: 1997_asian_financial_crisis
+#+TITLE: 1997 asian financial crisis
+
+Tags: [[id:D1946AF3-6885-4AE6-875E-9A682AE37A55][events]]
+
+https://www.newyorkfed.org/medialibrary/media/research/economists/pesenti/whatjapwor.pdf
+
+- concerns over [[id:933651D3-8E66-4DB9-81CC-4F2766D7AE80][procyclical and countercyclical]] processes
+- [[id:268E1F7D-3F00-4AE3-B785-5B1E8F3BCE08][thailand]] had to float their currency on July 2nd, 1997
+  - Capital flight, most of [[id:54A7E315-9721-4BC9-BE36-EE6B40B82889][south asia]] and [[id:62E85EBD-21E3-42DB-88A6-691F6271331C][japan]] saw slumping currencies
+- [[id:67B552F8-CC06-41D3-B87B-369E5694908F][indonesia]], [[id:91F14011-04E8-4862-BCDC-17DB96B965F5][south korea]], and [[id:268E1F7D-3F00-4AE3-B785-5B1E8F3BCE08][thailand]] were the most affect
+- Foreign debt-to-GDP reatios rose from 100% to 167% percent
+- Was the currency peg too much??
+  - similar to [[id:D4B35C6D-544A-481C-B5C0-7C2A2ABCF9AC][lebanon]] now?

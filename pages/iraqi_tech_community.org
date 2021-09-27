@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       973C72C6-68A8-47F4-AEAF-290F4785DCE1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: iraqi_tech_community
+#+TITLE: iraqi tech community
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+- https://medium.com/iraqi-innovators/10-tech-startups-in-iraq-you-need-to-know-about-de2feb91c98e

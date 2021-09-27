@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       8DF0D2E9-D7F8-448C-8478-344CC1B994AB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: etherium_yellow_paper
+#+TITLE: etherium yellow paper
+
+Tags: [[id:8810A6EA-5766-498F-8297-8016E48B26D9][etherium]]
+
+https://ethereum.github.io/yellowpaper/paper.pdf

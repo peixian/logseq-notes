@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       FC6E4EC6-A8C0-4D5B-B96F-D6FC2D1F30B4
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: russia
+#+TITLE: russia
+
+Tags: [[id:E69D04FC-4187-4A6A-B30C-C732D00C14D5][central asia]]

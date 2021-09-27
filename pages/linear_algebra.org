@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       0047A396-A8FB-4D60-934F-F23A2580681D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: linear_algebra
+#+TITLE: linear algebra
+
+Tags: [[id:0C55E344-F9AE-4584-B54F-83EC2FCE9062][math]]
+
+* Krylov Subspace
+  - https://en.wikipedia.org/wiki/Krylov_subspace
+
+
+* Quantum Algorithms Via Linear Algebra
+  - https://rjlipton.wordpress.com/2014/12/06/quantum-algorithms-via-linear-algebra-2/
+  - /Our saving grace is that although the linear algebraic objects—that is, the vectors and matrices—are so huge as to make “our computations” with them unscalable, the linear algebraic formulas do scale when put in succinct functional form./

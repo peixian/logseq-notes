@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       D9E875E0-4210-492F-83DD-16A12879F964
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: macbook_butterfly_keyboard_repair
+#+TITLE: macbook butterfly keyboard repair
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][Computers]]
+
+Covers 4 years, covers the 13in 2019 macbook air
+- https://support.apple.com/keyboard-service-program-for-mac-notebooks

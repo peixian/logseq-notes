@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       7E61FE14-4288-48B6-A496-417817ED69EA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: softmax
+#+TITLE: softmax
+
+Tags: [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]]

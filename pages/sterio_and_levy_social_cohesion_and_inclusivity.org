@@ -1,0 +1,75 @@
+:PROPERTIES:
+:ID:       34E6A6D9-ABE4-4A67-8105-C92F994C7F66
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sterio_and_levy_social_cohesion_and_inclusivity
+#+TITLE: sterio and levy: social cohesion and inclusivity
+
+Tags: [[id:F1B3F2D2-CAAC-457D-A302-DD223805B4E3][Williams - Research Handbook on Post-Conflict Statebuilding]]
+
+** Social Cohesion & Inclusivity - Ailena Sterio & Jessica C. Levy
+   - Defined as
+     #+begin_quote
+     The complexity & multidimensionality of the force, or "glue" that holds a society together and enables its members to predicibly develop
+     #+end_quote
+   - [[id:D6F35F23-0181-44C6-91D3-035FB61DF96A][un development program (UNDP)]] and [[id:24F2B63F-678B-4654-BAC7-C8C80CC77EC9][search for common ground program]]
+   - why?
+     - can rebuild what has been torn apart
+       - most post-conflict socities have a high level of mistrust, described in [[id:5915E4D5-6F4F-4B64-B435-DCA3FD99C50F][Kalyvas - The Logic of Violence in Civil War]]
+     - ensures vulnerable populations no longer face harm
+       - without social cohesion programs, these groups may get sidelined
+     - prevents future conflicts
+     - supports & rebuilds local capacity
+     - new opportunities to bring in groups that were marginalized before
+
+*** Three Approaches
+**** Community Driven
+     - Focuses on democratization towards local groups and partipation of communities
+     - Community driven reconstruction (CDR) - focuses on rebuilding infrastructure
+     - Community driven development (CDD) - focuses on improving existing infrastructure
+     - Both hope to address root of conflict
+**** Social Acculturalization
+     #+begin_quote
+     Social processes that occur in a context in which newcomers and members of the host culture are in contact with each other... and must in one form or another adapt to their new cultural environment
+     #+end_quote
+     - Includes separation & marginalization vs assimlation vs reintegration
+     - Most literature focuses on the processes of voluntary reintegration
+**** Education
+     - Education can exasterbate or alleivate social inequalities or marginalization of groups
+       - Killing of mother tongue
+       - Ethnic divisions such as those in [[id:C8C5D0B0-C8FD-437B-AC1C-8CAD30C7D9CB][rwanda]] or [[id:75596EDC-4243-41A7-A85A-8BC334C2048C][burundi]]
+       - Can also expose, teach, and find common national identity
+**** Reconciliation in Total
+     - Grassroots and middle range (actors who have power by network and not by position such as religious leaders, community leaders, businesspeople, etc) are most effective here
+*** Common Challenges
+    - Marginalized communities
+      - Youth and women are often not considered, or are considered mere stage props
+    - Conflict created communities
+      - Refugees, IDPs and ex-combatants
+      - New identities may have formed during conflict and is hard to break
+    - Enduring divisions
+      - [[id:4A892609-EEF5-441D-92CD-0330210D954F][bosnia]] -> communities did not want to go back to their old locations where they would be an ethnic minority
+      - [[id:C8C5D0B0-C8FD-437B-AC1C-8CAD30C7D9CB][rwanda]] -> completely shattered social fabric
+*** Case Studies
+**** [[id:BBFDEDEC-51A6-4D99-BD64-F690D1EE8F67][nepal]]
+     - social cohesion & democratic partipation program in 2016 led by [[id:D6F35F23-0181-44C6-91D3-035FB61DF96A][un development program (UNDP)]]
+     - also found that violence in communities ended up brining them together, potential group violence coping mechanisms
+**** [[id:F5EE30FC-CAAD-4D58-8AC6-087E4060E7B1][cambodia]]
+     - [[id:581693EA-42E1-4903-9144-0D88B4012241][khmer rouge]]
+     - only family bonds remained
+     - minimal progress has been made in fostering social cohesion
+     - existing programs have largely been top down
+     - 2013 study found that cambodians continue to rely on family bonds
+**** [[id:AFEF9FA6-B022-46F4-AE2B-DE70CE370215][nigeria]]
+     - [[id:E2D6AA8C-685B-4E47-8B74-4EA04AA5C52E][2009 niger river delta insurgency]]
+     - programs run by both civil society and IOs
+     - muslim/christian divide looms large
+     - IOs lack meaningful partnerships with civil society groups
+*** Best Practices
+    - Aim for multiple level/cross cutting approaches
+      - Not just the people it targets, programs should try to bring in multiple sectors
+    - Value openness and flexibility
+      - Hard to establish baseline metrics
+    - Build and take advantage of local capacity
+      - Always identify local capacity where it exists
+    - Aim for inclusivity

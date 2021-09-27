@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       A2613761-AEC4-4423-854E-7ED801A02967
+:END:
+#+TITLE: Higher Ed Readings
+Tags: [[id:08700B30-6476-438A-A1CB-8452DB3DEA4F][grad school]]
+
+- https://www.sup.org/books/title/?id=9404&bottom_ref=recommended
+- https://www.sup.org/books/title/?id=24607&bottom_ref=recommended
+- https://www.sup.org/books/title/?id=18531&bottom_ref=recommended
+- https://www.sup.org/books/title/?id=792&bottom_ref=recommended
+#+SETUPFILE:./hugo_setup.org

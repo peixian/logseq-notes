@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       1D34FEF8-11D9-4160-A2D5-743F55B364CF
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: number_theory
+#+TITLE: number theory
+
+Tags: [[id:0C55E344-F9AE-4584-B54F-83EC2FCE9062][math]]

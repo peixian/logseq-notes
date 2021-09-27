@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       BD28C0E5-5234-4F64-A0B9-2EDBAAAFAA0E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: al_fadl_discussion
+#+TITLE: al-fadl discussion
+
+Tags: [[id:8B3E233D-7371-4E24-98FB-A98A8E7FB165][al-Fadl: What Type of Law is Islamic Law]]
+
+- What questions are being asked?
+  - How do we concieve of jursiprudence?
+  - How are shariah and fiqh used to mediate between the state and the masses?
+  - Is the current viewing of shariah as a condified set of rules a direct desendant of colonial times?
+  - Are modern state law and shariah law incompatible?
+  - Was the encoding of sharia into strict Western jurisprudence a product of colonial practices, or of modernity? Or both?
+
+- Methodologies being used
+  - Not totally sure on this one, this article largely seems to be a historical understanding of how sharia law was developed
+- Central concepts and assumptions
+  - Sharia law and fiqh were considered as two different things
+  - Sharia as divine, fiqh as human reasoning
+  - Islamic law is "bottom up", derived from communities and norms
+  - Muslim jurists recongized the potential issues of a pure textual approach and advocated for different forms of reasoning, so long as the jurist exerted proper effort and due diligence.
+
+- Connections and contrasts with other readings
+  - With Hart's theory of law
+    - interesting that the reading addresses [[id:A599953A-8285-40F8-8DEF-EB07A4BA8C66][austin's theory of law]] but does not address [[id:DBE91307-ADE7-443A-A72C-75ED3A701770][hart's theory of law]]
+    - hart considers the law as conferring powers and imposing duties, such as the problems of duty imposing laws and continuity of laws
+    - is Islamic "law" more closer to how Hart perceives it? Hart actually assumes a pre-legal society where "laws" are social customs, diving into the problem of uncertainty and problem of stasis
+    - hart's rule of change and rule of adjudication
+      - rule of change -> confers authority and positions to change the rules
+        - al-Fadl talks about the difference between sharia and [[id:35BCB864-E558-4DB1-9C8E-39D0E9BBE664][fiqh]]
+          - sharia confers authority only to god
+          - [[id:35BCB864-E558-4DB1-9C8E-39D0E9BBE664][fiqh]] confers authority to jurists
+      - rule of adjucation -> distinguishes which rules are which
+        - already stated as above
+
+  - With Sartori, Paolo. “Between Kazan and Kashghar: On the Vernacularization of Islamic Jurisprudence in Central Eurasia.” Die Welt Des Islams, August 28, 2020, 1–31. https://doi.org/10.1163/15700607-00600A18.
+    - al-Fadl places emphasis on the debasement of sharia with the arrival of colonial powers and codification of sharia into law
+    - Sartori points out that there inherently was an indigenous debasement of sharia outside of the Islamic heartland, rulings and texts had to be translated, which leads to an inherent elevation of specific texts
+    - Glasserman asks what does sharia look like in the classroom vs in the courtroom
+      - if we buy al-Fadl's understanding the sharia is embodied in communities and fiqh can be seen as temporal, what does fiqh look like when it's mediating the mundane? What does fiqh look like in Medina vs Khorosan?
+
+    - al-Fadl points out the distinguishment of specific schools and gives some background to how they arose, but also fails to consider the process of langauge, Arabic in many places was already considered to be a cosmopolitan language
+
+    - al-Fadl's tension is between sharia and the modern state. What about the tension between sharia and education? Sharia must be encoded somehow, is there always going to be a hierarchy (either indigenous or foreign)? Can we separate sharia from the process of language itself?
+
+  - With Li, Darryl. The Universal Enemy: Jihad, Empire, and the Challenge of Solidarity. Stanford Studies in Middle Eastern and Islamic Societies and Cultures. Stanford, California: Stanford University Press, 2020.
+    - Li points out the forms of more "up to date" readings of Islamic understanding in the context of the Bosnian jihad, such as /The Sealed Nectar/. This is a potential example of more contemporary forms of revivalism that goes beyond the state (the jihad arguably occured outside the traditional realms of the modern nation-state), which might point at an answer to al-Fadl's question.
+    - Li also points out how /The Sealed Nectar/ was undeniabily Salafi, but also recieved without controversy in Bosnia. He also points out how the book was exceptionally well-researched compared to its peers. Is this an example of "exerting effort + due diligance gives respect" that al-Fadl mentions?

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6AB6C8F4-79DA-44CA-8856-4FAED877607F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: astronomy_in_iraq
+#+TITLE: astronomy in iraq
+
+Tags: [[id:0B869A0E-BCE4-4121-8258-1309F327143E][astronomy]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+- https://ui.adsabs.harvard.edu/abs/2006IAUSS...5E..41A/abstract
+- Erbil Observatory at the top of [[id:981BAB09-5411-4F98-A061-69D13301ACCC][Mount Korek]]is the only observatory in Iraqi Kurdistan

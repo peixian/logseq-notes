@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       EC36DA74-3225-495E-879A-8C8EC4F717EC
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: psychoanalysis
+#+TITLE: psychoanalysis
+
+Tags: [[id:659F7088-DA60-4D3A-8B2D-A3B97C541C6B][psychology]]
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5459228/

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       1FF35464-8A97-4AB6-9FC7-4D24BF367377
+:END:
+#+TITLE: organization for grad school blog post
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+Organization:
+- GTD via Things
+- Planning my morning in my calendar every day
+- 7:30-9:00 is arabic all the time
+- Read later via Instapaper
+- Archiving via pinboard
+- References via Zotero
+  - Zotfile for file syncing
+- Book tracking in goodreads
+- Org-roam ties it all together
+
+Goals:
+- Work on multiple projects at the same time
+- Deep work on specific tasks, but work on multiple projects
+- Isolate the micro, decentralize the macro
+#+SETUPFILE:./hugo_setup.org

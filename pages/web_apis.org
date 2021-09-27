@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       2698FAEE-DAEB-4B79-9A41-6B645CC08AA1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: web_apis
+#+TITLE: web apis
+
+Tags: [[id:883B29DB-4BDF-4DD0-A615-02B1220889D1][web]]
+
+- http://wwwperiodictable.surge.sh/?hn5

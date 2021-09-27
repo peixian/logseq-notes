@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       B296A87C-D41F-4992-9F1E-ABF6896B69DB
+:END:
+#+TITLE: books
+#+SETUPFILE:./hugo_setup.org
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]
+
+* Career Books
+- https://www.reddit.com/r/ExperiencedDevs/comments/hpgkvv/what_are_some_developer_careergrowth_books_that/

@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       5B03F3AB-AA70-45E7-9037-BD3BF5CD01AE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: zampieri_et_al_semeval_2020_task_12_multilingual_offensive_language_identiﬁcation_in_social_media_offenseval_2020
+#+TITLE: Zampieri et al: SemEval-2020 Task 12: Multilingual Offensive Language Identiﬁcation in Social Media (OffensEval 2020)
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:48350662-53E9-4A91-9ADB-2BC9DFEA6098][nlp]], [[id:15F31B89-B6AC-4D26-8838-89C9A0ADF748][bias nlp project]], [[id:ED6F69D5-4336-4042-B0E5-EC5707F22838][arabic nlp]]
+
+* Summary
+- Set up a set of classification tasks for offensive language across multiple languages
+  1. Identification of offensive languages (y/n on whether something is offensive)
+  2. Automatic categorization of offensive types (targeted or not targeted?)
+     - targeted - insults towards a group or individual
+     - not targeted - profanity or swearing
+  3. Target identification (invidual, group, other)
+     - other category includes organizations, events, issues
+- Used the Offensive Language Identification Dataset (OLID), a 14k+ english tweets with the three types of identification labeled\
+- Teams were provided OLID and SOLID (Semi-supervised offensive language identification dataset)
+
+- Language breakdown
+  - Arabic dataset had 10k tweets (twitter langauge filter on lang:ar)
+  - Danish had 3.6k comments from FB, Reddit, and local newspaper
+  - Greek used the Offensive Greek Twitter Dataset, 10k+ tweets
+  - Turkish used 35k+ tweets
+- Models
+  - Most teams used contextualized transformers (Bert/Roberta/mBert)
+  - Wordembeddings also showed up, some sentiment analysis as well
+- Results
+  - Best performing team used a cross language model (XML-Roberta), emsembled with XML-Rob base and large

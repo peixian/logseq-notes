@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       545B0948-4770-4C6B-8FA6-75248EA3A80F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: climate_change_tech
+#+TITLE: climate change tech
+
+Tags: [[id:6D96E728-B780-4735-BCA4-591F45978BBA][climate change]]
+- https://upstream.tech/
+- http://worrydream.com/ClimateChange/
+- https://sarahendren.com/2020/11/19/amcs-the-wringing-of-hands-and-the-courage-to-seek-first-principles/

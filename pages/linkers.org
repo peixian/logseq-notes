@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       EE39A1B4-2E49-4BB2-A83C-77D755977FE1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: linkers
+#+TITLE: linkers
+
+Tags: [[id:5B3FA555-7C9B-47B1-A463-983A682072FC][compilers]]
+
+- https://blog.thea.codes/the-most-thoroughly-commented-linker-script/

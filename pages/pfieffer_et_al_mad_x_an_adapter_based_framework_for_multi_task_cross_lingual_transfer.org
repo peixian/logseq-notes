@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       F2DF3BF6-0087-484D-9A0F-86A0F43FD799
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: pfieffer_et_al_mad_x_an_adapter_based_framework_for_multi_task_cross_lingual_transfer
+#+TITLE: Pfieffer et al: MAD-X: An Adapter-Based Framework for Multi-Task Cross-Lingual Transfer
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:48350662-53E9-4A91-9ADB-2BC9DFEA6098][nlp]]
+
+Pfeiffer, Jonas, Ivan Vulic, Iryna Gurevych, and Sebastian Ruder. “MAD-X: An Adapter-Based Framework for Multi-Task Cross-Lingual Transfer,” n.d., 20.
+
+Adapter based framework that provides high portability for cross lingual transfer

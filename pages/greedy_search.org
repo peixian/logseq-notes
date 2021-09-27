@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       F2E6B3EE-56CB-4D3F-9CE8-1290096EFC0A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: greedy_search
+#+TITLE: greedy search
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][Computers]], [[id:2C626284-F74C-4110-83A7-AE07B6D0A451][algorithms]]

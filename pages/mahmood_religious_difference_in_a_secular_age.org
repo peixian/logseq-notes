@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       D54D622E-3F4A-4386-8EA2-EACC29533FF0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: mahmood_religious_difference_in_a_secular_age
+#+TITLE: Mahmood - Religious Difference in a Secular Age
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]]

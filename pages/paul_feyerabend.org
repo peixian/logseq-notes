@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       693F2C8A-DEAF-4672-9FA8-945842865527
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: paul_feyerabend
+#+TITLE: paul feyerabend
+
+Tags: [[id:A75E8675-6FA2-427F-AC64-64D3F4DEE1F1][philosophy of science]], [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]
+
+https://plato.stanford.edu/entries/feyerabend/

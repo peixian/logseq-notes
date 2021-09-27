@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       8B40D13E-55E4-41D3-931A-6B1C1C3B4AAE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: principal_component_analysis
+#+TITLE: principal component analysis
+
+Tags: [[id:1E95EA69-5FA9-4065-B175-48E0A4391924][statistical methods]]

@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       E5637E25-81A3-4BA2-85E8-0F1949E4B7F8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: cap_theorm
+#+TITLE: cap theorm (brewer's conjecture and the feasibility of consistent, available, partition-tolerant web services
+
+Tags: [[id:60E89DE2-2826-4C7F-9DF6-69A0C00F11A2][distributed systems]], [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]
+
+- https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf
+
+Main takeaways:
+- Most systems in early distributed relational design did not take into account partition tolerance (aka mostly CA)
+- network partition puts pressure on strong consistency and high availability
+- strong consistency and performance have tension during normal operation
+- *how consistent does your data actually need to be* - if availability is necessary, then we need to explore whether consistency models other than strong consistency are workable
+- *consistency and availability are not binary choices unless you limit yourself to strong consistency* - https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/
+  - not really "2 out of 3" more like "2.5 out of 3"
+  - ACID != CAP
+
+
+* Details
+- 3 properties
+  - consistency: all nodes see the same data at the same time
+  - availability: node failures to not prevent survivors from continuing to operate
+  - partition tolerance: system continues to operate during message loss
+- only two can be satisfied
+- CA: strict quorum protocols like two phase commit
+  - Does not distinguish between node failures and network failures
+    - stops accepting writes to avoid introducing divergence
+    - two phase commit and common in relational db's
+- CP: majority quorum protocols like Paxos
+  - prevents divergence by forcing asymmetric behavior on two sides of the partition
+  - drops the minority partition
+  - incorporate network partitions into their failure model
+  - Paxos, Raft, viewstamp replication, etc
+- AP: conflict resolution protocols like Dynamo
+
+* Strong Consistency vs Other Consistency
+- Strong
+  - linearizable consistency - all operations execute atomically in a *globally real-time ordering*
+  - sequential consistency - all operations execute atomically in *a order consistent with the order seen at individual nodes that is equal at all nodes*
+    - *not composable!*
+- Weak
+  - client-centric - client id or session id may guarentee that the client never sees old data (aka some kind of caching on the client end so they never read from old replicas)
+  - causal
+  - eventual - if values stop changing, then at some undefined point in time all nodes guarenteed to share the same value
+    - usually defined in a more strict manner like "eventually last writer wins"
+- https://arxiv.org/abs/0909.1788

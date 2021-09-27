@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       DA75099B-1555-4306-8277-752AD62BBC1A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: islamic_jurisprudence_lecture_5
+#+TITLE: islamic jurisprudence lecture 5
+
+Tags: [[id:BB2783B7-0E6B-4886-8007-EC63A9C67096][islamic jurisprudence]]
+
+- Setup: how does capitalism break apart society and how does it move within anthropology
+- Focuses on how capitalism does play a role in subjectivities
+- shariah-compliance arguments for Hiyla and darurat
+- reducing the islamic economics to fiqh, there's a richer selection of discourse and institutions that might've been in play during the colonial period
+- relationship to contract law?
+- mughal empire and pre-modern islamic contract law? what did we try to learn from pre-modern normative texts?
+  - what is islamically right?
+  - what is enforcable as a contract?
+- ghazali writes about contracts
+  - coercive gift -> you've gotten a gift because you've shamed him, you must give it back
+    - if you're a judge this is okay
+- fiqh -> how much does this circumscribe the laws?
+  - alternatively, what makes a thing shari'a
+- /modern things on trial/
+- shift to silk as a cash crop leading to peasant indebtedness
+  - unlimited entilement of the creditor to seize assets
+    - a feature of european law

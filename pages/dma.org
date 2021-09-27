@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       785CE7EF-2B5E-4324-8A50-6EB4834E95CF
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: dma
+#+TITLE: dma
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- cloud apps domainted by packet processing
+- https://www.usenix.org/sites/default/files/conference/protected-files/hotos15_slides_kaufmann.pdf

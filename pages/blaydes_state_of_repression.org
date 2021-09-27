@@ -1,0 +1,107 @@
+:PROPERTIES:
+:ID:       06DB4234-A5C2-408C-9C0C-1D3A783E8462
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: blaydes_state_of_repression
+#+TITLE: Blaydes - State of Repression
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+Talks about how collective punishment is meted out by the Saddam regime. Primary thesis concerns the legibility of citizenry, the more "legible" the citizenry is to the regime, the more targeted punishments become.
+
+Homogenous socities with dictators spawn low trust because the society is relatively easy to be infiltrated.
+
+Collective punishment heightens group identities, such as the case of:
+- Stalin & Ukranians
+- Bedouins in the Sinai
+- Japanese internment in WWII
+
+
+* Introduction
+- Difficult to study dictators and internal politics of a country while the dictator is in power
+- 3 key constraints on Saddam's power
+  1. Saddam did not make the entire country politically legible to central gov
+  2. Highly vulnerable state to external shocks
+  3. Miscalculated international response to key foreign policy decisions
+- Paradox of control:
+  - European states focus on the development of strong territorial states
+  - African states focus on the struggle to project political power across territory
+  - Iraq struggles to project power despite rich state
+- Major modern historians of Iraq
+  - Jabar
+  - Davis
+  - Visser
+  - Haddad
+  - Khoury
+  - Yousif
+  - Helfony
+- Blaydes proposes the idea of "cultural distance"
+- References Brubakar, 2004 "Ethnicity without groups"
+
+* Chapter 2
+- Anfal campaign came during the Iran-Iraq War
+- Information was difficult to collect in the north
+- Citizens often cooperate with democratic regimes becaues they trust it
+- Why do citizens cooperate with authoritarian ones?
+  - Argument: citizen behaviors in autocratic regimes are determined by the /intensity/ and /precision/ of rewards and punishments
+- Citizens are governed by both beliefs and incentives
+  - But beliefs are a proxy for communal behavior
+- This argument also presumes that gov policy can be understood through examinining the rewards and punishments
+- Wintrobe 1998 - Dictators must "pay" for loyalty
+- Blaydes argues that the perception of the regime largely depends on the peer's evaluation of the regime
+- Creaters a parabola of risk/reward
+- Transgression and the likelihood of transgressions being discovered
+  - Lack of state penetration encourages coordination for petty crimes
+    - Such as pirating online
+  - Also encourages dragnet style policing
+  - Severe and collective punishments can lead to "all-out" resistance, such as the emergence of Kurdish nationalism
+
+* State and Nation Building in Iraq, 1973-1979
+  - Largely oil driven
+  - Public investments doubled in 1970-1975, doubled again between 1975-1980
+  - Achieved full employment in 1977-1980
+  - Created a salaried class dependent on the state bureacracy as employer
+  - Ba'athification of northern Kurds after 1975
+  - Partially why the Da'wa did not gain traction in the 1970's
+
+* War Burden
+  - Iraqi Shii's were more likely to suffer casualties in the war
+  - Iran/Iraq war had significant political impacts in the north, caused multiple uprisings and helped to stir the birth of Kurdish nationalism
+  - Gulf war was also equally costly for shii's in iraq
+
+* Economic Embargo
+  - Implications of economic embargo actually drove citizens into the hands of the regime
+  - Oil for food program ended up giving the regime a lifeline while further increasing its control over the citizens
+
+* Collaboration and Resistance in the [[id:0B9FAF9E-0A55-44FE-96CE-D6D382CF6617][KRG/iraqi kurdistan]]
+  - Broad based cohesion for kurdish groups did not exist until the Iran/Iraq war
+    - Kurds have typically been very divided
+  - Before Anfal Kurdish elites cultivated secular kurdish identitiy, largely failed
+  - Republican period increased ideas about binationalism
+  - March 1970 - Agreement came very close to succeeding, with oil boom making kurds rich
+  - Outbreak of the Iran Iraq war, kurds were hopelessly divided
+  - Many supported, many also resisted
+  - Barzani supported Iran during the war
+  - Anfal helped to cement kurdish nationalism
+  - KRG leaders alternated between coecessions and rebellion against Baghdad
+
+* Rumors
+  - Regime collected and catalogued rumors
+  - Rumors can be used as a gauge for how the citizenry feels
+  - 3 main types:
+    - Wish
+    - Anexity
+    - Wedge driving
+
+* Religion and Identity
+  - Shii clerics had distinct:
+    - Financing (tithing)
+    - Languages (farsi)
+    - Networks (dense communities)
+  - all made them difficult for regime to understand
+  - eventually lead to repressive contexts
+
+* Military Service/Militias/Coups
+  - Hussien promoted the party as a counterbalance to the military for fear of coups
+  - Iraqi army has always held a domestic rate
+  - The fayedeen and jerusalem army were broadly recruited despite how hated the regime was

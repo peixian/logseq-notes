@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       C4FD3722-E791-40C0-ADCA-0147DE914032
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: abdul_hadi_al_darraji
+#+TITLE: abdul hadi al-darraji
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+Former [[id:7407E5FF-5CA2-4B36-8209-8F3FB542E45D][jaish al-mahdi]]

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       4D8F680D-3043-42F2-8635-12EE3F560C8B
+:END:
+#+TITLE: Databases
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][Computers]]
+* Class
+  - https://15721.courses.cs.cmu.edu/spring2019/schedule.html
+* MariaDB
+  - https://mariadb.com/kb/en/index-hints-how-to-force-query-plans/
+
+#+SETUPFILE:./hugo_setup.org
+
+* Calcite
+- https://calcite.apache.org

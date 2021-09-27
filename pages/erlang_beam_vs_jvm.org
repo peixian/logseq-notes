@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       2A7B49B5-4E3F-40E3-9F08-A76C42279B78
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: erlang_beam_vs_jvm
+#+TITLE: erlang beam vs jvm
+
+Tags: [[id:CF577679-1813-4797-9A8C-4A20601B8F2F][erlang]], [[id:5ED873F2-3263-4424-8197-D6CFA8E4C28C][jvm]]
+
+3 factors for success in Erlang ecosystem:
+1. semantics of Erlang programming language
+2. OTP libraries and middleware
+3. [[id:3BF82DF0-BA0F-4690-9896-261F0E81A6CF][beam vm]]

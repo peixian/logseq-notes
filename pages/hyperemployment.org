@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       E754EB8F-C9AC-458D-8C40-7085A449C999
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hyperemployment
+#+TITLE: hyperemployment
+
+Tags: [[id:5D4FD56C-329E-4881-AEBC-EFE6DDF0F29D][articles]]
+
+- https://www.instapaper.com/read/1298996192
+- Talks about how tech companies not only sell our data
+  - "you are the product" type stuff
+- Tech companies also employ us for minimal wage
+  - Everyone is an analyst via google docs
+  - Email makes everyone triage specific things
+- /Today, everyone’s a hustler. But now we’re not even just hustling for ourselves or our bosses, but for so many other, unseen bosses. For accounts payable and for marketing; for the Girl Scouts and the Youth Choir; for Facebook and for Google; for our friends via their Kickstarters and their Etsy shops; for Twitter, which just converted years of tiny, aggregated work acts into $78 of fungible value per user./

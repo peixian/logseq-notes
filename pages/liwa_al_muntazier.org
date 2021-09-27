@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       54E8B6ED-4DFE-4316-A177-38F58CAB8983
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: liwa_al_muntazier
+#+TITLE: liwa al-muntazier
+
+Tags: [[id:C403589A-21CC-411A-A58E-1C2FDC31F72C][brigades]]

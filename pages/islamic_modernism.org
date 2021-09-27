@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       8BD3967A-B666-48E6-A3CF-80E5D660BE1D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: islamic_modernism
+#+TITLE: islamic modernism
+
+Tags: [[id:42F0A616-7195-4034-8A0C-53BBA045A294][islamic political thought]]
+
+- Considered the first idealogical response to reconcile Islamic faith with modern values of nationalism, democracy, civil rights, etc.
+- First among several Islamic movements to emerge in 19th century
+- [[id:236E3E9F-4804-49D2-AA86-E372768D9682][Muhammad Abduh]], Rashid Rida, Jamal al-Din Afghani, etc

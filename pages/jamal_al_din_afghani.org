@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       6F514DCF-EDF1-4462-A8F5-C112D5980C14
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: jamal_al_din_afghani
+#+title: Jamal al-Din Afghani
+
+
+[[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]

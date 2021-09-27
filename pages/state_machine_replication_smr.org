@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       C171ABCB-E0F2-4DD2-90D9-DE34F876605F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: state_machine_replication_smr
+#+title: state machine replication (SMR)
+
+[[id:2AAEFE6A-3D1C-4EA0-8E33-AC48101A105B][state machines]]

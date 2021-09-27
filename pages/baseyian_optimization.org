@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       9B0378E7-51D5-4E77-83B6-86285CCDB40C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: baseyian_optimization
+#+TITLE: baseyian optimization
+
+Tags: [[id:F2643E37-CED2-492A-A77C-B632F3D203FD][statistics]]

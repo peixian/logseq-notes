@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       ACAEDCED-C16E-47CB-8EE5-2A8C0977735C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: resource_curse
+#+TITLE: resource curse
+
+Tags: [[id:3A151692-5786-4F5E-B755-165CDFA29BB9][political science]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       4A1BD41A-BCD5-4A2F-9574-1B014822F9FA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: pytorch_torchtext_incompatibility_issues
+#+TITLE: pytorch/torchtext incompatibility issues
+
+Tags: [[id:8CF9A0F7-2E51-4922-B6B7-2C42E8E2BE16][pytorch]], [[id:2A9FC656-C17C-4952-A2C9-E81601EFD1C3][torchtext]]
+
+
+Torchtext has a few incompatibilites:
+- ~torchtext.data.dataset~ and ~torchtext.data.iterator~ are wrappers around ~pytorch.utils.data.Dataset~ and ~pytorch.utils.DataLoader~
+- notably the ~torchtext.data.iterator~ is /not compatible/ with the pytorch ~subset~ or the ~torch.utils.data.sampler~
+  - https://pytorch.org/docs/stable/data.html
+  - https://pytorch.org/docs/stable/data.html#iterable-style-datasets
+- highlighted in: https://github.com/pytorch/text/issues/664
+- possible to get https://discuss.pytorch.org/t/out-of-vocabulary-keyerror-on-vocab-stoi-in-torchtext/65910
+  - or https://github.com/pytorch/text/issues/618
+  - or https://discuss.pytorch.org/t/typeerror-dataloader-object-is-not-callable/74979

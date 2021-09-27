@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       DCF8D543-265E-4077-9437-9C449BA6036D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: formal_semantics
+#+TITLE: formal semantics
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+* Computational Semantics
+  - how do we represent meanings of words and sentences
+  - how do we derive the meanigs of words?
+  - how do we evaluate whether a sentence is true /in a situation/?
+  - how do we evaluate whether a sentence follows from /another sentence/?
+  - relationships to [[id:A475182B-C7B6-441C-8D92-4C6704A9B54F][computational syntax]]

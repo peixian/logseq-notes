@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ECC21E7C-5A6D-4BD1-B576-DCB47C7497EF
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: langlands_program
+#+TITLE: langlands program
+
+Tags: [[id:0C55E344-F9AE-4584-B54F-83EC2FCE9062][math]]
+
+- https://en.wikipedia.org/wiki/Langlands_program
+conjectures about number theory and geometry
+
+* References
+- https://math.stackexchange.com/questions/48981/the-langlands-program-for-beginners
+- Knapp, A W. “Prerequisites for the Langlands Program,” n.d., 9.
+- https://www.ias.edu/video/The-Practice-of-Mathematics
+- https://news.ycombinator.com/item?id=16786018
+- https://www.abelprize.no/artikkel/vis.html?tid=73176
+- https://thewalrus.ca/the-greatest-mathematician-youve-never-heard-of/
+- https://news.ycombinator.com/item?id=18508780

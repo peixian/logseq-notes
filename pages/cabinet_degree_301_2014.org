@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       68F6BA6B-A26A-490F-8F3D-2A5DA2F60CCB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: cabinet_degree_301_2014
+#+TITLE: cabinet degree 301 (2014)
+
+Tags: [[id:ADFAE0CB-D584-4CE9-9965-4E76C474546E][hashd al-shaabi (PMF)]]
+
+Gave the prime minister power to organize the volunteers and provide them with necessary logistic and financial support

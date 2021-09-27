@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       CC2E4FD1-10CF-4CBD-820C-3E644AFC09E2
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: overheating_car_engine
+#+TITLE: overheating car engine
+
+Tags: [[id:CAFF2018-7C24-402E-9528-464A87D2DC39][personal]]
+
+- if car is overheating, you can set AC to hot and blow it into the cabin

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       086B0579-8C85-4CE5-9E65-EB8980FB2C2E
+:END:
+#+TITLE: afghanistan
+
+Tags: [[id:E69D04FC-4187-4A6A-B30C-C732D00C14D5][central asia]]
+
+
+#+SETUPFILE:./hugo_setup.org

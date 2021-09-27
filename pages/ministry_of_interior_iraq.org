@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       39DBC574-B8A1-4464-BA1B-672948C34D0F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ministry_of_interior_iraq
+#+TITLE: ministry of interior (iraq)
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

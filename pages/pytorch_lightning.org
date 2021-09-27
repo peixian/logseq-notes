@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       4D4B0883-0D49-4F3A-BD70-41698AF0E60E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: pytorch_lightning
+#+TITLE: pytorch-lightning
+
+Tags: [[id:8CF9A0F7-2E51-4922-B6B7-2C42E8E2BE16][pytorch]]
+
+- https://github.com/PyTorchLightning/pytorch-lightning
+
+framework for pytorch that disentangles some of the infrastructure code

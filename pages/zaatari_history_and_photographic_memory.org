@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       D850E39B-B4BE-481A-B164-E4074178C0CD
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: zaatari_history_and_photographic_memory
+#+TITLE: Zaatari: History and Photographic Memory
+
+Tags: [[id:F6DEBD6F-7B47-4A1B-9C73-4E32B62E31EA][Problems and Methods - Archival Turn]], [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]
+
+- Akram Zaatari reflects on the [[id:7E995468-5ED3-45FE-8A35-A61D8E6F7427][Arab Image Foundation]]
+- Argues that the foundation was largely a collection and museum at first, and has turned into an archive
+- Early parts of the foundation were highly curated
+- For space reasons, it breaks apart the collections for it's own archival organization
+- "Archeologists know very well that ultimate way to conserve archeology is to keep it buried underneath the Earth"
+  [[id:B1E26B6E-6A74-4E81-8A49-B18EF81BFDAE][DiCapua - Gatekeepers of the Arab Past]]
+- "Ephemeral acts can be radical acts of conservation" - 177
+- "Many collectors develop an irresitible desire to own more and more of the same thing" - pg 178

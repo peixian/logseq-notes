@@ -1,0 +1,75 @@
+:PROPERTIES:
+:ID:       E522A6E0-F023-4A6C-A0A0-6D9C9E0BFA64
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: lockman_contending_visions_of_the_middle_east
+#+TITLE: Lockman - Contending Visions of the Middle East
+
+Tags: [[id:C61C3FE4-06C6-4621-818B-503E36E83B7C][middle east]], [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]]
+
+- Middle east studies has had many people contend over it
+- Beginnings rooted in the study in "Ancient Greece"
+- Linking between Athens and US/Britian is to distort history by projecting our own conceptions onto the past
+- The idea that "Asian" countries were ruled by tyrants and people were servile is very old, barbarians at the gate
+- Roman legacies were pronouced, especially as the empire split
+- Word of god often used to justify the large-scale enslavement and European conquest
+- European writers tended to see muslims in ethnic rather than religious views
+- Crusades were largely bludgeoning as well
+- "Knowing the enemy" became big in the middle ages, for revival purposes
+- Ibn Sina, Ibn Rushd, Maimonides all read arabic
+- Perceptions of the Ottomans as in perpetual decline
+  - Ottoman law, society, and statecraft were seen as despotic
+- The west saw the east as a place to define what the west was
+- Spread of empire brought about cultural orietnialism, such as eroticized and titillating drawings of Muslims
+  - Akin to modern fetishism of Muslim women/KRG women
+- Marx bought into this as well, the economic basis for despotism was characteristic of Asian societies
+  - "Indian society has no history at all"
+  - Also saw colonialism as a necessary and progressive factor in human history
+- American large influences on middle east studies via foundations following WWII, in light of the cold war
+- First strains were largely orientalist, it took islam as a coherent civilization that was static and unchanging
+  - Concepts of an "Arab mind" or "Muslim mind"
+- Followed by strong strains of modernization theory (1950's 1970's)
+  - Failure of modernization theory with lebanese civil war
+    - Disillusionment with government work
+  - Shortage of people with language skills in government
+  - Modernization theory saw local elites playing a crucial role in introducing change into societies (like the Shah)
+- Orientialism drew a sharp line between Islam and the West, modernization theory drew sharp divide between tradition and modernity, two different stages in one human evolution
+- Turmoil started w/ Abdel-Malek's Egypt: Military Society
+- Modernization theory's failures in Latin America made it suspect
+  - Seminal article "Sociology of Development and Underdevelopment of Society"
+  - Showed that there were greater benefits to breaking out of capitalist investment system
+- Vietnam War's breakdown of US consensus
+- Rereadings of history followed
+- Islamism's rise posed a problem for modernization theory
+
+* Orientialism
+  - Argued with a focult conception
+    - what we take to be truth is in fact always really the product of a certain way of depicting or representing reality, of a certain “discourse” – a structured system of meaning which shapes what we perceive, think and do.
+    - Rather, he saw power as an inherent feature of all human social relations, and moreover as productive: it was in the matrices of the power relations that permeated social relations that discourses, practices and institutions were generated, including even our own subjective sense of ourselves, rooted in the modern notion that we are largely autonomous, self-governing, rational individuals.
+  - For Said, orientalism was a discourse in that it was a language used to describe and build the concept of the west
+    - This Western representation of the Orient was predicated on the assumption that “East” and “West” were radically and irreducibly different, and (using primarily philological methods) drew on presumably authoritative texts to produce and sustain certain ideas about the Orient, among them Oriental despotism and Oriental sensuality.
+  - Asked us how we represent other cultures, what are the forms of knowledge production?
+  - Does not actually lambast the field, but asks us to look at the recieved wisdom
+  - "In part, Clifford argued, the problem lay in Said’s effort to derive Orientalism as a discourse, in Foucault’s sense, from his inventory of Orientalism as a tradition, relying heavily on a survey of literary and scholarly texts."
+
+** Poststructuralism and "linguistic turn"
+   - Said brought Foucault's approach to new intellectual terrain
+   - "Nonetheless, the “invasion” of French theory in various forms in the 1970s and 1980s certainly stimulated vigorous intellectual debates and important developments in many ﬁelds."
+   - The linguistic turn refers to not specific languages, but that langauge (any coherent and structured meaning-bearing system, from actual human langauges to social customs and etc, provided the best metaphor for social relations).
+#+begin_quote
+as a self-contained system of “signs” whose meanings are determined by their relations to each other, rather than by their relation to some “transcendental” or extralinguistic object or subject . . . Such a commitment would seem to imply that language not only shapes experienced reality but constitutes it, that different languages create different, discontinuous, and incommensurable worlds, that the creation of meaning is impersonal, operating “behind the backs” of language users whose linguistic actions can merely exemplify the rules and procedures of languages they inhabit but do not control, that all specialized language usages in a culture (scientiﬁc, poetic, philosophical, historical) are similarly determined by and constitutive of their putative objects.
+   #+end_quote
+
+   - The understanding of the lingustic turn meant that scholarship had to determine how these systems of meaning governed people
+   - Also implied there was no access to a fixed reality, that scholars should study how the nexus of knowledge are formed
+     #+begin_quote
+This meant, among other things, abandoning the idea of “experience” as denoting what human beings purportedly learn from their encounters with the real world, since there were no such encounters that were not already and always mediated, structured, ﬁltered by some discourse. What an individual or group “learned” from some “experience” – for example, of exploitation or oppression – depended crucially on the discourse which structured how that experience was made sense of.
+     #+end_quote
+   -
+
+* After Orientialism
+  - Islamism's new rise
+  - Field's gone off into many directions
+  - Right wingers lament the unstructuring of the field from government policy
+  - large rise of think tank institutions
+  - MESA's rise

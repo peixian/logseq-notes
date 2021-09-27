@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       2EBAA08C-FB3A-43F4-9411-EEC9EFF8861F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: humanism_in_ruins_discussion_questions
+#+title: humanism in ruins discussion questions
+
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:A438ACD2-2C1E-40EB-9502-74E5B69EA9FF][Post-Ottoman Near East]], [[id:FAC6D0F0-7797-4330-B988-37260A98CBC1][turkey]]
+
+* Discussion questions
+** From Erin
+   - Is the idea that to be post-ottoman in contemporary turkey is to harken back to a "ottoman" past that never existed?
+     - Within the frame of multi-culturalism, it is, the book traces the lineages of the organizations (league of nations/UN, AWR/AER, UNESCO/European Capital of Culture)
+     - Segregative biopolitics as a management technique? -> Can we push this beyond turkey and look at the other post-ottoman nations?
+     - If we look at it within a temporal frame like this book does, we can see that segregative biopolitics, eugenics, and Gini's ideas all have massive influence today on contemporary turkey, the museumization of cultures within instanbul is circumscribing a culture to a specific "zone" is segregative biopolitics at its best
+     - I am concerned about pushing this beyond turkey, do we see this frame being replicated outside of turkey?
+       - Schyagh talks about specialization of cities within mandates, do we see an economic parallel to this?
+       - Is to be post ottoman to have your culture carved up? Or do have the differences of ottoman culture brought to light?
+     - Strictly culturalist argument made here, why not domestic institutions?
+       - Why not FAO, development organizations?
+     - Is the structure of the palimpsets compelling? Can we really say the some of the institutions are directly descended from their previous incarnations?
+     - The structure is compelling due to the fact that these organizations are so closely related to one another (League of Nations/UN, AWR/AER, UNESCO/European Capital of Culture)
+     - The structure of the palimpsets are compelling, we do really see traces of institutions that follow one another through this.
+
+   - How would she respond to the category of a "post-ottoman"?
+     -
+   - Is 1923 a valid starting point?
+     - Segregative biopolitics is the starting point of the book, but while I find the tracing of it loose, it is undeniable the notion that this lead later. The management of a problem, rather than the solution of it, is primary to the French formation of Lebanon, to the sectarian systems that reside within the middle east today
+
+     - The core critisicsm in the book is that the humanist approaches post 1923 has been patch upon patch of "least evils" without ever addressing the root problem
+
+** Mine
+   - Is segregative biopolitics ([[id:D7A476E6-3506-4335-A5EC-12838C0F4B39][Pursely - Familiar Futures]]) a way of reconciling a national identity?
+     - Taking turkey and greece as both imagined communities, was the "unmixing of races a strict
+   - To live during this time was to buy into the idea that there were ethnic, primordial ties that could be activated via geanology
+   - To be post-ottoman is to have your culture used as a tool, either against you as a sign of your backwards-ness (mandates not yet ready for independence, artificial states, etc) or to use your culture as a sign of enlightenment (balkan states being in the league, mandates not), or to have your culture defined in contrast to the past (museumization) (turkey)
+     - Is to be post ottoman a reducion of ottoman culture?
+   - Broad strokes:
+     - Reduction of human beings via forced similarities (all the same), then eugenics, then numbers
+     - Recollection of the past
+     - Calcification of the past via museums

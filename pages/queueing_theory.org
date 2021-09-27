@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       0A4C06B1-7E6F-46F1-93C0-8E3768F9BEF2
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: queueing_theory
+#+TITLE: queueing theory
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]

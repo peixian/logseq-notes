@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       F5BA4445-E57D-4F03-BC6E-948A588815C4
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: jalula
+#+TITLE: jalula
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+Small town in the [[id:CA47DC6D-9E3E-4E5C-99F4-4400029A1341][diyala governate]]
+
+Pop of around 30k

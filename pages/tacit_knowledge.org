@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       060B7749-EA6F-4023-A595-130E4567563F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: tacit_knowledge
+#+TITLE: tacit knowledge
+
+Tags: [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]]

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       A5272B61-0BB5-4FC1-97DA-45796966CC5D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: un_mission_in_nepal_unmin
+#+TITLE: UN Mission in Nepal (UNMIN)
+
+Tags: [[id:7C05085A-564D-4186-B4E7-AD9DC612310A][un]], [[id:BBFDEDEC-51A6-4D99-BD64-F690D1EE8F67][nepal]]

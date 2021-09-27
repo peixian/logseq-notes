@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       7C5A70A0-D6CC-46D0-A7C5-7FCAA0478EB9
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: infiniband
+#+TITLE: infiniband
+
+Tags: [[id:851F079B-17D1-411F-988B-1248B5E0579D][networks]]
+
+- https://blog.zhaw.ch/icclab/infiniband-an-introduction-simple-ib-verbs-program-with-rdma-write/

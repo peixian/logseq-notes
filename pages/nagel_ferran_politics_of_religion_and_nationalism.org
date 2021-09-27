@@ -1,0 +1,97 @@
+:PROPERTIES:
+:ID:       FE7CB59F-5B9B-4852-80A8-03BDE16B9F41
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: nagel_ferran_politics_of_religion_and_nationalism
+#+TITLE: Nagel, Ferran - Politics of Religion and Nationalism
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:9BF599C3-7B0D-4E00-9E42-06CC50D30B17][Nationalism and Outsiders in the Middle East]]
+
+* Chapter 1 - Introduction
+
+- In order to prove national's modernity, Gellner, Hobsbawn, and [[id:47EF592A-10D4-4923-BE86-E3E03918624D][Anderson - Imagined Communities]] have not provided much space to religion or its contemporary role.
+  - Religion is only interesting as a impairs or propels the formation of nationalism
+  - Miroslav Hroch does not dedicate much time to this either
+- /The French Revolution brought Christianity down from heaven to earth/ - pg 4
+  - Does sectarianism raise it back up?
+- Questions - pg 5
+  - Is nationalism the result of the decline of religion?
+  - Or did it emerge during intensive religious feelings
+  - Is nationalism shaped by Christianity inherently?
+  - Is nationalism intrinsically secular or intrinsically religious?
+  - Is nationalism the religion of modernity, or is it a subsitute for religion, or a functional equivilant?
+- Voicu - only dominant religions affect nationalist beliefs
+- Brubaker proposes 4 ways to study - pg 7
+  - Treat both religion and nationalism as analogous phoneoma
+  - Treat religion as a cause or explanation of nationalism
+  - Treat religion intertwined with nationalism
+  - Treat religious nationalism as totally distinctive from other kinds of nationalism
+- All these serve to expand the framework of the 3 layers proposed by [[id:41916275-B19E-48AF-90C7-EC4C38D7BADA][Hinnebusch - Identity and State Formation in Multi‐sectarian Societies]]
+- Some states consider religious diversity as a marker for their national distinctiveness
+  - Soeren Keil on Bosnia-Herzegovina
+
+* Chapter 2 - Governments and Gods
+  - Two forms
+    - Elimination of religious differences
+    - Management of ethinic differences
+  - How to define ethic groups?
+    - We can talk about ethnic groups as a coherent whole, but many ethnic groups do not have the same religion
+  - How to define religion?
+  - Weber defines ethnic groups as "human groups that entertain a subjective belief in their common descent"
+  - Nations have a purpose, ethnic groups exist:
+    #+begin_quote
+    Nations are political collectives, they have institutions of political self-government or are politically mobilized to achieve national self-determination. Ethic groups, by contrast, need not seek self-government - once they do, they are nationalizing themselves.
+    #+end_quote
+    - pg 18
+  - Accept that erligion as a belief and practices that are socially constructed
+  - 3 types of religious conflict - pg 20
+    1. conflicts between different religions
+    2. conflicts within the same religions
+    3. conflicts between religious and non-religious
+  - Regulating religious differences has a few ways
+    1. Eliminating religious differences completely
+       - Genocide, ethnic cleansing, etc
+       - Extremely costly and sanctioned against on the international stage
+    2. Assimilation and integration
+       - Coercive ethnic assimation follows the same style
+       - Government sponsorship of religion
+       - Wide spectrum
+    3. Partition
+       - Partition into various religious and ethnic states
+  - Managing religious differences has a few ways as well:
+    1. Control
+       - Organize the dominant religion, disorganize the subordinate ones
+       - Offical or established religions
+    2. Arbitration
+       - Sultan, king, high represenative in Bosnia, etc
+       - Someone deemed to be sufficiently impartial
+       - Constitutional courts?
+         - Non-existant in Iraq
+    3. Accomodation
+       - Consociation
+         - Lebanon, Iraq
+           - Can exasterbate sectarian lines
+  - Iraq constitution does not expressly define religion or the bill of rights as part of the exclusive powers of the federal gov, although Islam is the offical religion of the federation - pg 29
+
+* Chapter 6 - Religious pluralism and multinational federalism in [[id:4A892609-EEF5-441D-92CD-0330210D954F][bosnia]] and Herzegovina
+  - Federal system has not resulted in a stable state - pg 81
+  - Territorial units are mono-ethic, little exchange between people
+  - Americans saw the Bosnia conflict as national groups fighting over the same territory
+    - Conflict was a question about what Bosnia is, nature of the state, relationship between Bosniaks, Serbs, and Croats
+  - Dayton Accords extremely complex and decentralized
+    - 3 presidents
+    - Substantial veto rights reserved based on group and entity concerns
+    - High represenative getting powerful intervention rights due to deadlocks caused it to become a major example of international state-building - pg 85
+    - Absurdity of the system:
+      #+begin_quote
+      Bosnia-Herzegovina is absurd. If the international community always supports the high represenative and not the institutions of Bosnia-Herzegovina, then it doesn't matter if I am the head of state or Bart Simpson
+      #+end_quote
+      - pg 86
+    - Undemocratic nature of the high represenative
+  - Serbs have irrendentalist ideas and possibly want to merge back into Serbia
+    - Also currently support the Dayton Agreement because the RS is granted substantial autonomy
+  - Croats think the FBiH discriminates against the Croats by lumping them together with the Bosinaks
+    - Croats do not question the territorial integrity of Bosnia due to lack of support from Croatia's politicians - pg 88
+  - Bosniaks are unhappy because the state is unmanageable
+  - Leading bishops in Bosnia and Croatia asked all Catholics to identify as "Croat" - pg 89
+    - Similarities of [[id:0B9FAF9E-0A55-44FE-96CE-D6D382CF6617][KRG/iraqi kurdistan]] to the RS?

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       AA3AE23C-0429-4283-BE39-E89D1E8D8524
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: envoy
+#+TITLE: envoy
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+
+https://www.envoyproxy.io/
+
+Servish mesh substrate
+
+See also:
+https://eng.lyft.com/envoy-7-months-later-41986c2fd443

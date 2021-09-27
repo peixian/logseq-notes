@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       C9489459-B94B-4E62-9952-FC209619BEBB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: baqubah
+#+TITLE: baqubah
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

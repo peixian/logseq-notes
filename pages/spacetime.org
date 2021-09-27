@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       F272A790-1110-4724-BB9A-07B80D0CB245
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: spacetime
+#+TITLE: spacetime
+
+Tags: [[id:7A929556-F8FE-4588-9440-655F9368B1F0][physics]]
+
+- https://timhutton.github.io/GravityIsNotAForce/
+- https://news.ycombinator.com/item?id=24821141

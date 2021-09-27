@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       82210E03-62EF-4E0F-BC42-8DD433AA6CAA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: mellanox
+#+TITLE: Mellanox
+
+Tags: [[id:851F079B-17D1-411F-988B-1248B5E0579D][networks]]

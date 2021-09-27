@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       9C5AA88F-8CF9-47D1-A6AD-9D8A5E05418D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: iraq_covid_19
+#+TITLE: iraq covid 19
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]], [[id:A06959EF-A349-4F8E-B58A-4C8B11A83DAA][covid]]
+
+- https://1001iraqithoughts.com/2021/03/03/does-iraq-have-a-strategy-for-acquiring-covid-19-vaccines/

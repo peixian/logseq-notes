@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       8709F3FA-DD4F-4923-94CC-74F056907A49
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ensemble_average_vs_time_average
+#+TITLE: ensemble average vs time average
+
+Tags: [[id:F2643E37-CED2-492A-A77C-B632F3D203FD][statistics]]
+
+Both properties of [[id:26C17B53-BBB8-49B6-A5D7-D955CFC7006B][stochastic process]], ensemble average is effectively the expected value, whereas the time average is a strict random variable.
+
+Time average of a stochastic process is simply the average value of a single outcome of a stochastic process.
+
+Modern [[id:85CCE0EB-E358-4A63-A947-423CF92D79A2][economics]] tends to conflate these and use ensemble averages when a time average is probably better.
+
+- https://math.stackexchange.com/questions/1339012/what-does-ensemble-average-mean
+- https://www.nii.ac.jp/qis/first-quantum/forStudents/lecture/pdf/noise/chapter1.pdf

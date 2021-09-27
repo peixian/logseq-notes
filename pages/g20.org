@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       730BEF7E-12CA-4147-8039-EF4FF34AF6AE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: g20
+#+TITLE: g20
+
+Tags: [[id:3A151692-5786-4F5E-B755-165CDFA29BB9][political science]]

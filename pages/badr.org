@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       BC40CBC8-81AC-4CFD-8121-7419EC9CB63B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: badr
+#+TITLE: badr
+
+Tags: [[id:5E8F7C5C-9300-41D5-A90C-8E7A4235E584][iraqi political parties]]

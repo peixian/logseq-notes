@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       C0C3F07B-86B5-4367-B9DB-B69044C74AFC
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: operators_k8s
+#+TITLE: operators (k8s)
+
+Tags: [[id:A0A37A5E-A266-46B3-8148-D7A40A5F1F78][kubernetes (k8s)]]
+
+Builds on top of [[id:F5441954-B74E-4FF3-BE85-653D7B55AD50][controllers (k8s)]] and adds sets of knowledge or configuration to allow it to manage common application tasks
+
+Example: [[id:0227C046-09BB-4C99-9B36-47E447FC7489][etcd]] backup
+#+DOWNLOADED: screenshot @ 2020-12-28 21:32:20
+[[file:2020-12-28_21-32-20_screenshot.png]]

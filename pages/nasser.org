@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       7DD5C017-105C-4E9E-BE3D-0D8A77E849E0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: nasser
+
+#+TITLE: nasser
+
+Tags: [[id:98F9993A-F5AD-44C5-A732-8BBAD7FA6BEE][egypt]]

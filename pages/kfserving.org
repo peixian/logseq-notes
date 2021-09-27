@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       8449B198-E24D-42AE-8183-E2D987839C5D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: kfserving
+#+TITLE: kfserving
+
+Tags: [[id:716C6B3C-D028-47CD-98E9-E1EA0EAF9D05][kubeflow]]
+
+https://www.kubeflow.org/docs/components/serving/kfserving/

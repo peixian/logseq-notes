@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       659F7088-DA60-4D3A-8B2D-A3B97C541C6B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: psychology
+#+TITLE: psychology
+
+Tags: [[id:85559C76-3E71-4CC8-AA1F-F773F9B2ABD5][social sciences]]

@@ -1,0 +1,134 @@
+:PROPERTIES:
+:ID:       F7FE50CE-65C6-44BD-98C2-C87D9B826FF3
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: read_the_damn_error_message_draft
+#+TITLE: read the damn error message draft
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+- Read the damn error message
+- walk through reading an error message in python
+- how do stack traces work?
+- don't jump to a conclusion - cantrill
+- your tools with make you more sad
+- https://gist.github.com/abdulrahimq/c6de8c2b53e1201b876ec5c693ce23aa
+- check the file
+  - is it a library? was it working before? it's probably not your code
+- check from the bottom up
+- you have to use your brain
+- start with the actual error
+- your system is the one behaving pathologically, not you
+- half mindset, half technical
+- http://cs.franklin.edu/~ansaria/traceback.html
+- tracebacks are not prose, nor are they useless, they're *structured logs*, reading structured logs is important
+
+#+begin_src text
+  Traceback (most recent call last):
+    File "/scratch/username/nlu/experiment-script.py", line 354, in <module>
+      tot = loader(dataset_name, tokenizer, args.cache_dir)
+    File "/scratch/username/nlu/experiment-script.py", line 150, in loader
+      tot.append(_preprocess_dataset(dataset_name, data, sentence_col, tokenizer))
+    File "/scratch/username/nlu/experiment-script.py", line 157, in _preprocess_dataset
+      data = data.map(
+    File "/scratch/username/envName/lib/python3.9/site-packages/datasets/dataset_dict.py", line 432, in map
+      {
+    File "/scratch/username/envName/lib/python3.9/site-packages/datasets/dataset_dict.py", line 433, in <dictcomp>
+      k: dataset.map(
+    File "/scratch/username/envName/lib/python3.9/site-packages/datasets/arrow_dataset.py", line 1407, in map
+      update_data = does_function_return_dict(test_inputs, test_indices)
+    File "/scratch/username/envName/lib/python3.9/site-packages/datasets/arrow_dataset.py", line 1378, in does_function_return_dict
+      function(*fn_args, indices, **fn_kwargs) if with_indices else function(*fn_args, **fn_kwargs)
+    File "/scratch/username/nlu/experiment-script.py", line 158, in <lambda>
+      lambda x: tokenizer(x["input_text"], padding="max_length", truncation=True),
+    File "/scratch/username/envName/lib/python3.9/site-packages/transformers/tokenization_utils_base.py", line 2210, in __call__
+      assert isinstance(text, str) or (
+  AssertionError: text input must of type `str` (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples).
+#+end_src
+
+* Read the Damn Error Message
+I've been working on a project for grad school, and through watching my teammates, I've seen them exhibit some of the same behaviors I see juniors do. The most fustrating one is the inability to debug, or the failure to /reason about debugging/.
+
+For example, given this traceback:
+#+begin_src text
+  Traceback (most recent call last):
+    File "/scratch/username/nlu/experiment-script.py", line 354, in <module>
+      tot = loader(dataset_name, tokenizer, args.cache_dir)
+    File "/scratch/username/nlu/experiment-script.py", line 150, in loader
+      tot.append(_preprocess_dataset(dataset_name, data, sentence_col, tokenizer))
+    File "/scratch/username/nlu/experiment-script.py", line 157, in _preprocess_dataset
+      data = data.map(
+    File "/scratch/username/envName/lib/python3.9/site-packages/datasets/dataset_dict.py", line 432, in map
+      {
+    File "/scratch/username/envName/lib/python3.9/site-packages/datasets/dataset_dict.py", line 433, in <dictcomp>
+      k: dataset.map(
+    File "/scratch/username/envName/lib/python3.9/site-packages/datasets/arrow_dataset.py", line 1407, in map
+      update_data = does_function_return_dict(test_inputs, test_indices)
+    File "/scratch/username/envName/lib/python3.9/site-packages/datasets/arrow_dataset.py", line 1378, in does_function_return_dict
+      function(*fn_args, indices, **fn_kwargs) if with_indices else function(*fn_args, **fn_kwargs)
+    File "/scratch/username/nlu/experiment-script.py", line 158, in <lambda>
+      lambda x: tokenizer(x["input_text"], padding="max_length", truncation=True),
+    File "/scratch/username/envName/lib/python3.9/site-packages/transformers/tokenization_utils_base.py", line 2210, in __call__
+      assert isinstance(text, str) or (
+  AssertionError: text input must of type `str` (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples).
+#+end_src
+
+I've seen junior engs completely ignore this traceback, thinking it's all garbage. Alternatively, I've also heard the excuse that Python isn't their wheelhouse, so it's fine to not know how to read this, or that their area of focus is experimentation and not writing/reading/debugging code.
+
+Both of these concepts are absurd. Junior engs miss a treasure trove of information when they skip the traceback. Programmers, whether as grad students or software engineers, will read a magnitude more code than they write. Learning how to debug code that you don't understand is simply an extension of that. CS grad students are never explicitly taught how to read a paper, yet it's expected for students to simply "pick it up" along the way. Reading and reasoning about unfamiliar code is an invaluable skill, one that allows programmers to work in a variety of environments. In hopes of fixing that, I'm going to walk through how I would debug this particular traceback, and then talk about the mentality programmers should approach debugging with.
+
+* Example
+Going back to the traceback above, I'll walk through my chain of reasoning and how to debug it. There's already [[https://realpython.com/python-traceback/][many]] [[http://cs.franklin.edu/~ansaria/traceback.html][tutorials]] on how a traceback is structured, but I'm going to walk through this specific one with an example.
+
+1. Tracebacks is a structured logs
+Because tracebacks are structured logs, they should be read from the point of error, and work backwards to isolate the specific problem. In this case, the error is helpfully at the bottom, so I'm going start by reading from the bottom up.
+
+2. Read the actual error
+#+begin_src text
+    AssertionError: text input must of type `str` (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples).
+#+end_src
+
+This error is fairly explicit, it's telling us that the ~text input~ must be of a specific type. If this is unclear, the line above helpfully gives an example, stating ~assert isinstance(text, str) or (~. So now we know that there's a type mismatch somewhere.
+
+3. Check the filenames, switch the reading order
+Now, knowing /what/ the error is, we need to find out /where/ the error comes from. Now it could come from anywhere within the traceback, and there's a lot of information, so we need to narrow it down quickly. One of the first passes I usually do is *scanning the filenames*[fn:1].
+
+In this traceback, we know that error line that comes from ~/python3.9/site-packages/datasets/~ is coming from the ~datasets~ library, so we can likely discard it. Mentally, after removing all the error lines that comes out of the ~datasets~ library, we have:
+
+#+begin_src text
+  Traceback (most recent call last):
+    File "/scratch/username/nlu/experiment-script.py", line 354, in <module>
+      tot = loader(dataset_name, tokenizer, args.cache_dir)
+    File "/scratch/username/nlu/experiment-script.py", line 150, in loader
+      tot.append(_preprocess_dataset(dataset_name, data, sentence_col, tokenizer))
+
+  <<datasets library stuff....>
+
+    File "/scratch/username/nlu/experiment-script.py", line 157, in _preprocess_dataset
+      data = data.map(
+    File "/scratch/username/nlu/experiment-script.py", line 158, in <lambda>
+      lambda x: tokenizer(x["input_text"], padding="max_length", truncation=True),
+#+end_src
+
+This is far more readable, and can be read top-down! Going back to the idea that tracebacks are structured logs, structured logs should be read *bottom-up* to identify /what/ and /where/ the problem is, but then logs should be read *top-down* to /how the error occured/. Reading logs top-down gives the ability to reconstruct the flow of the program itself.
+
+In this case, we can see that the the ~loader~ function is called, which then calls ~append~, which then calls into the datasets library, and then eventually calls into a ~map~ on a ~lambda~. So now we know that there's something wrong with the lambda function.
+
+
+4. Print it (or use pdb)
+
+At this point, it becomes unclear what's going on. It seems like the problem is ~x["input_text"]~ has a mismatching type, but we can't really be sure until we have a little more debugging information. The next stage can be done by simply replacing the ~tokenizer~ call with a print call, so ~lambda x: tokenizer(x["input_text"], padding="max_length", truncation=True~ becomes ~lambda x: print(x["input_text"], type(x["input_text"]))~.
+
+At this point, the answer was that ~x["input_text"]~ returned an incorrect datatype.
+
+* Debugging Mentality
+
+The above traceback is a good example of working through the debugging mentality. The error messages will most likely tell you what the errors are, and the role of a programmer during debugging is to find out the /where/ and the /how/. As a result, it's important to not approach debugging with a specific hypothesis. Each stage in the debugging process should give you more questions, and a programmer must use their brain in debugging. The goal of debugging is not to come in with a specific hypothesis and attempt to prove/disprove it, but rather to find the correct set of questions to answer, and gradually narrow it down. It's important to remain intellectually curious about how your system can behave pathologically.
+
+If a programmer comes into the system with a predetermined set of hypotheses, it's easy to fiddle around with the code in order to (dis)prove those hypotheses. This is a very "scientific method" point of view, but as programmers, we luckily don't have to be constrained by that! The scientific process operates on /information/, which is why the mode and technique of inquiry is imporant. But software is /both information and a process/[fn:2], which means that programmers do not have to be bound in the same way. We can observe software in action, and take the logs of software to reconstruct the events, rather than testing specific conditions. As a result, it's important to never let your hypothesis about bugs overshadow what the error messages are saying.
+
+* Footnotes
+
+[fn:2] Bryan Cantrill said this in some talk I can't recall
+
+[fn:1] Yes, I know the error is coming from directly the line above it, but I'm going to pretend to not understand the lambda for example purposes.

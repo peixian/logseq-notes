@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       027F5D13-55A2-43DA-81FC-C3973988904D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: khan_the_great_partition
+#+TITLE: Khan - The Great Partition
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:E414E54E-F7C1-4837-A904-7947522C8025][pakistan]], [[id:8167F3DC-A169-4452-B5DC-F6F669C0C038][india]]
+
+
+- sect-coded environments disincenvtives political moderation

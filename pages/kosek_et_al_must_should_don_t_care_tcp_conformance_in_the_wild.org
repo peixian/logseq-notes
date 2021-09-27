@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       4AE1A2CC-0931-406C-9D25-0461283A3563
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: kosek_et_al_must_should_don_t_care_tcp_conformance_in_the_wild
+#+TITLE: Kosek et al: MUST, SHOULD, DON'T CARE: TCP Conformance in the Wild
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:851F079B-17D1-411F-988B-1248B5E0579D][networks]]
+
+Kosek, Mike, Leo Blöcher, Jan Rüth, Torsten Zimmermann, and Oliver Hohlfeld. “MUST, SHOULD, DON’T CARE: TCP Conformance in the Wild.” In Passive and Active Measurement, edited by Anna Sperotto, Alberto Dainotti, and Burkhard Stiller, 12048:122–38. Lecture Notes in Computer Science. Cham: Springer International Publishing, 2020. https://doi.org/10.1007/978-3-030-44081-7_8.
+
+Most servers abide by TCP standards for SHOULD and MUST. A significant subset do not adhere to even basic requirements, such as urgent flags or checksums.

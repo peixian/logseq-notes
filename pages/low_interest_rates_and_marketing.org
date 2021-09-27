@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1146315B-5F1F-4B57-B93B-7D35D193F0B6
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: low_interest_rates_and_marketing
+#+TITLE: low interest rates and marketing
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+Do low interest rates make marketing more important? or do low interest rates make research more important?
+Does cheaper interest rates spur research?

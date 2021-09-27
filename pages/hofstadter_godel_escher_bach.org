@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       02E1C06A-9354-4671-9F73-4D1D3E198024
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hofstadter_godel_escher_bach
+#+TITLE: Hofstadter - Godel, Escher, Bach
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]]
+* Preface
+  - Book is /not/ about math, art, and music relations
+  - Book is about patterns, the more abstract layer on top of the raw information in the brain
+  - Describes the self-referential "I"
+    - [[id:216FDDEA-884B-43BD-990C-EF8F0F0E8009][godel's incompleteness theorem]] showed that it is impossible to construct a set of axioms that exist outside mathematics, all axioms are "incomplete"
+  - [[id:CE83EB56-B1C0-4552-8688-B5A895B91923][Kurt Godel]] vs [[id:A2F29B2B-7EE3-492F-8D5B-C37DDF777FEB][bertrand russel]] and [[id:B574E542-4791-4291-A64E-7F25073E1BA9][alfred north whitehead]] in [[id:816F355C-8A52-4208-82F8-BFC00A110C5C][principa mathmatica]]
+    #+begin_quote
+    How do maeningless symbols give causal meaning in a rules-based meaning-free universe?
+    #+end_quote
+  - Similar to a TV camera pointed @ the TV screen
+  - It's the patterns that arise! Not the raw information stored, but how these patterns are arranged and laid out!
+* Introduction
+  What is a melody vs harmony?
+  - time/pitch/timbre
+
+  Crab canons and isomorphism (information preseriving transformations)
+
+  Strange loops -> moving upwards or downwards through a level results with what you started
+
+  Godel numbering and godel codes
+
+  Aristotle -> syllogism -> Boole and de Morgan
+  Euclid -> Geometry -> non-enuclian geometry
+
+  Cantor set theory?
+
+  [[id:31ECBD0F-F445-4FE3-8C4C-7352DCAF2DF8][russel's paradox]]
+
+  Mathematics and metalogic
+
+  [[id:8FC5DFBB-2C77-440C-923E-4529F117A602][hilbert]] wanted to demostrate that systems in princpa mathematica were consistent & complete
+
+  Babbage and his difference engine
+
+  Is there incompleteness in AI?
+
+  holfstander talks about rules based AI, but what about statistical AI?
+
+Formal semantics do not need to be proved -> they are produced statements
+
+Informal systems arise from axioms, which give birth to theorems
+
+Computing is symbol shunting, and people tend to recongize the patterns
+
+Intelligence is when you can jump out of a tax and surveil what has already been done
+* [[id:EA30B619-E3C1-415A-8625-14A827F0A439][geb chapter 2]]
+* [[id:9A35E4C5-3536-41AD-BDBB-B2E3E52E4B4A][geb chapter 3]]
+* [[id:67E243BB-3F94-461D-96FF-4EAB34B16EE4][geb chaper 4 (consistency, completeness, and geometry)]]
+* [[id:7A9CC2EE-04AF-42E7-A059-CD69865A98DD][geb chapter 5 (recursive structures)]]
+* [[id:B37DE855-D2C4-4F65-8539-27553A764C82][geb chapter 6 (the location of meaning)]]

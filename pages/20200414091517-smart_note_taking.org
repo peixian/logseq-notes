@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       9675FEBA-A78E-4DE1-83CF-E04D66C221AF
+:END:
+#+TITLE: Soren - Taking Smart Notes
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:CAFF2018-7C24-402E-9528-464A87D2DC39][personal]], [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]]
+
+#+begin_quote
+Rather, you will try to learn as efficiently as possible so you can quickly get to the point where actual open questions arise, as these are the only questions worth writing about.
+#+end_quote
+
+Key takeaways: make fleeting notes and project notes, review the fleeting notes and file the project notes accordingly. Fleeting notes should be for when things pop into your mind, although I somewhat use things for this purpose as well. Project notes are for long term storage.
+
+Work on different things at once! The slip box has the information, let blockages be free somewhere [[id:581A343F-7EB9-4BC2-A240-7068DCDE3D58][career advice]] else!
+
+When cutting things from a piece of writing, make a second note that contains the things cut. Usually not needed, but contains any additional information that may be useful for reference later on.
+
+- Make fleeting notes that are reviewed
+- Review these notes within a day
+- Separate these notes into the ones for reference (in zotero) or somewhere else.
+- Use full sentences, disclose sources, make references and try to be precise
+- Fleeting notes are for capturing ideas quickly, but should be reviewed later
+- "Even doctoral students sometimes just collect de-contextualised quotes from a text – probably the worst possible approach to research imaginable. This makes it almost impossible to understand the actual meaning of information." (Sönke Ahrens, How to Take Smart Notes)
+- "Another habit of the effective thinkers they highlight is their ability to focus on the main ideas behind the details, to grasp the gist of something." (Sönke Ahrens, How to Take Smart Notes)
+- Learning in a way that generates real insight is accumulative
+- /Taking smart notes is the precondition to break with the linear order./
+- /For every document I write, I have another called “xy-rest.doc,” and every single time I cut something, I copy it into the other document, convincing myself that I will later look through it and add it back where it might fit./
+#+SETUPFILE:./hugo_setup.org

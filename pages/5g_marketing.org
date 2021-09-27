@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       4DAE5B83-6C7C-4840-8589-58ADCDCD678B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: 5g_marketing
+#+TITLE: 5g marketing
+
+Tags: [[id:CB6E08CC-BEB9-4D02-9CA3-0B290E8EBE39][cellular networks]]
+
+- https://tech.slashdot.org/story/20/12/14/2124229/heres-the-5g-glossary-every-american-is-apparently-going-to-need
+#+begin_quote
+T-Mobile last week introduced the market's newest 5G moniker: "Ultra Capacity." The label, writes blog LightReading, will stew alongside "5G Ultra Wideband," "Extended Range 5G," "5G+," "5Ge," "5GTF," "5G Nationwide" and plain-old "5G" in the US wireless industry, ensuring that if American mobile customers aren't confused yet, it's only a matter of time before they're hopelessly bewildered by operators' thesaurus-toting marketing executives. So here's that 5G lexicon everyone is apparently going to need, the blog reports:
+
+5G Ultra Capacity: This is the new brand that T-Mobile is applying to its 5G network running in the midband 2.5GHz spectrum it acquired from Sprint, as well as its highband, millimeter wave (mmWave) spectrum. The operator said customers with "5G Ultra Capacity" phones and coverage can expect speeds around 300 Mbit/s up to peaks of 1 Gbit/s.
+
+5G Ultra Wideband: This is the label Verizon has applied to its 5G network running in its own mmWave spectrum. Due to the physics of signal propagation in such spectrum, mmWave transmitters can't reach receivers that are more than a few thousand feet away.
+
+5G+: This is the label AT&T has applied to its own mmWave network. However, the operator appears to be focusing its energies on 5G in other spectrum bands.
+
+Extended Range 5G: This is the label T-Mobile has given to its 5G network in its lowband 600MHz spectrum, which supports slower speeds than mmWave or midband networks. As you can imagine, given the name, signals in Extended Range 5G go much, much further than signals in mmWave spectrum, again due to the physics of signal propagation in lowband spectrum like 600MHz. Verizon and AT&T also operate extensive lowband 5G networks.
+
+5G Nationwide: This is the label Verizon has applied to its lowband 5G network. It's similar to T-Mobile's "Extended Range 5G," although T-Mobile has dedicated some 600MHz spectrum to 5G while Verizon is using a technology called Dynamic Spectrum Sharing (DSS) to put both 4G and 5G signals in its lowband spectrum.
+
+5Ge: This is the moniker AT&T gave to its 4G LTE network in 2018, sparking plenty of controversy. The action allowed AT&T to quickly offer 5G icons to most of its customers without actually having to deploy a 5G network that adheres to the 3GPP's official 5G technology standard.
+
+5GTF: This is the technology label that Verizon tacitly applied to its initial 5G Home fixed wireless service running in its mmWave spectrum. The network initially did not work on the official 3GPP 5G technology standard and instead worked on a derivation developed by Verizon and its vendors. However, Verizon has since shifted its 5G Home service to the official 3GPP 5G standard.
+
+5G: This is the catch-all label that operators are applying to whatever their marketing teams haven't gotten their fingers on yet. T-Mobile used "5G" for a while until it introduced "Ultra Capacity," and AT&T still uses "5G" for its lowband 5G network.
+#+end_quote

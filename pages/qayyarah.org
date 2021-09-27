@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       77329B76-1D69-4D94-B8F3-472710FC1016
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: qayyarah
+#+TITLE: qayyarah
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+Town 60km south of [[id:123CC1C9-288C-484E-8442-BD52A2C0873E][mosul]]

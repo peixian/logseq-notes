@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       E435A559-1181-4894-8C9A-0BD0BE8F1561
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: qiz
+#+TITLE: qiz
+
+Tags: [[id:67DC79D4-6A11-4491-8A71-8C9746477DE4][jordan]]
+
+- https://en.wikipedia.org/wiki/Qualifying_Industrial_Zone

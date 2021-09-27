@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       E5AA5C1E-4521-459B-AAE3-DA844593A211
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gaussian_mixture_model
+#+TITLE: gaussian mixture model
+
+Tags: [[id:45CE3B54-0FB4-4088-BD85-799E1258C645][gaussian distribution]]

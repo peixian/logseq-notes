@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       8CDB38A0-40D1-4F15-800D-6D8E8863DCFA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: state_minister
+#+TITLE: state minister
+
+Tags: [[id:892AA907-7AC7-416C-9E42-21B70840A14F][iraqi parliment]]
+
+minister without a portfolio position

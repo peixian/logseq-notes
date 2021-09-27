@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       08E78B05-A505-4D00-BB0D-19FDBB44505F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: graph_based_approximate_nearest_neighbor_search
+#+TITLE: graph based approximate nearest neighbor search (granne)
+
+Tags: [[id:6D58F45F-D8DA-497D-AB13-B42791369996][approximate nearest neighbor]], [[id:2C626284-F74C-4110-83A7-AE07B6D0A451][algorithms]]
+
+- https://github.com/granne/granne
+
+- Stores [[id:9F7976A7-87F4-4039-8B4C-B2CAA52C873C][adjacency lists]] with a variable number of neighbors per node
+  - saves space on metadata
+  - size of index structure depends on the properties of the graph
+  - usable index of 4 bil vectors at 240GB
+  - can actually use [[id:4CBE2D59-D8DD-40B9-9752-1293E7DBB5BD][mmap]] to map the index and the query vectors for lazy loading
+- Data locality can be increased on the SSD by ordering elements with closer HNSW nodes

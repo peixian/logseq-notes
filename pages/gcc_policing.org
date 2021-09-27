@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       DBBC17EF-C255-446C-A7DA-4CA84F9393D4
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gcc_policing
+#+TITLE: gcc policing
+
+
+Tags: [[id:C61C3FE4-06C6-4621-818B-503E36E83B7C][middle east]]
+
+- The PSF (Pennisula Shield Force) is a strictly military one
+- Current plans to create GCC arrest warrents across member states
+- Similar to Europol or Interpol
+- Unsure if it is being quielty assembled
+- Desired structure is a regional standing force with a joint command
+- Sheikh Khali has said it was to be an interpol-like force
+  - Policing has been "added" to the portfolios of foreign ministers

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       F13DD9E4-3E7D-4034-9DEE-DDF7972D90A0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: fsf
+#+TITLE: fsf
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- https://lists.gnu.org/archive/html/emacs-devel/2015-02/msg00594.html

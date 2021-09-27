@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       458D205D-97CA-4E54-B8E0-A3E4C3B81A11
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ashura
+#+title: ashura
+
+[[id:9B83B603-B44D-48FF-A154-E6C36F7D2225][shia]]

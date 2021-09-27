@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       6D1614AE-5942-4FAA-A20C-F50C09327993
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sharia_law
+#+TITLE: sharia law
+
+Tags: [[id:42F0A616-7195-4034-8A0C-53BBA045A294][islamic political thought]]

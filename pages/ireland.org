@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       91ADFC4C-455C-4FCE-9E7B-04EF14C449AB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ireland
+#+TITLE: ireland
+
+Tags: [[id:E2821844-9819-49F2-9CE7-CD04EDDB2E85][europe]]
+
+- Uneven enforcement of GDPR: https://www.instapaper.com/read/1310097305

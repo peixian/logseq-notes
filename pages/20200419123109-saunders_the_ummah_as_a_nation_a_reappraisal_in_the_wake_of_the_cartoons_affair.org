@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       D1D32035-365C-4266-9E1A-61F41FC0A6F9
+:END:
+#+TITLE: Saunders - The Ummah as a Nation: A reappraisal in the wake of the 'Cartoons Affair'
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:9BF599C3-7B0D-4E00-9E42-06CC50D30B17][Nationalism and Outsiders in the Middle East]],[[id:42F0A616-7195-4034-8A0C-53BBA045A294][islamic political thought]]
+
+"Cartoons" affair from Dutch newspaper /Jyllands-Posten/ caused riots to break out against the Dutch embassies worldwide and lead to halted exports.
+
+- Saunders attempts to debunk the notion that the Ummah is not a political identity
+  - Ummah is clearly a political identity via Islamism
+    - Sufi lodges with [[id:64151A69-C7D3-435A-9D04-9DB692D01A1D][Can - Spiritual Subjects]]
+    - Exceptionalism of Islam, Balkan Christian orthodoxies were absorbed into the state, but Islam was not [[id:360914DB-207A-458E-A677-B1DC2302A2FA][Anscombe - State, Faith, and Nation]]
+    - [[id:A5D510FC-AEDA-4CB2-8AFC-0CB7308ED48A][Hassan - Longing for the Lost Caliphate]] clearly shows precendence
+- Muslims living in a disapora constitute a "nation on the move"
+  - Similar to pilgrims or [[id:C502879F-6192-46A0-B178-E331F8607116][Blumi - Ottoman Refugees, 1878-1939]]
+- This is somewhat unconvincing when he uses the "American immigrant experience"
+- _Rather than trying to dominate a place deﬁned by physical territory (e.g. Leeds, Pakistan, or the Middle East), these elites are seeking inﬂuence over a space conceived around human beings (i.e. the Muslim world including its exclaves in the West), although there are certainly some groups such as Hizb ut-Tahrir that would like to see the black ﬂag of the caliphate ﬂying over London._
+  - This seems out of place and ignores history, Muslims in the past have seen distinct people as focal points
+- [[id:47EF592A-10D4-4923-BE86-E3E03918624D][Anderson - Imagined Communities]]'s description of "nations on the move"
+- Notably unqualfied assertions of economic impact
+- _Through internet-enabled virtuality and diasporic marginalisation, the ummah – more so than at any time in the past – is functioning as an ersatz nation._
+#+SETUPFILE:./hugo_setup.org

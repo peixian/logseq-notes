@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       99CEA7D9-CE28-4B6A-91F7-24D06F28429B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: onusal
+#+TITLE: ONUSAL
+
+Tags: [[id:7C05085A-564D-4186-B4E7-AD9DC612310A][un]]
+
+UN verification mechanism in [[id:19451263-FE36-4A8C-BF90-A34E7A22A5FE][el salvador]]

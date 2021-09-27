@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       AB60D870-A003-4C3E-8A7E-1F6A1AF775F0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: algorithms_for_optimization
+#+TITLE: algorithms for optimization
+
+Tags: [[id:2C626284-F74C-4110-83A7-AE07B6D0A451][algorithms]], [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]]
+
+- https://github.com/sisl/algforopt-notebooks
+- https://mitpress.mit.edu/books/algorithms-optimization

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       DCE0D2E2-AADF-48D5-B6A6-3952E2530A90
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: philosphy_of_programming
+#+TITLE: philosphy of programming
+
+Tags: [[id:A75E8675-6FA2-427F-AC64-64D3F4DEE1F1][philosophy of science]], [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- https://vimeo.com/71278954
+- http://lambda-the-ultimate.org/
+- http://steve-yegge.blogspot.com/2006/04/software-needs-philosophers.html
+- https://steve-yegge.blogspot.com/2010/12/haskell-researchers-announce-discovery.html
+- https://josephg.com/blog/3-tribes/
+- https://news.ycombinator.com/item?id=20882783

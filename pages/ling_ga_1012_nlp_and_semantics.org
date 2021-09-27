@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       5D94563B-C811-4568-9983-6F934F9E13EA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ling_ga_1012
+#+TITLE: ling-ga 1012 (nlp and semantics)
+
+Tags: [[id:A63D0CEC-6083-46C5-BD8D-7A8D750FF1A4][classes]], [[id:48350662-53E9-4A91-9ADB-2BC9DFEA6098][nlp]]

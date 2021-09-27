@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       57DE1BA8-C534-4994-B5DE-4BF89C74F9CE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: muhasasa
+#+TITLE: muhasasa
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+- started as sectarian appointment but also a party appointment system
+- elites have shifted from calcifying their own groups to a shift in the system against the populace

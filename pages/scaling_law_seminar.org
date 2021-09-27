@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       E562C6A9-CF05-40B2-8B7E-84AA81D14976
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: scaling_law_seminar
+#+title: scaling law seminar
+
+[[id:12580BAB-8366-47AD-A690-BAB8B773FA85][fall 2021 classes]], [[id:51BC9BEA-4F6D-4438-87F8-F6322BA475A3][transformers]]
+
+Seminar on scaling laws

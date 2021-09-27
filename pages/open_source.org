@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       AE205EF3-0F38-4602-B1F1-7729B79B7A6F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: open_source
+#+TITLE: open source
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]

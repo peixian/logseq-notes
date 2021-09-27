@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       7AC60211-10E5-4B91-8C0D-51B55F4DC13F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: autograd_pytorch
+#+TITLE: autograd (pytorch)
+
+Tags: [[id:8CF9A0F7-2E51-4922-B6B7-2C42E8E2BE16][pytorch]]
+
+Implements [[id:189CFB68-FFC5-4E1F-AF8F-F03D6829AE67][automatic differentiation]]
+
+https://towardsdatascience.com/pytorch-autograd-understanding-the-heart-of-pytorchs-magic-2686cd94ec95

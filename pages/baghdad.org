@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       105A47A9-B2B1-46B8-9531-52E9E39414AB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: baghdad
+#+TITLE: baghdad
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

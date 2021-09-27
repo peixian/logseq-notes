@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       0A290153-C654-42BA-8716-91506CE27F81
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: mu_puzzle
+#+TITLE: MU puzzle
+
+Tags: [[id:02E1C06A-9354-4671-9F73-4D1D3E198024][Hofstadter - Godel, Escher, Bach]]
+
+https://en.wikipedia.org/wiki/MU_puzzle
+
+Unsolvable puzzle by holfstadr, meant as an example of a [[id:DCF8D543-265E-4077-9437-9C449BA6036D][formal semantics]]

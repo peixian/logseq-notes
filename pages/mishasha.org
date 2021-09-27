@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       6029CFFB-9331-4A6F-A7B6-B43AF373CA05
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: mishasha
+#+TITLE: mishasha
+
+Tags: [[id:C21DF9B0-E7E9-44F9-91A2-EEA809BD6293][libya]]

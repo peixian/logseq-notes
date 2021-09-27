@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       1A4A5497-C5A4-4F27-BE19-3F583EE52936
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: japanese_permanent_residency
+#+TITLE: japanese permanent residency
+
+Tags: [[id:62E85EBD-21E3-42DB-88A6-691F6271331C][japan]]
+
+- https://www.dampfkraft.com/how-i-got-my-japanese-pr.html

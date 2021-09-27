@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       D8B47778-C3A4-4E3E-89D9-24D02250774F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: bikepacking
+#+TITLE: bikepacking
+
+Tags: [[id:CAFF2018-7C24-402E-9528-464A87D2DC39][personal]]
+
+- https://bikepacking.com/bikepacking-routes/
+- https://bicycles.stackexchange.com/questions/2658/how-bad-is-road-salt-for-my-bike
+- https://bikepacking.com/bikepacking-101/
+- https://www.rei.com/learn/expert-advice/how-to-plan-a-bikepacking-route.html?series=intro-to-bikepacking
+- https://www.rei.com/learn/expert-advice/bikepacking.html
+
+* maintence
+- https://www.rei.com/learn/expert-advice/bike-maintenance.html
+- https://www.nytimes.com/wirecutter/reviews/best-rain-gear-for-biking/
+- https://www.nytimes.com/wirecutter/reviews/best-bike-patch-kit/
+- https://www.nytimes.com/wirecutter/reviews/cheap-bike-accessories/#a-spare-tire-tube
+- https://www.rei.com/learn/expert-advice/how-to-clean-a-bike.html
+- https://www.nytimes.com/wirecutter/reviews/best-bike-rack-basket-panniers/
+- https://www.amazon.com/dp/B01CLVRRL0/?tag=thewire06-20&linkCode=xm2&ascsubtag=AwEAAAAAAAAAAXLm
+- https://www.rei.com/product/149696/ortlieb-twin-city-pannier-single
+- https://surlybikes.com/bikes/pack_rat
+- https://www.rei.com/blog/cycle/whats-the-difference-between-rim-brakes-and-disc-brakes

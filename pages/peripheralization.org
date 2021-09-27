@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       1E42A6F9-DBE5-4570-92F4-76125FE3AB85
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: peripheralization
+#+TITLE: peripheralization
+
+Tags: [[id:97BD1E12-9693-4CF4-8A7E-61DFAC324300][united states]]

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       ABABD3B9-025D-42BA-A95C-64DE159466B3
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sadr_city
+#+TITLE: sadr city
+
+Tags: [[id:105A47A9-B2B1-46B8-9531-52E9E39414AB][baghdad]]

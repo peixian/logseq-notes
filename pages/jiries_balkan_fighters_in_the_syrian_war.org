@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       008BF094-6E1D-4722-994A-E962F00FFDE7
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: jiries_balkan_fighters_in_the_syrian_war
+#+title: Jiries - Balkan Fighters in the Syrian War
+
+[[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:BE234E49-5E49-4054-8308-6EDDCA766FAB][syria]], [[id:67096193-0BA9-4CE6-81A8-6EE477DDC692][balkans]]
+
+Possible tie in to [[id:4CBBFFCC-556E-41CE-96F3-145BB907F92A][Li - The Universal Enemy]]

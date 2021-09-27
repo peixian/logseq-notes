@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ID:       4CAD369E-15DD-4BAA-B5AB-560834E31928
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: young_ultralearning
+#+TITLE: Young - Ultralearning
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]]
+
+
+- Notions of memory:
+  - 3 types:
+    - Degredation
+      - Memory degrades as time goes on
+    - Lock and Key
+      - Memory stays, but the key to it disappears, which is why it requires certain cues
+    - Overwritten
+      - Memory stays, but is overwritten by others
+
+- Carefully design drills
+  - Choose for direct practice
+- Take notes as questions instead of answers to practice retrival
+- Best feedback is informative and usable, but any feedback is better than none
+  - Important to know which parts of feedback is useful for signals
+  - Carefully and tune learning environment
+- Procedural skills, such as biking, are more easily remembered
+  - Turning rote learning into procedural learning is one fo the best ways to remember
+  - Same with overlearning, keeps the memory for longer
+- Steps for a project:
+  - Metalearning:
+    - Research into typical ways of learning this skill
+    - Make sure to set realistic, achievable goals
+  - Focus:
+    - Block aside time to actually work on the skill a la [[id:7BF6C237-2C71-4875-8141-1CBC99BC750A][Newport - Deep Work]]
+  - Directness:
+    - Directly tackle the skill in the format you'll be using it in with similar environments
+  - Retrival:
+    - Is time being spent passively or actively retriving it? Can things be recalled from memory without looking at notes?
+  - Feedback:
+    - Is feedback honest? Is performance being improved as part of the feedback?
+  - Intuition:
+    - Do I understand the things I'm learning or is it rote memorization?
+  - Experimentation:
+    - Are new techniques being tried beyond the current resources?

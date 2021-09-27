@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       A5CACE85-C257-4B0D-93ED-1D1FD8D9BEB5
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sierra_leone
+#+TITLE: sierra leone
+
+Tags: [[id:4716EF6A-B378-4010-B090-41D487EB8B72][africa]]

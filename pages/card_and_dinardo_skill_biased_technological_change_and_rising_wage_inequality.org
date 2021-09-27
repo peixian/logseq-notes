@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       FA7FC7EF-E2A8-4666-A9A0-2C48E0E1BDC1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: card_and_dinardo_skill_biased_technological_change_and_rising_wage_inequality
+#+TITLE: Card and DiNardo: Skill-Biased Technological Change and Rising Wage Inequality
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:F709D506-FFCB-48F1-84AB-C2DB7E8AB990][inequality]]
+
+Draws a correlation between skill-based technological change associated with new [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]].

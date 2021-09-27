@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       41774016-50D2-4B0F-9F8C-EAD89C9CACAE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: uruguay
+#+TITLE: uruguay
+
+Tags: [[id:541FBA99-7262-473E-A56B-3BB3D1FF8EE5][americas]]

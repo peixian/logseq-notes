@@ -1,0 +1,126 @@
+:PROPERTIES:
+:ID:       C45D52E5-30CA-44DC-8B1A-B1E3CD77E247
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: alaaldin_et_al_the_rise_and_the_future_of_militias_in_the_mena_region
+#+TITLE: Alaaldin et al: The Rise and the Future of Militias in the MENA Region
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]
+* Preface
+  - Conventional western models of DDR and SSR appear irrelevant or unenformcable in countries where competition in fractured societies and the absences of strong institutions preclude their implmentation - p 9
+    - calls on dialogue
+* 1 - The Past, Present & Future of Militias - Raaj Alaaldin
+  - Interventions in [[id:3196ECF7-71C2-43FE-A065-F3984D89DD1E][kosovo]] and [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]] paved the way for weakneing of the international system
+    - Undermined principals of soveriengty and created an environment where other world powers can pursue their own interests under the guise of same legal and normative arguments
+      - [[id:FC6E4EC6-A8C0-4D5B-B96F-D6FC2D1F30B4][russia]] in [[id:2B6171A0-EA65-4BCF-9401-B7563150DCCE][georgia]], [[id:564A88CF-CBDF-47BA-9D75-3481D70B4398][ukraine]], and [[id:BE234E49-5E49-4054-8308-6EDDCA766FAB][syria]]
+  - Violence between states has disappeared
+  - West has engaged in optimistic, at times unrealistic policy making
+  - questions of the fragility of the state and rehabilitation frames the question, whereas militias are the result of long-standing pre-war legacies of dysfunctional governace and authoritarianism
+    - It is not the conflict or the immediate aftermath, but longstanding greviances and a sense of injustice
+  - argues that civil society is better positioned to challenge the promience of militias and can constitute a means through which to discourage the youth from joining armed groups
+  - demographics of the region, especially through youth bulges and growing population rates
+  - [[id:DE11B1DE-9DE7-4B29-A074-C962666085E1][hezbollah]] paradoxically bridged the gap by providing services where the state couldn't, but also hinder the state's remergence
+    - transnational shia militia groups have transitioned in [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]] have transition into socio-political organizations
+      - asks us how can we separate these?
+      - assertion that it is good goverenance the building of institutions that can remedy instability and conflict
+        - conventional military and policing institutions are at risk of being dominated by armed groups
+  - cycle of draining state resources -> enriches miltias [[id:5B1EEFCB-617C-455A-875B-C4F933D92DF6][Akdedian et al: State atrophy and the reconfiguration of borderlands in Syria and Iraq]]
+  - IO's are still unable to establish the parameters of its engagements with ASNAs
+    - returnees and extremists are emblmatic of this - [[id:776071A4-B1EE-425D-9D0F-69D437CD4CA5][foreign fighter returnees in iraq]]
+  - Argues that the international community should start esriously condisdering laws and guidelines for engaging with armed groups
+    - especially in contexts where these actors are pivotal to defeating terrorist groups
+    - forms of otherness, lack of belonging
+    - vetting and purging of institutions
+  - reintegration is not about giving up guns, but rather about incorporating them into a social dialogue
+  - says that armed groups work in a legal void -> without laws to channel and
+* [[id:DE11B1DE-9DE7-4B29-A074-C962666085E1][hezbollah]]: the superior militia - Mohanad Hage Ali
+  - hezbollah has filled the void caused by the disintgration of the state
+  - now contributes to hindering the state's reemergence by being part of government
+  - under syrian regime control (1990-2005) - hezbollah focused on improving military capacity, religious institutions, and welfare network
+  - has subcontracted internal security challenges to local actors and allies,threating the use of force to achieve political ends
+** pre-2005
+   - [[id:E4879B67-1E98-47AE-8CAC-12F71DA1780E][amal]] and [[id:DE11B1DE-9DE7-4B29-A074-C962666085E1][hezbollah]] civil war in the 1990's was largely seen as a iranian-syrian showdown over who controls the Lebanese Shiites
+   - syrian dominated order took shape under taif
+   - syrian domination required the Rafik Hariri prime minister post
+   - strong internal security aragement with [[id:5E8A9793-6DE6-4E2C-A33B-D85714A3C06C][iran]] to fight against [[id:BCB88E11-A4E5-4362-AE55-73D18B323882][israel]]
+   - back in 1989, hezbollah was marginal to [[id:B3D0AE9F-4A1A-425A-928B-78D2C350F570][taif agreement]]
+     - says that [[id:B3D0AE9F-4A1A-425A-928B-78D2C350F570][taif agreement]] paved the way for Druze-dominated [[id:02CAC3ED-AB13-4272-908D-CE07D83E81A9][progressive socialist party (lebanon)]] and [[id:E4879B67-1E98-47AE-8CAC-12F71DA1780E][amal]] vs Hariri
+     - taif's statement of the implict arrangement to evict [[id:BCB88E11-A4E5-4362-AE55-73D18B323882][israel]] gave [[id:DE11B1DE-9DE7-4B29-A074-C962666085E1][hezbollah]] a clear mandate to liberate south lebanon
+   - by 1990's hezbollah's institutions grew into microbanking, lower and higher education, health services, construction, assistance to families, scouts, and militia
+   - [[id:DE11B1DE-9DE7-4B29-A074-C962666085E1][hezbollah]] was the informal non-state representation for lebanese shiites, [[id:E4879B67-1E98-47AE-8CAC-12F71DA1780E][amal]] claimed the share in government
+   - party officialy joined gov in 2005, as part of the al-Hilf al-Rubaii alliance, prioritized the weapons
+** post-2006
+   - surivial in 2006 war undermined the state
+   - may 7th, 2008 - hezbollah took over west beirut
+   - pushed Hariri out of power in 2011
+     - helped out by [[id:C0F2C571-45DB-49A9-A80D-DCC13F9B95ED][Walid Jumblatt]]
+   - entered the syrian conflict in 2012
+   - [[id:DE11B1DE-9DE7-4B29-A074-C962666085E1][hezbollah]] founded the lebanese brigades of resistance in 1997 to incorporate non-Shiite members
+** Resistance or the System
+   - Use of weaponery has consistently been justified by [[id:DE11B1DE-9DE7-4B29-A074-C962666085E1][hezbollah]] on the basis of the [[id:B3D0AE9F-4A1A-425A-928B-78D2C350F570][taif agreement]]
+** Changing the [[id:BE234E49-5E49-4054-8308-6EDDCA766FAB][syria]]n Conflict Alibi
+   - Joined the syrian conflict to "deter" the emerging threat
+   - [[id:04015558-6BC0-49E5-A577-5678856ED541][hassan nasrallah]] stated in 2013 that the conflict requires a wider engagement to prevent [[id:BE234E49-5E49-4054-8308-6EDDCA766FAB][syria]] from falling into american hands
+** Fair al-Jurood
+   - july 21st, 2017 - [[id:DE11B1DE-9DE7-4B29-A074-C962666085E1][hezbollah]] launched the first operation against [[id:D565EE03-B588-489C-BDB7-DACD67FA5F8A][islamic state (is/isis/isil)]] and [[id:3E345DCF-DD76-45D0-B349-5358F5CF1A89][al-nusra]]
+     - partnered with syrian military
+   - lebanese military launched its own campaign in august
+   - lebanese campaign threatened [[id:DE11B1DE-9DE7-4B29-A074-C962666085E1][hezbollah]]'s raison d'etre because hezbollah's arms requires the assumption that the army is incapable of defending the country alone
+** Conclusion
+   - narrative that the state's inability to defend itself gives hezbollah power
+     - what can we think about artificial state narratives and [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]?
+* Janus in the Land of the Two Rivers: What Role for Militias in [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]? - Andrea Plebani
+  - Multiple power centers contest [[id:105A47A9-B2B1-46B8-9531-52E9E39414AB][baghdad]]'s authority
+  - crumbling state institutions had surge in militias
+  - from 2006 onwards [[id:3C62E0B5-B282-4E57-AEFC-9C765384B7EA][sahwa (awakening)]] councils ended up contributing
+  - consolidation of state authoirty under [[id:551974DA-A83D-409F-8426-61DE3A40D43F][nouri al-maliki]] in 2008 and 2010
+    - [[id:ACD3A73C-86F6-4C98-8E36-CB608AC43F8F][Rayburn - Iraq After America]]
+** The [[id:ADFAE0CB-D584-4CE9-9965-4E76C474546E][hashd al-shaabi (PMF)]]: an assessment
+   - Still difficult to undestand whether they could represent a resource for the iraqi state or whether they will contribute to further destabilization
+   - different geographical, ethnic and religious backgrounds, including mixed forces
+   - also legitimized various underground militias
+   - first reforms attempted in 2016
+     - recongized the pmf as independent military formation within iraqi secuirty forces, [[id:95DA0D77-6FC2-4BD5-9C16-20B037DCB31E][haider al-abadi]] tried to pass a bill establishing a national guard ([[id:19B6AC64-2EDE-40BE-8F7A-B8FBC87D8FB8][national guard law (2015)]]) to counterweight the PMF
+     - eventual passing of the Hashd law on Nov 26, 2016
+   - new decree in march 2018 ([[id:F643CE85-DE07-4F56-B49E-8439D1479B34][executive order 85 (2018)]])
+     - entitled the PMF to the same compensation as as the ministry of interior and ministry of denfese
+   - july 2019 degree called for formal PMF integration into state apparatuses
+** Critical Resources, Spoilers, or What?
+   - pmf still maintains significant levels of autonomy at multiple levels
+   - most powerful pmf networks have adopted a multi-pronged strategy at guarenteeing their influence within the Iraqi system
+   - institutionalization and integration has represented an opportunity to plunder the state
+   - significant influence by the iranian aligned ones gives them say in distributing of state resources
+   - further consolidation can actually risk the cohesion of the security system
+   - border activities still generate profit
+   - [[id:DFBEAC5A-F3A1-4E7A-A335-269DCAC75684][sayroon]] and [[id:DA59FDA7-A1B8-4BB1-8592-C9EB9014CF5C][fatah (political party)]]
+* Conflict Resolution in Libya: How to Deal with Militias? Federica Saini Fasanotti, Arturo Varvelli
+  - govs in the [[id:C61C3FE4-06C6-4621-818B-503E36E83B7C][middle east]] are increasingly relying on irregular armies
+  - toppeled [[id:BBC22504-8425-436C-AA69-0BB5B6CF08BC][gaddafi]] in 2011 spread between those who supported the rais and those who didn't
+  - historical rivalries between [[id:6029CFFB-9331-4A6F-A7B6-B43AF373CA05][mishasha]] and [[id:EAD052A2-6A80-4AA0-9C3F-0440C053443A][zintan]], [[id:FF16BC57-9DF4-4262-9F83-4F443BDDF2C4][misrata]] and [[id:4E914F0A-664D-40A6-9D45-67324C38FC51][tawargha]], [[id:AFFCD4BE-51EF-4405-99C4-F6844B0CC863][tuareg]] and [[id:1AEBB9A3-6649-4FED-8C4C-BC33BFA55149][tebu]]
+  - 2014 - [[id:EAD052A2-6A80-4AA0-9C3F-0440C053443A][zintan]]'s militias attacked by a jumble of other forces
+  - currently more than 250k, whereas 30k fought against Gaddafi
+  - split between the [[id:9D053476-2134-4C8C-A711-4C4A958C372F][government of national accord (GNA)]] and [[id:C7879811-258A-477C-BA5A-23AFDD3C9448][libyan national army (LNA)]]
+  - three historical regions of libya: tripolitania, cyrenaca, and fezzan
+  - over 140 tribes, but only around 30-40 have a social role
+  - eternal problem of who is at the table
+  - [[id:F0E23D3C-E685-4EBD-A3D4-8B1698114A0C][khalifa haftar]]
+  - [[id:E900796C-250A-474B-9054-C0C109C94A24][ddr]] concerns
+    - private economy
+    - higher education
+    - creation of jobs and empowerment
+  - [[id:2F7E55D6-A8D8-41B6-B7D0-09A9D1A09B22][france]], [[id:98F9993A-F5AD-44C5-A732-8BBAD7FA6BEE][egypt]], [[id:483D258D-ABC0-4EFD-B461-9835782220ED][uae]] all have their hands in this
+* Hamas and the "Hezbollah model" in the Gaza Stripe - Giuseppe Dentice
+  - does the transition of hamas into a political actor mean it is adopting a hezbollah model?
+  - [[id:9DDCE3FC-7518-4C9F-B6D7-231A8B2AC27C][hamas]] is deeply centralized, but has grown more flexilbe over time
+  - talks about how hamas has only shown minimal capability in institutionalizing state structures
+    - even after [[id:1731FE1E-2897-47C3-AC56-5295D3C84291][operation cast lead]], [[id:DC45DBFF-F20D-46E1-9C62-901C794DA51E][operation pillar of defense]], and [[id:38B22431-5503-4828-91EC-06F0D21EECDD][operation protective edge]]
+    - after 2014 allowed hamas to regain support
+  - hamas has tried to promote a gradual and constant process of transformation
+    - seeks to be more independent than hezbollah
+  - talks about the nature of democratic centralism
+  - ultimately hezbollah and hamas are similar but not the same
+    - both use resistance as a core principal
+    - both consider military resistance
+    - hamas has weaker military and political capacity
+  - hamas is fully embedded in the arab-israeli context
+  - islamism is a tired pretext, needs to fully transition into a political party if it wants to follow the hezbollah model

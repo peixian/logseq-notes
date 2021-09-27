@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       FA7F5370-9861-4405-A470-A6D23E93BA28
+:END:
+#+TITLE: Mumby - Graduate School
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:08700B30-6476-438A-A1CB-8452DB3DEA4F][grad school]]
+#+SETUPFILE:./hugo_setup.org
+
+- _...such as, contacting prospective graduate supervisors before applying to their programs (see Chapter 9), obtaining three strong letters of recommendation from professors who know you in relevant contexts, and putting together a compelling personal statement._
+- Graduate students spend a lot of time organizing and expressing ideas and facts to reflect clear and original thinking
+- How does completing a program help you where you want to be in several years?
+- Specific graduate supervisors may not be assigned, but you should be able to identify which faculty member I would like to end up with as primary supervisor
+- Sit down and write a plan of action for yourself
+- Good personal statements take several days, if not months
+- Start preparing well in advance
+- Always apply for fellowships, since the pot of money is pretty significant

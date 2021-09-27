@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       A5488635-00C9-42FD-9E8B-A02C90C2B19D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: uwiano_platform_for_peace
+#+TITLE: Uwiano Platform for Peace
+
+Tags: [[id:FA6F5293-2FFF-4468-ACCF-A3C3C860AA5C][kenya]]

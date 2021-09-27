@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       247DC79B-E751-4F55-BA95-1BAEE101FB3D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: dask
+#+TITLE: dask
+
+Tags: [[id:E898D280-0E18-478F-BE20-1DC110B2273F][pandas]], [[id:8026EC52-BBF0-44D7-AA4C-9579EA6F9824][numpy]]
+
+- https://dask.org/
+
+* Flow order
+- Graph, scheduling, execution
+  - constructs a flow order as a graph inside a python dict
+  - assumptions: data is not modified in place, tasks do not hold the gil
+    - python bindings for native interfaces may lock, these must be made sure to be released
+* Dask vs Spark
+  - similar to [[id:E707C883-BDB6-4409-B19A-FCAEE65985B2][spark]]
+  - spark has a higher level data representation
+  - dask uses numpy/pandas/sklear, spark is more mature and has sql support
+  - dask allows to compute arbitrary graphs
+  - spark allows computations from compositions of high level primitives or extending to rdd

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       25B78822-4C7F-41B6-8948-50CAF4E2222D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: adam_optimizer
+#+TITLE: adam optimizer
+
+Tags: [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]]
+
+- https://www.fast.ai/2018/07/02/adam-weight-decay/

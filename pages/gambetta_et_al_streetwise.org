@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID:       DF8B9F0D-B4B8-42EA-8379-1BA4E1443AC5
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gambetta_et_al_streetwise
+#+TITLE: Gambetta et al - Streetwise
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]]
+
+- Gambetta, Diego, and Heather Hamill. Streetwise: How Taxi Drivers Establish Customer’s Trustworthiness, 2005. http://www.vlebooks.com/vleweb/product/openreader?id=none&isbn=9781610442350.
+- Talks about how taxi drivers must adopt a very quick rate of understanding their clients
+  - Signaling theory
+    - how does a hailer signal they are trustworthy? How does a mimic attempting to rob a taxi driver signal they are trustworthy?
+    - Age, race, gender, dress, etc
+  - "Gut feeling"
+    - Taxi drivers develop some amount of gut feelings
+  - Most taxi drivers acknowledge that they are not in a position of power
+    - If mimics really want to decieve, they can
+    - Average take in a livery cab robbery is 75 dollars
+  - Signs:
+    - older over younger
+    - women over men
+    - "white" over "black:
+    - Spanish over other ethnic groups (iff driver is Spanish)
+    - Individuals over multiple passengers
+      - Groups with one female is safer
+    - Wealthier over poorer
+    - Known passengers over strangers
+      - Most important!!
+    - Callers over hailers
+    - Catholic over Protestant if the driver is Catholic (and vice versa)
+    - Self-absorbed over inquisitive
+    - Candid over shifty
+    - Friendly and calm over aggressive/agitated
+
+* Belfast
+  - Belfast drivers are split between protestant and sectarian
+    - Have strong community ties, often ex or related to armed groups in some way
+  - Often take a hawkish approach to being robbed
+  - Protestant taxi drivers won't go to Catholic areas, and etc
+
+* New York
+  - Taxi drivers are fish out of water
+  - Few community ties
+  - Signaling from dispatcher is highly used
+  - Certain neighborhoods avoided
+  - Will often try to calm someone down rather than fight against them

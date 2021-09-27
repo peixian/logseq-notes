@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       1B15F82C-A484-40D1-B7C1-FCD69CE78CE0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: rasterization
+#+TITLE: rasterization
+
+Tags: [[id:7CEBB199-2549-4FAB-A527-9698E39A354A][computer graphics]]
+
+- https://web.archive.org/web/20120212184251/http://devmaster.net/forums/topic/1145-advanced-rasterization/

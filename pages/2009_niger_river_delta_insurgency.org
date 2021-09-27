@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       E2D6AA8C-685B-4E47-8B74-4EA04AA5C52E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: 2009_niger_river_delta_insurgency
+#+TITLE: 2009 niger river delta insurgency
+
+Tags: [[id:223DAD28-AE76-42F8-BFD2-B598398171EF][niger delta]]

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       F62982D7-958A-4B4A-8654-BB720CC78677
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: integrated_information_theory
+#+TITLE: integrated information theory
+
+Tags: [[id:0C55E344-F9AE-4584-B54F-83EC2FCE9062][math]], [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]]
+
+Field put forward by [[id:E831F133-8E08-4532-B0C1-D923C7E12BC1][giulio tononi]], assigns each system a number (phi) that is the measure of "integrated information" that is supposedly a measure of conciousness

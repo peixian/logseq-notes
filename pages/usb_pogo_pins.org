@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       69056B16-825C-4CCB-A281-110C67DE6E09
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: usb_pogo_pins
+#+TITLE: usb pogo pins
+
+Tags: [[id:2AA1D9AF-AC95-4F25-80BF-EAC4B5473784][usb]]
+
+- https://old.reddit.com/r/RemarkableTablet/comments/jg2zwc/remarkable2_pogo_pins_and_3d_printed_usb_otg_host/
+- https://old.reddit.com/r/RemarkableTablet/comments/j9g1d5/rm2_with_an_external_keyboard_accessory_port_usage/
+- looks like pogo pins support usb 2.0: https://electronics.stackexchange.com/questions/454658/usb-2-0-pogo-pins

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       9A5BA9BB-E9FE-4D70-A796-5D403D01CF92
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: al_qaeda
+#+TITLE: al-Qaeda
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

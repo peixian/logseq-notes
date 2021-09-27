@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6377293C-2556-4797-9A2B-FED088E549BA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: un_and_global_governance
+#+TITLE: UN and Global Governance
+
+Tags: [[id:A63D0CEC-6083-46C5-BD8D-7A8D750FF1A4][classes]], [[id:7C05085A-564D-4186-B4E7-AD9DC612310A][un]]
+
+* [[id:C2FFFFB5-13EC-476F-AB83-FD70756DF07B][un and global governance lecture 1]]
+* [[id:B5718C5F-C397-4669-A100-06F66C9A480B][un and global governance lecture 2]]
+* [[id:AF22C8D3-5841-4CB4-858B-AB86D90017CC][un and global governance lecture 3]]
+* [[id:2E747AB7-60C7-4EFC-AA31-FD8AB58DDD00][un and global governance lecture 4]]
+* [[id:FD50208D-FC0D-4FED-A164-1CCA8E3E0ADB][un and global governance lecture 5]]
+* [[id:CFDF435E-7655-449A-BE22-8926D8F1CD40][un and global governance lecture 6]]
+* [[id:C74E2141-B04C-4B46-8BDF-C8223263BA88][un and global governance lecture 7]]
+
+* Final Paper Topics
+-

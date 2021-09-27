@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       884692C3-43B3-4A57-8C36-4A2938459668
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: patterns_that_eventually_fail
+#+TITLE: patterns that eventually fail
+
+Tags: [[id:0C55E344-F9AE-4584-B54F-83EC2FCE9062][math]]
+
+- https://johncarlosbaez.wordpress.com/2018/09/20/patterns-that-eventually-fail/
+
+Approximations have issues blowing up at scale, patterns can last for a very long time without continuing forever, such as Borwein integrals

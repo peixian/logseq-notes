@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       9A35E4C5-3536-41AD-BDBB-B2E3E52E4B4A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: geb_chapter_3
+#+TITLE: geb chapter 3 (figure and ground)
+
+Tags: [[id:02E1C06A-9354-4671-9F73-4D1D3E198024][Hofstadter - Godel, Escher, Bach]]
+
+- What is a typographical system?
+  1. Reading & recongizing any set of finite symbols
+  2. Writing down any symbols that belong to that set
+  3. Copying any of those symbols from one place to another
+  4. Erasing any of those symbols
+  5. Checking to see if symbols are the same
+  6. Keeping a list of the symbols already made
+
+- We can define primes by defining the negative of the composite, but this comes with a problem
+  #+begin_quote
+there eixst formal systems whose negative space is not the positive space.
+  #+end_quote
+- If we define the space of all composite numbers, prime numbers are recursively enumerable, but they are not recursive derivable. We cannot compute primes without checking all the numbers that lead up to it, this is a one way function.
+  - This allows the embedding of information, such as [[id:98976F6B-9E67-4331-8141-20D7136B5476][crypto (for cryptography)]]
+  - [[id:670B0AC3-A80D-4DBE-8B4F-7B1FB74A8DA1][halting problem]]
+  - [[id:216FDDEA-884B-43BD-990C-EF8F0F0E8009][godel's incompleteness theorem]]

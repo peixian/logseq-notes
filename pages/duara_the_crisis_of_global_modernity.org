@@ -1,0 +1,63 @@
+:PROPERTIES:
+:ID:       BF9CE2A0-7F15-4176-8CD7-605DACB9188B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: duara_the_crisis_of_global_modernity
+#+title: Duara - The Crisis of Global Modernity
+
+[[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:4D07A7F6-AA30-415E-B718-B82E4151A482][religion]]
+
+* Chapter 6
+  - talks about how the shape of religion created in [[id:2D1182A8-F06B-4E3A-BC2B-5BA30C8C90BF][Asad - Formations of the Secular]] does not map neatly to [[id:AD9C4325-95C2-4DBC-83A0-5081D68D60D3][east asia]] and [[id:54A7E315-9721-4BC9-BE36-EE6B40B82889][south asia]]
+  - Utilizes the concept of "traffic" - the movement between the sphere of religious ideas and practices and the sphere of the secular - pg 196
+  - talks about modern [[id:AAC48A50-D531-4734-9D9C-B9E08893315B][spirituality (modern)]]
+  - refers to [[id:71659966-3924-4400-8BFF-5DCD8D416BF0][Jose Casanova]] and [[id:66F03EA9-E909-4D55-B5BD-DE7C4EBC5863][Charles Taylor]]
+  - Talks about [[id:A93822C1-5F85-46EE-B9C7-95F7FD1F5F30][Martin Riesebrodt]]
+  - "sacrality is closely associated with, and is frequently the condition for, sacrifice" - [[id:E2B72ECC-D0A8-48D8-B793-D19062FD4CB7][sacrifice (concept)]] - pg 203
+  - "both the state, by means of its legal, classificatory and coercive powers, and social groups are constantly breaching this separation and remaking religion and the secular sphere. One of the factors enabling this breach is actually the lack of definition of religion itself in most national constitutions or international law" - pg 204
+  - notes that religion can be used as a tool for state authority, nationalism and identitiy building, both top down and bottom up
+** [[id:0E21DFCA-3016-427A-965E-341DE95432B7][china]]
+ - Talks about how in 1912 [[id:0E21DFCA-3016-427A-965E-341DE95432B7][china]], Yuan Shikai attempted to use [[id:B74C713C-4C30-49E4-8552-7ADA6DB448EE][confucianism]] as a way of building nationalism
+   - failed, and in 1914, syncronized sacrifices and reverences to heaven and confucius were brought back, but _not_ declared as a religious act
+     - why is it possible to circumscribe the not here, but not the actual thing itself? is this similar to [[id:092E967F-8E43-42E3-88B5-867AACF158D0][grammar in the brain]], where we can easily detect when words are *not* real, but have a hard time with the passing words (class 2 in [[id:FAE3090E-CD47-4935-883F-E645AE46E1ED][Language and the Brain]])
+   - in the first decade of the century, the Kongjiaohui/Confucian Religion Association, led by Kang Youwei, also attempted to turn [[id:B74C713C-4C30-49E4-8552-7ADA6DB448EE][confucianism]] into a religion
+   - The May 4th movement was premised on unremitting hostility to religion
+   - Chinese communist literature now mentions how new [[id:5EE8C2F7-9DC7-4E39-B0B4-8638F1755EB4][rituals]] were created that were necessary for the formation of revolutionary citizens. "Writers have recorded the ritual performances and theatricalized politics of 'speak bitterness' and 'fanshen' practices of revolutionary rebirth, a process similar to conversion" - is this similar to [[id:9B83B603-B44D-48FF-A154-E6C36F7D2225][shia]]?
+     - See Ann Anagnost, National Past-Times: Narrative, Representation, and Power in Modern China (Durham, NC: Duke University Press, 1997); David E. Apter and Tony Saich, Revolutionary Discourse in Mao’s Republic (Cambridge, MA: Harvard University Press, 1994); Stephan Feuchtwang, Popular Religion in China: The Imperial Metaphor (London: Routledge Curzon, 2001), pp. 220–50; Prasenjit Duara, “History and Globalization in China’s Long Twentieth Century,” Modern China, 34(1) (2008): 152–64.
+** [[id:91F14011-04E8-4862-BCDC-17DB96B965F5][south korea]] and [[id:B4710362-365E-423D-8986-F970DA78CCFB][vietnam]]
+   - The Chondogyo in Korea and the Caodai religion in vietnam both emerged at the end of the 19th and early 20th centuries, both were religiosity in the mold of Chinese redemptive politics
+     - Chondogyo grew out of the Donghak peasant rebellion in the late 19th century Korea that fought against Western imperialism and the restoration of 'Eastern Learning' (Donghak) - pg 208
+     - Chondogyo perioditcally split into factions, but largely lead the resistance to Japanese occupation in the early stages and during the landmark March 1919 independence movement.
+   - Caodai (the Great Way of the Third Age of Universal Redemption) - founded by the educated Vietnamese in 1926
+     - Currently has 3-6 million followers within Vietnam and 50k overseas
+     - Bridged gap between rural society and urban society more successfully than others
+     - Stated that the vietnamese were chosen people, because they had suffered more than any other people under the most repressive colonial regime, and were charged with the mission of "reuniting all religions into one" - pg 210
+     - weaved together various deities and formed a structured system around them
+** Peranakans
+   - Chinese immigrants into the Dutch East Indies during the first part of the 20th century
+   - Existed mostly in [[id:19767910-0590-44C4-850A-672522D7B126][malaysia]] and [[id:67B552F8-CC06-41D3-B87B-369E5694908F][indonesia]]
+     - Although the Chinese Peranakans mostly assimilated within Malaysia
+   - During the turn of the century, it was the Peranakans who wanted re-Sinicization
+   - Most influential Chinese nationalist group in [[id:54A7E315-9721-4BC9-BE36-EE6B40B82889][south asia]] around 1900 was Kang Youwei and Liang Qichao
+   - D.E. Wilmott noted in 1960 that interest in religion among Chinese in Indonesia had grown steadily, and adopted a similar [[id:B74C713C-4C30-49E4-8552-7ADA6DB448EE][confucianism]] type religion
+   - Had various runins with Islam, and eventually evolved to become a syncretic type religion
+   - Eventually became Sam Kauw Hwee (Sanjiaohui) - Peranakan version of chinese three-in-one
+     - established by Kwee in 1934 and became very popular, establishing over 30 branches in Indonesia in 1955
+     - equated heaven with God and Allah and sky
+   - "Kwee's religious journey from radical Confuccian religiosity to the abstraction that equated Allah and Heaven may be read as a code to the layered complexities of Peranakan history in the 20th century" - pg 219
+   - Sam Kauw Hwee allowed the peranakans to have their gods and God
+** [[id:8167F3DC-A169-4452-B5DC-F6F669C0C038][india]]
+   - Modern indian social and intellectual currents are typically said to begin with Raja Ram Mohun Roy (1772-1833), the father of the Bengal Renaissance, who advocated reform of Hinduism, abolition of the practice of sati, monotheism, deism, and rational religion. - pg 222
+   - South asia spawned a distinct love of the motherland, that even successors of Roy's Brahmo Samaj, such as [[id:6ED7643B-B77F-4699-B86E-98DE6B52F238][Rabindranath Tagore]] cultivated the love of spiritually conceived motherland
+   - The Arya Samaj of Dayananda Sarwasati, dominant in Punjab and western India, which advocated for a rational religion, monotheism, deism, and social reform
+   - British development of representative self-governance encouraged others within the system to work within it to vie for their own self governance
+   - "How do modern religions conserve the authoritative transcendent not in the face of routinization as such, but in the face of temporalization?" - 225
+   - Swami Agnivesh - Activist, runs major organizations to combat the practice of bonded labor, identifies as a marxist
+     - Kwee and Agnivish both are unable to finid transcendence in their spiritual reform and turn inwards, which is exactly the modern religion
+   - Ambedkar is a famous convert to Buddhism, talked about it from the untouchable class, even though he viewed the conversion as a political tool
+     - Which then asks why not any other political identity?
+** [[id:08442549-7E03-4DC0-AC9D-AFB23CD6AC48][bangladesh]]
+   - Sekhar Bandyopadhyaya's study of the mobile Namasudra community
+     - Originally outcast community of several millions in East Bengal, made a living as boatsman and fisherfolk
+     - Faced discrimination in regular society, so they developed their own religoin, Matua, which gave them collective solidarity to neogtiate their way into modern society
+   - Buddhist teachings were absorbed into various Hindu movements before Buddhism disppeared from the continent

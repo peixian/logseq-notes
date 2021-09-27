@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       F5E4DB32-6C85-47E2-AC7F-759544D1422C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: un_department_of_peacekeeping_dpko
+#+TITLE: un department of peacekeeping (DPKO)
+
+Tags: [[id:7C05085A-564D-4186-B4E7-AD9DC612310A][un]]

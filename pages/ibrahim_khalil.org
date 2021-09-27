@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       1DFBC9C6-5D32-4EA5-B165-D89AB9372650
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ibrahim_khalil
+#+title: ibrahim khalil
+
+Border crossing in [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]], controlled by the [[id:0B9FAF9E-0A55-44FE-96CE-D6D382CF6617][KRG/iraqi kurdistan]]. Most of the shipments from Turkey flow through here

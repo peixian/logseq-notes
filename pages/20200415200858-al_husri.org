@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       6094883D-318E-4D62-9FBE-11044BB72D32
+:END:
+#+TITLE: al-Husri
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+al-Husri directed education in Iraq, promoted pan Arabism, butted heads with the Columbia teacher's college
+
+* [[id:8830B938-A3B9-4C75-A32C-314836589F57][Simon - Imposition of Nationalism on Non-Nation State]] says:
+
+  - Husri cited german "volk" type of primordialism, extolled the idea of pre-Islamic Arabs
+  - Decided that history of Arab nation was the history of the Arabs, not of Islam
+  - Bypassing of religious unity via langauge, similar to [[id:47EF592A-10D4-4923-BE86-E3E03918624D][Anderson - Imagined Communities]]
+    - Arabism could then transcend religion and be accepted by Sunni, Shia, Christian, and Jew
+      - Notably no Kurds
+  - left in 1936 due to disagreements with teacher's college, but Muhammad Fadil al-Jamali and Sami Shawkat continued his work
+  - History was used as a tool
+
+
+
+
+Cited in [[id:8BE50F7D-C2A1-4029-8216-7C88A44716CB][Makdisi - The Ecumenical Frame]], [[id:D7A476E6-3506-4335-A5EC-12838C0F4B39][Pursely - Familiar Futures]],
+#+SETUPFILE:./hugo_setup.org

@@ -1,0 +1,118 @@
+:PROPERTIES:
+:ID:       FAEEED28-81EA-4209-B4DD-C56E9BD1673B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: awk
+#+TITLE: awk
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- https://ferd.ca/awk-in-20-minutes.html
+- example: https://github.com/ferd/recon/blob/master/script/queue_fun.awk
+- another: http://c2.com/doc/expense/
+- https://www.youtube.com/watch?v=43BNFcOdBlY
+- https://www.youtube.com/watch?v=4UGLsRYDfo8
+* Structure
+  - Everything in awk is a pattern -> action
+    #+begin_src awk
+      Pattern1 { ACTIONS; }
+
+      Pattern2 { ACTIONS; }
+    #+end_src
+
+  - Each line will go through each of the patterns, one at a time
+
+
+* Data Types
+- awk only has strings and numbers
+- strings can be cast into numbers
+- both can be assigned to variables in ~ACTIONS~ with the ~=~ operator
+- variables can be declared anywhere, uninitialized variables have ~""~ empty string value
+- awk has unidimensional associative arrays
+  - ~var[key] = value~
+- can simulate multidimensional arrays, but not very good
+
+* Patterns
+** Regular and Boolean Expressions
+   - supports non-[[id:D4368257-7330-443D-B7E3-2DE90A69020D][pcre]] regex (~gawk~ might)
+   - patterns can't capture specific groups, only to match
+   - boolean expressions have ~&&~ ~||~ and ~!~
+   - note that ~==~ does fuzzy matching (like js)
+   - booleans can be used alongside regex
+   #+begin_src awk
+     /admin/ || debug == true { ACTION }
+   #+end_src
+   - specific string matching against regex can use ~~~ or ~!~~
+   - can also just use ~{ACTIONS}~ to have it run against every line
+
+** Special Patterns
+   - ~BEGIN~ matches only /before/ any line has been input to the file, can initiate variables and other state
+   - ~END~ lets you do some final cleanup
+   - /Fields/ see below
+*** Fields
+    #+begin_src awk
+      # According to the following line
+      #
+      # $1         $2    $3
+      # 00:34:23   GET   /foo/bar.html
+      # \_____________  _____________/
+      #               $0
+
+      # Hack attempt?
+      /admin.html$/ && $2 == "DELETE" {
+        print "Hacker Alert!";
+      }
+
+    #+end_src
+    - Fields are default separated by whitespace
+    - You can modify the line by assigning to the field
+* Actions
+  Many possible actions, most useful ones:
+  #+begin_src awk
+    { print $0; }  # prints $0. In this case, equivalent to 'print' alone
+    { exit; }      # ends the program
+    { next; }      # skips to the next line of input
+    { a=$1; b=$0 } # variable assignment
+    { c[$1] = $2 } # variable assignment (array)
+
+    { if (BOOLEAN) { ACTION }
+      else if (BOOLEAN) { ACTION }
+      else { ACTION }
+    }
+    { for (i=1; i<x; i++) { ACTION } }
+    { for (item in c) { ACTION } }
+  #+end_src
+
+  ALL VARIABLES ARE GLOBAL
+** Functions
+   Functions can be called with typical syntax ~{ somecall($2) }~
+
+   Built-in functions: https://www.gnu.org/software/gawk/manual/html_node/Built_002din.html#Built_002din
+
+
+   User defined functions:
+   #+begin_src awk
+     # function arguments are call-by-value
+     function name(parameter-list) {
+       ACTIONS; # same actions as usual
+     }
+
+     # return is a valid keyword
+     function add1(val) {
+       return val+1;
+     }
+   #+end_src
+* Special Variables
+  #+begin_src awk
+    BEGIN { # Can be modified by the user
+      FS = ",";   # Field Separator
+      RS = "\n";  # Record Separator (lines)
+      OFS = " ";  # Output Field Separator
+      ORS = "\n"; # Output Record Separator (lines)
+    }
+    { # Can't be modified by the user
+      NF          # Number of Fields in the current Record (line)
+      NR          # Number of Records seen so far
+      ARGV / ARGC # Script Arguments
+    }
+  #+end_src

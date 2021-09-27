@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0E21DFCA-3016-427A-965E-341DE95432B7
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: china
+#+TITLE: china
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]
+
+* Resources:
+  - https://macropolo.org/

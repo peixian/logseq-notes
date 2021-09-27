@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       D3AA6E98-9BBA-4B30-9F9A-A101E393C4BF
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: epimenides_paradox
+#+TITLE: epimenides paradox
+
+Tags: [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]]
+
+Self referantial paradox on
+#+begin_quote
+Epimenides was a Cretan who made one immortal statement: "All Cretans are liars"
+#+end_quote
+
+did Epinmenides speak the truth?

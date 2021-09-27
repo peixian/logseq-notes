@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7DD47A90-817B-4094-BB5F-26A1F825CE7A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hunt_all_necessary_means_to_what_ends
+#+TITLE: Hunt: All Necessary Means to What ends?
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:7C05085A-564D-4186-B4E7-AD9DC612310A][un]], [[id:AF22C8D3-5841-4CB4-858B-AB86D90017CC][un and global governance lecture 3]]
+
+Talks about how the transformation to a more forceful regime for UN peacekeepers has impaired neutrality and possibly foreclosed the humanitarian space
+
+Robustness on paper was only self-defense, but [[id:F5E4DB32-6C85-47E2-AC7F-759544D1422C][un department of peacekeeping (DPKO)]] has used it when force was necessary for the mandate of the mission, has therefore become the defacto case that peace enforcement becomes the business of the multinational coalitions authorized by the security council, and not the un
+
+But usage of force comes with problems of being forced to pick sides, and does not necessarily always the right solution. Issues of seeing deployments like the [[id:00EAE618-8CAD-4541-AE8D-35D22368B88A][force intervention brigade (FIB)]], as dual hatting both the force and the aid.
+
+[[id:2F891118-4D17-4227-BD32-4964F6DBF8D6][fao]] and other [[id:7FEA6B9D-8C21-4614-8F22-38F3D514D378][ngo]]'s (soft underbelly) become possible targets once the UN steps down from its neutral perch, such as when the [[id:C74B700F-07D9-4F54-8532-25400C21C5D0][united nations multidimensional integrated stabilization mission in mali (MINUSMA)]] was strict on the side of the government, and incorporations of French Units into the MINUSMA umbrella raises the problem that they exist to maintain territorial integrity
+
+same case with [[id:7AC13DA7-5BDB-469E-AA1F-99768ACDB026][united nations multidimensional integrated stabilization mission in the central african republic (MINUSCA)]]
+
+UN also continues to grapple with issue of state sov when it comes to deploying missions
+
+But is this problem unique? Does the problem that no UN mission actually has a consistnet force policy now mean that enemies no longer have an understanding of how to engage? What about the applications of counterinsurgency?

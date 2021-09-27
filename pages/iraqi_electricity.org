@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       904E16E5-E760-41D1-8770-93B2B432C032
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: iraqi_electricity
+#+TITLE: iraqi electricity
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+#+begin_quote
+While unprecedented strides were made last year, with Basra and other southern provinces being provided with an average of nearly 24 hours of power a day, the electricity sector still suffers from a supply-to-peak-demand deficit of 6,000 MWin the summer, according to analysis from the Iraq Energy Institute (IEI).
+#+end_quote

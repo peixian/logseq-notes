@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       C06F6662-83BC-4954-9E7E-7A69DF0C7E6A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: megatron_lm
+#+TITLE: megatron-lm
+
+Tags: [[id:51BC9BEA-4F6D-4438-87F8-F6322BA475A3][transformers]]
+
+- https://news.ycombinator.com/item?id=26242782
+- https://github.com/NVIDIA/Megatron-LM
+- https://arxiv.org/pdf/1909.08053.pdf

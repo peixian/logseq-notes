@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       AAB5253F-2013-4787-97E2-2023205A68D0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: type_theoretic_sandwhiches
+#+TITLE: type theoretic sandwhiches
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+- you learn statistically
+- do you define stuff by it's effects? what you can interact with in the sandwhich/hot dog
+  - we can choose a model for which they are the same (both breaded, both filling)
+- we can train a model to recongize flowers by watching videos of bees, but the model is then trained on the visibile wavelength whereas bees are trained on the UV wavelength
+- category theory is constraints given form
+  - which is why programmers love this shit
+- we've precisely defined the base, but we haven't done anything that is generic
+- math is generic though
+- how can we better ask "what is a thing"
+  - foundations of mathematics
+- meaning out of reference
+  - meaning is defined as a use of a thing
+  - latent spaces

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       FC2436C0-E893-49E5-94B8-9F4919F96C83
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: turabian_a_manual_for_writers
+#+TITLE: Turabian - A Manual for Writers
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:D51D4006-2F02-4305-BBEF-5EDEFDCFD334][writing]]
+
+* Interrogate your topic:
+  - How does the topic fit into a larger context? Historical, social, cultural, geographic, functional, economic, etc
+    - How do the topics fit into a larger story?
+    - How is the topic a functioning part of the system?
+  - How does the topic compare and contrast to other topics like it?
+  - How has the topic changed through time? Why? What is its future?
+  - How does the part of your topic fit together as a system?
+  - How many categories of your topic are there?
+  - Turn positive questions into negative ones
+  - Ask speculative questions
+  - Ask "What if" questions
+  - Ask questions that reflect disagreements with a source
+  - Ask questions that reflect agreements and expand upon those agreements
+  - Ask questions analogous to those others have asked about similar topics

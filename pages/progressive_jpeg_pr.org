@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       DB4FED23-AE08-4CF5-A252-3B1196CE52EB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: progressive_jpeg_pr
+#+TITLE: progressive-jpeg-pr
+
+Tags: [[id:AD9922F6-CD24-422C-801C-163726C35C40][obscure features of jpeg]], [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- https://github.com/jarun/imgp/issues/28
+- https://cloudinary.com/blog/progressive_jpegs_and_green_martians
+- https://github.com/python-pillow/Pillow/issues/3343
+
+Goal:
+- support progressive scanning of JPEGs in Pillow
+- write blog post similar to https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python/
+- conversoin is lossless
+- find out what a progression scan script is

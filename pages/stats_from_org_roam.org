@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8F7B5C35-82DC-43B7-B461-0EBE01E9E3A7
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: stats_from_org_roam
+#+TITLE: stats from org roam
+
+Tags: [[id:07B6B671-AF53-4AF5-BCDF-468F5FE7489A][org-roam]]
+
+
+https://notes.alexkehayias.com/querying-stats-from-org-roam/

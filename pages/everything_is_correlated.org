@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0ABCF41E-52BC-460B-A884-F32EA5803A5B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: everything_is_correlated
+#+TITLE: everything is correlated
+
+Tags: [[id:F2643E37-CED2-492A-A77C-B632F3D203FD][statistics]]
+
+- Ties into [[id:46B116B1-E521-4D32-81A5-A2004B3E10EB][replication crisis]]
+- https://www.gwern.net/Everything

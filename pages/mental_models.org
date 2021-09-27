@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       361CD08D-B112-4AFA-9AB4-040F813C3BB3
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: mental_models
+#+TITLE: mental models
+
+Tags: [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]]
+
+
+* What is a mental model?
+  - Originally traced back to Jean Piaget's Theory of Cognitive Development
+    - https://www.simplypsychology.org/piaget.html
+  - Modern usage covers:
+    1) Frameworks
+       - Frameworks for decision making and for life
+    2) Thinking tools
+       - Tools and techniques for thinking, sometimes "rationality" research
+         - i.e. 'reasoning from first principles', 'avoiding cognitive bias', etc
+    3) Mental representations
+       - Piaget's orginal theory, internal representations of some problem domain
+         - 'tacit knowledge' vs 'explicit knowledge', or /technê/ vs /epistêmê/
+       - Made through experience
+  - https://fs.blog/mental-models/#what_are_mental_models
+
+* Types of Mental Models
+  - Descriptive models
+    - How people actually think (biases)
+  - Normative models
+    - How people should think (probability theory)
+  - Perscriptive models
+    - What is needed to get people thinking from descriptive models to normative ones
+* Issues with mental models?
+  - https://www.instapaper.com/read/1298804126
+    - Mental models are confined to what people communicate, true expertise is built up via experience and practition
+    - Framework mental models are always limited, overreliance misses signals
+    - Thinking tools are best applied in the original domain, and can be transferred *iff* the contexts are very similar
+      - Note taking in Astro is applicable to note taking in finance
+    - Mental representations are difficult to communicate, and requires practice, emulation, or experience
+      - Accents, sounding in a different language
+    - Mental models are not a catchall, nor are they pokemon to collect
+    - Is significant usefulness to thinking all things as systems, and each system has its rules. Figuring out the rules reaps the rewards.

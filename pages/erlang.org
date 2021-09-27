@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       CF577679-1813-4797-9A8C-4A20601B8F2F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: erlang
+#+TITLE: erlang
+
+Tags:  [[id:5717AC93-7D2F-4E0B-BB2D-FD5C09FE4A9B][programming languages]]
+
+-https://erlangexplained.com/index.php/about
+- https://learnyousomeerlang.com/
+- https://www.erlang-in-anger.com/
+- https://blog.stenmans.org/theBeamBook/
+- http://erlang.org/doc/reference_manual/introduction.html

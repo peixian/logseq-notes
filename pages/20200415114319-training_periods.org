@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       0293CFB9-27D5-4404-8E63-C0EDB19EF09A
+:END:
+#+TITLE: training periods
+
+Tags: [[id:3B5A43C1-21E5-4002-BFA9-66B71284CAD0][Workouts]]
+
+Multiple training periods, beginning with base period
+- [[id:0326CE0B-4137-4190-B243-FCC683373D9A][base period training]] is the longest of the year
+- Have a tapering period before the trip
+- Very easy to overdo climbing during the transition training
+- Principal of gradualness
+
+Always plan for a year's climbing as training.
+
+Also align with [[id:33820624-5CCF-4172-A393-DB0B88FEEA38][food for training]]
+#+SETUPFILE:./hugo_setup.org

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       DA7BB232-F3A1-4402-A8B2-41D23353E296
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gnu_coreutils
+#+TITLE: gnu coreutils
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- http://maizure.org/projects/decoded-gnu-coreutils/

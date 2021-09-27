@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       74D09C82-CF5F-47DB-AC36-924906D9BEEC
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: al_numaniyah
+#+TITLE: al-numaniyah
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+Town 140km southeast of [[id:105A47A9-B2B1-46B8-9531-52E9E39414AB][baghdad]]

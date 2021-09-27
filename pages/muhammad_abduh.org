@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       236E3E9F-4804-49D2-AA86-E372768D9682
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: muhammad_abduh
+#+TITLE: Muhammad Abduh
+
+Tags: [[id:42F0A616-7195-4034-8A0C-53BBA045A294][islamic political thought]], [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]
+
+- Egyptian, acknowledged the loss of reilgious authorities
+- Wrote Risalat al-Tawhid, emphasizing the role of free will and reason
+- His version of /tawhid/ rejected the possibility with Allah
+- Relegitimized the expansive usage of rational tools and strengthened the prevalent forms of /ijtihad/
+- Refuted the "inherent" incompatbility of Islamic revelation and reason
+- Made a case for the plurality of religious interpretation
+- Had a millieu described in [[id:B1E26B6E-6A74-4E81-8A49-B18EF81BFDAE][DiCapua - Gatekeepers of the Arab Past]] pg 25

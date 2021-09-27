@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       A537FC61-E92B-4E81-88FD-ABDA2D62E137
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: python_objective_c_bindings
+#+TITLE: python objective c bindings
+
+Tags: [[id:9217175F-EC79-4828-9A53-FD9F1FD8C09C][python]]
+
+https://pyobjc.readthedocs.io/en/latest/tutorials/firstapp.html

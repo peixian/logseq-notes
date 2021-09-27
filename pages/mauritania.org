@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       B7B4F31F-F378-488A-BD1D-BC9AEED8E129
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: mauritania
+#+TITLE: mauritania
+
+Tags: [[id:4716EF6A-B378-4010-B090-41D487EB8B72][africa]]

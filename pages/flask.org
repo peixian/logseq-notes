@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       47D2C234-110F-4FA4-831E-5E86CC3ECB9B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: flask
+#+TITLE: flask
+
+Tags: [[id:9217175F-EC79-4828-9A53-FD9F1FD8C09C][python]]
+
+* Static Files
+- https://github.com/nickjj/flask-static-digest
+- https://whitenoise.evans.io/en/stable/index.html
+- https://hackersandslackers.com/flask-assets/
+
+* Blueprints
+  - https://hackersandslackers.com/flask-blueprints/
+
+* Jinja2 templates
+- https://flask.palletsprojects.com/en/1.1.x/patterns/templateinheritance/#template-inheritance
+* Message Flashing
+- https://flask.palletsprojects.com/en/1.1.x/patterns/flashing/#message-flashing-pattern
+- https://github.com/flask-restful/flask-restful/issues/529
+* OpenAPI integration
+  - [[id:E184E44E-C990-46D8-BF47-E5003380AB41][openapi]] integration with:
+    - https://github.com/python-restx/flask-restx
+    - http://michal.karzynski.pl/blog/2016/06/19/building-beautiful-restful-apis-using-flask-swagger-ui-flask-restplus/
+* Internationalization
+  - https://flask-user.readthedocs.io/en/v0.6/internationalization.html
+* Pagination
+  - https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ix-pagination
+* Routing
+  - https://hackersandslackers.com/flask-routes/

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       19451263-FE36-4A8C-BF90-A34E7A22A5FE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: el_salvador
+#+TITLE: el salvador
+
+Tags: [[id:541B7BAF-591F-4CF8-8292-D83E8FB9D095][latam]]

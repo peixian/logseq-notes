@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       A659C51B-9EB5-4503-977B-5DD7C15AE093
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: islamic_jurisprudence_lecture_13
+#+TITLE: islamic jurisprudence lecture 13
+
+Tags: [[id:BB2783B7-0E6B-4886-8007-EC63A9C67096][islamic jurisprudence]]
+- setting up the project
+  - Do people still argue that the ulama in the 20th century are still characterized as a conservative force?
+    - are the ulama overrepresented?
+  - he focuses on Bakhit
+    - ulama are proclaimed as the discourse of
+  - bakhit in adopting the modernist epistimes, is no longer a frame of islamic law
+  - discursive tradition of asad as a madhab
+    - thinking in the terms of mcintyre is describing if we open the doors that wide
+    - is the tradition "sharing the rules of the game" - legal typology?
+  - is the "social madhab" a convincing one?
+    - social institution
+    - what is the inverse of the social madhab?
+      - grants the ulama a way to tackle the reformists
+      - he constrats it with the interpretive madhab
+      - the madhab is still important as a form of solidarity
+      - but continuing to partipate in the framework makes it so that you're not constrained by the same predecessor interpretive structures
+    - is the network of the interconnected scholars distinctively hanafi?
+      - or do they claim hanafi "traditions"
+  - bakhit's trans-regional-ness, is that grounding or expanding the
+    - practical colonial questions that needed to be solved
+- chapter 2
+  - foregrounding between Rida and Bakhit
+  - bakhit in the 1906 debate takes rida back
+  - is this new temporality a historical conciousness that emphasizes prophetic tradition, and pushes aside the medivil accretions
+  - genuine novelty requires completely new ijtihad
+    - what happens with the passage of time?
+    - drawing on maverick thinkers
+      - bakhit is tapping into this strain
+  - thinkers are given promience due to the chain of scholarship history, not because they are addressing the problems of the time
+- chapter 3
+  - dichotemcy between science and religious scholars dissolved after the early period
+    - bakhit's portrayal and his narrative
+  - incorporating islam to the prevailing scientific theories of the day?
+  - no other time where scholars would have to confront scientific theory and have to incorporate it into jurisprudence
+  - what is this chapter doing in the book?
+    - are we tired of the centrality of the state?
+  - seduction of modern science -
+    - notion of semmetry that is not attainable
+- chapter 4
+  - objective reality that bakhit believes, and that this can be known through scientific means, this is a change of how fiqh was perceived
+  - what was the characterization of western science?
+  - is science and qiyas very far apart?
+- chapter 5
+  - semioitics of religion
+  - reconceptualizing religious matters to not needing to be verified
+  - new notions of secular and religious
+  - din/dunya dichometcy
+  - what consitutes as din-ni is not adjudicatble in the court of law
+- using madhab as an organizing principle for islamic tradition

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       C2EB3896-5431-4493-A80B-2ECB66575D9A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ain_al_tamur
+#+TITLE: ain al-tamur
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+Small town near [[id:23FAD3AC-19A3-404C-89D5-5A123043A582][karbala]]

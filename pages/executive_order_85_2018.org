@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID:       F643CE85-DE07-4F56-B49E-8439D1479B34
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: executive_order_85_2018
+#+TITLE: executive order 85 (2018)
+
+Tags: [[id:ADFAE0CB-D584-4CE9-9965-4E76C474546E][hashd al-shaabi (PMF)]]
+
+- Most specific, still only 3 pages long
+* Elements
+- Definition of a unique rank system - distinguishes between "fighter" and "volunteer"
+  - this is how the pmf remains culturally unique
+- Organizational structure - article 2
+  - provides for two deputy chairs, commanders of regions, commanders of formations, commanders of fighting forces, commanders of combat groups, commanders of combat detachments, commanders of combat-subgroups, volunteers, civilians, and religious
+    - none directly map to the division-level, making it difficult to interpret the parlimentary procedures of appointment
+- uniform and insignia
+  - article 2
+  - never been strictly observed
+- conditions of service - article 2
+  - must be
+    - iraqi
+    - 18-25 for technical branches, 18-30 for other branches
+    - good character and sound reputation
+    - physical fitness and health
+    - not be convincted of any felony, dishonarble misdemor, terorrism offense, or crime against the state's domestic or foreign security
+    - must possess at least an elementary school education
+  - [[id:4F59D34B-7839-4FA8-A61F-97BCE0E62359][iraqi prime minister]] can also exempt legal conditions for those who fought against [[id:D565EE03-B588-489C-BDB7-DACD67FA5F8A][islamic state (is/isis/isil)]] for > 1 year
+- demobilization of ineligible personnel - article 3
+  - people not meeting criteria will be absorbed as part of civilian employees
+  - similar to civil works program?
+  - lack of membership vetting has lead to basically 0 demobiliation
+- promotion, pay, and access to professional military education - article 4
+  - stipulated "financial compensation equal to that of their equivialents in the Defense Ministry"
+    - 2019 - pay is 1.1 million dinars, or 923 a month
+  - promoted under Military Service and Retirement Law No. 3 of 2010
+  - also have some budget to allocate for military colleges and academies
+- hashd commision chair powers - article 5
+  - chair only has powers delegated by the [[id:4F59D34B-7839-4FA8-A61F-97BCE0E62359][iraqi prime minister]]
+- hashd authorities to be consistent with iraqi laws - article 6
+  - Other laws apply:
+    - [[id:BA95F4C3-8A90-4FB5-8419-7495F23F2D3E][military service and retirement law no. 3 (2010)]]
+    - Military Penal Code Law No. 19 of 2007
+    - Military Penal Trials Law No. 22 of 2016
+    - Civil Service Law No. 24 of 1960 (amended)
+    - Unified Retirement Law No. 9 of 2014
+    - State and Public Sector Employees Salaries Law No. 22 of 2008 (amended)

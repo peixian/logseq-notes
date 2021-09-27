@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3CD65D9F-025E-403C-9BEA-8470C8BD32AE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: shias_in_burma
+#+title: shias in burma
+
+- perhaps around 10k in [[id:882FEA3E-4AEB-49F7-868D-0A0AC6CADF9A][myanmar]]
+- they celebrate [[id:458D205D-97CA-4E54-B8E0-A3E4C3B81A11][ashura]] and [[id:A4F51005-86AC-493F-AA33-E7B78CF1752C][arbaeen]]:
+  - https://allegralaboratory.net/celebrating-arbaeen-shia-in-myanmar/
+  - https://www.mmtimes.com/national-news/4400-shias-mark-ashura-in-yangon.html

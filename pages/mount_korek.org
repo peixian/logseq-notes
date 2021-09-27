@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       981BAB09-5411-4F98-A061-69D13301ACCC
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: mount_korek
+#+TITLE: Mount Korek
+
+Tags: [[id:0B9FAF9E-0A55-44FE-96CE-D6D382CF6617][KRG/iraqi kurdistan]]

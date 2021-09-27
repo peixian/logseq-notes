@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       51A934C4-9366-46CB-93BE-F99C5601BC3F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: unsmear
+#+TITLE: unsmear
+
+Tags: [[id:DA4E33C3-6EF1-4CE0-9B04-70314E3F4994][leap smearing]]
+
+
+lbirary for converting between unsmeared TAI and GPS timescales: https://github.com/google/unsmear

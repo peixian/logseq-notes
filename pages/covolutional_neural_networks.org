@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       D010B569-6F86-4109-A6CD-5FB0B6D97E70
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: covolutional_neural_networks
+#+TITLE: convolutional neural networks (cnn)
+
+Tags: [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]]
+A CNN is designed for working with two dimensional image data, but can be used with one or three dimensions
+
+The "convolution" part of it is where it mixes the input signals to maximize the training on the ones where all the input features overlap, these summarize the image input, but are sensitive to the location of the features in the input
+- $(f*g)(t) = \int_{-\infty}^{\infty}$
+
+Pooling portions come in by down sampling the feature maps, which summarizes the presence of features in patches of the feature map
+- [[id:6482C021-3D7F-4992-AA73-6AEC2B69A00C][average pooling]]
+- [[id:515147E0-4A1E-4223-A14C-58D9D8F562C1][max pooling]]
+
+- designed to process data that come in the form of multiple arrays
+  - colour images, 1d signals, 2d for langauges, 3 for audio
+- takes advantage of:
+  1. local connections
+  2. shared weights
+  3. pooling
+  4. many layers
+- structured in stages
+  #+DOWNLOADED: screenshot @ 2020-11-24 21:50:47
+  [[file:2020-11-24_21-50-47_screenshot.png]]

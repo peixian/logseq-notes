@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       4A510681-307F-4E80-8575-609EB1E1F9C0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: fact_extraction_and_verification_2018
+#+TITLE: Fact Extraction and Verification (2018)
+
+Tags: [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]]
+
+ml competition

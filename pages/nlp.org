@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       48350662-53E9-4A91-9ADB-2BC9DFEA6098
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: nlp
+#+TITLE: nlp
+
+Tags: [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]], [[id:AB300662-3E3E-4452-A29D-468522B35C3E][languages/linguistics]]
+
+- http://nlpprogress.com/english/word_sense_disambiguation.html
+- https://huggingface.co/transformers/perplexity.html
+- https://github.com/jshin49/deep-nlp-reading-list

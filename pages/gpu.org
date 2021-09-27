@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       9CBC01A3-1ECA-4DBC-B592-8CEBEE93BC1C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gpu
+#+TITLE: gpu
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+* History of NVIDIA GPU's
+  - Until 2006 GPU design was correlated to the logical stages of the rendering API
+    - DirectX pipeline made this untable
+  - Stream Multiprocessor replaces this with Tesla release
+    - Could run vertex, fragement, and geometry kernels without distinction
+  - Ideas of a "farm" with a master renderer
+  - CUDA introduced as a superset of C99
+  - Turing release gave dedicated cores for AI and [[id:9EE3F3DF-2E17-4F00-9C72-DBF79017AF40][ray tracing]]
+    - Very reminiscent of pre-2006

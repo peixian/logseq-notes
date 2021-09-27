@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       F357973C-7C05-42CB-8CEA-ED6FD5257EEE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: zettlekasten
+#+TITLE: zettlekasten
+
+Tags: [[id:D51D4006-2F02-4305-BBEF-5EDEFDCFD334][writing]], [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]]
+
+- https://notes.andymatuschak.org/z4AX7pHAu5uUfmrq4K4zig9x8jmmF62XgaMXm?stackedNotes=z4KZ9973AoHhvM9Pj5Qrds48JXNbMEwVJmVRw&stackedNotes=z8RTzukqNLKFXzqLwx25HrUrg5E5jiziGznWB&stackedNotes=z6UDDkom8Aifg6mLdjT1sPtbMBweCmpyTwmJT
+- http://luhmann.surge.sh/communicating-with-slip-boxes
+- https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C?stackedNotes=z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be&stackedNotes=z3PBVkZ2SvsAgFXkjHsycBeyS6Cw1QXf7kcD8

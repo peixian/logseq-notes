@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       0CECAFDE-3B95-41DD-BC6E-649235E8C81E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: freelancing_contracting
+#+TITLE: freelancing/contracting
+
+Tags: [[id:CAFF2018-7C24-402E-9528-464A87D2DC39][personal]]
+
+- Job Boards: https://github.com/engineerapart/TheRemoteFreelancer
+- https://news.ycombinator.com/item?id=23740167
+- https://www.kalzumeus.com/2012/09/21/ramit-sethi-and-patrick-mckenzie-on-why-your-customers-would-be-happier-if-you-charged-more/
+- https://jacquesmattheij.com/categories/consulting/
+- https://chrisachard.com/how-to-find-consulting-clients
+- https://daedtech.com/key-becoming-software-consultant/

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       C980D69D-5E9A-469B-A1EC-019DACDC12C6
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: military_equipment
+#+TITLE: military equipment
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]

@@ -1,0 +1,183 @@
+:PROPERTIES:
+:ID:       D0DFC0A3-D11C-44A5-B5C0-410F1B5A5FD5
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+TITLE: Simpson - War from the Ground Up
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]]
+* Summary
+- _There is no logical spatial, or chronological, limit to the ‘War on Terror’._
+  - Complete opposite of Anderson's imagined communities
+- /Yet in the West’s contemporary conflicts people’s reception of events, including battles, through the lens of their personal experience does matter to the conflict’s outcome./
+  - Why? Why do personal experiences matter here, when we tend to percieve things as part of a giant neoliberal machine?
+* Related Articles
+  - https://www-tandfonline-com.proxy.library.nyu.edu/doi/epub/10.1080/01402390.2018.1529567?needAccess=true
+* Introduction
+  - Looks for distinction between the use of armed force within a military domain that seeks to establish military conditions for a political solution (traditional war) vs use of armed force that directly seeks a political outcome
+  - Definition of stragetic audiences
+    - In clauswitzian war, there are two audiences, each poliarzed on either side
+      - victor imposes a narrative on the loser
+    - "should these audiences beyond the enemy matter to the strategist in terms of the conflict's outcome, strategy needs to consider military actions in terms of their likely political intepretations by these various audiences"
+      - moasic conflicts like [[id:086B0579-8C85-4CE5-9E65-EB8980FB2C2E][afghanistan]] and [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]] need to be thought not as two, but a multitude of audiences
+      - military actions are therefoire politicized, the boundary between military and political activity is blurred
+    - in counter-insurgency, to invervene in a fight without having antipiated hte political risks and opportunities is to misunderstand the nature of the conflict
+    - the control of the political space is as important, if not more important, than controlling the physical space
+    - contemporay conflict exaggerates the distinction between traditional war and counter-insurgency
+    - "there is no logical spatial, or chronological, limit to the 'War on Terror'" - 3% into
+    - Liberal powers blur the conceptual boundaries between war and peace is often to militarise in a polarizeed manner pres-established patterns of political activity, which may not be part of the wider conflict - 4%
+      - "sectarianism"
+    - Chinese aid was actually given to the [[id:8695311A-9674-4DC9-A8E5-C68C79C6A75F][sri lanka]] in the final stage of the conflict against the [[id:EE092FA1-EA88-4F8C-BE9C-1AFE8A90E3AC][tamil tigers]]
+* 1 - The Language of War
+  #+begin_quote
+  If the 'vernacular of battle' is technically military proficiency, the language of war is what links the use of force to a political meaning. The lanugage of war in this sense is not war poetry or its equivalent; it describes the interpretive structure that 'war' provides to give meaning to the use of force, just as actual language gives particular meaning to a given sound or script
+  #+end_quote
+  - 5%
+  - Asks us to reconsider a frame of battle between two opposing engagements
+    - you can see it as the one company did this, another company did that, enemy responded with another
+      - this framing shows an evolution of the military situation, success/failure is judged according to one's position with the enemy
+      - Yet this is a very narrow basis for understanding, fails ot incoporate the possibily of a personal response being the basis for a poltiical viewpoint
+        - the soldiers can "win", but members of the audience will interpret this in their own manner
+          - villagers have their view
+          - taliban have their own view
+        - "we cannot not communicate" from Paul Watzlawick, "Principals of Problem Formation and Problem Resolution"
+          - "Ecology of mind" - Gregory Bateson
+        - "time matters in interpretation of conflcit" - 8%
+          - makes an analogy towrads finance, long term investment does not expect decisive short term gain
+          - war tends to associate with brutal, finite outcomes
+          - counter insurgency is a long term investment, like [[id:E900796C-250A-474B-9054-C0C109C94A24][ddr]]
+  - What is war good for?
+    - Clauswitz says war has some kind of rationale because it is a human phenomon, but rational not need be "rational" in a human sense
+    - "War go beyond the boundaries of individual experiences because it is an aggregated activity, what unifies individual experiences into 'war' is the association with the clash of organized violence. In this sense, while policy intentions of either side will shape war, war has its own independent existence, formed through reciprocal violent clash" - 8%
+      - if war is an aggregated experience bound together by violence requiring long term investment, the opposite is true of reintegration, this is a long term investment that requires understanding individual experiences bound together by negative peace. Especially wrt to counter insurgency and the accidental gurriella
+    - Clauswitz talks about war in the 'means'
+      - Means referrs to Clauswtiz's dictum that war is an extension of policy, and is organized violence itself
+      - Second sense is that war as a phenomomen is a political instrument
+        - war is not necssarily associated with violence, the continuation of war with blockades, smugging, arms trafficking, control, etc
+      - to understand war == violence requires broader analysis
+      - "the political, social, and economic dynamics that precede wars, and cause them, continue to operate in war; any analysis which only recgonise periods of actual violence as 'war' will be limited in their conceptual boundaries' - 9%
+      - "if force is a 'language', war is the interpreter who acts as a medium between the speaker and the listener"
+  - war provides a unified intepretive template for the understanding of violence
+    - why did we kill X people? Why did Y people die for? Polarized war provides for this meaning, but counter insurgency, with limitless ends fails to give a good logos meaning, allowing the pathos to take over
+  - DDR deals with the physical imprint of violence, but the way war is perceived in political terms is what gives force political utility
+    - any conflict that ends with anything less than the total defeat of the enemy
+    - war can blow stuff up, but how that is interpreted is what matters (unless you completely destroy the enemy and can fill the void with completely your own narrative)
+  - Each person interprets war for their own ends
+    - sometimes this is aligned, Falklands war, same time and space for both sides
+      - basic political problems remain unresolved today
+    - does the PMF and Iraqi gov aligned for IS defeat, but the political problems remain
+      - thinking about DDR on the physical stuff we build is not complete
+  - Key point: /war cannot be a single interpretive structure because war does not have an independent authority to adjudicate its own outcome/
+    - war as a 'judge' is flawed because this requires understanding of war from a disconnected and self-referencing military domain, wherein armed forces fight each other
+      - clauswitz calls this a legal trial, but there is no judge in modern war
+      - defeat is not a verdict handed out by an independent arbitrator
+  - Must not confuse the mutal acknowledgement of a battle's meaning with the idea that war provides a single interpretive structure - 12%
+    - cannot submit to war in the abstract
+    - sometimes both sides can have symmetrical rules
+      - this does not mean both things are the same
+      - only true singular structure is absolute war
+    - asymmetric interpretive structures, like the vietnam war
+      - [[id:DE11B1DE-9DE7-4B29-A074-C962666085E1][hezbollah]] and [[id:BCB88E11-A4E5-4362-AE55-73D18B323882][israel]] in 2006
+* 2 - Clausewitzian War and Contemporary Conflict
+  - British believed some actors in [[id:086B0579-8C85-4CE5-9E65-EB8980FB2C2E][afghanistan]] changed sides, they did not, they simply remained on their own side
+  - reciprocal escalation of violence, which were unconstrained by bilataral state structures which serve to channel and contain violence, has unnecessarily created enemies for the coalation and catalysed the insurgency in its earlier phases
+    - [[id:49D573D1-6FA8-4923-B2D8-A188A1AB8CF9][Kilcullen - Out of the Mountains]]
+  - "the cateogry of people who are most ruthlessly exploited by subscription to a polarised conception of the conflict are often the foreign jihadists"- 16%
+  - Knocks against the idea of polarity
+  - Clauswitz elucidated that war started with defense, and that there was poliarty between attack and defense, the attacker and defender
+  - understanding force as a type of language
+  - "Without polarity, force loses decisive political meaning" - 18%
+    - without clear  understanding of the enemy, force is just regular violence
+    - Bosnian conflict in the 1990's
+      - UN failed to achieve any decisive outcome
+    - NATO shaped the battlefield in [[id:3196ECF7-71C2-43FE-A065-F3984D89DD1E][kosovo]] because it made prevention a clear case of right v wrong
+    - Different than afghanistan, because in kosovo two actors already existed, whereas afghanistan has many actors already
+  - "Clauswitz war retained utility through reconfiguration and evolved frequently" - 21%
+    - presupposes the idea of polarity and the idea that stragetic audiences in war are primarily contained within the states at war
+  - Contemporary warfare is not between two actors, and makes it difficult for war to function as a political instrument
+* 3 - Globalization and Contemporary Conflict
+  - Challenges
+    1. Proliferation of stragetic audiences betsides the enemy
+    2. Tendency for conflicts to be drawn further away from the pole of 'pure polarity' as strategy tends to be increasingly sensitive to opinions of global audiences
+  - Strategy does not work when used on an audience who subscribes to a different conception of war
+  - [[id:98594571-EF33-4F36-91EC-F23BB3D7A72A][2006 lebanon israel war]]
+  - 23%
+  #+begin_quote
+This informs the paradox in counter-insurgency that the 'best weapons don't shoot' (from US army/marine corps field manual). The death of an insurgent can create many more insurgents
+  #+end_quote
+  - Not a matter what you think, but what your audiences think
+  - Similar to a market, which is an interpretive structure that functions to provide a specific type of meaning (a price) on a product. When the market cannot provide a price, the mechanism breaks down. Similarily, when an force cannot provide a predictable effect, it makes it difficult to use.
+  - The taliban is a franchise movement - 25%
+  - [[id:5915E4D5-6F4F-4B64-B435-DCA3FD99C50F][Kalyvas - The Logic of Violence in Civil War]]
+* 4 - Strategic Dialogue and Political Choice
+  - Tactical action does not have direct political significane
+  - Political outcome of a conflict is the accumulated outcome of innumerable individual actors as opposed to decisive blows - 29%
+  - 'moasic conflict' - dr conrad crane - https://warontherocks.com/2014/09/observations-on-the-long-war/
+  - In many contemporary conlficts, the levels of war are flattened
+  - Seqential vs culumative strategies
+    - sequential -> island hopping in WW2
+    - cumulative -> wider defense of the pacific
+  - most politics is complicated, it is normal, and it is inherently unpredictable
+  - liberal powers broadly recgonize they are in it for perception and ideas, but then proceed to think in purely state terms
+  - [[id:A1ABEC67-40B0-4A5D-9087-4EF1C71ABE98][antinarcotics in afghanistan]]
+* 5 - Liberal Powers and Strategic Dialogue
+  - Liberal powers tend to organize strategic dialogue but does not adjust policy in response
+  - Huntington's "The Soldier and the State"
+    - Understands the solider as a pure exector of policy
+  - Strategic dialogue produces strategy that situates the desire of policy in the possibility of its execution
+    - Juncture between desire and possbility - 36%
+  - NATO 2005 plan was adjusted
+  - Clauswtiz describes war's "explosive" quality, that it forces both into a escaltory actions
+    - War's grammar - the relationship between the uncerteainties of violent clashes
+* 6 - Pragmatism and Operational Thought
+  - Counter insurgency is not a strategy
+    - Counter insurgency is a operational approach, a method to organize actions towards a strategy, but not eh strategy itself
+    - Strategy connections an operational approach to its ends, the objectives of policy, and adjusts both
+  - military domain is an extension of policy
+  - 'hybrid war' emphasizes method over objective
+  - [[id:B088E6B2-081B-4FA3-8D5E-35B895A0B53D][Woodward: The Paradox of State Failure]]
+  - [[id:03AA20AB-40F8-4291-8B57-242A09649FC5][dhofar campaign]]
+  - 47%
+    #+begin_quote
+    No tool inherently possesses the ability to deliver an effect. Thus effects are simply that--effects, usually on people--they are neither 'kinetic' nor 'non-kinetic', However, the default idea that one should 'balance' violent and non-violent means in counter-insurgency is commonplace. Why, in abstract, should one arbitrarily want to balance the use of two tools?
+    #+end_quote
+* 8 - Strategic Narrative
+- Any stragetic narrative must have emotional resonance
+- strategy relates action to policy
+- stragetic narrative can vary, like a salesman pitches a product differently. The problem is when a product is pitched so differently that it loses credability - 55%
+- war is a mixure of different conflicting stories [[id:42A99490-CD7E-4C54-B19D-410146286223][Rashid: The Way Out of Afghanistan]]
+- must avoid understanding war in purely rational terms
+- rational narrative does not have purcahse on the emotional substance of what it seeks to describe cannot claim legitamcy
+- irony tends to identify the gap between the rational and the emotional
+- logos (rationality), pathos (emotion), and ethos (morals) need to be aligned
+- when they are not, pathos threatens to subsume the logos
+  - when the strategic audience no longer cares about the narrative because the narrative no longer has emotional legitmacy, the emotional response produces a new rationale
+- contemproray conflict is characterized by the proliferation of audiences beyond the enemy
+  - now connected
+* 7 - British Strategy in the Borneo Confrontation
+  - [[id:67B552F8-CC06-41D3-B87B-369E5694908F][indonesia]] supported some rebels against [[id:19767910-0590-44C4-850A-672522D7B126][malaysia]]
+  - british troops needed to be called to counter act
+  - 4 phases
+    1. indonesia provided aid to the rebels who lead to the [[id:5E923D3B-E5C1-4F2B-8525-7D13DDD1E8DF][brunei]] revolt of 1962
+    2. indonesian volunteers led guerrilla forces in 1963
+    3. conflict proper began after the formation of malaysia, september 16th 1963
+    4. peace feelers in 1965
+  - simpson argues that the british were largely pragmatic, they kept conflict in low grade, did not engage in overt occupation, and threatened back with positioning if needed
+  - argues that this is difficult to replicate in today's high information environment
+* 9 - Ethos, Vision and Confidence in Strategic Narrative
+  - Ethos stablizes and insulates strategic effect
+  - Confidence in ideas, not worrying about micro level changes, but also not being blind
+  - 64%
+    #+begin_quote
+the most dangerous moment for an insurgency is often when it has to convert to a conventional force finally to topple the state forces; since conventional high-intensity battle is far more complex and resource intensive than guerrilla warfare, insurgencies often fail at this point. The Mujahideen here are not the only example of this; note the same phenomon with the Tamil Tigers.
+    #+end_quote
+  - competition over the interpreation of history is at the heart of current US political competition
+  - by engaging fundalmentalists on the battlefield of literal interpretation, we fight on ground that favors them - 70%
+* Conclusion
+- Question of "Should we intervene in country X" is rarely semantically challenged
+- When war fails to clearly separate the military and the political, organized violence in human affairs is not contained
+- enemy plays a similar role in politics, the enemy cannot be "defaeted", but rather will constantly challenge you
+- argues for a greater dialgoue between soldiers, leadership, and civilians
+- 74%
+  #+begin_quote
+theory is necessary in the sense that it transmits what has worked in the past in distilled form; it is a bridge to access historical experience vicariously. Yet theory is really only a springboard of ideas which should be grounded in the experience of a particular situation
+  #+end_quote

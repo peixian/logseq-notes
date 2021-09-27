@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       FAD07E42-4924-452A-A438-6F6DADFAD1BE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: problems_and_methods
+#+TITLE: problems and methods
+
+Tags: [[id:A63D0CEC-6083-46C5-BD8D-7A8D750FF1A4][classes]]

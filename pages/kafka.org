@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       B99D51CF-2AED-4239-831F-66A4F026B8D5
+:END:
+#+TITLE: kafka
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][Computers]]
+- https://www.cloudkarafka.com/blog/2019-09-28-what-does-in-sync-in-apache-kafka-really-mean.html
+#+SETUPFILE:./hugo_setup.org

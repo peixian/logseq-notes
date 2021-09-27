@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       AFEF9FA6-B022-46F4-AE2B-DE70CE370215
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: nigeria
+#+TITLE: nigeria
+
+Tags: [[id:4716EF6A-B378-4010-B090-41D487EB8B72][africa]]

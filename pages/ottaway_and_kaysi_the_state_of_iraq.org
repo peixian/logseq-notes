@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       9401379D-EC57-494D-AA51-5D3B844F6E8E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ottaway_and_kaysi_the_state_of_iraq
+#+title: Ottaway and Kaysi - The State of Iraq
+
+2012 [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]] about [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]] following the indictment of [[id:51650F08-1893-4406-AAA3-CDE8DBB06647][Tariq al-Hashemi]]
+
+Largely a summary of the country in 2012, talks about how the withdraw of american troops and the split of the [[id:A0834C86-F136-4F49-8139-77B077E65FBC][iraqi shia]] parties between the [[id:B8B77EFA-589B-4393-8F47-75F1EED0E103][Dawa]], [[id:9619BA86-028F-41A6-A8B2-5C621444900E][Supreme Council for the Islamic Revolution in Iraq (SCIRI)]]
+
+Notes that the 2008 war between [[id:551974DA-A83D-409F-8426-61DE3A40D43F][nouri al-maliki]] and [[id:749D4B05-ADD6-4608-B99B-AD6FD0C6BC07][Muqtada al-Sadr]] led to al-sadr fleeing to Iran, but then al-Sadr became a partner to maliki in the 2010 elections
+
+2010 elections split the [[id:A0834C86-F136-4F49-8139-77B077E65FBC][iraqi shia]] political parties, which then had [[id:551974DA-A83D-409F-8426-61DE3A40D43F][nouri al-maliki]] abuse the stalement - [[id:5933EA90-45F3-46A5-B4A2-DE55DD49B371][Chapter 7: The Shia "resistance"]]
+
+Also talks about the "post withdrawl crsis", which ties into the [[id:C19DB447-7D4B-4331-A7A0-CA881A8ED7E5][Erbil Agreement]]
+
+* Provincial Rights in Iraq/Federalism in Iraq
+  :PROPERTIES:
+  :ID:       99B19A14-CF9C-4CAC-B8DF-F5215E6D5136
+  :END:
+
+  Federalism had largely receded after the Kurds got what they wanted from the constitution, but [[id:E2CE0498-2FF2-4CB7-9035-AE553CB87516][article 140]] and future disputes over oil and gas made it untenable
+
+  Additional decentralization flared in 2012, Speaker Nujeifi in mid-June 2012 hinted that Sunnis in Iraq might ask for separation
+
+  Salahuddin Province unlaterally declared itself a region and not a province in October 2012

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       407291B3-9838-4A5C-BEFA-DADAFA84A07B
+:END:
+#+TITLE: egyptian demographics
+
+Tags: [[id:98F9993A-F5AD-44C5-A732-8BBAD7FA6BEE][egypt]]
+
+Egypt has a demographics problem, with over 100 million Egyptians. Cairo birth rates remain at ~3.5 per women per Feb 2020, whereas MENA averages of 2.8. The Nile has failed to be protected, and children are seen as tools to take care of parents in the future.
+- https://data.worldbank.org/indicator/SP.DYN.TFRT.IN?locations=ZQ
+- https://www.bloomberg.com/news/articles/2018-03-13/the-arab-spring-s-riskiest-legacy-may-be-egypt-s-baby-boom
+#+SETUPFILE:./hugo_setup.org

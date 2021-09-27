@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       482B102F-BD69-463F-BAD3-076344A3F59F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: are_experts_real
+#+TITLE: are experts real?
+
+Tags: [[id:5D4FD56C-329E-4881-AEBC-EFE6DDF0F29D][articles]]
+
+https://fantasticanachronism.com/2021/01/11/are-experts-real/

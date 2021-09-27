@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       EB757096-24DB-4325-880B-7A82FDABD1B5
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: podcasts
+#+TITLE: podcasts
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]
+
+- Jurisprudence course: https://anchor.fm/scott-shapiro
+- Underworld podcast: https://www.stitcher.com/podcast/the-underworld-podcast#/
+- The Diplomat: https://thediplomat.com/category/podcasts/
+- Frontline Club: https://www.frontlineclub.com/podcast/
+- Training beta: https://www.trainingbeta.com/trainingbeta-podcast/
+- Department of war studies: https://podcasts.apple.com/us/podcast/war-studies/id402434575
+- Foreign Exchanges podccast:
+- Afghanistan after america: https://www.stitcher.com/podcast/afghanistan-after-america#/
+- Sources and methods podcast: https://www.sourcesandmethods.com/
+- Bombshell podcast
+- Everyday emergency

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       BC9D910A-58C4-4A26-A369-C4E3B84A4CB0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: dram_issues
+#+TITLE: dram issues
+
+Tags: [[id:C47113A8-3114-4274-B899-168BA1467A55][ram (computer memory)]]
+
+http://www.cs.toronto.edu/~bianca/papers/sigmetrics09.pdf

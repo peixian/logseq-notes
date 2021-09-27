@@ -1,0 +1,310 @@
+:PROPERTIES:
+:ID:       B2ED4E54-DF24-4F15-B2C2-4E2AD7B52400
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ics_training
+#+TITLE: ICS Training
+
+Tags: [[id:00620668-69B5-4981-8FF6-70C3CBC5B3B0][disaster response]]
+
+* What is ICS?
+  - Used for all kinds of incidents, applicable for all events, not only just for emergencies
+  - Establishes common processes for incident level planning
+  - Used to manage any type of incident
+
+* ICS (IS-100)
+  - National Incident Management System
+    -
+    #+DOWNLOADED: screenshot @ 2020-06-17 09:59:00
+    [[file:NIMS/2020-06-17_09-59-00_screenshot.png]]
+    - Gives a unified chain of command
+    - Managable span of control
+    - Establishes common terminology
+
+** Incident Action Planning
+
+*** Managable Span of Control
+    - Refers to number of individuals that one supervisor can manage effectively during an incidient
+
+*** Comprehensive Resource Management
+    Entails:
+    - Resource identification
+    - Qualification and certification of personnel
+    - Planning for resources
+    - Acquiring, storing, and inventorying resources
+
+*** Establishment and Trasnfer of the Chain of Command
+    - Command function should always be established at the beginning of an incident
+    - Transferring command during incidient should include a briefing that captures all essential information
+
+**** Unified Command
+     - Established when there are multiple agencies, where no single jurisdiction exists that has the authority to manage the incident on its own
+
+**** Chain of command
+     - Allows incident comander to direct and control the actions to avoid the incident
+       - Q-> snafucatchers?
+     - Avoids confusion by requiring that orders flow from supervisors
+
+**** Unity of command
+     - Refers to overall hierarchy of organizational command
+     - Each person
+       - Reports to one ICS supervisor
+       - Recieve work assignments only from the ICS supervisor
+     - Prevents confusion based on titles
+
+** Accountability
+   Multiple principles
+   - Checkin/checkout
+   - Incident Action Planning
+   - Unity of command
+   - Personal responsibility
+   - Span of control
+   - Resource tracking
+
+** Five Major ICS functional areas
+   - Command
+     - Sets incident objectives, strategies, and priorities
+   - Operations
+     - Conducts operations to reach incident objectives
+   - Planning
+     - Support by tracking resources, collecting/analyzing info, maintaining documentation
+   - Logistics
+     - Arranges for resources and needed services to support achievement of the incident objectives
+   - Finance/Administration
+     - Monitors costs related to the incident
+   - Intelligence/Investigations
+     - 6th ICS function
+       - Used only for intensive intelligence gathering or investigative activity
+
+*** Incident Command
+    - Act of directing, ordering, or controlling the incident response
+      - ICS uses an incident commander, who has the authoirty to establish objectives, make assignments, and order resources
+        - Always staffed in ICS applications
+    - Responsible for
+      - Ensuring overall incident safety
+      - Providing information services
+      - Establishing and maintaining liasons
+    - May assign deputies that can fully take over the role
+    - Should be clearly established at the beginning of an incident
+    - Modular, IC should be able to assume other roles
+    - Depending on size, 3 additional roles may include
+      - Public Information Officer
+        - Interfaces with public/media and other agencies
+      - Safety Officer
+        - Monitors incident operations and advises the IC on all matters relatin g to safety
+      - Liaison Officer
+        - Serves at the incident commander's point of contact for representitives of gov agencies
+
+*** Incident Coordination
+    - Ensure that ICS organization receives the info, resources, and support needed
+      - Establishing policy based on interactions with agencies and other stakeholders
+      - Collect, analyzing, and disseminating information to support establisment of shared situational awareness
+      - Establishes priorities among incidents
+      - Resolving critical resource issues
+      - Facilitating logistics support & resource tracking
+      - Synchronizing public information messages
+
+**** Emergency Operations Center
+     - EOC's
+     - Physical or virtual location where staff come together to address threats and hazards
+     - Staffed with personnel trained for, or authorized to, represent their agency/discipline
+     - Equipped with mechanisms for communicating with the incident site
+     - Providing support to the incident by obtaining resources
+     - Applicable at different levels of gov
+
+**** Joint Information Center
+      - JIC
+      - Established to coordinate all incident-related public information activities
+
+** General Staff Roles
+   - May establish 4 additional sections (ops, planning, logistics, finance/admin)
+     - Each section has a designated section chief
+   - Ops should be first established
+     - Others are about planning the incident response
+     - Ops is responsible for developing strat and tactics
+     - Responsible for staging areas
+   - Planning
+     - Prepare and disseminate incident action plan
+     - Track resources
+   - Logistics
+     - Provides facilities, services, and material support
+     - Critical on more complex incidents
+   - Finance
+     - Financial and cost analysis
+     - Contract negotiation, and documenting claims
+   - ICS organizational structure is based on resource requirements
+
+*** Operations
+    - Implementing strategies and developing tactics to carry out the incident objectives
+    - Directing the management of all tactical activities
+    - Supporting the development of the incident action plan
+    - Organizing, assigning, and supervising the tactical response
+
+*** Planning
+    - Only developed after there is a need for a planning section
+    - Preparing and documenting incident action plans
+    - Managing information and maintaining situational awareness
+    - Tracking resources
+    - Maintaining incident docs
+    - Developing plans for demobilization
+
+*** Logistics Section
+    - Ordering, obtaining, maintaining, and accounting for personnel, equipment, and supplies
+    - Providing communication planning and resources
+    - Setting up food services for responders
+    - Setting up and maintaining incident facilities
+    - Providing support transportation
+    - Providing medical services to incident personnel
+
+*** Finance/Admin section
+    - Contract negoitation and monitoring
+    - Timekeeping
+    - Cost analysis
+    - Compensation for injury or damage to property
+    - Documentation for reimbursement
+* NIMS (IS-700)
+** NIMS resource management
+*** Typing Resources
+    - Establishes common definitions for the capabilities of personnel, equipment, teams, supplies, and facilities
+    - Capability
+      - Resource's capability to perform its function in Prevention, Protection, Mitigation, Response, and Recovery
+    - Category
+      - Function for which a resource would be most useful
+    - Kind
+      - Broad characterization, st personnel, equipment, teams, and facilities
+    - Type
+      - capacity to perform its function based on size/power/capacity/experience/qualifications. Type 1 has greater capacity than type 2, 3, 4
+*** Credentialing Personnel
+    - Qualifiying: personnel meet the minimum established standards to fill positions
+    - Certification: recongition that an individual has completed qualificatoin or a position
+    - Credentialing: documentation (ID card or badge)
+*** Planning for resources
+    - Stockpiling, mutaual aid agreements, determining how and where to reassign resources, developing contracts to acquire resources from vendors
+*** Resource Management
+    1) Identify requirements
+       - Type and quanitity of resources needed
+       - Locations where resources should be sent
+       - Who will receive and use the resources
+    2) Order and Acquire
+       - Find out resources that are local or request from other places
+    3) Mobilize
+       Personnel and other resources begin mobilizing when notified through established channels
+       - Date/time/place of departure
+       - Mode of transportation to the incident
+       - Estimated date and time of arrival
+       - Reporting location and assigned supervisor
+       - Anticipated incident assignment
+       - Anticipated duration
+       - Resource order #
+       - Incident number
+       - Cost and funding codes
+    4) Track and Report
+       - Helps track the location of resources
+       - Helps staff prepare to receieve and use resources
+       - Protects the safety and security
+       - Enables resource coordination and movement
+    5) Demobilize
+       - Resources should reassign or demobilize as soon as they are not needed
+    6) Reimburse and Restock
+       - Establish and maintain readness of resources
+       - Collect bills and validate costs
+       - Ensure resource providers are paid in a timely manner
+*** Mutal Aid
+    - Sharing of resources and services between jurisdictions or organizations
+    - Established the legal basis for two or more entities to share resources
+    - Authorized across a wide range of actors, between cities, states, ngo's, communities, agencies, internationally, etc
+    - Aid can be declined that do not meet its needs
+** NIMS Management Characteristics
+   - Same as ICS except
+   - Area commands
+     - Established based on overseeing multiple incidents or large/evolving situation
+     - Relevant to situations with several Incident Command Posts (ICPs) requesting similar, scarce resources
+** Emergency Operations Centers (EOCs)
+   - Used to manage on-scene, tactical-level response, off site locations where staff come to address immiment issues
+   - Varying duties, including:
+     - Collecting, analyzing, and sharing information
+     - Support resource needs and requests
+     - Coordinating plans and determining current & future needs
+     - Providing coordination and policy direction
+*** Configuration of EOCs
+    - Many configured like the standard ICS structure, with command team, ops, planning, logi, and finance/admin
+    - May also opt to use their day-to-day deparmental agency structure
+    - Activated for variety of incidents
+      - Multiple jurisdictions
+      - Incident commander or unified command indicates incident could expand rapidly
+      - Similar incident had EOC precendence
+      - EOC director or offical directs EOC activation
+      - Inicident is imminent
+      - Threshold events described in emergency ops plan
+      - Significant impacts to the population are anticipated
+**** Activation Levels
+     - Multiple activation levels to allow for scaled response
+     - Levels
+       - 3
+         - Normal for the EOC, watch and warning activiations
+       - 2
+         - Certain EOC team members are activated to monitor a credible threat, risk or hazard
+       - 1
+         - Full activation
+** Other NIMS Structures
+*** MAC Group
+    - Multiagency coordination groups
+    - Sometimes called policy groups
+    - Act as a policy-level body
+    - Support resource prioritization and allocation
+    - Make cooperative multi-agency decisions
+    - Enable decision making among elected and appointed officials and the IC
+
+*** JIS
+    - Joint information system integrates incident information and public affirs into a unified organization that provides consistend, coordinated, accurate, accessible timely, and complete inofmration to public and stakeholders
+    - Develop and deliverying coordinated interagency messages
+    - Develop, recommend, and executing public information plans and strategies
+    - Advise on public affirs issues
+    - Addressing and managing rumors and inaccurate information
+**** JIS components: PIO and JIC
+     - PIO (public information officier)
+       - Advises the IC, Unified Command, or EOC director on public infomration
+       - Gathers, verifies, and coordinates accurate, accessible, and timely information
+       - Handle sinquirings from the media/public/elected officials
+       - Providing emergency public information and warnings
+       - Conducting rumor monitoring and response
+     - JIC
+       - Central location that houses JIS operations and public information statff perform essential information
+**** Informing Public and Stakeholders
+     - Gather, Verify, Coordinate, and Disseminate
+** Communications and Information Management
+   - Interopability
+     - Capacity for emergency management and response personnel to interact and work together
+     - Communciate across jurisidictions and organizations, via voice, data, and video, in real time
+   - Reliability, Portability, and Scalability
+     - Reliable - familiar to users, adaptable to new technology
+     - Portable - can effectively be transported, deployed, and integrated
+     - Scalable - Able to expand to support situations
+   - Resiliency and Redundancy
+     - Resilency - system can withstand and continue to perform after damage or loss of infrastructure
+     - Redundancy - When primary communication methods fail, duplicate systems enable continuity through alterate communication methods
+   - Security
+     - Information is sensitive
+*** Communication Types
+    - Strategic
+      - High level directions
+    - Tactical
+      - Communications between and among on-scene command and tactical personnel
+    - Support
+      - Coordination of support of strategic and tactical communications
+    - Public
+      - Alerts and warnings, press conferences
+*** Incident Information
+    - Reports
+      - Situation Report (sitrep): regular reports that contain information regarding the incident status during the past operational period and the specific details for an incident
+      - Status report: reports such as spot reports, that include vital or time sensitive info. More function specifically and less formal than sitreps
+    - Incident Action plans
+      - Plans containing incident objectives established by IC or UC and addressing tactics and support activities
+    - Data collection and processing
+      - Follows
+        - Rapid assessment
+        - Data collection plans
+        - Validation
+        - Analysis
+        - Dissemination
+        - Updating

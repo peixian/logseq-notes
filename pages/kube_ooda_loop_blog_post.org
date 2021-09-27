@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       5CDF9DE3-3AAA-4A7D-B90A-BD5844291B12
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: kube_ooda_loop_blog_post
+#+TITLE: kube/ooda loop blog post
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]], [[id:A0A37A5E-A266-46B3-8148-D7A40A5F1F78][kubernetes (k8s)]], [[id:0A80F7EE-A020-4FD3-9F22-58C4FF978122][ooda (observe orient decide act)]]
+
+working title: ooda's in Kubernetes
+
+Kubernetes control plane is like the [[id:0A80F7EE-A020-4FD3-9F22-58C4FF978122][ooda (observe orient decide act)]], combines two main factors:
+- how kubernetes controllers respond to external stimuli
+  - duration/frequency of external stimuli?
+  - intensity aka amplitude of external stimuli?
+- when this stimuli comes in, how do we reconcile this with what we want?
+- statelessness
+
+sources:
+- https://commoncog.com/blog/much-ado-about-the-ooda-loop/
+- [[id:FE4F63CC-47AD-498E-AF27-B798C3E746BC][gasch: events, the dna of kubernetes]]
+- [[id:9C7BDADD-0A27-4AC4-9C42-660F9E553948][bowes: level triggering and reconciliation]]
+
+Draft:
+The fundalmental building block in the Kubernetes (k8s) lego box is the concept of a [[https://kubernetes.io/docs/concepts/architecture/controller/][k8s controller]], a program that implements a control loop that is responsible for moving k8s towards the desired state.
+
+I thought it was interesting how similar this was to the [[https://en.wikipedia.org/wiki/OODA_loop][OODA loop]][fn:1], which is a decision making process that breaks down into 4 stages:
+1. Observe
+2. Orient
+3. Decide
+4. Act
+
+Now this is relatively banal, most people already take this sort of decision making process into their daily lives. However, what I want to drill down into is how this process is /stateless/, that is, you don't actually need to persist *any* information between one iteration loop and into the next.
+
+An example: pretend you are setting up a k8s [[https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/][ReplicaSet]]. This ReplicaSet is responsible for spinning up a certain number of Docker containers, organized into k8s pods, say 3 pods[fn:3]. Now [[https://github.com/kubernetes/kubernetes/blob/master/pkg/controller/replicaset/replica_set.go#L540-L641][k8s handles this behavior like so]] on the first iteration:
+1) observe the number of pods already running for this replicaset (at iteration 0, this is 0 pods)
+2) compute the difference between the desired amount and current amount (at iteration 0, this is ~desired~-~current~ = 3-0 = 3 pods): https://github.com/kubernetes/kubernetes/blob/master/pkg/controller/replicaset/replica_set.go#L542
+3) decide whether pods need to be spun up or down: https://github.com/kubernetes/kubernetes/blob/master/pkg/controller/replicaset/replica_set.go#L548
+4) spin up pods or spin down pods accordingly
+
+This is exactly an OODA loop[fn:2]! Kubernetes observes the current state, orients itself, and then decides to act upon the given information. Now, if you pretend one of the 3 pods has failed to spin up. Iteration 1 would look like:
+1. observe the number of pods already running (iteration 1, this is 2 pods)
+2. compute the difference between the desired and current (iteration 1, this is 3-2=1 pod)
+3. decide/act on the information
+
+What's interesting here is that /no state was stored between iteration 0 and iteration 1/. Iteration 1 did not need /any/ information from iteration 0 to perform its actions, rather, iteration 1 oriented itself based on the current state of the world (that two pods already existed).
+
+Now, you might say that this system is not actually stateless, since there was state encapsulated within the number of pods already running. While this is true, it's important to note that we never explicitly managed the state, that is, we never allocated any variables to track any information generated within the loop. Using this OODA loop, Kubernetes has managed to perform stateful actions while keeping the implementation stateless.
+
+
+
+* Footnotes
+
+[fn:3] For simplicity we'll pretend each docker container maps to one pod, although this isn't really necessary information.
+
+[fn:2] This example is a little contrived since steps 3 and 4 are merged.
+
+[fn:1] In fact, [[https://www.mgasch.com/post/k8sevents/#fnref:1][Michael Gasch's great article]] on Kubernetes events points this out as well.

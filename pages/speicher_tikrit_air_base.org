@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       5FBD41A7-4B44-4E77-9A84-280B6775904C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: speicher_tikrit_air_base
+#+TITLE: speicher (tikrit air base)
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+Collective training camp for [[id:ADFAE0CB-D584-4CE9-9965-4E76C474546E][hashd al-shaabi (PMF)]], lead by [[id:BC40CBC8-81AC-4CFD-8121-7419EC9CB63B][badr]] and [[id:F56A8565-CED0-45C2-A53B-B186DF72A1C9][kataib hezbollah (kh)]]
+
+[[id:D4B35C6D-544A-481C-B5C0-7C2A2ABCF9AC][lebanon]] [[id:DE11B1DE-9DE7-4B29-A074-C962666085E1][hezbollah]] members have been spotted here as recently as July 12, 2019

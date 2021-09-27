@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       F8CA4C8E-F55A-4FF6-8709-52BE50E88DB4
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: brazil
+#+TITLE: brazil
+
+Tags: [[id:5121BC41-924F-4A73-A596-AAFDE7E34C79][south america]]

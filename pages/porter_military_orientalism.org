@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       B15A9F8C-E140-4C79-9E30-6949FACE530A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: porter_military_orientalism
+#+TITLE: Porter - Military Orientalism
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]]

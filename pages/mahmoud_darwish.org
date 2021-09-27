@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       BD56BD03-7DC7-4118-9F87-FD51D4E912F2
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: mahmoud_darwish
+#+TITLE: Mahmoud Darwish
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]
+
+Palestinian poet
+n

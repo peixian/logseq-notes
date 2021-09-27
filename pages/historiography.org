@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       0412B3FB-93EF-4DEC-B739-29FCDABE3A61
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: historiography
+#+TITLE: on historiography
+
+Tags: [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]], [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+What is historiography good for?
+- Reveals lacuna in the thinking of history
+  - History shapes nationalism
+  - [[id:98F9993A-F5AD-44C5-A732-8BBAD7FA6BEE][egypt]] particularly has had history held in stasis since the 50's - [[id:B1E26B6E-6A74-4E81-8A49-B18EF81BFDAE][DiCapua - Gatekeepers of the Arab Past]]

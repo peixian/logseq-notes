@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       7946AEAE-AD68-41DB-BAF1-3D67B44EFBF3
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: trees
+#+TITLE: trees
+
+Tags: [[id:2C626284-F74C-4110-83A7-AE07B6D0A451][algorithms]]
+
+- http://erikdemaine.org/papers/Tango_SICOMP/paper.pdf

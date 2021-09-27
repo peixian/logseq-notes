@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       9D00315D-ACF5-4940-BC72-1621BA3E766B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sanusiya
+#+title: sanusiya
+
+[[id:6EA38002-80A3-4288-9550-754AF8DD5F63][sufism]], [[id:C21DF9B0-E7E9-44F9-91A2-EEA809BD6293][libya]]

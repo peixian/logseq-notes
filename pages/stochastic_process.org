@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       26C17B53-BBB8-49B6-A5D7-D955CFC7006B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: stochastic_process
+#+TITLE: stochastic process
+
+Tags: [[id:F2643E37-CED2-492A-A77C-B632F3D203FD][statistics]]

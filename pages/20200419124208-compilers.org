@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       5B3FA555-7C9B-47B1-A463-983A682072FC
+:END:
+#+TITLE: compilers
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][Computers]]
+
+* Stephen Yegge
+Compilers matter because it Compiler Construction is the first course that brings together everything you learned before. Many things can be generalized into a stream symbol problem.
+- https://www.instapaper.com/read/1295231133
+- _Gentle, yet insistent executive summary: If you don't know how compilers work, then you don't know how computers work. If you're not 100% sure whether you know how compilers work, then you don't know how they work._
+#+SETUPFILE:./hugo_setup.org

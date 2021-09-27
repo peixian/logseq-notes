@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       C478E6D3-9BBA-450C-A2AE-2D750F69DE7C
+:END:
+#+TITLE: Adar - Emotions and Nationalism: Armenian Genocide as a Case Study
+
+Tags: [[id:C61C3FE4-06C6-4621-818B-503E36E83B7C][middle east]], [[id:FAC6D0F0-7797-4330-B988-37260A98CBC1][turkey]], [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]
+
+Little attention has been paid to relationship between meotions and nationalism. Armenian genocide continues to be a place of insecurity for the Turks and the Armenians due to their actual displacement, in the case of the assassination of the journalist Dink.
+
+- _I content that a focus on conflcit is essential to develop such an approach (nationhood)_ - pg 738
+- _one's sense of place within the nation is only known and evaluated in relation to the other's sense of place within it. It also means access to certain rights and the ability to utter certain words others may not_ - pg 739
+
+- Religious and linguistic afflications were the primary markers of nationhood -> "Authentic citiznes belongs to Hanafi sect of Sunni Islam and speaks Turkish"
+
+- Armenians are required to consistently repeat their pledges of loyalty to the state
+  - this means they are simulatenously privileged and deprived
+    - Privileged because they are different
+    - Must constantly act this out, strictly circumscribed roles in society
+
+- Armenian privilege and Turkish reaction, same as BLM and white lives matter?
+
+* Dink's assassination
+- Dink was charged with insulting Turkishness b/c he encouraged the usage of the Armenian language
+- Was also an outspoken and critical figure within the Armenian community
+- Greatest outrage was over "The Secret of Sabiha Hatun", where he claimed that Sabiha Gokcen, one of the adopted daughters of Mustafa Kemal Ataturk and first female combat pilot of Turkey that bombed Derism, was an Armenian
+- _Desanctification of the turkish purity_ - pg 748
+- Dink could be favored with privilege when he performed his love for the country
+#+SETUPFILE:./hugo_setup.org

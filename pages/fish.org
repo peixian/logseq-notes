@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       13FDC832-48FD-4E13-A13E-3065E06AA873
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: fish
+#+TITLE: fish
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][Computers]]
+
+- Globbing
+* Redirection
+** Bash
+   #+begin_src sh
+     diff <(dig google.com) <(dig www.google.com)
+   #+end_src
+** Fish
+   - https://fishshell.com/docs/current/cmds/psub.html
+   #+begin_src sh
+     diff (dig google.com  | psub)  ( dig www.google.com | psub)
+   #+end_src

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       F270F2E9-C565-4EFD-96D8-5FAE0F8430F1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: makram_ebeid
+#+TITLE: Makram Ebeid
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]
+
+- Egyptian Coptic leader
+- made a statement that he was "Muslim by country and Christian by religion"
+  - quoted in [[id:D54D622E-3F4A-4386-8EA2-EACC29533FF0][Mahmood - Religious Difference in a Secular Age]]

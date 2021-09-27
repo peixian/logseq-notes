@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       238E4E4B-7D58-49B2-B811-B5EF6ADBA6A9
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: tomassetti_et_al_reflections_on_the_lack_of_adoption_of_domain_specific_languages
+#+TITLE: Tomassetti et al: Reflections on the Lack of Adoption of Domain Specific Languages
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]]
+
+Tomassetti, Federico, and Vadim Zaytsev. “Reﬂections on the Lack of Adoption of Domain Speciﬁc Languages,” n.d., 10.
+
+Why do fields not always adopt domain specific languages? Domain specific languages provide benefits, but many people choose not to use these

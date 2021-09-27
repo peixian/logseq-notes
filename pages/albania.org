@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       50FB6225-6F03-42AD-A377-E8DD829BE939
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: albania
+#+TITLE: albania
+
+Tags: [[id:67096193-0BA9-4CE6-81A8-6EE477DDC692][balkans]]

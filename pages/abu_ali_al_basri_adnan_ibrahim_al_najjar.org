@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       5066CAA4-A73A-4F48-8535-C71B388E8504
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: abu_ali_al_basri_adnan_ibrahim_al_najjar
+#+TITLE: abu ali al-basri/adnan ibrahim al-najjar
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+Senior [[id:BC40CBC8-81AC-4CFD-8121-7419EC9CB63B][badr]]

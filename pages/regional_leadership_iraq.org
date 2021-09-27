@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       3AE888BE-E2DC-4B12-910B-EDDEC89A353F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: regional_leadership_iraq
+#+title: Regional Leadership (Iraq)
+
+[[id:64817B58-ADF7-4FEE-83D9-255D9D87194B][Baath]]

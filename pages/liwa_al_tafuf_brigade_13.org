@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       7BEA2B24-8552-41EE-954B-99FECF4CAD23
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: liwa_al_tafuf_brigade_13
+#+TITLE: liwa al-tafuf (brigade 13)
+
+Tags: [[id:C403589A-21CC-411A-A58E-1C2FDC31F72C][brigades]]

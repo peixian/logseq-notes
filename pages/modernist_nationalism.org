@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       36EA0708-46F0-487A-8B7A-1E7029207144
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: modernist_nationalism
+#+TITLE: modernist (nationalism)
+
+Tags: [[id:3A151692-5786-4F5E-B755-165CDFA29BB9][political science]]
+
+Emphasizes that nations and nationalism are products of modernity
+- Malesvic in [[id:67096193-0BA9-4CE6-81A8-6EE477DDC692][balkans]]
+-

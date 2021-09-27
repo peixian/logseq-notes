@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       4B2F35C3-6F92-47AE-817E-122F01F72A95
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sinjar
+#+TITLE: sinjar
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

@@ -1,0 +1,94 @@
+:PROPERTIES:
+:ID:       044FCF29-8BBD-4278-BD05-439C13CAADB8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: coppercock_invitation_into_formal_semantics
+#+TITLE: Coppercock - Invitation into Formal Semantics
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:48350662-53E9-4A91-9ADB-2BC9DFEA6098][nlp]], [[id:DCF8D543-265E-4077-9437-9C449BA6036D][formal semantics]]
+
+{{< katex >}}
+{{< /katex >}}
+
+* Introduction
+** Entailment
+   #+begin_quote
+   When A entails B -> when A happens, B happens
+   #+end_quote
+
+   To reason correct, it is not enough if the presmises and conclusion is true, it needs to also be true if things happen differently.
+
+   Arguments whose premises entail the conclusion are $\texttt{valid}$, others $\texttt{invalid}$.
+
+   An argument is valid iff: under all circumstances in which the presmises would be true, the conclusion is also true.
+
+   An argument that is valid whose premises are true is called $\texttt{sound}$.
+** Quantifiers
+   Example:
+   {{< hint danger >}}
+   a. Florida is north of no US state
+
+   b. No US state is north of Alaska
+
+   c. $\cancel{\therefore}$ Florida is north of Alaka
+   {{< /hint >}}
+
+  The quantifier here of $\texttt{no US state}$ is a shorthand ambiguity
+
+  Sentences are ambigious in nautral language
+
+  Two types of amibguity:
+  1. Scope amibguity - How you read the argument
+  2. Lexical amibguity - When a word has multiple meanings
+** Entailment vs Implicate
+
+   Conversational implicate
+   - Inferences that the listener can derive, assuming the speaker is adhereing to some axioms
+   - Maxim of Quantity -> The speaker provides as much information as needed
+
+   $\texttt{Question under discussion}$ -> Subject matter at hand
+
+   Conversational implicative can be cancelled without producing a contradiction.
+
+   $\texttt{Defeasbility test}$ - Check if youy can construct an example where A is followed by the negation of B, and see if that still makes sense
+*** Contrary opposition & Contradictory Opposition
+
+    {{< columns >}}
+    A is contrary oppposition to B iff A & B cannot be true in the same circumstance but both can be false
+    <--->
+    A & B cannot be true together and cannot be false together
+    {{< /columns >}}
+
+    {{< hint info >}}
+    Note that negation is alwatys contradictory opposition.
+    {{< /hint >}}
+
+** Tests
+   {{< columns >}}
+   Defeasbility Test - Attempts to form A && $\neg$ B
+   <--->
+   Reinforcement Test - Attempts to form A && B
+   {{< /columns >}}
+
+** Entailment vs Presupposition
+   - Most negations of $\neg$ true are True
+   - Some negations are false
+
+
+   Definition of presupposition
+   {{< columns >}}
+   Pragmatic -> Something the speaker of a sentence does
+   <--->
+   Semantic -> When a sentence presupposes something, the presupposed must be true in order for the sentence to be true.
+   {{< /columns >}}
+
+   If you presuppose something false, the sentence is not true NOR false, but rather nonsense
+
+   Presupposition projects from the antecedent of the conditional
+
+*** Projection Test
+    Asses whether the inference in question projects over the negation
+    Presuppositions thrive where entailments die
+
+** Truth Conditional Semantics
+   Truth conditions are the /situations/ in which the sentence is true, not whether the sentence is in fact true.

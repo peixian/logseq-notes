@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       3CA8482E-FE58-4943-95C9-A1705574BF08
+:END:
+#+TITLE: FARC in Colombia
+
+Tags: [[id:44848562-7F27-4906-95F4-6A9BFEC7A473][militias]], [[id:1092BA8C-A5BF-45E3-81C4-2439E032DEBD][colombia]]
+
+- Similar to YPG with women soldiers
+- Alienated tons of leftists by kidnapping
+- Near peace deal in 1980's by colombian gov giving them area the size of switzerland
+- American aid originally had vietnam style restrictions
+  - Later removed, 2002 allowed the president to go full force
+  - Modern colombian history starts here
+- 2016 peace deal with thousands of gurellias
+#+SETUPFILE:./hugo_setup.org

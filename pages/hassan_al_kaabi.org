@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       A0AFA0C3-750C-4D18-BA67-6639C44BB294
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hassan_al_kaabi
+#+TITLE: hassan al-kaabi
+
+Tags: [[id:1C1DF648-3DAE-40F7-9202-96CADE041578][sairun (sadr political party)]], [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]
+
+Deputy speaker for [[id:892AA907-7AC7-416C-9E42-21B70840A14F][iraqi parliment]] and also MP

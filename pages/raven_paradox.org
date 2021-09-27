@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       A9B120E5-C1B5-4A08-9621-F992C391FEF3
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: raven_paradox
+#+TITLE: raven paradox
+
+Tags: [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]]
+
+- https://www.instapaper.com/read/1303612550
+
+Logical paradox about the scientific method:
+- If a raven is black, and your hypothesis is that "ravens are black", then every raven you see that is black supports the hypothesis
+- However, the cohort of this is that "if a thing is a raven, then it is black"
+  - This means that non-raven non-black things support the hypothesis, which is nuts
+  - So inherently there is a ranking of evidence, not non-raven non-black things are weaker evidence than a black raven
+    - A la bayesian inference
+  - However, baysesian inference requires you to know the rough % of non-black non-ravens to black ravens,
+    - This number can be estimated, but where is it from?

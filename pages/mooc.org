@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       8CB91452-18C6-405D-A27D-62B007C7CE33
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: mooc
+#+TITLE: mooc
+
+Tags: [[id:A63D0CEC-6083-46C5-BD8D-7A8D750FF1A4][classes]]
+
+Mooc list: https://news.ycombinator.com/item?id=23722680

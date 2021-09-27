@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       9E5E0478-4353-45D3-A480-0AED0A7AD64B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hashd_commission
+#+TITLE: hashd commission
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+Semi-ministry responsible for the [[id:ADFAE0CB-D584-4CE9-9965-4E76C474546E][hashd al-shaabi (PMF)]]

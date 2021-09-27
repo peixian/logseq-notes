@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       D05CA298-6146-4A73-97CB-58500280B5C8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ethnicity_nationalism_and_conflict
+#+TITLE: ethnicity, nationalism, and conflict
+
+Tags: [[id:2CA4ACAD-7B98-4C7E-AA8B-FC2E0ADE676A][conflict and violence]]
+
+* Hosbawn 1992:
+- Nationalism with political theory
+- Ethnicity with socialism
+* Notes
+- Ethnic groups do not have a strict political order
+- Constructions typically emphasize the boundaries between them
+
+- Disaster Nationalism
+  https://www.newstatesman.com/culture/observations/2020/03/rise-disaster-nationalism-why-authoritarian-right-resurgent
+* Pitfalls
+  - There is a risk of not taking the violence of actors seriously
+    - Difference between the categories of analysis and categories of practice
+  - Extremely risky to dimiss the agencies of actual actors
+  - Mahmoud Mamdani - Political violence in africa is a continuation of colonial rule

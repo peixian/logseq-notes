@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       1013CA16-F425-4729-A175-480B54F3A9D2
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: arms_management_and_destruction
+#+TITLE: arms management and destruction
+
+Tags: [[id:946126FC-70D3-4747-A947-2D4562E06714][small arms stockpiling]]
+
+- https://www.unrec.org/default/index.php/en/unrec-updates/454-tot
+- https://www.un.org/disarmament/update/training-course-on-weapons-and-ammunition-management-in-lome/
+- https://www.maginternational.org/what-we-do/arms-management-destruction/

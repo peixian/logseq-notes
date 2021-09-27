@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       555C7385-6E2F-4F60-9034-4290EC9715BE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: thinkpads
+#+TITLE: thinkpads
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- https://geoff.greer.fm/2019/03/04/thinkpad-x210/

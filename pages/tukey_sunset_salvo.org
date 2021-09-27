@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       80B3B2EA-27A7-4F31-B28C-41BF1582F87E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: tukey_sunset_salvo
+#+TITLE: Tukey: Sunset Salvo
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]
+
+- John W. Tukey. “Sunset Salvo.” Accessed July 12, 2021. https://www.gwern.net/docs/www/www-stat.wharton.upenn.edu/2140df0d72dbbca7ef32abae3dca90d641a05120.pdf.
+
+- Mathematical statistics towards data analysis
+- Taking functional models more seriously than stochastic ones, as functional models are easier to verify, and scale better than stochastic ones (more data)
+- Not all answers is contained within the data
+  #+begin_quote
+Hubris is the greatest danger that accompaniesformal data analysis, including formalized statistical analysis. The feeling of “Give me (or morelikely even, give my assistant) the data, and I will tell you what the real answer is!” is one we must all fight against again and again, and yet again.
+  #+end_quote

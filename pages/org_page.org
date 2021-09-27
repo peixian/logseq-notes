@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       490B4C8A-CC19-4A33-8BD7-2292D11A0577
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: org_page
+#+TITLE: org-page
+
+Tags: [[id:A5B60132-60E3-41C5-BCC7-622F05AA203A][org-mode]]
+
+- Hosting images:
+  1. Create "assets" folder at root
+  2. use file syntax:
+     #+begin_src org
+       [[file:../assets/images/boost-bind2.png]]
+     #+end_src

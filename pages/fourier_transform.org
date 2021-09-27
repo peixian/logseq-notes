@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       00DF3E75-FACE-4841-BE15-55F32FFAB94C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: fourier_transform
+#+TITLE: fourier transform
+
+Tags: [[id:0C55E344-F9AE-4584-B54F-83EC2FCE9062][math]]
+
+- usefulness in sound and [[id:BF68B582-1EC9-4DDB-BFCA-AB4A42AABF0B][probability]]
+- allows the mapping of a regular function into a space where signals can be decomposed
+- https://www.youtube.com/watch?v=spUNpyF58BY

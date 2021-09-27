@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       B52C319A-BE07-47C4-ADDD-0FC3489BE472
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: asian_development_bank
+#+TITLE: asian development bank
+
+Tags: [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]]

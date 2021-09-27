@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       2D7BD1CE-5F50-4847-8E7A-5E5CBE83B8F9
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: idris_lessons_from_ddr_programs
+#+TITLE: Idris - Lessons from DDR Programs
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]
+
+talks about [[id:E900796C-250A-474B-9054-C0C109C94A24][ddr]] and gives a broad overview of three generations
+1. traditional DDR
+   - situated for peace accords and state based
+2. second generation ddr
+   - responding to changing agendas for peace and security
+   - developed the [[id:DE06E988-C805-48A4-973A-7128C7971835][integrated ddr standards]]
+   - more human security-oriented approach, abandoned the fixed sequential steps
+3. [[id:F9481EED-99A7-4478-B3A7-1D1AA3C43D2C][next generation disarmament, demobilization, and reintegration]]next
+   - targets how [[id:E900796C-250A-474B-9054-C0C109C94A24][ddr]] often just ignored reintegration, or reintegration was the weakest link
+   - more forceful, takes a stick over carrot approach
+
+* ongoing challenges
+- unrelatistic expectations
+  - mission creep
+- funding
+- conduct of [[id:E900796C-250A-474B-9054-C0C109C94A24][ddr]] in 'hot' conflict situations
+- transnational elements
+  - how to reintegrate foreign fighters, such as [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+- economic insecurity and haphazard reintegration
+  - economic insurcity may not necessarily be the best approach
+- local explotiation of ddr programming
+  - national ownership focus and local targeting means its vulnerable to manipulation and abuse for local political ptronage
+- respect for human rights
+- monitoring and effectiveness assesment
+  - [[id:E900796C-250A-474B-9054-C0C109C94A24][ddr]] programming is focused on outputs and not outcomes
+- lack of political will from donors
+- integration and coordination
+- need for more research
+
+* Case studies
+  - [[id:116909C1-7C11-4685-84DC-5F73A187B49E][multi-country demobilisation and reintegration programme (MDRP)]]
+  - [[id:DB2CC264-A435-4715-8AF6-905254C4A07A][sudan]]
+    - [[id:D6F35F23-0181-44C6-91D3-035FB61DF96A][un development program (UNDP)]] implemented 4 year project from 2009 to 2012
+    - long time lag between disarmament/demobilization and reintegration
+    - biggest criticism was the the program was focused on delivering the seven year old agreement (Comprehensive Peace Agreement) and not on the needs of the communities
+  - [[id:87480B74-4E7F-485F-988B-EC8CC559F15F][somalia]]
+    - implemented in "hot" conflicts
+    - former al-Shabab fighters do not want to leave [[id:E900796C-250A-474B-9054-C0C109C94A24][ddr]] facilities because they feel safe
+  - [[id:394D057C-5937-4CF2-9587-3F14238485E4][central african republic (car)]]
+    - [[id:4CA3DDA0-42F4-45ED-8AE2-58179E158C7F][multidimensional integrated stabilisation mission in the central african republic (MINUSCA)]]

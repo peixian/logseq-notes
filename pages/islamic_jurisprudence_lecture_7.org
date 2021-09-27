@@ -1,0 +1,72 @@
+:PROPERTIES:
+:ID:       8C963D22-302E-4941-8CFB-541D4C1ACA29
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: islamic_jurisprudence_lecture_7
+#+TITLE: islamic jurisprudence lecture 7
+
+Tags: [[id:BB2783B7-0E6B-4886-8007-EC63A9C67096][islamic jurisprudence]]
+
+* Kecia Ali - Marriage and Slavery in Early Islam
+- coherent understanding of marriage
+  - building on Layla Ahmed - "women and gender in Islam"
+  - looking at devise of analogy, and reasoning through analogy
+    - specifically the quran
+  - using slaves was an important analytic for the scholar and jurst, and cannot understand marriage without understanding legal theorization of slavery and commercial practices
+  - when does the analogy not match up with women and slavery?
+    - women are not comparable because they do not sell their bodies to men
+  - "marriage in the premodern period cannot be completely understood without an understanding of slavery" - is this true?
+    - same discursive frame used for slavery and marriage
+    - justification from slavery, using slavery as an analogy
+    - line between legal rationality (jurisprudence of slavery and marriage) -> this rationality is constructed to discursive frame <- social realities
+      - the gap between practice and discourse?
+    - [[id:C1D6FB27-F122-45DF-84F2-6ABDF4DE1160][ibn al-hajj]] - quotes him and makes the point that the jurists like him were not people who were sociologically representive
+    - why marriage and divorce? what does this tell us about early muslims?
+  - islamic laws are diverse, and because they are diverse, they are suspectible to reform
+  - aziza habri - lawyer, founder of qurama - US associations for muslim women lawyers
+    - pratices of medina is a normative framing
+      - textualizing social practices
+  - social construct and the interplay between jurist rulings and society
+    - she looks at the hardening of juristic thought
+  - marriage and islamic law involve selling sexual access
+    - focusing on the fluidity of categories, the logic of marriage
+    - differences between the madhabs
+  - enslavement and masculinity?
+    - enslavement either feminized or infantilized the male with regard to consent
+- ali lays out how contingent the assumptions of slavery and hierarhcies required in the relationship
+- go understand why Keisha Ali cares, the doctrine is still alive!
+  - many muslims still believe this doctrines to be authorative
+  - progressive muslims will need to build this differently
+- what about her assertion that "law has a life and logic of its own"
+  - intellectual justifications need to construct defensible arguments
+  - this leads to a hardening of intellectual standards
+  - how does this reconcile with what jurists actually believe?
+    - what precendents constrain you? how constrainted are you to the actual texts itself?
+  - what is the point of a law that can't be enforced or is a law that they don't actually believe in?
+  - nascent madhabs, but lots of the positions are already established
+- al-surkhasi
+  - why do we do all this stuff for wives? do you purchase the right to the sexual access?
+  - why does a husband owe his wife?
+    - why does a judge, people who do labor, etc
+  - argues that you are entitled to the opportunity cost of doing another thing
+  - effectively paying a retainer
+  - being a wife as a job?
+- arguing that transaction in marriage was commericial in essence, but qualified that it does not involve selling sexual access to her body
+
+* Rapoport - Marriage, Money, and Divorce
+  - questions of practice in stipulations
+    - requirement of a bridal gift
+    - dowery and dower - both go to the wife
+      - indebtedness of husband
+    - shafi'i's believe that monetary transfer to wife maintanence as a economic value, i.e. unground grains, because unground grains could be sold
+  - marriage consent -> not neccessarily between bridge and groom
+    - is the consent between the different parents
+    - is marriage a contract between families
+  - is patriarchial authority given life through divorce?
+    - functions as an escape value for categories of wives
+  - 3 types of divorce
+    - talaq - unilatery repudication
+    - huluq - forgo the mahr, pay back the dowery in exchange for divorce
+    - divorce through courts
+  - discursive frame of patriarchical authority, model of business exchange pretend itself to a sense of agency
+  - was debt used as a fictious way to use to pass on money?

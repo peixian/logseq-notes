@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       9619BA86-028F-41A6-A8B2-5C621444900E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: supreme_council_for_the_islamic_revolution_in_iraq_sciri
+#+title: Supreme Council for the Islamic Revolution in Iraq (SCIRI)
+
+Tags: [[id:5E8F7C5C-9300-41D5-A90C-8E7A4235E584][iraqi political parties]]

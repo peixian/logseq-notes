@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       845CE035-F724-4F4F-83A6-57BD1DB86484
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: afghanistan_visa
+#+TITLE: afghanistan visa
+
+Tags: [[id:086B0579-8C85-4CE5-9E65-EB8980FB2C2E][afghanistan]], [[id:3FC2206E-A175-4BCA-8247-60234887BD7D][travel]]
+
+https://caravanistan.com/forum/viewtopic.php?f=3&t=10001

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       05B5F6FB-C08B-4296-A5C8-2D80EA1BCEE0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: second_order_effects_blog_post
+#+TITLE: second order effects blog post
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+Tier 2 cities, senior civil servants, second order effects

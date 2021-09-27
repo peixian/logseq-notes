@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       A9B15487-CD23-4895-9FA7-82A94D607A0C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: code_generation
+#+TITLE: code generation
+
+Tags: [[id:48350662-53E9-4A91-9ADB-2BC9DFEA6098][nlp]], [[id:97F1E86A-6A4B-4B74-A809-18DD25467F95][text generation]]
+- https://ml4code.github.io/base-taxonomy/generative.html

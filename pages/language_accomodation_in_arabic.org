@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       DBF4E5C3-D7C8-4E4E-B881-A0257FAA345E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: language_accomodation_in_arabic
+#+title: language accomodation in arabic
+
+[[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+- diglossia is common in arabic
+- oftentimes you can just say a vague word with the same root and speakers understand it
+- is spoken arabic build in more variance within the grammar? location of question words for masri, colloqialisms for different dialects, loan words
+- what about language accomodation? are speakers just less willing to accomodate because they expect others to adapt?

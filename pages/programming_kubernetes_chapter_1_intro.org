@@ -1,0 +1,52 @@
+:PROPERTIES:
+:ID:       1939B0E5-E867-4EF0-8D8F-A3CADEEFDA57
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: programming_kubernetes_chapter_1
+#+TITLE: programming kubernetes chapter 1 - intro
+
+Tags: [[id:565A859A-81C4-493B-83C9-CB96D65C479B][hausenblas - programming kubernetes]]
+
+- Building native apps that speak to both the kubelet and the API server
+- Extension points
+  - ~cloud-controller-manager~ integrates w/ the cloud
+  - ~kubelet~ binary lets network/devices/storage and container runtimes
+  - ~kubectl~ has plugins
+  - extensions on API server
+  - custom resources and controllers
+  - custom API servers
+  - scheduler extensions
+
+* [[id:F5441954-B74E-4FF3-BE85-653D7B55AD50][controllers (k8s)]]  and Operators
+  - Controllers implement a control loop, watching the shared state of the cluster through the API server and making changes in an attempt to move the current state towards the desired state
+    - Controllers act on core resources
+    - Operators are controllers that encode some operational knowledge
+  - the controllers pull info, computes the difference between the desired state and the current state, and updates accordingly
+    - somewhat similar to [[id:DFDA3B4E-6216-4463-A8B3-37A0CB0F5B93][loss function]]
+
+
+** The control loop
+    - Read state (hopefully event driven)
+    - Change state
+    - Update status via API server in etcd
+    - repeat
+
+**** Data structures used by the controller
+     - Informers
+       - Obtains the state of a cluster, often with a resync mechanism
+     - Work queues
+       - used for event handler that handles the queuing of state changes
+
+**** State transitions
+     - k8s iteratively determines what is the next command to run, when no commands can be run, cluster is in /steady state/
+     - Kubernetes objects
+       - kube object store is a set of kube objects
+         - kube objects are data records that come in ~kinds~
+     - controller transitions can cascade into one another, state transition from one controller can cause another to happen
+     - therefore kube objects are records of intent, not records of fact
+     - ultimately kube does not make coordinated efforts to transition into a desired state
+
+*** Operators
+    Operators encode specific knowledge about the underlying resource, allowing it to manage specific state, shipping with [[id:88B7FCAA-1E3B-4A6E-9BD0-C746983DBB8C][custom resource definitions (crds)]] and custom controllers
+
+    For example, a [[id:5E6D1746-A542-4380-961E-1D323A5F1601][Cassandra]] operator can balance nodes accordingly

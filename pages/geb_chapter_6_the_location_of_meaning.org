@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       B37DE855-D2C4-4F65-8539-27553A764C82
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: geb_chapter_6_the_location_of_meaning
+#+TITLE: geb chapter 6 (the location of meaning)
+
+Tags: [[id:02E1C06A-9354-4671-9F73-4D1D3E198024][Hofstadter - Godel, Escher, Bach]]
+
+- deconstruct langauge down to syntax, alphabet, grammar, sounds
+  - where does meaning reside in this?
+- like how one note in music cannot be identified to have emotional resonance
+- decoding a message -> linguists and astromers
+- inutition of the location of meaning
+  - we expect things to hold meaning such as a newspaper in russian, even when we can't read russian
+  - meaning exists independently of text
+- framing/out/inner vs /scope/medium/meaning
+- can we give information that is context free?
+- intelligences love patterns

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       C5E458F7-C0D5-49D1-9CE5-BEE8CEB70C30
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: foreign_langugages_vs_programming_languages
+#+TITLE: foreign langugages vs programming languages
+
+Tags: [[id:5D4FD56C-329E-4881-AEBC-EFE6DDF0F29D][articles]], [[id:AB300662-3E3E-4452-A29D-468522B35C3E][languages/linguistics]], [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- https://news.mit.edu/2020/brain-reading-computer-code-1215
+- https://elifesciences.org/articles/58906
+- different parts of the brain are activated when reading computer code vs foreign languages
+
+* related links
+- http://web.mit.edu/9.s915/www/classes/duncan.pdf
+- https://i.imgur.com/xdYzbev.png
+- https://arxiv.org/pdf/2011.07966.pdf
+- https://en.wikipedia.org/wiki/Default_logic
+- https://en.wikipedia.org/wiki/Non-monotonic_logic
+- https://en.wikipedia.org/wiki/Abductive_reasoning
+- https://en.wikipedia.org/wiki/John_Henry_Wigmore
+- https://news.ycombinator.com/item?id=25434854

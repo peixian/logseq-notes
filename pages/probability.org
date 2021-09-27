@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       BF68B582-1EC9-4DDB-BFCA-AB4A42AABF0B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: probability
+#+TITLE: probability
+
+Tags: [[id:F2643E37-CED2-492A-A77C-B632F3D203FD][statistics]]
+
+- https://www.vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf
+- https://realnotcomplex.com/probability-and-statistics/probability-theory/introduction-to-probability-by-dimitri-p-bertsekas-and-john-n-tsitsiklis
+- https://realnotcomplex.com/probability-and-statistics/probability-theory/a-short-introduction-to-probability-by-dirk-p-kroese
+- https://faculty.math.illinois.edu/~r-ash/BPT.html
+- https://realnotcomplex.com/probability-and-statistics/probability-theory/basic-probability-theory-by-robert-b-ash
+- https://realnotcomplex.com/

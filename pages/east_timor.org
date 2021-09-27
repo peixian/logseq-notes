@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       CE25AFF3-B312-48CA-B722-9EA2CFB82AA6
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: east_timor
+#+TITLE: east timor
+
+Tags: [[id:54A7E315-9721-4BC9-BE36-EE6B40B82889][south asia]]

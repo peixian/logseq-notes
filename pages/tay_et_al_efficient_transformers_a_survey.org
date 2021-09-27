@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       9E823223-CA36-44D2-845E-753D209566E4
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: tay_et_al_efficient_transformers_a_survey
+#+title: Tay et al: Efficient Transformers: A Survey
+
+[[id:8CE85559-A568-4173-A5DE-12FCD5E52AC9][survey papers]], [[id:51BC9BEA-4F6D-4438-87F8-F6322BA475A3][transformers]]

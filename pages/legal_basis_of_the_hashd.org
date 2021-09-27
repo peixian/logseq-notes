@@ -1,0 +1,53 @@
+:PROPERTIES:
+:ID:       8975C122-7589-444F-8E13-5180F6AF5C49
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: legal_basis_of_the_hashd
+#+TITLE: legal basis of the hashd
+Tags: [[id:0AE7D45A-DA37-40AE-A5CD-AEB6694E810D][Knight et al - Honored, Not Contained]], [[id:ADFAE0CB-D584-4CE9-9965-4E76C474546E][hashd al-shaabi (PMF)]]
+
+- Formally part of Iraqi and and also arising from the fatwa of Sistani
+   - Continuing to propose a parallel legislation is silly, pmf is already regulated by the same military laws
+   - Started from [[id:551974DA-A83D-409F-8426-61DE3A40D43F][nouri al-maliki]]'s popular army
+     - [[id:BEBC4923-27A5-4FA0-8EC6-F1CB9632AA26][sons of iraq]] framework
+     - [[id:3C62E0B5-B282-4E57-AEFC-9C765384B7EA][sahwa (awakening)]] movement
+     - existing fasail in Iraq
+       - [[id:35846680-D69C-4C80-9494-F3375E5DDC93][asa'ib ahl al-haqq (aah)]]
+       - [[id:F56A8565-CED0-45C2-A53B-B186DF72A1C9][kataib hezbollah (kh)]]
+       - [[id:429AAD3F-9AD1-4842-9B55-F6B18BEF36CB][kataib sayyid al-shuhada]]
+       - [[id:C95CCC60-FDB5-470E-BFEE-80BD88A1EB6E][harakat hezbollah al-nujaba]]
+       - [[id:D6002CC8-4179-4065-9777-499AA8FF95D6][kataib al-imam ali]]
+       - [[id:E2A5179E-190B-4A55-A89B-A2A9A32E4202][kataib jund al-imam (brigade 6)]]
+   - After Fallujah, [[id:551974DA-A83D-409F-8426-61DE3A40D43F][nouri al-maliki]] aimed to raise the Popular Defense Brigades (Saraya al-Difa al-Shaabi)
+     - also driven by [[id:B4495945-1A3F-4927-967A-03C0D2992069][abu mahdi al-muhandis]] and [[id:F56A8565-CED0-45C2-A53B-B186DF72A1C9][kataib hezbollah (kh)]]
+   - Post [[id:123CC1C9-288C-484E-8442-BD52A2C0873E][mosul]]
+     - After June 11, 2014, [[id:68F6BA6B-A26A-490F-8F3D-2A5DA2F60CCB][cabinet degree 301 (2014)]]
+     - On June 13, 2014 [[id:3F2EE985-63C3-42AD-95C0-8ADD543FCF21][sistani]] issues his famous fatwa
+       - notably sistani has never used the term "hashd" and prefers to use mutataween (volunteers)
+   - "Defense" hashd
+     - Multiple minor groups deployed primarily in baghdad and nominally affiliated with the [[id:67A68720-1444-45BD-A298-5E1DF8305091][ministry of defense (iraq)]]
+     - recieve around 2,000 billets and around 15k people have rotated through
+     - 56 platoon size checkpoints unit under Baghdad Operations Command
+     - chronic lack of payroll
+     - [[id:9E5E0478-4353-45D3-A480-0AED0A7AD64B][hashd commission]]
+   - [[id:19B6AC64-2EDE-40BE-8F7A-B8FBC87D8FB8][national guard law (2015)]]
+   - [[id:801423C7-E414-4B9C-8D5C-55E72598511C][executive order 91 (2016)]]
+   - [[id:E040B3F6-B6A6-456E-891C-CA56FD8AB488][popular mobilization comission law (2016)]]
+   - [[id:F643CE85-DE07-4F56-B49E-8439D1479B34][executive order 85 (2018)]]
+   - [[id:40D8F42B-F69F-4A51-8F60-B5771FF99F86][adil abdul-mahdi]] issued 4 "orders"
+     1. Foreign forces not allowed to act on soil without permission
+     2. State from the provcine or outside prevented from exercising
+     3. Actions of Iraqi or non-Iraqi armed forces outside the armed forces and commander-in-chief is prohibited
+     4. Any action of military should be known by the military
+   - Aimed at rocket attacks against US
+   - [[id:337E0E6C-F76D-41C3-8C8E-170052E10131][executive order 237 (2019)]]
+   - [[id:8462925B-839F-4350-B3F9-0B7657AB40D6][executive order 328 (2019)]]
+   - [[id:A39A92BB-5AF1-4C86-8B5D-007981E4CEEA][executive order 331 (2019)]]
+*** Observations
+    - Shia-led army has been growing for some time
+    - widely conceived of needing a "separate but equal" status
+    - many advocates do not want it to be folded within an established ministry
+      - comfort at the fact that it answers directly to PM
+    - successive [[id:4F59D34B-7839-4FA8-A61F-97BCE0E62359][iraqi prime minister]]s have felt like it was necessary to assert their authority
+      - [[id:B4495945-1A3F-4927-967A-03C0D2992069][abu mahdi al-muhandis]]'s meddeling
+    - *roles and missions have the hashd have not been defined anywhere*

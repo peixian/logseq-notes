@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       E35B2092-2C97-43D4-A677-6A60C65CB23E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gaza
+#+TITLE: gaza
+
+Tags: [[id:C8DCDFD7-F287-4705-8908-3273E85A7856][palestine]]

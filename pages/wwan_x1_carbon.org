@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       B23B463A-62D6-46B3-B583-2D794067AAA4
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: wwan_x1_carbon
+#+TITLE: wwan x1 carbon
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- https://forums.lenovo.com/t5/ThinkPad-X-Series-Laptops/How-can-I-add-a-WWAN-4G-LTE-Card-antenna-to-my-2018-X1-Carbon/td-p/4074610?page=2
+- https://forums.lenovo.com/t5/ThinkPad-X-Series-Laptops/X1-Carbon-5th-gen-user-install-of-WWAN-card/m-p/3964721
+- https://old.reddit.com/r/thinkpad/comments/66ojki/thinkpad_x1_carbon_5th_anyone_know_how_to_install/
+- https://github.com/abcdw/configs/blob/master/x1carbon5.org#wwan
+- https://www.thinkwiki.org/wiki/Sierra_Wireless_HSDPA_WWAN
+- https://wiki.archlinux.org/index.php/ThinkPad_mobile_Internet

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       C79D7210-8BE1-448C-8C3A-BA2EF16CA8B2
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: timer_lawn_low_latency_timer_data_structure
+#+TITLE: timer lawn: low latency timer data structure
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:4D9304F7-5A41-4C21-AA1A-6F7316F64CE3][real time systems (rts)]]
+
+https://arxiv.org/pdf/1906.10860.pdf

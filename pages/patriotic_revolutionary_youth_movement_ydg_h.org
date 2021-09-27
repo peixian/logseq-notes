@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       724733E5-85DD-447C-A0A8-DFB696826296
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: patriotic_revolutionary_youth_movement_ydg_h
+#+TITLE: patriotic revolutionary youth movement (YDG-H)
+
+Tags: [[id:44848562-7F27-4906-95F4-6A9BFEC7A473][militias]]
+
+Militant youth wing trained by the [[id:928B2B3A-1EE3-4784-A9C1-D07D1758F368][kurdistan worker's party (pkk)]]
+
+https://en.m.wikipedia.org/wiki/YDG-H

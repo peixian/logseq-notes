@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       E2CE0498-2FF2-4CB7-9035-AE553CB87516
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: article_140
+#+TITLE: article 140
+
+Tags: [[id:74B098C9-54AD-4255-8680-09D079DC73F9][iraqi constitutionalism]]
+
+
+- Constitutional time bomb, three step process for determining the status of kirkuk, postponed indefinitely
+- https://en.wikipedia.org/wiki/Kirkuk_status_referendum

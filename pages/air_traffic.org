@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       25F574CB-8FC5-4CA7-AE41-1270B9C7A30E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: air_traffic
+#+TITLE: air traffic
+
+Tags: [[id:709DC7D9-570A-44E0-B9F9-BBED07AC77C1][data]]
+
+- https://www.oag.com/busiest-routes-right-now

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       4587FC0D-C0A0-405D-A872-B0A1A337EAFA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: wti
+#+TITLE: west texas intermediate
+
+Tags: [[id:A12B1B28-2B00-4929-A3BC-EF8ED43A377F][oil]]
+
+- typically "sweeter" than [[id:F087072A-4A2B-407A-884F-87C0AB1AA96F][brent]], used to trade at a ~$2 premium
+  - spreads (as of April 2020), are as wide as ~$20 now
+  - far sweeter than [[id:07B1FA3F-B65C-491F-85A5-91A347FC2C3D][urals]]
+- from Permian Basin
+- Traded out of Cushing, OK
+- {IGPV} for function

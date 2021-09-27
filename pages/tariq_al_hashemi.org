@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       51650F08-1893-4406-AAA3-CDE8DBB06647
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: tariq_al_hashemi
+#+title: Tariq al-Hashemi
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]
+
+Former vice president of [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]], arrested by [[id:551974DA-A83D-409F-8426-61DE3A40D43F][nouri al-maliki]] in 2012

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       07B1FA3F-B65C-491F-85A5-91A347FC2C3D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: urals
+#+TITLE: urals
+
+Tags: [[id:A12B1B28-2B00-4929-A3BC-EF8ED43A377F][oil]]
+
+- Extremely vicious
+- Exports from Russian Baltic Sea ports of Primorsk and Ust-Luga, to Nizhnevartovsk in west Siberia

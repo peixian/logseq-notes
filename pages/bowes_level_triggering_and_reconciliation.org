@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9C7BDADD-0A27-4AC4-9C42-660F9E553948
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: bowes_level_triggering_and_reconciliation
+#+TITLE: bowes: level triggering and reconciliation
+
+Tags: [[id:5D4FD56C-329E-4881-AEBC-EFE6DDF0F29D][articles]]
+
+Introduces the concepts of edge triggering and level triggering, derived from the idea of an [[id:1703A577-9E10-491F-BAEC-D0E0FEE0AA47][interrupt]], talks about how systems should respond to the shape of an electrical signal over time.
+
+Should the system care about /when/ the signal changes from low <- high or high -> low, or /if/ the signal is high? Thresholds vs state changes
+
+Abstractly, there's no differences between edge and level triggering, the only difference is the [[id:5A2320A9-6519-4DAF-AEFF-8078ECB4601B][sample rate]], if a system doesn't sample fast enough, we may miss a trigger, especially when there's an outage.
+
+Under ideal conditions these are the same.
+
+[[id:A0A37A5E-A266-46B3-8148-D7A40A5F1F78][kubernetes (k8s)]] is focused on reconciling desired and actual states:
+
+#+DOWNLOADED: screenshot @ 2020-12-28 21:39:56
+[[file:2020-12-28_21-39-56_screenshot.png]]

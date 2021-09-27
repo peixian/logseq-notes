@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       764ACD02-9D61-4DA6-99D7-5DFD996843F6
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: un_policy_for_post_conflict_employment_creation_income_generation_and_reintegration
+#+TITLE: un policy for post-conflict employment creation, income, generation, and reintegration
+
+Tags: [[id:7C05085A-564D-4186-B4E7-AD9DC612310A][un]]
+
+three pronged approach
+1. target war affected and vulnnerable populations (excombatants and youth)
+   - concetrates on consolidating stability
+   - wants to implement short-term, labor intensive public works programs to rebuild social and economic infrastructure
+2. consolidate oeace by rebuilding local communities through initiatives
+   - invest in local infrastructure
+   - promoting local-level employment opportunities
+   - restoring the natural resource base
+   - rebuilding local gov capacity
+3. assis the creation of sustainable 'decent' work involving macro-economic and sector policies and institutional capacity building and a framework for social dialogue

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       AC977E2B-174D-4591-BE29-6EC2E63A47F8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: navigating_islamic_interpretation_during_the_pandemic
+#+TITLE: Navigating Islamic Interpretation During the Pandemic
+
+Tags: [[id:F6BB188D-BA42-48AA-958E-21CE91DC147C][talks]], [[id:5E5E8287-6677-468A-8B62-7AA634A3E5CC][islam]], [[id:A06959EF-A349-4F8E-B58A-4C8B11A83DAA][covid]]
+
+* Mohammad Fadel
+  - No explicit islamic [[id:CC0EFB92-1661-4A5A-BE0D-46FB07D94241][jurisprudence]] on contagions
+  - questions about the plague have existed since early islam
+
+* Badr al-Saif
+  - State in the gulf is not always in command of religion
+  - notable opposition against the lockdowns in kuwait
+  - Oman/Kuwait have maintained closures of mosques
+  - Qatar keeps the state mosques open
+  - Performative small groups for jumma
+
+* HA Heller
+  - South Africa and the UK both have bought into the medical arguments fairly early
+  - Partially because they are minorities and not tied with the state

@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       D24255DC-29DE-408F-AB03-F9BCDD8F5514
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: the_metaphysics_of_bullshit
+#+TITLE: the metaphysics of bullshit
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+- frankfurtian bullshit
+- fashionable nonsense
+- french metaphysics and psychoanalysis
+- too much bullshit
+- coins, ml, etc
+  - money free and unfree
+- semi-religious stature of algorithms
+- semi-religious stature of counteterrorism
+  - noah smith (religious violence is tied to counterterrorism?)
+    - the culture war and the forever war
+  - nassim nicolas taleb
+- are experts real?
+- is science done by a small elite? and the rest bullshit?
+- fake news -> bullshit about fake news (the cry over deepfakes and all)
+- capital -> economists should stop pretending they know very much
+- bad curve fitting -> https://www.instapaper.com/read/1305809288
+  - https://statmodeling.stat.columbia.edu/2020/05/16/what-a-difference-a-month-makes-polynomial-extrapolation-edition/

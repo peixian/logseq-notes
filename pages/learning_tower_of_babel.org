@@ -1,0 +1,100 @@
+:PROPERTIES:
+:ID:       2A6413A1-FF4A-4095-A2D8-68E64307B956
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: learning_tower_of_babel
+#+TITLE: learning tower of babel
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+#+begin_src text
+  ┌────────────────────────┐       ┌────────────────────────────────────────┐
+  │        Sources         │       │         Reference and Storage          │
+  └────────────────────────┘       └────────────────────────────────────────┘
+  ┌────────────────────────┐       ┌────────────────────────────────────────┐
+  │                        │       │                                        │
+  │                        │       │                                        │
+  │   ┌───────────────┐    │       │                      ┌───────────────┐ │
+  │   │               │    │       │                      │               │ │
+  │   │    Twitter    │────┼───────┼───────────────────┬─▶│   Pinboard    │─┼───┐
+  │   │               │    │       │                   │  │               │ │   │
+  │   └───────────────┘    │       │                   │  └───────────────┘ │   │
+  │                        │       │                   │                    │   │
+  │                        │       │                   │                    │   │
+  │                        │       │                   │                    │   │
+  │   ┌───────────────┐    │       │ ┌───────────────┐ │  ┌───────────────┐ │   │     ┌────────────────┐      ┌────────────────┐       ┌────────────────┐
+  │   │               │    │       │ │               │ │  │               │ │   │     │                │      │                │       │                │
+  │   │   Web Page    │────┼───────┼▶│  Instapaper   │─┴─▶│   Readwise    │─┼───┼────▶│    Org-Roam    │─────▶│    Ox-Hugo     │──────▶│ wiki.space.af  │
+  │   │               │    │       │ │               │    │               │ │   │     │                │      │                │       │                │
+  │   └───────────────┘    │       │ └───────────────┘    └───────────────┘ │   │     └────────────────┘      └────────────────┘       └────────────────┘
+  │                        │       │                                        │   │
+  │                        │       │                                        │   │
+  │   ┌───────────────┐    │       │                      ┌───────────────┐ │   │
+  │   │               │    │       │                      │               │ │   │
+  │   │     Book      │────┼───────┼─────────────────────▶│    Zotero     │─┼───┘
+  │   │               │    │       │                      │               │ │
+  │   └───────────────┘    │       │                      └───────────────┘ │
+  │                        │       │                                        │
+  │                        │       │                                        │
+  │                        │       │                                        │
+  │   ┌───────────────┐    │       │                      ┌───────────────┐ │
+  │   │               │    │       │                      │               │ │
+  │   │   Languages   │────┼───────┼─────────────────────▶│     Anki      │ │
+  │   │               │    │       │                      │               │ │
+  │   └───────────────┘    │       │                      └───────────────┘ │
+  │                        │       │                                        │
+  └────────────────────────┘       └────────────────────────────────────────┘
+#+end_src
+
+* Learning tower of babel
+  Manage 3 main types of information:
+  - computers
+  - middle east
+  - arabic
+** Inputs
+   4 types of inputs:
+   - Small form knowledge
+     - Twitter, Instagram, news articles
+   - Medium form knowledge
+     - longer form articles, information, podcasts
+   - Long form knowledge
+     - Books, videos, etc
+   - Lanugages
+     - Rote memorization
+** References & Processing
+   - Instapaper
+     - Staging ground
+     - On and off for a few years, only in the past year it's come back in full force
+   - Pinboard
+     - Long term archival
+     - Using it for a while now
+   - Readwise
+     - Instapaper extractor + pinboard archiver
+     - Also reads from kindle, but I could probably cut this one out
+   - Zotero
+     - Long term archival
+     - Synced via my own web dav server
+   - Anki
+     - Languages
+     - Anki pages from alex strick
+** Processing and learning
+   - org-roam is where the thinking happens
+     - org-journal for private daily notes
+     - how to handle tags?
+       - let them grow I guess
+       - files, not tags
+     - [[id:9675FEBA-A78E-4DE1-83CF-E04D66C221AF][Taking Smart Notes]]
+     - https://org-roam.readthedocs.io/en/master/tour/
+     - Similar to roam research
+     - org mode is the primary way I interact with text
+     - graph in org-roam is suprisingly useful
+       - maybe it will generate insight into the future
+** Displaying
+   - [[id:4D99D1A7-7BEF-4A2D-ABCA-47F3961575FD][hugo]]
+     - ox-hugo
+     - moderately annoying to shift over the first time when you already have org-roam setup
+     - exports with custom book theme
+     - Counting with range over all posts
+
+* Too complicated?
+  Almost certainly, there's a few points in here I could shave off, but computer people optimize well past the point of the discrete

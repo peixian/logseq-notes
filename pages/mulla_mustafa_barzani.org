@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1053A6D7-2FD0-415E-A1AA-C8D3BA8497A6
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: mulla_mustafa_barzani
+#+TITLE: mulla mustafa barzani
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]
+
+
+Iraqi landowner and religious figure

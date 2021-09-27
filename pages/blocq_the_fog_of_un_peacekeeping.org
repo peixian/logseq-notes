@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       13DCA783-FD1B-4C8A-9905-FE4DAF8003A1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: blocq_the_fog_of_un_peacekeeping
+#+TITLE: Blocq: The Fog of UN Peacekeeping
+
+Tags: [[id:2E747AB7-60C7-4EFC-AA31-FD8AB58DDD00][un and global governance lecture 4]], [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]
+
+Blocq, Daniel S. “The Fog of UN Peacekeeping: Ethical Issues Regarding the Use of Force to Protect Civilians in UN Operations.” Journal of Military Ethics 5, no. 3 (November 2006): 201–13. https://doi.org/10.1080/15027570600911928.
+
+- Argues that UN peacekeepers need to determine a moralistic and new approach post-[[id:6FD8C6D3-8604-473B-9DE7-8B99DDFE807E][Brahimi report]]
+- Asks that the rules of engagement be reconsidered, that modern day peacekeepers must take on a moralistic, and not only legalistic, perspective to this
+- Peacekeepers must be prepared to operate in a "fog"
+
+* Highlights
+- [[id:1A7F8EC9-B51F-460B-A078-FCB63DEC29B7][democratic republic of the congo (DRC)]], [[id:A5CACE85-C257-4B0D-93ED-1D1FD8D9BEB5][sierra leone]], and [[id:CDA4DF10-6A09-4A00-8666-9A6B5DFC49EC][cote d'ivore]] were the ones explicitly allowed in 2006 to use force
+- Hammarskjold developed the peacekeeping model following the Suez crisis

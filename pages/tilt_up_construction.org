@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       6F30B259-D8FE-4B51-A3C8-2A73A569BC38
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: tilt_up_construction
+#+TITLE: tilt up construction
+
+Tags: [[id:27B1E5EA-693C-4D7E-BE22-641C991680F8][civil engineering]]
+
+- https://en.wikipedia.org/wiki/Tilt_up

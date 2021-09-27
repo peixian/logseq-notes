@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       2A85E866-79D8-4271-ACFD-90914338AE18
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: episteme
+#+TITLE: episteme
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]
+
+#+DOWNLOADED: screenshot @ 2020-12-17 14:52:45
+[[file:2020-12-17_14-52-45_screenshot.png]]
+
+
+On thinking
+- https://kinopio.club

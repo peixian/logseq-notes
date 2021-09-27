@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       4A892609-EEF5-441D-92CD-0330210D954F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: bosnia
+#+TITLE: bosnia
+
+Tags: [[id:67096193-0BA9-4CE6-81A8-6EE477DDC692][balkans]]

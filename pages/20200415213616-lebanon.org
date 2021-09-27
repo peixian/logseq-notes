@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       D4B35C6D-544A-481C-B5C0-7C2A2ABCF9AC
+:END:
+#+TITLE: lebanon
+
+Tags: [[id:C61C3FE4-06C6-4621-818B-503E36E83B7C][middle east]]
+#+SETUPFILE:./hugo_setup.org
+* General Amnesty
+  - Lebanese Politics Podcast 78
+  - Amnesty opposed by christian parties

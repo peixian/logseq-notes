@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       64817B58-ADF7-4FEE-83D9-255D9D87194B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: baath
+#+TITLE: Baath
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+Ideaology largely constructed by [[id:D14EFE4A-A27F-441C-846F-1C53B16EA670][Michel Aflaq]] and [[id:2B734785-0430-4D6F-9D40-A92B3A220FF0][Salah ud-Din al-Bitar]]

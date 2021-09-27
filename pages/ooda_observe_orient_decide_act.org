@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       0A80F7EE-A020-4FD3-9F22-58C4FF978122
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ooda_observe_orient_decide_act
+#+TITLE: ooda (observe orient decide act)
+
+Tags: [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]]
+
+- https://en.wikipedia.org/wiki/OODA_loop
+
+
+Called the OODA loop, prioritizes agility over raw power by increasing the tempo of decisions
+- If decisions are made faster, then you can then observe the adversary's OODA loop
+- Eventually aiming for the breakdown of the adversary's ooda loop by exploting weaknesses

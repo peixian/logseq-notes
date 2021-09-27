@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       6946B0D8-82DE-4395-98AD-D1A591C25CA9
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: p_adic_numbers
+#+TITLE: p-adic numbers
+
+Tags: [[id:0C55E344-F9AE-4584-B54F-83EC2FCE9062][math]]
+
+- https://en.wikipedia.org/wiki/P-adic_number

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       FDFBFD94-8912-404C-AB4B-B95E1A0115F7
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: mapping
+#+TITLE: mapping
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+https://news.ycombinator.com/item?id=25349195

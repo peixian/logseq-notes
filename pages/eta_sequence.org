@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       431E38FF-1764-4991-8D0F-C28F27BD3C5A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: eta_sequence
+#+TITLE: eta sequence
+
+Tags: [[id:0C55E344-F9AE-4584-B54F-83EC2FCE9062][math]]

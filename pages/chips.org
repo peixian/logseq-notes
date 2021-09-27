@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       D66F26E9-44AA-4706-BA51-68C8F6BC2908
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: chips
+#+TITLE: chips
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]], [[id:572EA03C-52DA-4BC3-BFD5-BB73EB49042C][hardware]]
+
+- Die die interconnects are mostly constrained on power
+- https://en.wikichip.org/wiki/amd/infinity_fabric
+- https://siliconpr0n.org/wiki/doku.php?id=starting

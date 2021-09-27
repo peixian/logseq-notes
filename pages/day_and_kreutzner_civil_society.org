@@ -1,0 +1,81 @@
+:PROPERTIES:
+:ID:       B721D454-ACA0-4CA8-B6DA-2D5D151AAFD9
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: day_and_kreutzner_civil_society
+#+TITLE: day and kreutzner: civil society
+
+Tags: [[id:F1B3F2D2-CAAC-457D-A302-DD223805B4E3][Williams - Research Handbook on Post-Conflict Statebuilding]]
+
+
+** Civil Society Margaux J. Day and Christopher D. Kreutzner
+   - institutional actors often perceive civil society as a threat
+   - civil society can often accomplish what fledgling states cannot
+   - civil society is /not/ a given!
+
+*** Approaches
+    - Conceptualizing civil society
+      - Gramsci vs Tocqueville
+        - Gramsi - Civil society as a way to scruntize governments
+        - Tocqueville - Civil society as a community
+    - Seven functions in state building put forward by Thania Pattenholz and Christopher Spurk, civil society can pursue any # of these
+      - Protection
+        - Safeguards the rights of citizens from the state and non-state-actors
+          - [[id:1A7F8EC9-B51F-460B-A078-FCB63DEC29B7][democratic republic of the congo (DRC)]] civil society groups worked with schools to identify security threats
+      - Monitoring
+        - Instills a culture of accountability
+          - [[id:08442549-7E03-4DC0-AC9D-AFB23CD6AC48][bangladesh]] Ain o Salish Kendra monitors human rights violations
+      - Advocacy
+        - Civil society can elevate issues onto the political stage
+        - [[id:DB2CC264-A435-4715-8AF6-905254C4A07A][sudan]] - ousting of al-Basher
+      - Socialization
+        - Incubator for shared values
+        - Generates reconcilation between shared groups
+        - [[id:B7920589-79CC-4353-A685-8C5DAE0AEAB4][tunisia]], six civil society NGO's conducted public workshops for education
+
+      - Social Cohesion
+        - Conflict fractures societies
+        - Civil society can bridge joint community associations, forms of cultural exchange
+        - [[id:A5CACE85-C257-4B0D-93ED-1D1FD8D9BEB5][sierra leone]]
+          - grassroots efforts to support the [[id:C2C348DE-ADD1-48BE-9991-E1CEDA93D42D][truth and reconciliation program]]
+          - focused on reconciliation within local communities first
+
+
+      - Intermediation & Facilitation
+        - civil society can actually play a peace mediation role
+        - [[id:E09392BA-8392-4387-8556-F1B7FB456941][guatemala]] - civil society placed a key role in the conclusion of peace
+
+      - Service Provision
+        - civil society can provide essential services
+        - [[id:87825E0D-CF52-42BD-AC39-4EAC4B565EA3][yemen]] - movement of civil society from political mobilization to the provision of services as war has gone on
+
+*** Common Challenges
+    - gov restricting civil society engagement
+      - often can be done with onerous registraiton requirements
+        - [[id:DB2CC264-A435-4715-8AF6-905254C4A07A][sudan]] passed the Voluntary & Humanitarian Work act, which bars many from participation
+      - some staes engage with direct vioklence
+    - gov & events indirectly restrict civil society
+      - civil society struggles when the gov cannot provide basic services
+      - survival over group objects hamper society
+    - diversity of civil society views
+      - civil society is not strictly good
+      - can spoil peace
+      - [[id:87480B74-4E7F-485F-988B-EC8CC559F15F][somalia]] - too many actors want peace but also restrict central government
+      - too many civil orgs -> too much coordination -> competition over funding
+    - state builders can proritize the state
+      - peacebuilding cannot strictly focus on institutional capacity
+      - [[id:67096193-0BA9-4CE6-81A8-6EE477DDC692][balkans]] - peace deals heavily prioritized instituional reforms
+        - allowed the ethnoationalists to gain ground
+
+*** Recommendations
+    - Engage with civil society early, even mid-conflict to prepare for the end of conflict
+      - preserves civil society
+      - identifies local needs
+      - helps set up monitoring benchmarks
+    - support reforms to allow for more civil society partipcation
+    - engage with civil society in a legal reform process
+      - public education is effective for civil society to mobilize
+      - public solication
+      - advising legislative design
+    - coordinate simultaous support for state and civil society
+    - support civil society based on function and objective, civil society is not always a good

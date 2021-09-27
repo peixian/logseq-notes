@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       6289E49C-10CA-435D-97F1-6AE640D35128
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sistaniyun_brigades
+#+TITLE: sistaniyun brigades
+
+Tags: [[id:C403589A-21CC-411A-A58E-1C2FDC31F72C][brigades]]

@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       8E65CE1B-55CE-45F4-A621-EF10B64AEF9D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: notes_graph
+#+TITLE: notes graph
+
+Tags: [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]]
+
+- https://observablehq.com/@mbostock/hello-cola
+- https://observablehq.com/@d3/force-directed-graph
+- https://stackoverflow.com/questions/20575026/how-to-make-labels-and-nodes-in-d3-forced-layout-clickable-to-navigate-to-a-url
+* Notes
+  - DB Structure https://org-roam.discourse.group/t/thoughts-on-db-structure/63
+  - link can be constructed with the last chunk of the 'titles' table, filename == slug
+  - |to|from|type| in ~links~ gives you the type
+** building json
+   - grab all the links
+   - for each link get the type
+   - for each link resolve the to/from, swap out with the titles
+   - for specialized things with the root, color these differently
+     - http://plnkr.co/edit/3fv3IR3S3Kp86rAummnz?p=preview&preview
+   - iterate through json, generate a nodes and a list
+     - for each node, add the # of links -> color based on links?
+* syllabus galaxy
+- https://galaxy.opensyllabus.org/
+- https://blog.opensyllabus.org/galaxy-v2/
+
+* Webgl visualization
+  - needs a click event, can be found in https://github.com/kdutia/d3fc/commit/f683cf3f7e70f3fc88869489a4ddf0a1b135efde#diff-a583ec383953418a7580d4415f51a29caf25c0410ef42aca8ac975a040bc537c
+  - https://github.com/ColinEberhardt/d3fc-webgl-hathi-explorer/blob/master/index.js#L152
+  - https://github.com/d3fc/d3fc/blob/master/examples/annotation-svg-line/index.js
+  - turns out the tsne projection is not very good, we might want to do a force projection with https://networkx.org/documentation/stable/reference/generated/networkx.drawing.layout.spring_layout.html
+  -
+* projection ideas:
+  - generate multidimensional graph from https://github.com/snap-stanford/snap/tree/master/examples/node2vec

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       B006F3A4-8853-4DF5-905F-FB960643DD97
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hanf_coexistence_in_wartime_lebanon
+#+TITLE: Hanf - Coexistence in Wartime Lebanon
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:D4B35C6D-544A-481C-B5C0-7C2A2ABCF9AC][lebanon]]
+
+- Argues that the various approaches to multicommunalism can be condensed to:
+  1. Jacobinistic approach that levels communal differences
+  2. one that explicitly seeks to mobilized communal identities
+  3. "syncretistic nationalism" - using communal groups as the building blocks of a transcendent nation

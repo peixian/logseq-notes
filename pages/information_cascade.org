@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       DA947DE5-70B3-486B-BF5D-DEDFFEA86283
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: information_cascade
+#+TITLE: information cascade
+
+Tags: [[id:85B58094-76CD-470D-AD88-2676C2D2A605][sociology]]
+
+- https://www.investopedia.com/articles/investing/052715/guide-understanding-information-cascades.asp
+- When specific actors follow other actors, resulting in herd behavior

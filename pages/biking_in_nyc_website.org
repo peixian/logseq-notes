@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       D8814B3E-F755-41B6-906E-862CA985269A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: biking_in_nyc_website
+#+TITLE: biking in nyc website
+
+Tags: [[id:5C09008D-C61B-4A8E-BB77-9CF0085D90F6][project ideas]], [[id:FDFBFD94-8912-404C-AB4B-B95E1A0115F7][mapping]]
+
+
+Use weather api's, pull twice a day, accumulate information about the current weather, the windchill, and preciptation
+
+Use a cron thing that pushes to netifly
+* API's
+- https://openweathermap.org/price
+- https://agromonitoring.com/api/accumulated-precipitation
+- https://agromonitoring.com/price
+- https://www.weather.gov/documentation/services-web-api

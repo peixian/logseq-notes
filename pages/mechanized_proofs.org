@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       3BD7F49F-4FF5-4576-82A1-BD28421BCB38
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: mechanized_proofs
+#+TITLE: mechanized proofs
+
+Tags: [[id:0C55E344-F9AE-4584-B54F-83EC2FCE9062][math]], [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- https://plv.csail.mit.edu/blog/alectryon.html
+- https://pit-claudel.fr/clement/papers/alectryon-SLE20.pdf
+- https://www.cs.cornell.edu/courses/cs3110/2014fa/lectures/22/lec22.pdf
+- https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-418.pdf
+- https://www.sciencedirect.com/science/article/pii/S0304406816300362
+- https://arxiv.org/abs/1703.06133
+- https://www.vcccd.edu/sites/default/files/departments/human-resources/sabbaticals/2017-2018/paulcurtis-sabbaticalfinalrpt-fall2017-proofsinlinearalgebra.pdf
+- https://mathoverflow.net/questions/376839/what-makes-dependent-type-theory-more-suitable-than-set-theory-for-proof-assista

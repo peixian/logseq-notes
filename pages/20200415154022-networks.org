@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       851F079B-17D1-411F-988B-1248B5E0579D
+:END:
+#+TITLE: networks
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][Computers]]
+#+SETUPFILE:./hugo_setup.org
+
+- Wireless networks
+https://cse.sc.edu/~sur/papers/UbiG_MobiCom18.pdf
+- https://gafferongames.com/
+  - https://gafferongames.com/post/why_cant_i_send_udp_packets_from_a_browser/
+* Outages
+- https://cybersquirrel1.com/

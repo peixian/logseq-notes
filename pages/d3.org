@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       56FE5F20-C0E8-4DFD-98E0-1025598E0AB8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: d3
+#+TITLE: d3
+
+Tags: [[id:F448290E-5B55-41FA-8D27-0817F50328C5][javascript]], [[id:709DC7D9-570A-44E0-B9F9-BBED07AC77C1][data]]
+
+* d3fc - https://github.com/d3fc/d3fc
+  :PROPERTIES:
+  :ID:       48500720-3B2E-4C66-B4A9-18A6674318B4
+  :END:
+  - smaller component of d3?
+  - some kind of tool boxing that adds together with d3 to generate charts
+  - https://blog.scottlogic.com/2018/09/21/d3-financial-chart.html

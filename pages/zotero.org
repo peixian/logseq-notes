@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       CCB1D7C2-7514-4350-A59E-CF2D523B4C63
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: zotero
+#+TITLE: zotero
+
+Tags: [[id:08700B30-6476-438A-A1CB-8452DB3DEA4F][grad school]], [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+* Extensions
+  + betterbibtex: https://retorque.re/zotero-better-bibtex/
+    - Autogeneration of .bib files
+  + Zotfile: http://zotfile.com/
+    - Automatic renaming and file management
+  + Zotxt: https://github.com/egh/zotxt
+    - Supports random text files
+    - https://github.com/egh/zotxt-emacs
+  + Zutilo: https://github.com/willsALMANJ/Zutilo
+    + Tagging support
+    + Notably also allows to to create sections from a book
+
+* [[id:C6A0DE9C-3E50-49C8-9073-69912962D29B][emacs]]
+  - http://www.mkbehr.com/posts/a-research-workflow-with-zotero-and-org-mode/
+
+* Sqlitedb
+- https://www.zotero.org/support/dev/client_coding/direct_sqlite_database_access
+- schema: https://github.com/zotero/zotero-schema/tree/master

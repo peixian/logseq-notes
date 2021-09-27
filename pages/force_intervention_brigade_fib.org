@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       00EAE618-8CAD-4541-AE8D-35D22368B88A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: force_intervention_brigade_fib
+#+TITLE: force intervention brigade (FIB)
+
+Tags: [[id:7C05085A-564D-4186-B4E7-AD9DC612310A][un]]
+
+UN force deployed to [[id:26B73C8E-E769-417D-8383-E17DF3E1FE9E][united nations stabilization mission in the democratic republic of the congo (MONUSCO)]]

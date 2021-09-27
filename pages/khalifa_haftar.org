@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       F0E23D3C-E685-4EBD-A3D4-8B1698114A0C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: khalifa_haftar
+#+TITLE: khalifa haftar
+
+Tags: [[id:C21DF9B0-E7E9-44F9-91A2-EEA809BD6293][libya]], [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]

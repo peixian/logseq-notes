@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       483EEDFB-20B4-4B39-B5C3-A4D52F993464
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: raid
+#+TITLE: raid
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+- Hardware controller's batteries will fail, and people often will not notice
+- Kernel raid significantly outperforms hardware RAID
+  - Kernel RAID is far better maintained than firmware on cards
+  - CPU and RAM more available on servers than hardware raid controllers

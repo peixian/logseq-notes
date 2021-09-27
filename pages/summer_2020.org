@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       D5707462-B846-4586-89DA-383A82650A11
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: summer_2020
+#+TITLE: summer 2020
+
+Tags: [[id:CAFF2018-7C24-402E-9528-464A87D2DC39][personal]]
+
+* Minimum Viable Summer
+  - Computers
+    - Read https://nostarch.com/Effective_C
+    - Read https://www.manning.com/books/modern-c
+    - Read http://www.brendangregg.com/bpf-performance-tools-book.html
+    - Contribute to some BPF project
+  - Iraqi arabic
+    - Be able to hold 15min convo with Iraqi arabic
+    - Summer language learning:
+      - https://www.mei.columbia.edu/news-spring-2020/remote-opportunities-summer-language-learning
+  - Start writing an Iraqi news roundup
+    - Round up of news about Iraq that I've read
+  - (Re)read:
+    - /I am a Strange Loop/
+    - /GEB/
+    - /Quantum Computing since Democritus/
+  - Fitness
+    - Half marathon training
+    - Yoga
+  - Finish readings for next semester
+
+* Additional Goals, Given Time
+  - Learn Erlang
+  - LLVM
+  - CRIU
+  - Finance

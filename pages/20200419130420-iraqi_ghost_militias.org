@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       EE01C721-DAE5-435E-A9E0-C4367F69C288
+:END:
+#+TITLE: iraqi ghost militias
+
+Tags: [[id:ADFAE0CB-D584-4CE9-9965-4E76C474546E][hashd al-shaabi (PMF)]], [[id:5D4FD56C-329E-4881-AEBC-EFE6DDF0F29D][articles]]
+
+
+- https://www.instapaper.com/read/1296820928
+- https://www.instapaper.com/read/1287238419
+
+As of April 17th, 2020, 3 new unknown militia groups have appeared:
+- Usbat Al-Thaereen
+- Ashab Al-Kahf
+- Qabdat Al-Hoda
+
+* Usbat Al-Thaereen
+- _The establishment of Usbat al-Thaereen, as it claimed responsibility for the latest attacks on U.S. bases, will heighten tensions between Washington and Tehran._
+ - By Sunday evening, a video emerged online from a group called “Usbat al-Tha’ireen” (The League of Revolutionaries), claiming that their members conducted both recent attacks on Camp Taji
+
+- First released statement on March 18th
+- Very similar to [[id:F56A8565-CED0-45C2-A53B-B186DF72A1C9][kataib hezbollah (kh)]], [[id:C95CCC60-FDB5-470E-BFEE-80BD88A1EB6E][harakat hezbollah al-nujaba]] and [[id:429AAD3F-9AD1-4842-9B55-F6B18BEF36CB][kataib sayyid al-shuhada]]
+- Unknown if new or existing PMF members and within which framework
+- Perhaps a new missle unit?
+- Mystery shrouding to prevent being targeted?
+
+- _After the killing of Soleimani, Ali Shamkhani, secretary-general of Iran's Supreme National Security Council, said: "We will establish a new armed group of more than 2,000 people in the region. The main function of this group of mujahideen is to remove U.S. forces from the region."_
+#+SETUPFILE:./hugo_setup.org

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       1A7F8EC9-B51F-460B-A078-FCB63DEC29B7
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: democratic_republic_of_the_congo
+#+TITLE: democratic republic of the congo (DRC)
+
+Tags: [[id:4716EF6A-B378-4010-B090-41D487EB8B72][africa]]

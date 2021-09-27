@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       3464FEDB-2602-4248-BB3C-188CF3417AE6
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: anbar
+#+TITLE: anbar
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+Desert province in iraq

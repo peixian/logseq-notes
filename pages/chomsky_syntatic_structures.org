@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       A47A6C46-2AB7-4845-BAD2-E5197E5148D9
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: chomsky_syntatic_structures
+#+title: Chomsky - Syntatic Structures
+
+[[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:9C061A51-C534-41AD-9088-F1BE1E5AAD70][chomsky]]
+
+* Chapter 2
+  - Talks about how people think language structures and processes are simple because we find them simple
+  - Actually very similar to [[id:1A1F511E-B83E-4906-9757-52950602551A][Sutton: The Bitter Lesson]]! Specialized, tailored approaches towards building models is not necessarily incorrect, but our approahes definitely were incorrect

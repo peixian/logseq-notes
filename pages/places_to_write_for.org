@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       EC7C2A49-E892-4F62-AF30-11035EB769CC
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: places_to_write_for
+#+TITLE: places to write for
+
+Tags: [[id:D51D4006-2F02-4305-BBEF-5EDEFDCFD334][writing]]
+
+- https://www.strifeblog.org/submission-guidelines/

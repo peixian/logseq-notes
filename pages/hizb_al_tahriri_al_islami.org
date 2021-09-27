@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       3FB1597C-E0B8-4FF8-B62F-3C5852ADC21E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hizb_al_tahriri_al_islami
+#+title: Hizb al-Tahriri al-Islami
+
+[[id:42F0A616-7195-4034-8A0C-53BBA045A294][islamic political thought]]

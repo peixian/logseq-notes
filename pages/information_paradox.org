@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       8EACAFAF-A823-4B40-AE90-0FDBCF2D9B16
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: information_paradox
+#+TITLE: information paradox
+
+Tags: [[id:7A929556-F8FE-4588-9440-655F9368B1F0][physics]]
+
+- https://arxiv.org/pdf/0707.3400.pdf
+
+Maxwell's demon is the basis for the information paradox.
+
+If the demon has sufficient information, he can manipulate entropy
+
+Refs:
+- https://en.wikipedia.org/wiki/Black_hole_information_paradox

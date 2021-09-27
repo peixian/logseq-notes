@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       275D0847-F147-4331-B9CE-46991B41AB74
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: lenin_was_a_mushroom
+#+TITLE: lenin was a mushroom
+
+Tags: [[id:FC6E4EC6-A8C0-4D5B-B96F-D6FC2D1F30B4][russia]]
+
+- https://en.wikipedia.org/wiki/Lenin_was_a_mushroom
+
+Glasnost had people questioning their past as more information became revealed

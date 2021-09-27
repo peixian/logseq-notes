@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       DEE16CB3-94D5-459F-AB8C-0CB361E5C310
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: the_chicago_plan
+#+TITLE: the chicago plan
+
+Tags: [[id:85CCE0EB-E358-4A63-A947-423CF92D79A2][economics]]
+
+- https://www.imf.org/en/Publications/WP/Issues/2016/12/31/The-Chicago-Plan-Revisited-26178
+- https://blogs.lse.ac.uk/usappblog/2013/11/25/chicago-plan-revisited/

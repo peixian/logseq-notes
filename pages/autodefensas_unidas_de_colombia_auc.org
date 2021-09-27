@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       13A519A6-B219-48AD-A9AB-836095AC819D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: autodefensas_unidas_de_colombia_auc
+#+TITLE: autodefensas unidas de colombia (AUC)
+
+Tags: [[id:1092BA8C-A5BF-45E3-81C4-2439E032DEBD][colombia]]

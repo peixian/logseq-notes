@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       1C47B672-DC0E-4266-B2E6-3C88C8BD0641
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: snap_stanford_network_analysis_platform
+#+TITLE: snap (stanford network analysis platform)
+
+Tags: [[id:5C23824F-3B4B-4350-A73C-E2578272490F][graph traversal]]
+
+- https://github.com/snap-stanford/snap

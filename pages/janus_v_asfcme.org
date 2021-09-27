@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       B0BA98D3-A174-4B86-B78A-63C1473384C1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: janus_v_asfcme
+#+TITLE: janus v ASFCME
+
+Tags: [[id:CC0EFB92-1661-4A5A-BE0D-46FB07D94241][jurisprudence]]
+
+- Landmark supreme court decision that bans public unions from collecting dues from non-members
+- From Justice Alito

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       B6B2588F-0FEE-456C-B13D-7DE652466BC3
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: two_sigma_problem
+#+TITLE: two sigma problem
+
+Tags: [[id:87A146E9-3003-45A2-9988-C4C46DAA32A4][education]]
+
+
+- https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem
+- Average tutored student is two standard deviations away from the mean

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       9F01C356-CFE7-48FA-A0E2-750CF1F1DF3B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: qi_cards
+#+TITLE: qi cards
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]], [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]]
+
+Electronic payment system by [[id:DE9E0893-B70F-486C-9E0A-BF41BEAA3B84][International Smart Card]]
+
+Each month, take card to bank, verify with fingerprint,. and receive payment in cash or bank account

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       5E8A9793-6DE6-4E2C-A33B-D85714A3C06C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: iran
+#+TITLE: iran
+
+Tags: [[id:C61C3FE4-06C6-4621-818B-503E36E83B7C][middle east]]
+* Defense contracting
+  - Largely limited to copying 1950's era tech
+  - Heavy focus on asymettric warfare, especially with drones
+  - Thales, a french group, provides fire control systems for Russian tanks, which would be embargoed

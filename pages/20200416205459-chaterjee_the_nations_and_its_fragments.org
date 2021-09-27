@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       755DAF6C-98DC-41DE-A9D7-560A5BBD90E3
+:END:
+#+TITLE: Chaterjee - The Nations and Its Fragments
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:9BF599C3-7B0D-4E00-9E42-06CC50D30B17][Nationalism and Outsiders in the Middle East]]
+
+* Chapter one
+- Goes against [[id:47EF592A-10D4-4923-BE86-E3E03918624D][Anderson - Imagined Communities]] by stating that the concept of a nation state is inherently circumscribed by european powers.
+#+SETUPFILE:./hugo_setup.org

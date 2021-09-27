@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       F6187E6B-8372-49A1-B880-0D0B0E490A45
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: presentation_tools
+#+TITLE: presentation tools
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- https://www.deckset.com/
+- https://github.com/marp-team/marp
+- https://github.com/jaspervdj/patat
+- https://github.com/vinayak-mehta/present
+  - https://github.com/vinayak-mehta/present/issues/43
+- https://github.com/connorferster/handcalcs
+- https://github.com/hiroppy/fusuma

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       83391FCD-5776-4B94-88CA-FDBBF3071C78
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: bildungsroman
+#+TITLE: bildungsroman
+
+Tags: [[id:8C57517D-1831-426A-93CB-2AC9C3FA0157][literature]]
+
+
+- https://en.wikipedia.org/wiki/Bildungsroman
+- German word for coming of age story

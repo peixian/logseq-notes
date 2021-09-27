@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       DFBEAC5A-F3A1-4E7A-A335-269DCAC75684
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sayroon
+#+TITLE: sayroon
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+Iraqi political party run by [[id:749D4B05-ADD6-4608-B99B-AD6FD0C6BC07][Muqtada al-Sadr]]

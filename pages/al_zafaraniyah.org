@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       5BECF841-8DFB-4EBC-9C67-E36EF718CCDE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: al_zafaraniyah
+#+TITLE: al-zafaraniyah
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+Town southeast of [[id:105A47A9-B2B1-46B8-9531-52E9E39414AB][baghdad]]
+
+https://satellites.pro/Al-Zafaraniyah_map#33.254695,44.493470,13

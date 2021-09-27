@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       706F24FC-7E29-4EFD-A588-E8576AFF9115
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: saraya_al_salam
+#+TITLE: saraya al-salam
+
+Tags: [[id:C403589A-21CC-411A-A58E-1C2FDC31F72C][brigades]]
+
+[[id:749D4B05-ADD6-4608-B99B-AD6FD0C6BC07][Muqtada al-Sadr]] 's movement

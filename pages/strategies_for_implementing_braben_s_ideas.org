@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       E67AD40C-F8F1-4C41-8A42-4B7C3700633A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: strategies_for_implementing_braben_s_ideas
+#+TITLE: strategies for implementing braben's ideas
+
+Tags: [[id:D43D63F1-C8FA-4230-A6E1-1331E97E4778][Braben - Scientific Freedom: The Elixir of Civilization]]
+
+- https://www.scitech-strategies.com/
+- https://researchintegrityjournal.biomedcentral.com/articles/10.1186/s41073-019-0089-z
+- R21's in NIH
+- Funding in humanities vs funding in hard sciences?

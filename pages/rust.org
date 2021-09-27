@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       91B1F808-C83B-4877-A9B6-22AAA464A2EC
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: rust
+#+TITLE: rust
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- https://rust-analyzer.github.io/blog/2020/04/20/first-release.html
+- https://rust-unofficial.github.io/too-many-lists/
+- https://leetcode.com/problemset/all/
+- https://towardsdatascience.com/you-want-to-learn-rust-but-you-dont-know-where-to-start-fc826402d5ba
+- https://doc.rust-lang.org/book/ch19-06-macros.html
+* tools
+- serde: https://serde.rs/

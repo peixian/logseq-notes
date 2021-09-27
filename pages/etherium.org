@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       8810A6EA-5766-498F-8297-8016E48B26D9
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: etherium
+#+TITLE: etherium
+
+Tags: [[id:9DBB8583-2A18-4C72-B750-4BFA5148032A][blockchain]]

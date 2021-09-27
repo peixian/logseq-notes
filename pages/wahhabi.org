@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       B56B5651-A789-4470-83EC-71B852796046
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: wahhabi
+#+TITLE: Wahhabi
+
+Tags: [[id:A92CAA9F-7E0A-4AD3-A915-E621510FD037][sunni]]

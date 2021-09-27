@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       B941C35C-0211-417A-A73A-F7BB028A53B0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hong_kong
+#+TITLE: hong kong
+
+Tags: [[id:0E21DFCA-3016-427A-965E-341DE95432B7][china]]

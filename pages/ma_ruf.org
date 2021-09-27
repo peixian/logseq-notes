@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       3C2DA493-3258-4AC6-A0FB-60E5508B3931
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ma_ruf
+#+TITLE: ma'ruf
+
+Tags: [[id:BB2783B7-0E6B-4886-8007-EC63A9C67096][islamic jurisprudence]]

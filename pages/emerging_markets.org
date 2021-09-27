@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       DA4D4C2B-3779-49E2-811A-453A7CCD8FCF
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: emerging_markets
+#+TITLE: emerging markets
+
+Tags: [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]]
+
+
+- Emerging markets own around $8.4 trillion @ May 2020, or ~30% of the developing world's gross domestic debt
+- In response to [[id:A06959EF-A349-4F8E-B58A-4C8B11A83DAA][covid]], G20 countries have backed a debit waiver to mostly world's developing countries
+  - [[id:13186306-3108-4ECF-A0A7-5FD56B0E1237][paris club]] and [[id:741DD603-4247-4BD6-934C-A7C0FA1A6A29][institute of international finance]] are also considering
+  - [[id:2DC109D0-C7A8-431F-9444-01A166302283][brady plan]] similarities are being drawn up
+    - Emerging markets have heterogenous debt, making this plan more difficult
+  - https://www.cfr.org/article/how-can-low-income-countries-cope-coronavirus-debt
+
+- Trade association for free markets - https://www.emta.org

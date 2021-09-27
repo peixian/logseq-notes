@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       F448290E-5B55-41FA-8D27-0817F50328C5
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: javascript
+#+TITLE: javascript
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]

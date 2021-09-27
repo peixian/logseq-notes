@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       3BC79F0C-52AE-477D-BC39-C3B01DCD820E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: namibia
+#+TITLE: namibia
+
+Tags: [[id:4716EF6A-B378-4010-B090-41D487EB8B72][africa]]

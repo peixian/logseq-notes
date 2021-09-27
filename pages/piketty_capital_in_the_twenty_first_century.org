@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       34E071E5-29CA-4C78-A42A-94313DC61ACE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: piketty_capital_in_the_twenty_first_century
+#+TITLE: Piketty - Capital in the Twenty-First Century
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]], [[id:85CCE0EB-E358-4A63-A947-423CF92D79A2][economics]]
+* Introduction
+- Frames the discussion around wealth issues
+- Attempts to pull together data
+  - [[id:EC4A3139-E4DA-4BB2-BFF5-B8A122802254][world top incomes database]]
+** History
+   - Talks about [[id:A8B5B6B9-D6CB-48FF-ACEF-E1FE4EE4EDF3][malthus]] and his consideration of too many peasants
+   - [[id:58CD1DFE-7787-43C2-A66B-9C73790FCEDF][arthur young]]
+   - [[id:AF26E0B2-4566-4A3D-825D-085020CCDDD2][david ricardo]]
+   - [[id:115A1830-680E-4E8E-A5D8-BC68E20897BE][marx]] and the prediction of industrial aggregate wealth
+   - [[id:DD861C6E-4018-4D79-9819-EB01FF2874B9][simon kuznets]]
+** Conclusions
+   - Piketty states that inequality is not necessarily an unstable state
+     - [[id:7F97CCCF-107D-4621-BA5F-11E4F542FDF9][path dependency]] exists, inequality can reduce over time or increase over time
+   - also states that modern american economists are too infatuated with mathematics and physics
+     #+begin_quote
+     Hence they must set aside their concept for other disciplines and their absurd claim to greater scientific legitimacy, despite the fact that they know almost nothing about anything
+     #+end_quote

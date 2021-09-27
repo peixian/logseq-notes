@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       42F2E786-01DE-4F92-9935-046ABC077247
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: raspberry_pi_kubernetes_clusters
+#+TITLE: raspberry pi kubernetes clusters
+
+Tags: [[id:A0A37A5E-A266-46B3-8148-D7A40A5F1F78][kubernetes (k8s)]]
+
+https://ubuntu.com/tutorials/how-to-kubernetes-cluster-on-raspberry-pi#4-installing-microk8s
+https://thepihut.com/blogs/raspberry-pi-tutorials/cluster-case-assembly-instructions
+https://opensource.com/article/20/6/kubernetes-raspberry-pi
+
+- https://github.com/FD-/RPiPlay

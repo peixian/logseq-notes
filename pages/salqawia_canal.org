@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       8EFAEC33-5D0D-4F44-AA4B-48F16B4A0ECD
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: salqawia_canal
+#+TITLE: salqawia canal
+
+Tags: [[id:807301C8-4F30-48C2-92EA-B4E69A9DD8AA][irrigation in iraq]]
+
+- 33°23'28.65"N
+- 43°36'34.69"E
+- Closed in 1875 by Midhat Pasha, only carries water during flood season

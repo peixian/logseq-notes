@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       D0AEB1C0-1F1D-431F-9E6E-57BF1B3757FC
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: weiss_in_the_shadows_of_sectarianism
+#+TITLE: Weiss - In the Shadows of Sectarianism
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:5FA1EE8F-1114-4C3A-B5B4-BA4753ED2E15][sectarianism]]
+
+- Puts forward a different typology of "[[id:5FA1EE8F-1114-4C3A-B5B4-BA4753ED2E15][sectarianism]]" that doesn't restrict it to one identity
+- Underlying understanding of sectarianism is that it is the polar opposite of state building
+- Argues that sectarianization of the Lebanese Shi'a communities during the [[id:29F8522C-A1E7-4ADF-820D-F1CD7257846C][french mandate]] in [[id:D4B35C6D-544A-481C-B5C0-7C2A2ABCF9AC][lebanon]] was pushed both
+  - above: form of elite and colonial divide and rule
+  - below: sect-specific rights and religious recongition
+- argues that we cannot blame sectarianism as a pure product of colonialism

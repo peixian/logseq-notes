@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       A9CA6DE4-CF43-4B36-8AC5-2C804AFF55DA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: fasttext
+#+TITLE: fasttext
+
+Tags: [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]], [[id:48350662-53E9-4A91-9ADB-2BC9DFEA6098][nlp]]
+
+- https://fasttext.cc/docs/en/supervised-tutorial.html

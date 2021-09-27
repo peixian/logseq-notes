@@ -1,0 +1,63 @@
+:PROPERTIES:
+:ID:       D6E95BBF-5987-4358-9FFF-9534CE411BC1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: on_digital_humanities_programs
+#+TITLE: on digital humanities programs
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+- what are schools doing?
+- are we building extremely complex systems on top of shakey foundations?
+- "two cultures"
+- are social sciences falisfible?
+  - sociology
+    - criminology is garbage
+    - psycology is terrible
+  - linguistics
+    - much of lingusitics is complex built on foundations that map poorly to the real world
+- is "digital" part of a tool to make humantities students more marketable?
+  - if so, we're preparing a ton of poor software engineers
+- is "digital" part of making theories falisibible? Half the people don't know stats, so what's the next step?
+  - are we all going to become statisticans?
+- are we just fostering a bunch of bad notebook navigators?
+- biostatistics and its methodologies
+  - complex systems that has developed idioscrycratic ideas
+  - just as critical race theory has developed, we need digital humanities systems to be as devleoped
+- adding infographics and charts is just mathwashing in the same way economists did
+  - this is just butterfly collecting
+
+* Draft
+
+/As I've been slowly preparing for PhD applications in Applied Math, I thought it would be interesting to write up my experiences in doing a humanities MFA, since I have a CS/Astronomy background./
+
+Having briefly dipped my toes into the pool of "digital humanities", I'm ready to tap out. From my glance at it, digital humanities programs attempt to bridge a false binary, in an attempt to create a pool of students who are neither statisticians nor software engineers.
+
+Like any good NLP practitioner, I'm going to punt on the exact meaning of "digital humanities", since the term has become loaded and there already exists [[https://mkirschenbaum.files.wordpress.com/2011/03/ade-final.pdf][better articulated answers]]. For the purpose of this post, I'm going to take "digital humanities" to mean any /any humanities-first program (a program where the core classes are in humanities) that attempts to incorporate aspects of computing/, whether that be data visualization, data gathering, sentiment analysis, anthropology, bias studies, etc.
+
+The core problem with digital humanities, from how I see it, is that it sets up the binary of two groups[fn:1]: a group with the tools to conduct research (computing), and another group that builds on the theories (humanities). As more of human interaction moves online, the assumption is that digital tools can help those in the humanities reach more falsifiable results.
+
+The clear issue in this assumption is that digital tools are not a turnkey toolbox that can be handed over to every student. Given that most of digital humanities comes down to some form of mucking around with data, most of digital humanities becomes a statistics problem!
+
+The social sciences have done an awful job with the digital tools they've been provided. The replication crisis, "widely regarded as rooted in methodological or statistical shortcomings"[fn:2] has shown us that fields such as criminology is pretty much worthless[fn:3] and that prestigious journals have terrible replication rates[fn:4]. Social sciences have shown themselves to be extremely;y vulnerable to p-hacking, to an almost comical degree of statistical incompetence. What are the chances of teaching statistics to humanities students who are simultaneously burned ed with learning the tools of software engineering at the same time?
+
+Even setting aside the impossibility of teaching a coherent "digital humanities" curriculum, the question then becomes, what is digital humanities good for? If we assume that the goal is to make the theories of humanities falsifiable[fn:5], the scope of most theories is so large to make this effort intractable. Papers in the digital humanities field run the risk of becoming similar to linguistics when it adopted a heavy mathematical focus: a large complex system beset by the alignment problem. Modern linguistics per Chomsky is split into two camps: statistical and theory[fn:6]. It was widely thought that statistical models were useful for engineering, but could not lead to more insight, and so the entire complex field of theory-heavy linguistics bloomed. However, as it turned out, compute beats clever every time, and the theory-heavy side has morphed into a category theory lookalike that fails to have any real world applications, while statistical models such as neural networks have generated many insights into the structure of languages in a single decade. If digital humanities only uses digital tools to validate theories, the entire endeavor becomes butterfly collecting.
+
+
+The best hope of digital humanities is to adopt a path similar to biostatistics. Biology is a massively complicated field with combinatoric complexity, and biostatisticans have developed unique statistical power tests, designed for their field, to validate their results. However, these are sophisticated and nowhere close to the turnkey nature digital humanities programs want. Digital humanities has a future, but it will be with statisticans and engineers adopting the humanities, not the other way around.
+
+
+
+* Footnotes
+
+[fn:6] http://norvig.com/chomsky.html
+
+[fn:5] Which to me seems to be the only useful goal out of this entire endeavor.
+
+[fn:4] https://www.frontiersin.org/articles/10.3389/fnhum.2018.00037/full
+
+[fn:3] 70% of criminology papers cannot be replicated! https://royalsocietypublishing.org/doi/10.1098/rsos.200566
+
+[fn:2] https://www.nature.com/articles/s41562-018-0522-1
+
+[fn:1] The binary of "two cultures" was long identified in mathematics far before the humanities adopted it: https://www.dpmms.cam.ac.uk/~wtg10/2cultures.pdf

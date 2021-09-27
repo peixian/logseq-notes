@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       5268D190-FCD8-47FB-979A-F37CAA98F7F2
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: goulding_the_evolution_of_united_nations_peacekeeping
+#+TITLE: Goulding: The Evolution of United Nations Peacekeeping
+
+Tags: [[id:B5718C5F-C397-4669-A100-06F66C9A480B][un and global governance lecture 2]], [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]
+* Questions
+  - what if we created a reserve fund for peacekeepers instead of a reserve troop list?
+  - how does the six types goulding identifies prevent the reemergence of a state?
+* Summary
+1990's article that talks about how peacekeeping has evolved
+- originally peacekeeping was loosely derived from post-WW1 siutations
+- remarks that legitimacy is the UN's key identifer
+- notes how [[id:1E643F52-8B76-4E7A-93B2-117255EF9DA2][unifil]] became a quasi-permanent force due to its ineffectiveness
+- identifies 5 principals of peacekeeping
+  - must be seen as UN lead and controlled -> concerns over legitimacy
+  - must require the consent of all parties -> peacekeeping missions do not work without consent
+  - peacekeepers must be impartial
+  - troops are provided on a voluntary basis
+  - use of force is kept to minimal
+- also identifies 6 types of peacekeeping operations
+  1. preventative deployment - one party requests, troops act as early warning
+     - being tried in [[id:63840957-74A4-47E9-9880-C309E83F5477][macedonia]]
+  2. traditional peacekeeping - monitoring ceasefires, buffer zones, etc
+  3. operations to help implement a comphrenesive settlement
+     - [[id:3BC79F0C-52AE-477D-BC39-C3B01DCD820E][namibia]]
+  4. humanitarian corridors
+     - [[id:87480B74-4E7F-485F-988B-EC8CC559F15F][somalia]], [[id:4A892609-EEF5-441D-92CD-0330210D954F][bosnia]]
+  5. UN replacing a collapsed state
+     - [[id:1A7F8EC9-B51F-460B-A078-FCB63DEC29B7][democratic republic of the congo (DRC)]] in the 60's
+  6. ceasefire enforcement - similar to 2, but with force
+     - vance-owen plan for [[id:4A892609-EEF5-441D-92CD-0330210D954F][bosnia]]
+     - [[id:87480B74-4E7F-485F-988B-EC8CC559F15F][somalia]]
+
+- goulding points out that funding is always a problem
+- goulding argues for a more codified rules of usage of force
+- greatest tool of the UN is credibility and legitimacy, thus the sec gen cannot deploy force to all places, but also must not appear overty cautious

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       A475182B-C7B6-441C-8D92-4C6704A9B54F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: computational_syntax
+#+TITLE: computational syntax
+
+Tags: [[id:48350662-53E9-4A91-9ADB-2BC9DFEA6098][nlp]], [[id:AB300662-3E3E-4452-A29D-468522B35C3E][languages/linguistics]]
+
+Computational syntax is concerned about the questions of the structures of natural language sentences (grammar):
+- what kinds of representations allow you best to describe what sentences are grammatical/possible in a langauge?
+- what kidns of sentence structure are and are not possible in any given human languages?
+- to what extent are these grammatical rules langauge-specific and learnbed, and to what extend to they represent something universal about human cognition?

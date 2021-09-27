@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       6FC1FCE6-2E7F-47AB-AEE0-BFFB83B8AEF0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: broadcasting_and_multi_cast
+#+TITLE: broadcasting and multicast
+
+Tags: [[id:2C626284-F74C-4110-83A7-AE07B6D0A451][algorithms]], [[id:60E89DE2-2826-4C7F-9DF6-69A0C00F11A2][distributed systems]], [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]
+
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.3.4709&rep=rep1&type=pdf

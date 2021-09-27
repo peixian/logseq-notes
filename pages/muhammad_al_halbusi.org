@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       37B037FC-1597-4D96-86E5-DAC5A959946C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: muhammad_al_halbusi
+#+TITLE: muhammad al-halbusi
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+Current speaker of [[id:892AA907-7AC7-416C-9E42-21B70840A14F][iraqi parliment]] as of dec 24th, 2020

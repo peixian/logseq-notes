@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       9217175F-EC79-4828-9A53-FD9F1FD8C09C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: python
+#+TITLE: python
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- CGI scripts:
+  - https://www.tutorialspoint.com/python/python_cgi_programming.htm
+
+
+Context sensitivity: https://groups.google.com/g/comp.theory/c/nJzOyRnAP3k/m/AInZxo48FNIJ?pli=1

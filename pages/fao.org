@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       2F891118-4D17-4227-BD32-4964F6DBF8D6
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: fao
+#+TITLE: fao
+
+Tags: [[id:7C05085A-564D-4186-B4E7-AD9DC612310A][un]]
+
+* 2008 Food Price Hike
+  - https://twitter.com/Comparativist/status/1246661746397310976
+  - Used by the Gates Foundation, CGIAR, and FAO to make a new push, sending Africans to the Philippines to leanr how to grow wet paddy rice
+  - Price hike likely caused by a mix of [[id:2A282D7E-3A71-4DCE-A53A-9D166628C139][commodities]] speculation and turning crops into biofuels
+  - comparative advantage is why food self-sufficiency wasn't a problem, more profits from growing coconuts than rice in some countries
+    - palm oil in Indonesia
+    - flowers in Kenya
+      - https://www.bloomberg.com/features/2020-flower-industry-crash/
+* 2020 [[id:A06959EF-A349-4F8E-B58A-4C8B11A83DAA][covid]] crisis
+  - http://www.fao.org/worldfoodsituation/foodpricesindex/en/
+  - FAO thinks food price is falling
+  - biofuel demand has collapsed with oil prices
+  - food export bans: https://www.caixinglobal.com/2020-04-02/multiple-countries-ban-food-exports-as-demand-spikes-fuel-shortage-fears-101538002.html
+  - [[id:BE234E49-5E49-4054-8308-6EDDCA766FAB][syria]] needs 650k tons of wheat
+    - https://twitter.com/Elizrael/status/1238201398325587968
+  - https://www.nytimes.com/2020/04/11/business/coronavirus-destroying-food.html

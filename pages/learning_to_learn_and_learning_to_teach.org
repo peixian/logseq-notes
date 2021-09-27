@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       CA7F47BD-F4E3-4267-893D-E80F603E4A86
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: learning_to_learn_and_learning_to_teach
+#+TITLE: learning to learn and learning to teach
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+- being a developer is about learning to learn
+- teaching tech together
+- being a developer is also about learning to teach
+- being a developer is learning to ask questions
+- not just being curious but knowing what questions to ask
+- being a developer is not recall from clean code or kent beck but rather understanding the structure and system in which something is laid out
+- software design philsophy
+- more than just teaching to engs, you need to teach to product people
+- convey the limitations of technology
+- every software team is absolutely insnae
+- note taking
+- differences in global markets (SEA everyone is a consultant)
+* cognitive flexibility theory
+  - cognitive flexiblity theory is about how learning is an active construction
+  - reductive explanations should be avoided, they can easily reproduce themselves by misconception networks
+  - advanced learning is the ability to flexibly apply knowledge to all cases within the domain
+  - focuses on overcoming simplfying mental models, overcome mental models on what is incorrect
+* cognitive transformation theory
+  - learning requires the elaboration and replacement of mental models
+  - mental models are limited and inherently shield themselves off
+  - learning must also involve unlearning
+  - focuses on strategies, the learning and unlearning of strategies

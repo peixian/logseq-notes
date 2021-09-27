@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       115DB21E-5856-4F78-926D-6A23469C960F
+:END:
+#+TITLE: heart rate zones
+
+Tags: [[id:3B5A43C1-21E5-4002-BFA9-66B71284CAD0][Workouts]]
+
+Align heart rate zones with [[id:0293CFB9-27D5-4404-8E63-C0EDB19EF09A][training periods]].
+
+* 4 Zones
+** Zone 1
+   Basic endurance, 55-75% of max HR
+   - _Low Speed. At low intensities, predominately using slow twitch (ST) muscle fibers, the rate of ATP production is modest._
+** Zone 2
+   No man's land, 75-80% of max HR
+
+   - Note that this can "feel" like training, but the gains are small here. Zone 1 is a safer bet.
+** Zone 3
+   Uppermost aerobic training, 80-90% of max HR
+** Zone 4
+   Anaerobic zone, 90-95% of max HR
+** Zone 5
+   Max effort
+#+SETUPFILE:./hugo_setup.org

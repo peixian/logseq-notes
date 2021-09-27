@@ -1,0 +1,52 @@
+:PROPERTIES:
+:ID:       3BBD1BA5-6564-442E-8646-7C47D046641A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: duffield_development_security_and_unending_war
+#+TITLE: Duffield - Development, Security, and Unending War
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:2CA4ACAD-7B98-4C7E-AA8B-FC2E0ADE676A][conflict and violence]]
+
+
+* Preface
+  - Development is inherently based on continuing disorder rather than resolving it
+  - Taps into the foucadian concept of biopolitics
+    - [[id:2EBAA08C-FB3A-43F4-9411-EEC9EFF8861F][Humanism in Ruins - Discussion Questions]]?
+  - "Surplus non-insured life is the subject of development, while the statis of basic needs and self reliance is its biopolitical object"
+  - development functions to contain destabilizing effect of underdeveloped countries
+
+* Introduciton
+  - Development requires security and visa versa
+  - "Enlightened self intesrt of states"
+    - effective states should protect and strengthen weaker people
+  - rooted in a widening idea of "security"
+  - [[id:A949047F-19D9-46E8-ACE5-1B4C7A7558D8][giorgio agamben]]'s "liberal problem of security"
+    - why does this dominate the foreground
+    - how does it operate within post-cold war humanitarian, development, and interventio?
+  - human as a species vs human as a machine
+    - human as a species
+      - collective punishment?
+    - human as a machine
+      - education, punishment, military, medicine, etc
+  - development helped bridge the gap between freedom and rule of law @ home vs despotism overseas
+  - "capitalism must have a non-noncapitalist exterior if accumulation is to be maintained"
+    - capitalistic overaccumluation is filtered into development
+  - nasser hussain 2003:17 - "states of" emergency can be understood to constitute the relationship between modern law and soveriegnty
+  - insurance as a marker of development
+    - insured life vs non-insured life
+    - why do we assume under-developed countries need to strengthen self reliance, while developed ones have a strong safety net?
+  - soverignty over life in ineffective states have become internationalized, negotiable, and contingent
+    - elden 2006
+    - also https://journals.sagepub.com/doi/pdf/10.1177/030437540703200204
+
+* [[id:7FEA6B9D-8C21-4614-8F22-38F3D514D378][ngo]]'s, Permanent Emergency, and Decolonization
+  - NGO's as the hiers to the "self-reliance model"
+    - ngo's thus priortize immediate relief difference from overall development
+  - states of emergency are actually vital for liberal governance, including development
+    - "redemption of the lives in ineffective countries"
+    - soverign states still hold the ability to define what types of life people are
+  - humanitarian relief and development are expressions of the intersection axes of "emergency" and "emergence"
+    - page 33
+    - what does this mean?
+  - NGO's operate in emergencies, overriding social constraints and political limits
+    - humanitarian emergency strips away the identity of people concerned

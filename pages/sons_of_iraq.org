@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       BEBC4923-27A5-4FA0-8EC6-F1CB9632AA26
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sons_of_iraq
+#+TITLE: sons of iraq
+
+Tags: [[id:44848562-7F27-4906-95F4-6A9BFEC7A473][militias]]
+
+[[id:551974DA-A83D-409F-8426-61DE3A40D43F][nouri al-maliki]]'s inital PMF beginnings

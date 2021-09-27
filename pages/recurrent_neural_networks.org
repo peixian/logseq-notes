@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       9546B108-EFCC-478A-9957-1E377EFBBC1D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: recurrent_neural_networks
+#+TITLE: recurrent neural networks (rnn)
+
+Tags: [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]]
+
+- good for tasks that require sequential input
+- processes and input sequence one element at a time, maintaining a hidden "state vector"
+- has a vanishing problem since backpropagated gardients grow or shrink at each time step
+- very good at predicting the next character in the text or the next word in a sequence
+
+#+DOWNLOADED: screenshot @ 2020-11-24 21:52:53
+[[file:2020-11-24_21-52-53_screenshot.png]]

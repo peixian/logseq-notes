@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       5E5E8287-6677-468A-8B62-7AA634A3E5CC
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: islam
+#+TITLE: islam
+
+Tags: [[id:4D07A7F6-AA30-415E-B718-B82E4151A482][religion]]
+
+- /The Umrah, which now refers to the “lesser pilgrimage” to Mecca that can be done any time of the year and doesn’t include the portions outside the city, may have originally referred to the Meccan festival./

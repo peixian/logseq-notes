@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       13FEE611-A9AA-4FAF-99DB-65A620D2FFCB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: graph_tool_python
+#+TITLE: graph-tool (python)
+
+Tags: [[id:9217175F-EC79-4828-9A53-FD9F1FD8C09C][python]], [[id:8F943A0D-33AE-4813-929E-1D6AD8D3BB72][community detection libraries]]
+
+- https://git.skewed.de/count0/graph-tool
+- similar to networkx

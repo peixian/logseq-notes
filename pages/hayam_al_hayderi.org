@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       A24C53EF-9D0F-47D1-AD33-7192987DA91F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hayam_al_hayderi
+#+TITLE: hayam al-hayderi
+
+Tags: [[id:892AA907-7AC7-416C-9E42-21B70840A14F][iraqi parliment]]
+
+[[id:AE44078E-56B5-4ED4-90D8-332F2BDBF053][turkmen]] [[id:8CDB38A0-40D1-4F15-800D-6D8E8863DCFA][state minister]] appointed by [[id:7779E66E-E701-4A65-9B99-39ABC78B543B][mustafa al-kadhimi]], confirmed on dec 15, 2020

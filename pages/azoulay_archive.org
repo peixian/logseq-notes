@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       393AB2AE-511F-4FED-A260-4F46B985B26E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: azoulay_archive
+#+TITLE: Azoulay: Archive
+
+Tags: [[id:F6DEBD6F-7B47-4A1B-9C73-4E32B62E31EA][Problems and Methods - Archival Turn]], [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]
+
+- Talks about [[id:903654E5-78C0-492B-9410-BE6367C8A24E][Derrida - Archive Fever]]
+  - says that Derrida's archons prevented the outbreak of the archive frezy that engulf us today
+  - It's possible to enter an archive too early, before materials become history
+- Asks "Why an archive?" and "What do we look for in an archive?"
+- Anat Kam: Young Israeli woman who collected digital documents about the targeting of Palestinians, eventually giving it ot a Haaretz journalist
+- Keeping documents for yourself deprives the public dimension of the archive
+  - But what about archives constructed for a specific reason?
+- Archive fever is individuals creating new archives and claiming the right to rearrange and use existing ones
+  - Purely extractive, we do not take the archive as a whole, and lose the context in which the documents were prepared, violating the laws of [[id:239639D6-39A4-42E3-B27A-61357A8E9B2A][french archival science]]
+- "Collecting becomes grouping, extracting beomces sharing, and catalouging is replaced by indexing and tagging" - pg 197
+- Photography is not capturing the moment
+  - Photography does not say "this is X"
+  - But actually says "X was there" - pg 205
+    - Identifies one by his or her name
+    - Or describes the photographed person by a family name
+    - But it can also violenty constitute the photographed person through a category that shapes her or him in its image, fusing together image, concept, and reference - pg 206
+  - Similar to [[id:D850E39B-B4BE-481A-B164-E4074178C0CD][Zaatari: History and Photographic Memory]]

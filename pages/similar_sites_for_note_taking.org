@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       FDA6C171-FBEC-4A23-A584-B7C8D0EA6CE3
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: similar_sites_for_note_taking
+#+TITLE: similar sites for note taking
+
+Tags: [[id:9675FEBA-A78E-4DE1-83CF-E04D66C221AF][Soren - Taking Smart Notes]]
+
+Other sites that use [[id:F357973C-7C05-42CB-8CEA-ED6FD5257EEE][zettlekasten]] for notes
+- https://notes.azlen.me/g3tibyfv/
+- https://notes.andymatuschak.org/About_these_notes
+- https://www.gwern.net/index
+- https://braindump.jethro.dev/

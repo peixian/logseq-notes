@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       07CD7BEA-BCD8-4606-94DF-F5C7DE4C1866
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sultan_al_musawi
+#+TITLE: sultan al-musawi
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

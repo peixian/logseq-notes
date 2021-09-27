@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       235C1E4D-4C2C-4B66-8CC2-1BAED8F160B8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: basel_committee_on_banking_supervision
+#+TITLE: basel committee on banking supervision
+
+Tags: [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]], [[id:785D4B33-E0F1-4EE6-BC8B-E3E00896F430][terrorism]]

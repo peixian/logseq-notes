@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       B48A4C18-13C4-4975-A88B-FE670A1107E6
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ali_abudllah_saleh
+#+TITLE: Ali Abudllah Saleh
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]] [[id:87825E0D-CF52-42BD-AC39-4EAC4B565EA3][yemen]]
+
+- Former dictator/president of yemen before he was overthrown by the [[id:C07B8EF3-C4B7-45CB-8671-33A6E45160C8][houthis]]
+- Left on a [[id:98B3D252-482B-4B5C-BDB1-B6F03CDE3282][gulf cooperation council]] brokered agreement where he ceded power to his vice President Mansour al-Hadi

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       A0834C86-F136-4F49-8139-77B077E65FBC
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: iraqi_shia
+#+TITLE: iraqi shia
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

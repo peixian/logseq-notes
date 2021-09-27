@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       D5E9E473-86D9-4C76-AB4A-528938E32097
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: yathrib
+#+title: yathrib
+
+- city in [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]], north of [[id:105A47A9-B2B1-46B8-9531-52E9E39414AB][baghdad]], in the [[id:A27DD606-1134-4EE7-96D8-4FAE1305930F][salah ad din governate]]
+- captured by [[id:D565EE03-B588-489C-BDB7-DACD67FA5F8A][islamic state (is/isis/isil)]] in 2014

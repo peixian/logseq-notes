@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       04ED6102-353D-403D-83F0-A03079F882C7
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hassan_al_banna
+#+title: hassan al-banna
+
+[[id:E48F6D7F-36EB-4F1E-8DF6-35AF238E024F][muslim brotherhood]], [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]

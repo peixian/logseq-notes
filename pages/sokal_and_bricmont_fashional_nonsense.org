@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6D074E0D-EB21-4124-9F44-C00BDA1C3A29
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sokal_and_bricmont_fashional_nonsense
+#+TITLE: Sokal and Bricmont - Fashional Nonsense
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]]
+
+* Review
+- https://archive.nytimes.com/www.nytimes.com/books/98/11/15/reviews/981115.15holtlt.html

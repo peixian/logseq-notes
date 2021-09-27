@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       E030ED50-C09C-4B62-8210-143E76523E11
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: huggingface
+#+TITLE: huggingface
+
+Tags: [[id:51BC9BEA-4F6D-4438-87F8-F6322BA475A3][transformers]]
+* Adding a new dataset
+- https://github.com/huggingface/datasets/blob/master/ADD_NEW_DATASET.md#tag-the-dataset-and-write-the-dataset-card

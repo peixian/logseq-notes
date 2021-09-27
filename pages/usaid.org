@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       53A71D63-E8F2-41EC-8A45-20AD01973979
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: usaid
+#+TITLE: usaid
+
+Tags: [[id:08700B30-6476-438A-A1CB-8452DB3DEA4F][grad school]]
+
+https://old.reddit.com/r/foreignservice/comments/jshnuz/what_is_the_first_15_years_of_a_usaid_foreign/

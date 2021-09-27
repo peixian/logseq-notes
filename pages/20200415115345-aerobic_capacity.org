@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       9C23776D-5B09-4569-9666-FAABA977C791
+:END:
+#+TITLE: aerobic capacity
+
+Tags: [[id:3B5A43C1-21E5-4002-BFA9-66B71284CAD0][Workouts]]
+
+Correct training enhances the mitochondria content, pump volume of heart, and oxygen storage capacity of muscle cells
+#+SETUPFILE:./hugo_setup.org

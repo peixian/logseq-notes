@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       9A7E312D-C659-4B63-8637-E048510A6929
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: shell
+#+TITLE: shell
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- shell uses the ~readline2~ lib
+- ~^string1^string2~ does word replace
+  - Note that this doesn't work in fish
+- ~!^~ and ~!$~ map to the first and last arguments of the latest command, respectively

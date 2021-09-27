@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       E9EF11D0-1311-44E6-B1C7-64EC32E8108D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: bouillion_et_al_iraq_preventing_another_generation_of_conflict
+#+TITLE: Bouillion et al - Iraq: Preventing Another Generation of Conflict
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]]

@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       9CD7EE97-493A-4EA7-9059-53628490F80D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: mamdani_trans_african_slaveries_thinking_historically
+#+TITLE: Mamdani - Trans-African Slaveries Thinking Historically
+
+Tags: [[id:FAD07E42-4924-452A-A438-6F6DADFAD1BE][problems and methods]]
+
+- Talks about how slavery cannot be defined solely as chattel slavery
+- Argues against the notion put out by Orlando Patterson and Bruce Hall
+- Islamic forms of slavery were actually a part of the slave market that eventually turned into chattel slavery
+- Chattel slavery and free people were two sides of the same coin, examples where the people were the most free (like Athens) also had the most chattel slavery
+- Shift of greeks and romans from half free people to reliance on chattel slaves from outside was the emergence of the idea of freedom
+- Argues that Patterson, in his attempt to find a coherent definition of slavery, overlooked many differences
+  - In Islam, Mamaluks
+  - In Ethopia, various other groups
+- Early data about #s of slaves were largely anecdotal and basically wild guesses
+- Zanj rebellion in Iraq, lead by Ali
+  - Large, spartacus like revolt from Southern iraq of free people and poors
+  - Lasted over 15 years
+- Race based slavery was a western import, largely allowing for racialized taxonomies with colonialization
+  - previously one could "become" an arab, just as you could convert to islam
+- Haterin in northern Morocco
+- Universal definitions of slavery is a fool's errand, too difficult to actually conceptualize
+- Segregation produces a clear divide between slave and non-slave, while the dominant discourse on slavery has been defined as the meeting point of abolitionist and Orientialist

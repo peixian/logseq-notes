@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7A9CC2EE-04AF-42E7-A059-CD69865A98DD
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: geb_chapter_5_recursive_structures
+#+TITLE: geb chapter 5 (recursive structures)
+
+Tags: [[id:02E1C06A-9354-4671-9F73-4D1D3E198024][Hofstadter - Godel, Escher, Bach]]
+
+- Treats music as a shallow stack with two keys
+- Talks about recursion in a langauge, verb-at-the-end requires a stack (german)
+- [[id:EB44CC9B-3027-4BD9-A635-78DA4F61CCCB][arabic]] verb at the start, is this a queue?
+- return address -> where the recursion in loops swing back to
+- retrival - stored procedures
+- [[id:D3AA6E98-9BBA-4B30-9F9A-A101E393C4BF][epimenides paradox]]
+- recursion as a form of information compress, you can store the recursive function and generate the data with it later
+  - [[id:431E38FF-1764-4991-8D0F-C28F27BD3C5A][eta sequence]]
+  - [[id:4D41EE81-6EF6-458F-AEE0-EC1C1A8DD46C][cantor set]]
+- renormalization - reconstruction of particle state with its peers
+- grammars in recursion, human langauges, physics
+- when are two things the same? when are they not the same?

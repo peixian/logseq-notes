@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       BBC22504-8425-436C-AA69-0BB5B6CF08BC
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gaddafi
+#+TITLE: gaddafi
+
+Tags: [[id:C21DF9B0-E7E9-44F9-91A2-EEA809BD6293][libya]]

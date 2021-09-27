@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7016E30F-0B49-4B3A-9A15-5A908F101F05
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: iraq_ag_exports
+#+TITLE: iraq agricultural exports
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+* April 23rd
+  - Agricultural ministry empowered to export barley @ $125/ton
+  - first time in more than a decade for Iraq to export barley
+  - forecasts have climbed 4x this year to exporting 2m tons of barley
+  - 1.3m tons of barely consumed a year
+  - should lessen the need for foreign grain imports
+  - barley production surged from 27k in 2018 to 500k in 2019
+  - corn farmers produced 400k in 2019
+  - corn and barley used as animal fodder
+
+* 752 Tons of Wheat Missing from Najaf
+  - https://www.instapaper.com/read/1307858378
+  -

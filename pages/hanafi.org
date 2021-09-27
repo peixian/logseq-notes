@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       9C5BD69C-A677-4EFD-828E-50ABC522626F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hanafi
+#+TITLE: hanafi
+
+Tags: [[id:BB2783B7-0E6B-4886-8007-EC63A9C67096][islamic jurisprudence]]

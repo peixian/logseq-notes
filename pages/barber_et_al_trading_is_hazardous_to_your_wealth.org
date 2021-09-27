@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       72811827-846F-4254-9FF8-8DECEC228D41
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: barber_et_al_trading_is_hazardous_to_your_wealth
+#+TITLE: Barber et al: Trading is Hazardous to Your Wealth
+
+Tags: [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]], [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]
+#+begin_quote
+Of 66,465 households with accounts at a largediscount broker during 1991 to 1996, those that trade most earn an annual returnof  11.4  percent,  while  the  market  returns  17.9  percent.  The  average  householdearns an annual return of 16.4 percent, tilts its common stock investment towardhigh-beta, small, value stocks, and turns over 75 percent of its portfolio annually.
+#+end_quote
+- Barber and Odean, “The Common Stock Investment Performance of Individual Investors.”
+- Individual investors pay massive performance penalty for active trading
+- analyzes trading activity for 78,000 households at a large discount brokerage firm starting from Jan 1997

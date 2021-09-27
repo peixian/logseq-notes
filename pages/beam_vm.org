@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       3BF82DF0-BA0F-4690-9896-261F0E81A6CF
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: beam_vm
+#+TITLE: beam vm
+
+Tags: [[id:CF577679-1813-4797-9A8C-4A20601B8F2F][erlang]]

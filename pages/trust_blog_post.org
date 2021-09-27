@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       48AC73D8-3859-4905-B64E-C7F721048C87
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: trust_blog_post
+#+TITLE: trust blog post
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+- results of user trust
+- novices and experts distinction
+- trust gap for tech experts
+- trust in [[id:5E526313-F9ED-4567-8FF8-3CE7EE462CE1][post-conflict statebuilding organization]]
+- what does this mean for products?
+- models need to be correct at first pass
+- users are less willing to trust after the first impressions
+- what does this mean for post-conflict situations? do people trust faceless bureacracies less if the initial assessment is bad? what about banking and the underbanked?

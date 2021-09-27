@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       8181BD02-B1B0-4AB5-ACB2-32A0BCC479C6
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hamid_al_shatri
+#+TITLE: hamid al-shatri
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

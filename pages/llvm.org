@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       94E90FC3-D8DC-4922-BE57-0E2A3A9328F3
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: llvm
+#+TITLE: llvm
+
+Tags: [[id:5B3FA555-7C9B-47B1-A463-983A682072FC][compilers]]

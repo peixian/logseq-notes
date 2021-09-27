@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       0C832BAD-E9A5-4B04-8A2A-851647119A10
+:END:
+#+TITLE: computers
+https://wiki.c2.com/?SufficientlySmartCompiler
+
+#+SETUPFILE:./hugo_setup.org
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]

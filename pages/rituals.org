@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       5EE8C2F7-9DC7-4E39-B0B4-8638F1755EB4
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: rituals
+#+title: rituals
+
+[[id:4D07A7F6-AA30-415E-B718-B82E4151A482][religion]]

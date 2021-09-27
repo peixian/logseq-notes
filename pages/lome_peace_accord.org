@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       1BF405E3-8613-40C1-9041-B864727FF370
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: lome_peace_accord
+#+TITLE: lome peace accord
+
+Tags: [[id:A5CACE85-C257-4B0D-93ED-1D1FD8D9BEB5][sierra leone]]
+
+
+One of the talks for the warring factions to be brokered in a peace agreement with the [[id:7C05085A-564D-4186-B4E7-AD9DC612310A][un]]
+
+Notably, the UN rejected attempts by both sides to give themselves amnesty

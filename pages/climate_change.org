@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6D96E728-B780-4735-BCA4-591F45978BBA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: climate_change
+#+TITLE: climate change
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]
+
+Climate change writers:
+- https://www.theatlantic.com/author/robinson-meyer/

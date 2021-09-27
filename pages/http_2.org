@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       798D02F6-6F77-4B01-940A-F4D8AC078719
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: http_2
+#+TITLE: http/2
+
+Tags: [[id:41841396-B9E0-4E93-81AF-6371999B3B38][http]]
+
+HTTP/2 is rarely deployed e2e, it aims to solve problems at happen on the public internet with:
+- high latencies
+- one HTTP can delay subsequent requests

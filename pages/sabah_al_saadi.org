@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       34323DE9-B0FC-4A85-93A4-6DC542DEED92
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sabah_al_saadi
+#+TITLE: sabah al-saadi
+
+Tags: [[id:1C1DF648-3DAE-40F7-9202-96CADE041578][sairun (sadr political party)]], [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]
+
+Bloc leader for sairun

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       BA97ECDA-53D0-4F7D-BC52-79EAFC5A4C0F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: symphony_chat_platform
+#+TITLE: symphony chat platform
+
+Tags: [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]]
+
+Slow adoption, [[id:B19CB7FA-A904-4F66-AFF3-230E15033ED3][sell side]] is slowing adopting it

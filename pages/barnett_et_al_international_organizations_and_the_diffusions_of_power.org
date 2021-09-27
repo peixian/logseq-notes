@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       CA1EA832-614A-4720-A87E-04CAD3716E0A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: barnett_et_al_international_organizations_and_the_diffusions_of_power
+#+TITLE: Barnett et al: International Organizations and the Diffusions of Power
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:C2FFFFB5-13EC-476F-AB83-FD70756DF07B][un and global governance lecture 1]], [[id:3A151692-5786-4F5E-B755-165CDFA29BB9][political science]]
+
+Two schools of thought when it comes to IO's
+1. Do IO's freeze existing configurations of power?
+2. Do IO's pluralize power
+
+IO's are defenders and agents of reform, with the ability to provide compulsory powers and insitutional powers
+
+Compulsory powers: taking direct action, such as [[id:006AFDE2-7821-4866-AE48-0CD969B89F2D][un peacekeeping]], naming and shaming, etc
+
+Insitutional powers: setting the agenda, declaring people persona non-grata, classifiation
+- [[id:B3CD553E-590D-4C7C-9426-802C1796AF02][unrwa]] and [[id:F57D119F-2F13-480D-B441-8698192223B0][international criminal court]] fall under this
+- [[id:C9BB4267-834B-4F2F-B515-4C2C62ACC60A][imf]] and [[id:22A30C31-C090-4475-B79C-B21E35CA9530][world bank]] can disqualify countries from access to financing
+- [[id:A156128C-3A9C-4407-A91E-617527EA6E8E][unhcr]] can classify who is a refugee or not
+
+Modern IO's are often designed by states and defend state interests, but have certain qualities which make them act in ways to improve conditions for people
+
+Why do states create IO's?
+1. Stabilize international and political agreements ("freezing" of power)
+2. To enhance coordination between states
+
+The most powerful part of an IO is it's legitimacy, and it's ability to determine who gets a seat at the table
+- [[id:B7499357-D6DD-4419-B930-1338431AED56][Pouligny - Peace Operations Seen From Below]] talks about the importance of legitimacy
+- [[id:C21DF9B0-E7E9-44F9-91A2-EEA809BD6293][libya]]'s endless debate about who gets a seat at the table is anotehr
+
+IO's have the ability to classify and create taxonomies, their expertise decides what is on the agenda and what isn't
+
+IO's hedge tot he rise of the beaurcratic ideal in the 19th century, they preserve the facade of de-politicization behind expert rule, but inherently makes them more authoritarian
+- [[id:84C25B75-42A4-4C6A-8CDA-42218BBA2FAF][authoritarian problems with humantiarian aid]]
+
+Global order is relatively libera, IO's are defined by the order, and often act to preserve it. IO's are inherently conservative, but may be compassionate. The search for IO's to find legitmacy outside the state tends to make them more liberal

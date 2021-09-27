@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       E00FA741-9906-4793-BC95-AC454362D138
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: linux
+#+TITLE: linux
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- Currently Linux plumber and hobbiest occupy two different workds
+  - Desktop linux and DevOps middleware are paid employees, vs poeple who use suckless softawre, musl-based distros

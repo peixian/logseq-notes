@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       4B1F18B0-59A6-49A6-9D1F-8858F0D80707
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: nato
+#+TITLE: nato
+
+Tags: [[id:97BD1E12-9693-4CF4-8A7E-61DFAC324300][united states]]

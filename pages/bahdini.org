@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       D66F275D-A725-4447-8B7C-85AAE38EFDE5
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: bahdini
+#+title: bahdini
+
+[[id:5969E82F-DDCA-404B-A8F4-2C775C7ECF55][kurdish]]

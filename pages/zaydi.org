@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       7C7F574A-E99D-4B01-B2C3-1F2181B7144F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: zaydi
+#+TITLE: zaydi
+
+Tags: [[id:BB2783B7-0E6B-4886-8007-EC63A9C67096][islamic jurisprudence]]

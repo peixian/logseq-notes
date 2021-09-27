@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       D1946AF3-6885-4AE6-875E-9A682AE37A55
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: events
+#+TITLE: events
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]

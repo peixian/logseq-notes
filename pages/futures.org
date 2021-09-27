@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       FBDD25BF-6382-40FC-9A43-11CD2AAEE157
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: futures
+#+TITLE: futures
+
+Tags: [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]]
+
+* Contago/Backwardation
+  - Contago is when the futures 1st derivative is postive
+  - Backwardation is the when the 1st derivative is negative

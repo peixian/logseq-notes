@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       2C626284-F74C-4110-83A7-AE07B6D0A451
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: algorithms
+#+TITLE: algorithms
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][Computers]]

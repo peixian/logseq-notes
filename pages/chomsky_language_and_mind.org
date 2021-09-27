@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       B80A87C7-A04A-4E1C-9059-0D3B00F09036
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: chomsky_language_and_mind
+#+title: Chomsky - Language and Mind
+
+[[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:9C061A51-C534-41AD-9088-F1BE1E5AAD70][chomsky]]
+
+* Linguistic Contributions - Past, Present, and Future
+- 3 lectures by Chomsky
+* Past
+- 19th and 20the centuries have had linguistics, philosophy, and psychology go their separate ways, the problem of the mind has served to link the disparate fields back together
+- Karl Lashley, 1948 - argued that underlying language use - and all organized behavior - must contain abstract mechanisms of some sort that are not analyzable in terms of association and could not be developed by simple means
+- Points that mental structures are not "more of the same", but rather they are quality very different than the complex networks and structures that can be developed by scaling up
+	- not just degree of complexity, but the quality of complexity
+- Physics to Cartesian and Newton was not adequately grounded, since it still postulated the mystical force of gravity, just as Descartes’ postulation of the mind
+- Spanish physicians Juan Harte - Late 16th century, published about intelligence, which gives 3 levels: sensory, self-sustaining, and generative
+	- this is the groundwork for the physchological theory that the use of language is a correct index of intelligence
+- Descartes observed that even low level languages is totally unattainable by apes
+- However, this asks us, is reasoning generative of speech? Corvids, for example, can reason without speech
+- “Being unbounded and freed from stimulus control do not necessarily exceed the bounds of mechanical explanation"
+	- Chomsky begins to formulate the idea of computationally enumerable vs computationally finite
+- "It seems to be that the most hopeful approach of today is to describle the phenomena of language and of mental activity as accurately as possible" - pg 12
+	- argues that we must stop attempting to link postulates with approaches, and read the behaviors for what they are
+- Wilhelm von Humbolt - 1830’s - "the speaker makes infinite use of finite means"
+	- Chomsky therefore says that the grammar must contain a finite system of rules that generates infinitely many deep and surface structures
+- talks about Port-Royal theory to modern structural and descriptive linguistics
+	- latter restricts itself to the analysis of "surface structure" - formal properties that are explicit in the signal and to phrases and units that can be determined from the signal by techniques of segmentation and classification
+	- Ferdinand de Saussure, at the turn of the century, stated that the only methods of linguistic analysis are segmentation and classification
+	- syntagmatic (patterns in the literally succession in the stream of speech)
+	- paradignmatic (relations among units that occupy the same position in the stream of speech)
+-
+	-

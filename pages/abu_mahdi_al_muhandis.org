@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       B4495945-1A3F-4927-967A-03C0D2992069
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: abu_mahdi_al_muhandis
+#+TITLE: abu mahdi al-muhandis
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]

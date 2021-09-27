@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0092430D-FACF-4690-AABC-D0B572D06E82
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: wordpress
+#+TITLE: wordpress
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- Default feeds at <wordpress_name>/feed or /rss
+- same for substack with <blank.substack.com>/feed

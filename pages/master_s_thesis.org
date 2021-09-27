@@ -1,0 +1,90 @@
+:PROPERTIES:
+:ID:       D00C1BFB-32F5-4BAC-8660-C36D4883BCBF
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: master_s_thesis
+#+TITLE: master's thesis
+
+Tags: [[id:08700B30-6476-438A-A1CB-8452DB3DEA4F][grad school]]
+
+
+- Reintegration of Iraqi Militias
+  - PMF Command Structures
+    - PMF command structures are vastly different, from KH's Hezbollah-like situation to brigade 30
+      - Money laundering and ghost soldiers
+      - Who is lining their pockets and benefiting from different command structures?
+  - Sectarian conflicts
+    - PMF cross cuts class, race, and religion
+      - Shia Turkmen, Christians, pro-sistani vs pro-iran
+    - What kind of nationalism is being created? Alternatively, what kinds of sub-state nationalism (borrowing Toby Dodge) is being created?
+  - Similar reintegration histories?
+    - Peacebuilding in
+      - Balkans
+        - Reintegration of Bosnia mujahadeen?
+        - "Recyled" militia in Serbia armed groups?
+      - Lebanon
+        - Hezbollah and similarities there?
+      - Nepal
+        - Ideaologically driven - were maoist. Does this hold similarities?
+      - Afghanistan
+        - Taliban
+      - Namibia
+      - Colombia
+        - Paramilitary demobilization, and it's failures
+      - Chechnya
+        - Militias as spoilers of the Chechen state, does this occur in Iraq?
+      - Ivory Coast
+        - "Warrior generation", political violence similar levels, are there models to be drawn here?
+  - Post-conflict peacebuilding within formal state structures
+    - The Iraqi state did not totally collapse and fought off an insurgency, is this different than integrating militias in newly formed states?
+    - External actors
+      - UNAMI
+      - US
+      - Iran
+      - etc
+  - Mechanics of peacebuilding
+    - Combants to civilains -> Has this happened?
+    - Post-conflict state -> Has Iraqi society reached "post-conflict"? What determines post-conflict?
+  - "Big" questions
+    - Current government framing of Iraq
+      - Lack of legitmacy on several key institutions
+        - "Supreme" court has no constitutional legitmacy
+    - KRG
+      - Resolved issues of KRG disputes, how do the peshmerga fit into this equation?
+    - What constitutes as "rehabilitation" and "reintegration"?
+      - UN has often sought "reintegration" by waiting it out, which has rarely worked. Succesful examples are Nepal and Namibia, which sought greater reintegration via massive state-sponsered jobs programs
+        - How does this change in a world of low interest rates? Namibia and Nepal had difficulties borrowing money, does the shift in the global markets affect this?
+      - "Big" reintegration - who are the funders of reintegration for previous states? Who funds reintegration for the Iraqi state?
+        - Who directs reintegration? Often times funded and directed in DC, but acted upon in other states
+      - What do we reintegrate back into? Reintegration implies return to prewar "normalcy" -- the same conditions that gestated the conflict.
+        - Sierra Leone of 2005 looks like the Sierra Leone of 1991
+        - What structural changes are available?
+          - What does this look like in the backdrop of Arab Spring? Of the 2019/2020 protests?
+  - Unknown quesitons
+    - War veterans in post-war situations
+      - Refusal to reintegrate?
+        - Similarities to societal groups like Turkey's war vets?
+    - External communities
+      - How do the communities reintegrating the militia members feel?
+      - What about disapora?
+    - Generational questions
+      - "Reintegration" implies that there is a life to go back to. Are militia members who spent their lives in conflict have this open as an opportunity?
+
+* Similar/Previous Work
+  - survey - [[id:EBA18365-010D-4D14-9904-EC4EF6256F00][Structure and Interpretation of the Hashd al-Shaabi]]
+  - migrant violence - [[id:C73C6813-EE0C-47B2-A864-ADC315CB36F5][Where does responsibility for violence suffered by migrants
+
+* Peacebuilding and islam in iraq
+- can we draw conclusions from islam?
+- mixed work like [[file:li_the_universal_enemy.org][Li - The Universal Enemy]]
+- half sociological half computation?
+- like [[id:99981776-EE2F-405B-8346-433BF45688B6][Meeker - A Nation of Empire]]?
+* peacebuilding with hashd al-shaabi and infrastructure?
+- how are they building infrastructure
+  - weapons depots, telecommunications, etc
+  - osint on their locations, monitor communications
+- the build up of telecommunication infrastructure and how they deliver money? how are payments delivered into communities?
+* important part of writing a thesis
+  - don't get caught up in the sequences
+  - do things you thnink you're not ready to do
+  - how to identify *one* thing

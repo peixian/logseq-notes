@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       F06283E7-0726-455B-B928-183584B073C9
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: how_to_make_a_complete_map_of_every_thought_you_think
+#+TITLE: how to make a complete map of every thought you think
+
+Tags: [[id:5D4FD56C-329E-4881-AEBC-EFE6DDF0F29D][articles]]
+
+- Thoughts appear within a specific context, it's important to capture that context
+  - Similar idea to the [[id:239639D6-39A4-42E3-B27A-61357A8E9B2A][french archival science]]

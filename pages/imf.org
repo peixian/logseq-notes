@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       C9BB4267-834B-4F2F-B515-4C2C62ACC60A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: imf
+#+TITLE: imf
+
+Tags: [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]], [[id:7C05085A-564D-4186-B4E7-AD9DC612310A][un]]
+
+- Response to [[id:A06959EF-A349-4F8E-B58A-4C8B11A83DAA][covid]] - https://www.imf.org/en/About/FAQ/imf-response-to-covid-19

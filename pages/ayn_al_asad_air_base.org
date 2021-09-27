@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       B098F4F0-69EA-49B1-B29C-EDEF4B2ABD8F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ayn_al_asad_air_base
+#+TITLE: ayn al-asad air base
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

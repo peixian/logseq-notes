@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       EF015767-B777-44AF-A829-066B50FDCE37
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: taiwan
+#+TITLE: taiwan
+
+Tags: [[id:54A7E315-9721-4BC9-BE36-EE6B40B82889][south asia]]

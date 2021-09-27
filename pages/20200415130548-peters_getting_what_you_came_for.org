@@ -1,0 +1,65 @@
+:PROPERTIES:
+:ID:       3BCAC7A3-A12E-421A-8E3F-4E5E4C230ABA
+:END:
+#+TITLE: Peters - Getting What You Came For
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:08700B30-6476-438A-A1CB-8452DB3DEA4F][grad school]]
+
+See also: [[id:DEA6716B-1D34-41C0-9230-640537AC2B68][grad school fellowships]]
+
+Book about the relative value of grad school, and how to pick an advisor, how to fund a masters, etc
+
+* Is it worth it?
+- ~50% of doctoral students drop out
+- More likely to graduate if you are:
+  - married
+  - on schedule
+  - in the sciences
+  - financially secure
+  - clarity of purpose
+  - good relationship with advisor
+* Phd Protege Effect
+  - Reputation tied to the Phd advisor
+  - Always try to have a tenured professor
+* Finding a phd advisor:
+  - Putting together a short list
+    - Add names of researchers whose work you admired
+    - Read through the catalogue collection
+    - Use the library to research topics
+  - Build a relationship with potential advisors
+    - Take classes
+    - Help with research
+    - Pursue independent study
+    - Attend conferences
+    - Visit prospective universities
+    - Write letters
+    - Solicit introductions
+  - Interviewing Professors and their Grad Students
+    - [[id:FE62D0D1-16FF-4B96-A9E3-5A5C6E0653D4][Potential Advisors for Master's Thesis]]
+* Choosing a School for Secondary Aspects
+  - Prestige of the department
+    - High competition for jobs creates cascade effects on prestigious institutions
+  - Placement success
+  - Emotional Quality
+  - Logistical Resources
+  - Teaching Requirements
+  - Financial Support
+  - Extra-years support
+  - Language Requirements
+  - Social climate
+* Admissions comittee
+  - Different priorities for different fields
+  - Apply to schools where advisors have been identified
+  - Apply early
+
+* Letters of Rec
+  - Ideal letter speaks specifically about strengths and describes enthusatically what sets you above the pack
+  - Ask if professors are comfortable about calling or writing the person at the program you're applying to
+  - Organize a stack of all the schools you're applying to
+* Financial Aid
+  - Fellowships confer prestige
+    - No strings on fellowships
+* Master's Degrees
+  - Attempt to publish one paper
+
+#+SETUPFILE:./hugo_setup.org

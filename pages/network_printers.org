@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7E517A39-18F3-4703-8ED6-D3D7E14234F6
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: network_printers
+#+TITLE: network printers
+
+Tags: [[id:851F079B-17D1-411F-988B-1248B5E0579D][networks]]
+
+- https://github.com/Evidlo/remarkable_printer
+- nearly all netwoirk printers accept PS/PDF data on TCP port 9100 via Appsocket/HP Jetdirect protocol

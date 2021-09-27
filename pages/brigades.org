@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       C403589A-21CC-411A-A58E-1C2FDC31F72C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: brigades
+#+TITLE: brigades
+
+Tags: [[id:ADFAE0CB-D584-4CE9-9965-4E76C474546E][hashd al-shaabi (PMF)]]

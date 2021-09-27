@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       DC95D051-3F40-4B0D-915F-5BBBB6C9C4DE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: word2vec
+#+TITLE: word2vec
+
+Tags: [[id:932F1176-A02B-451F-A0E5-75BDC0840344][word embeddings]]
+
+- https://fasttext.cc/docs/en/supervised-tutorial.html
+- https://en.wikipedia.org/wiki/Word2vec

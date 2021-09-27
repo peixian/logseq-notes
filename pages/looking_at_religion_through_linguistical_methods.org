@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       F597B99B-C03F-48B0-9FCA-027B763F0C37
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: looking_at_religion_through_linguistical_methods
+#+title: looking at religion through linguistical methods
+
+[[id:4D07A7F6-AA30-415E-B718-B82E4151A482][religion]], [[id:AB300662-3E3E-4452-A29D-468522B35C3E][languages/linguistics]], [[id:5C09008D-C61B-4A8E-BB77-9CF0085D90F6][project ideas]]
+
+* Premise
+  - If religion and linguistics are alike, what tools can be borrowed from linguistics to analyze religion, and specifically the Shias of Iraq?
+  - Religion as the set of $\{form, syntax, meaning\}$
+
+** Why religion and linguistics
+
+** What tools can be borrowed?
+   - rituals as a performance, as the form, but what gives it meaning?
+
+* Related Sources
+- [[id:6ED83640-45C2-4D1F-A8BA-2FC222B5574B][Garling: Approaching religion through linguistics]]
+-

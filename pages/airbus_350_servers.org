@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       641CD6C8-C20B-4648-B90E-22051C2704B0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: airbus_350_servers
+#+TITLE: airbus 350 servers
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]], [[id:B88CAA25-6019-44E6-9AC5-B54C5BB96929][avionics]]
+
+- https://www.youtube.com/watch?v=241-5DZyons
+- safety certification - https://en.m.wikipedia.org/wiki/DO-178C

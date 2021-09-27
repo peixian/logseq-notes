@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       D4D0EDA6-3B4D-4DD6-9429-1D3D8F532912
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: kunyas
+#+TITLE: kunyas
+
+Tags: [[id:EB44CC9B-3027-4BD9-A635-78DA4F61CCCB][arabic]]

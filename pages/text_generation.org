@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       97F1E86A-6A4B-4B74-A809-18DD25467F95
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: text_generation
+#+TITLE: text generation
+
+Tags: [[id:48350662-53E9-4A91-9ADB-2BC9DFEA6098][nlp]]
+
+- https://paperswithcode.com/task/text-generation

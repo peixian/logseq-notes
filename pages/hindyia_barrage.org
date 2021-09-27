@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       6FFF6AC2-FE18-4EB6-BFC4-50EAF67E45B4
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hindyia_barrage
+#+TITLE: hindyia barrage
+
+Tags: [[id:807301C8-4F30-48C2-92EA-B4E69A9DD8AA][irrigation in iraq]]
+
+- 32°42'46.00"N
+- 44°16'1.00"E
+
+
+#+DOWNLOADED: screenshot @ 2020-04-26 17:01:57
+[[file:2020-04-26_17-01-57_screenshot.png]]
+
+- Constructed by Willcocks in 1911, finished in 1913
+- Constructed because the Euphrates splits into two channels south of Musayyib
+  - Two braches, the Hilla and the Hindiya branch
+  - Closing of the [[id:8EFAEC33-5D0D-4F44-AA4B-48F16B4A0ECD][salqawia canal]] diverted more water down the Euphrates
+    - The lower-lying Hindiya branch took more water and started to slit up the Hilla branch
+    - Old, previously constructed barrage was not sufficient
+- Identified two terminal lakes for euphrates:
+  - Lake Milh/بحيرة ملح‎/Lake Razzaz/Lake Abu Dilis
+  - Lake Habbaniya
+- Proposed to remove old Hindiya barrage after completion of the new, although Arabs objected to it as they had used the old barrage as a bridge
+
+
+#+DOWNLOADED: screenshot @ 2020-04-26 17:07:58
+[[file:2020-04-26_17-07-58_screenshot.png]]

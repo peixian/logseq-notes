@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       87480B74-4E7F-485F-988B-EC8CC559F15F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: somalia
+#+TITLE: somalia
+
+Tags: [[id:4716EF6A-B378-4010-B090-41D487EB8B72][africa]]

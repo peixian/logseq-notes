@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       8695311A-9674-4DC9-A8E5-C68C79C6A75F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sri_lanka
+#+TITLE: sri lanka
+
+Tags: [[id:54A7E315-9721-4BC9-BE36-EE6B40B82889][south asia]]

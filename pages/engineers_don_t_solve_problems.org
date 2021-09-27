@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       E8EF6000-5939-46DB-86B1-795D12A72776
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: engineers_don_t_solve_problems
+#+TITLE: engineers don't solve problems
+
+Tags: [[id:5D4FD56C-329E-4881-AEBC-EFE6DDF0F29D][articles]]
+
+https://logicmag.io/failure/engineers-dont-solve-problems/
+
+- Talks about [[id:A1EC44B6-69BF-445B-94AD-4B874A3E28DF][mexico city drainage issues]]
+- environmental engineering does not solve problems, but rather transforms them for a later generation to deal with
+- major problem is that they /appear/ to work for the groups whose voices count
+- engineers play whack-a-mole with problems, but these are just pushing stuff back, like tech debt
+- there is no grand solution to be had, engineers transform problems instead of solving them

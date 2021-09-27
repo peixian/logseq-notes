@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       3C4FC419-136F-4E3D-9CE7-9250895A9649
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: strong_and_weak_generative_capacity
+#+title: strong and weak generative capacity
+
+- [[id:AB300662-3E3E-4452-A29D-468522B35C3E][languages/linguistics]]
+
+- weak generative capacity is that a grammar is defined as the set of all strings generated from it
+
+- strong generative capacity refers to the set of "structural descriptions"
+- https://en.wikipedia.org/wiki/Equivalence_(formal_languages)#Generative_capacity

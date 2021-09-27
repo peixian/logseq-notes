@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       37E2DE60-D3D3-4EF6-9D82-C42F4FA49F6B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: balad_ruz
+#+TITLE: balad ruz
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+City in [[id:CA47DC6D-9E3E-4E5C-99F4-4400029A1341][diyala governate]]

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       1BE5F992-A282-403B-934B-117E370DEA54
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: atlantic_meridional_overturning_circulation
+#+TITLE: atlantic meridional overturning circulation
+
+Tags: [[id:6D96E728-B780-4735-BCA4-591F45978BBA][climate change]]
+
+Surface and deep current driver in the atlantic ocean, responsible for much of the warm weather in the UK
+
+https://en.wikipedia.org/wiki/Atlantic_meridional_overturning_circulation

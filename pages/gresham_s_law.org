@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       0D8C6829-B5F3-4F0C-BB62-FD5AD7ABB21F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gresham_s_law
+#+TITLE: Gresham's Law
+
+Tags: [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]]
+
+- States that if the government has two payment instruments to circulate at the same rate, but one fundamentally worth more than the other, then "bad" currency drives out the "good. Undervalued money will be hoarded or exported.

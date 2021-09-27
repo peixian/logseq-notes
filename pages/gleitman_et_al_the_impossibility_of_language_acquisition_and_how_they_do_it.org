@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       469DF1A9-39D9-4A85-A1C8-4A0F38E076EE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gleitman_et_al_the_impossibility_of_language_acquisition_and_how_they_do_it
+#+TITLE: Gleitman et al: The Impossibility of Language Acquisition (and How They Do It)
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:AB300662-3E3E-4452-A29D-468522B35C3E][languages/linguistics]]
+
+Major question to answer: when langauge input to the child is restricted, what is left to explain language acquisition?
+
+Thesis: Argument structure is encoded within syntax and children learn word meanings in epiphanies

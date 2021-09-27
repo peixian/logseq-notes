@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       BBD06BE9-5738-4445-A252-6CA185E20CFE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gps
+#+title: gps
+
+[[id:E85591D5-35FF-4EBA-802B-C8C9B2FD3D3F][satellites]], [[id:3DE83B18-1DA8-4360-896B-2706B08AC1BF][google maps]]

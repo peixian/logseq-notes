@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       223DAD28-AE76-42F8-BFD2-B598398171EF
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: niger_delta
+#+TITLE: niger delta
+
+Tags: [[id:AFEF9FA6-B022-46F4-AE2B-DE70CE370215][nigeria]]

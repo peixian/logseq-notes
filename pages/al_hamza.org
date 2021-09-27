@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       C68CABFB-3C21-491F-8EA0-12F4E3083D0C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: al_hamza
+#+TITLE: al-hamza
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+City in [[id:1D2A7418-BD69-4F4C-A576-E8DA8C62380E][qadisiyah governate]]

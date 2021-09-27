@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       4257B83A-E89B-4D0D-9A5C-C178246DEBF2
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: islamic_jurisprudence_lecture_8
+#+TITLE: islamic jurisprudence lecture 8
+
+Tags: [[id:BB2783B7-0E6B-4886-8007-EC63A9C67096][islamic jurisprudence]]
+
+- "The ijtihadic hermeneutics Hallaq has written about were predicated partly on a set of assumptions running throughout Islamic jurisprudence, to wit, that "each individual and circumstance was deemed unique, requiring ijtihad [independent reasoning; innovative legal interpretation of (or on the basis of) sacred texts; judicial creativity] that was context-specific" (2009, 546), and that this reasoning should therefore typically take into consideration (among other things) a relatively expansive range of disputants' actions, intentions, character traits, and biographical data." (Peletz 2020:60)
+  - hallaq's history of sharia
+  - three sections
+    - development of classical sharia
+    - subject by subject exposition by content
+      - ritual law and marital law
+    - the complete rupture between classical sharia tradition and phenomena labeled as sharia courts
+    - classical islamic law is not a set of rules, but it epistime
+      - herminuitcal tradition that is
+  - "the impossible state" - sharia is not something that is compatible
+  - is certain kinds of religious and intellectual cultivation dependenant on insitutions?
+    - what framing does citing hallaq provide us?
+      - test drive his hypothesis? to what extent if we use hallaq's claim as a baseline to focus our attention
+        - what does this yield?
+          - in order to aid in the ongoing enterprise of asking good questions?
+          - what water is it carrying in peletz?
+            - chapter 3 -> considered ijtihad, turned out not relevant -> transparant about method
+  - what is hallaq's big point?
+    - is codification incompatible with sharia? with what sharia is?
+      - are people citing the quran and the hadith?
+- what is the underlying question?
+  - what does it mean for the context to be performed and experienced as a manifestation of sharia?
+  - what does it mean for these people to be sharia?
+    - is this a salient aspect of what is happening?
+- the increasing putitiveness is to create legitimacy for the sharia courts
+  - different society needs are responded with the choice
+- what consittute the prestige of the islamic court systems?
+  - what constitutes the belief in the court system?
+  - is this performance for people outside of malaysia?
+    - is this a way of asserting malaysia's islamicity?
+      - are we creating a self governing subject?
+      - are we enlisting the islamic enterprise in the creation of an islamic state?
+        - two moving targets: islamicity and neoliberalism
+        - the citizen as a consumer of islam, citizen consumes the all envoloping experience of the state and its sanctions as being continious with islam
+        - how successful is there a generation of a user-friendly islam that is user-friendly and intending?
+          - pervasive to enlisting people?
+    - making it legibile for non-islamic groups?

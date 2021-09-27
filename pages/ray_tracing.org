@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9EE3F3DF-2E17-4F00-9C72-DBF79017AF40
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ray_tracing
+#+TITLE: ray tracing
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+* Grid Acceleration
+  - Speeding up performance by analyzing objects that "obviously" won't be apart of the screen being rendered

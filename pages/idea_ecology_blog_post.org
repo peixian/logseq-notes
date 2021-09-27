@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       C86F812C-14F2-454B-9C61-C86376869F6C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: idea_ecology_blog_post
+#+TITLE: idea ecology blog post
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+- is tradition smarter than you are?
+- how are ideas disseminated across socities?
+- how does cognifion work with [[id:238217F2-7536-4013-9147-49163DB26C16][Bateson - Steps to an Ecology of Mind]]?
+- how does thinking work for [[id:D43D63F1-C8FA-4230-A6E1-1331E97E4778][Braben - Scientific Freedom: The Elixir of Civilization]]?

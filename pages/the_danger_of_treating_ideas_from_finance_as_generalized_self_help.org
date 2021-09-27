@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       C5505BF0-DF2C-4408-B2E5-3C87C4004B78
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: the_danger_of_treating_ideas_from_finance_as_generalized_self_help
+#+TITLE: the danger of treating ideas from finance as generalized self help
+
+Tags: [[id:5D4FD56C-329E-4881-AEBC-EFE6DDF0F29D][articles]], [[id:CAFF2018-7C24-402E-9528-464A87D2DC39][personal]]
+
+Also see https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise_A_Failure_to_Disagree?enrichId=rgreq-7a806a35-ae6b-4eb6-ab51-89923c22b177&enrichSource=Y292ZXJQYWdlOzI2Nzk4NjAzO0FTOjI5OTQ5MjcwMTE2MzUyMUAxNDQ4NDE2MDMyMTgz&el=1_x_2
+
+Takeaway: financial advice is generalized because finance is a weird field, software has much more acute learning signals. Finance models are generically not generalizable, no one would apply black-scholes towards their groceries.
+
+Advice should be taken on how easily something can be abstracted or whether the problem is domain specific. Some patterns applied in firmware and SDR cannot be applied to higher level programming, for example.
+
+Two conditions for expertise to work:
+
+1. environment is *regular*
+   - situation must be sufficiently predictable, with observable cues
+2. ample opportunities to learn
+   - environment must provide regular and useful feedback
+
+
+- poker fails 1 b/c probablistic models are hard to grasp for the human brain
+- political analysts fail 1 because there are too many confounding factors
+- writing succeeds at both
+- working out succeeds at both
+- stock-picking fails at 1 (too many confounding variables) and 2 (signals are not useful nor are you solvent for long)
+- writing software occasionally fails 1 but most of the time succeeds
+- managing people succeeds at both
+- picking cities to live in fails at both
+- reading people succeeds at both
+- delegating tasks succeeds at both
+- choosing careers fails at 1

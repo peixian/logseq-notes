@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       4160986B-AFEE-4D2E-B2EF-264A43A75D91
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: protocols
+#+TITLE: protocols
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]

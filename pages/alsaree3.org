@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       F826F411-2E07-4949-B99C-1EAAC71DC623
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: alsaree3
+#+TITLE: alsaree3
+
+Tags: [[id:973C72C6-68A8-47F4-AEAF-290F4785DCE1][iraqi tech community]]
+
+https://alsaree3.com/

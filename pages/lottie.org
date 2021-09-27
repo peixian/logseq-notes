@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       1477FD46-74FA-44CC-85C3-6D3194F043C2
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: lottie
+#+TITLE: lottie
+
+Tags: [[id:883B29DB-4BDF-4DD0-A615-02B1220889D1][web]]
+
+http://airbnb.io/lottie/#/
+
+Tool that transforms After Effects animations into web and mobile animations

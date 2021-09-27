@@ -1,0 +1,87 @@
+:PROPERTIES:
+:ID:       B1E26B6E-6A74-4E81-8A49-B18EF81BFDAE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: dicapua_gatekeepers_of_the_arab_past
+#+TITLE: DiCapua - Gatekeepers of the Arab Past
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:98F9993A-F5AD-44C5-A732-8BBAD7FA6BEE][egypt]]
+
+Remarks about the nature of historiography within Egypt during the 20th century.
+- Talks about how the formation of history, and therefore the conceptualization of a *shared* history ([[id:47EF592A-10D4-4923-BE86-E3E03918624D][Anderson - Imagined Communities]] ?) was critical to the formation of an Egyptian identity
+- Examines the writings and milleu of
+  - [[id:236E3E9F-4804-49D2-AA86-E372768D9682][Muhammad Abduh]]
+  - Abdin archives
+  - Royal historiography
+
+Asks questions:
+- How much of european history is universal?
+- How can arab histories be interpreted differently?
+
+* Discussions
+  - Why Egypt and not necessarily other identities?
+  - Abdul and al-Banna?
+  - Did British colonialism provide the political scaffolding for Egypt to emerge?
+  - Does this book reflect colonialism, or does it reveal that our understanding of Egypt was too little?
+  - What is the difference between de-[[id:E0568496-6835-438C-A394-B387291A7BDA][ottoman]] and post-[[id:E0568496-6835-438C-A394-B387291A7BDA][ottoman]]?
+
+* Chapter 1: Historicizing Ottoman Egypt
+- /From whence do we come, and where are we going?/ - pg 65
+- Increased urban planning and concepts of modernization during the years of Khedive Ismail
+- Committment to Turkish/Ottoman culture was questioned at the end of the 19th century, which the British helped to spur
+- Abduh acknowledged the loss of power for religious authorities
+- Historicism is tackled as /the supposition that an adequate understanding of human realiyy can be gained only through considering it in terms of the place which it secured for itself and the role which it played within a historical process of development/ - pg 29
+- Sabry Hafez states that novel ways of rationalization and perception are fundalmental to the emergence of new literary genres
+- Strong ecumenical framing
+- leaves with 3 questions:
+  1. How does one tell history?
+  2. What is its subject?
+  3. Where does it take place?
+
+** How does one tell history?
+   - /Modern narratives are premised on the conception of history as a continous and progressive process (though not necessarily a linear one)/ - pg 37
+   - Hints at Zaydan
+   - Ibn Fahmi wrote a historical book "Al-Bahr al-zakhir fi tarikh al-alam wa akhbar al-awail wa-l-awakhir (The Bottomless Sea on the Events of World History)
+     - Referenced at [[id:44A22D1B-8486-4A01-9B5C-D275A848CC97][ibn khaldun]]'s notions of circular time
+   - Placing the present as no longer an extension/expansion/reptition of the past, but rather as an open and unbuilt place for the future
+     - Discovery of the future one of the most fascinating shifts in perception in Egypt - pg 61
+     - /Rescuing History from the Nation/ by Duara
+
+** What is the subject of history?
+   - Egyptians had conceptualized by 1905 that history had a particular subject and historians traced out that subject
+
+** Where does history take place?
+   - /Khitta/ arabic word describes outline or freeform
+   - First conceptualization of Egypt  as a cohesive whole forms in alignment with these historical narratives
+
+
+* Chapter 2: Talking History
+  - British colonial apogee reached after the Dinshaway
+    - British soliders stumbled upon a tribe for fowl hunting, tribe defended, court and public execution energized public against colonialism
+  - Suez canal as nationalist symbol - pg 68
+  - Proliferation of de-Ottomanization
+  - /Egyptian culture treated Ottomanism precisely the same way that sixteenth-century Europe constrasted "renaissance" with "medivalism" and "Hellenes" with "barbarians"/ - pg 75
+  - Taqwim al-Nil (Almanic of the Nile by Amin Sami) talked about the Nile in impressive detail, including canals and barrages ([[id:DB155060-FE5B-4E83-BEBF-522C57CE7310][post-ottoman iraq/egypt irrigation essay]])
+  - /Egypt's first mass experience was the 1919 Revolution/ - pg 89
+
+
+* Chapter 3: The Abdin House of Records
+  - Genetically descneded from the Daftarkhane and a series of other collections
+  - Pinoneering attempt to establish a modern research archive, but also served as a place to mold, censor, and drive nationalist and nationalism ideas
+  - Site of intense competition for foreign translators, as well as foreign countries
+    - Italy and France both competed to translate and send documents, as well as print the books
+  - Accuracy problems, differences in censorship that eventually lead to Egyptians taking censorship as fact
+  - Cleanly based by King Fuad on [[id:239639D6-39A4-42E3-B27A-61357A8E9B2A][french archival science]]
+  - Large part of the documents were focused on retrival of royal information and things related to construction of monarchist historiography
+  - Records cannot be considered to be whole, many are deliberatively censored
+
+* Chapter 4: Competiting for History
+  - Abdin culimated with the advent of historical narration
+  - /Overwhelming illteracy among the population, visualization of the past shaped via images in popular magazines, stamps, bank notes, statues, and street names, alongside radio and cinema/ - pg 146
+  - Speaks about Muhammad Rif'at
+    - Ardent Egyptian nationalist
+    - Work is well known but little studied, authored multiple volumes on the history of egypt
+    - Beginning with 1798, when Napoleon stepped foot on Egypt
+      - Considers anything before this "nationalist jahiliyya"
+    - Engaged in nationalist rwitings of history, in contrast to the monarchist ones
+      - Even-handed approaches to Muhammad Ali and Ismail

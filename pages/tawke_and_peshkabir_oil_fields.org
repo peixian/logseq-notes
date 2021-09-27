@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1D672619-CA40-42C8-9957-A04D8C5FE3E6
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: tawke_and_peshkabir_oil_fields
+#+TITLE: tawke and peshkabir oil fields
+
+Tags: [[id:0B9FAF9E-0A55-44FE-96CE-D6D382CF6617][KRG/iraqi kurdistan]]
+
+Oil fields in the KRG, jointly owned by DNO and UK Genel Energy
+- https://www.nsenergybusiness.com/projects/peshkabir-oil-field-kurdistan/

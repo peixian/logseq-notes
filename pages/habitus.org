@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       64FE24B5-2EAA-4819-8E1D-8C0DBF239DC7
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: habitus
+#+TITLE: habitus
+
+Tags: [[id:85B58094-76CD-470D-AD88-2676C2D2A605][sociology]]
+
+- https://en.wikipedia.org/wiki/Habitus_(sociology)
+
+- Habitus is the socially ingrained habits, skills, and dispositions
+
+- Created by Pierre Bourdieu
+- Consists of the /hexis/ and more abstract mental abits

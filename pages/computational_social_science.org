@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       4376102D-60BC-475A-B463-8B27B00A4B08
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: computational_social_science
+#+TITLE: computational social science
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]], [[id:85B58094-76CD-470D-AD88-2676C2D2A605][sociology]]

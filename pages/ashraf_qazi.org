@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       A681EF56-EB06-4E58-B722-FE5539B455BB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ashraf_qazi
+#+TITLE: ashraf qazi
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:7C05085A-564D-4186-B4E7-AD9DC612310A][un]]
+
+former UN Iraq SR: https://reliefweb.int/report/iraq/iraq-srsg-ashraf-qazi-reiterates-unami-commitment-continue-assisting-constitutional

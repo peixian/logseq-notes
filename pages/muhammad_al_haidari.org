@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       C82A3553-9E7B-4459-BB83-BEA09BA4E675
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: muhammad_al_haidari
+#+TITLE: muhammad al-haidari
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+Member of the [[id:5DDB8727-70BF-4781-8C52-97EB33E79558][islamic supreme council of iraq (isci)]]

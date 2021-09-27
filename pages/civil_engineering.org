@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       27B1E5EA-693C-4D7E-BE22-641C991680F8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: civil_engineering
+#+TITLE: civil engineering
+
+Tags: [[id:08700B30-6476-438A-A1CB-8452DB3DEA4F][grad school]]
+
+- https://www.gradengineering.columbia.edu/admissions
+- https://www.civil.columbia.edu/graduate-program
+- https://www.civil.columbia.edu/concentrations

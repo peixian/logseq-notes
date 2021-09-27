@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       584B09B8-662E-4117-BFB6-2A07C0D54775
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hiring_an_editor
+#+TITLE: hiring an editor
+
+Tags: [[id:D51D4006-2F02-4305-BBEF-5EDEFDCFD334][writing]]
+
+https://mtlynch.io/editor/

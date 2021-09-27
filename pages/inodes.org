@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       BFC38046-7D0B-426F-AD0B-CFD070B1424C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: inodes
+#+TITLE: inodes
+
+Tags: [[id:E00FA741-9906-4793-BC95-AC454362D138][linux]]
+
+* What is an inode?
+  A way to address a group of blocks on disk, each inode contains some metadata, but does not include the name.
+
+  Each name can either be a hard link or a symlink. The inode keeps track of how many hard links there are to it. If there are 0 hard links, the inode is slated to be overwritten in the future.
+
+
+  blocks [1,2,3,4] <- inode <- hardlink <- symlink
+
+  This can be examined in ext4 with ~debugfs~

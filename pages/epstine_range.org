@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       0E2FA488-6728-4CAF-A60F-EF74919390AE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: epstine_range
+#+TITLE: Epstine - Range
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]]
+
+- https://commoncog.com/blog/range-book-summary/
+- "Instead, the strongest predictor of success was a specialist who repeatedly took their expertise in one core domain and applied it to a different domain"
+- Filled with anecdotes
+- Takeways:
+    - The idea that ‘slow’ learning is what is valuable when it comes to developing foundational skills.
+    - The whole notion of ‘match quality’ as a counterpoint to ‘grit’.
+    - The idea that analogical thinking is powerful, and that it depends on a large-enough set of experiences and ideas to perform well. (This one is so interesting that I’m fairly certain I’ll write about it down the line).

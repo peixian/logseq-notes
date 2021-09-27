@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       85559C76-3E71-4CC8-AA1F-F773F9B2ABD5
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: social_sciences
+#+TITLE: social sciences
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]

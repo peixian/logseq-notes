@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       838325B7-E24E-4B1A-9F27-0A155CFCD332
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: disaster_nationalism
+#+TITLE: disaster nationalism
+
+Tags: [[id:3A151692-5786-4F5E-B755-165CDFA29BB9][political science]]
+
+
+[[id:72488A8A-EAEF-4BE8-964C-C65EF9BFD300][bharatiya janata party (bjp)]] is an example of nationalism in this way

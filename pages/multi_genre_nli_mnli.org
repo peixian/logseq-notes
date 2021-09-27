@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       C7A085F8-512A-49CE-A050-D01AE7E4D58C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: multi_genre_nli_mnli
+#+TITLE: Multi-Genre NLI (MNLI)
+
+Tags: [[id:D9C1DCB3-C95F-4778-BBA4-59E7AEBFC961][nli]], [[id:A904921D-F574-41FC-B41C-4B6114932AC5][datasets]]
+
+- 400k examples
+- Written and spoken languages

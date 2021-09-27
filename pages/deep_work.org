@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       7BF6C237-2C71-4875-8141-1CBC99BC750A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: deep_work
+#+TITLE: Newport - Deep Work
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:CAFF2018-7C24-402E-9528-464A87D2DC39][personal]]
+
+- Premised around distraction free work
+- Getting into a state of flow
+- GTD, but with focused blocks
+- First principals approach of the book belies him being a programmer
+- Originally negative thoughts, but overall now positive after reading
+- Good quote about generic technology skill does not make a smart person
+  - hot wheels = ipad, GLM = automechanics
+- Deliberate practice and setting aside time
+  - in 90 min chunks
+- Schedule your whole day, block off areas that capture uncertainty
+- Mythical man month
+- Point on settled habits
+- Interrogate your activities based on how difficult it is for a fresh college grad to do it
+- Puts on the (possible) strawman of someone that works all the time, is busy with email all the time, and others
+  - the act of defining large blocks of time is useful, but I'm not the person that's on email all the time
+  - deliberately eliminating distractions during your deep work is important, stopped listening to music or taking breaks to look at phone
+- Point on embracing bordem is good
+- Scheduling downtime is good, you find yourself more happy when all work is meaningful

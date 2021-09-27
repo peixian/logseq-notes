@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       431D8E2A-1933-4955-B7D5-80864AA5C531
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: united_nations_operation_in_somalia_unosom
+#+TITLE: united nations operation in somalia (UNOSOM)
+
+Tags: [[id:7C05085A-564D-4186-B4E7-AD9DC612310A][un]], [[id:87480B74-4E7F-485F-988B-EC8CC559F15F][somalia]]

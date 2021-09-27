@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       107FFA8B-C556-4F32-A032-D0D978F6C615
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sdr
+#+TITLE: sdr
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]

@@ -1,0 +1,149 @@
+:PROPERTIES:
+:ID:       EBA18365-010D-4D14-9904-EC4EF6256F00
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: problems_and_methods_final_draft
+#+TITLE: Structure and Interpretation of the Hashd al-Shaabi
+#+EXCLUDE_TAGS:  noexport
+#+LATEX_CLASS: koma-article
+#+latex_header: \usepackage[citestyle=verbose-trad2,bibstyle=numeric, hyperref=true,backref=true,maxcitenames=3,url=true,backend=biber,natbib=true,ibidpage=true] {biblatex}
+#+latex_header: \addbibresource{~/Dropbox/bib/refs.bib}
+#+latex_header: \usepackage{setspace}
+
+* Noexport                                                         :noexport:
+Tags: [[id:A7C4F176-2B9F-4A42-B409-73F06A837701][problems and methods - final]]
+
+** Outline
+Main argument: next generation DDR includes the building of institutions and a "stick not carrot" approach, even as it relies less on the peace accord frame. This does not work for mosaic conflicts, and rather setting up institutions risks them being dominated. The PMF cannot be reintegrated via accords or laws, because the conflict is far more complicated that than. We must rethink war from the ground up and rebuild civil society. Large, broad framings of polarized war are not good and hinder the reintegration dialogue. We are still at war, because the war has not ended. Raaj alaadin argues that reintegration must occur in concert with social dialogues, I agree because the communities themselves are the root. Policies must incorporate civil society, and it must incorporate it beyond an ethno-symbolic or sectarian manner.
+Issues with elevating the religious dialogue of the PMF
+*** Intro
+- IS the PMF a franchise? Similarities to the [[id:6B209564-9A50-44CB-88EA-4A076E563850][taliban]]?
+- talk about how in some ways the PMF is a product of the information revolution, audiences can be connected into a loose wider conlifct
+- talk about how transition into politics is very different than guerrilla warfare
+- this paper argues against overtly broad constructions of DDR and sectarianism
+*** DDR
+
+- talk about what DDR is in light of that
+- talk about how conflict is treated as if it is a binary, counter insurgency
+  - war is politica by other means - clauswitz here
+- war is politics, and war goes beyond violence
+- because war goes beyond violence, it /must/ incorporate the reintegration process
+- SSR and DDR cannot be thought of fully "security" spheres, with a variety of inputs, tehy must be informed and have a consistent dialogue with events on the ground
+- they are not atomic and for the narratives to have purchase, the actors must be well understood
+- this interpreative structure must also move beyond understanding it as "nationalism" or "sectarianism"
+- two main problems: we see war as "ended" and we see "sectarianism" as everlasting, both of these are wrong x
+- libya, freed from the two state warfare structure that channels violence, descends into the abyss
+- civil war is formed from a local level that privatizes politics, to recede from that we must make politics public againm - [[id:5915E4D5-6F4F-4B64-B435-DCA3FD99C50F][Kalyvas - The Logic of Violence in Civil War]]
+- every quantitative shift is accompanied by its own qualitive shifts
+- sectarian framing is not helpful
+  - pursely, makdisi
+  - liberal powers have militarized pre-established patterns of political activity - [[id:D0DFC0A3-D11C-44A5-B5C0-410F1B5A5FD5][Simpson - War from the Ground Up]]
+    - the political and social dynamics that preceded war did not break because of war, nor did they break *after* war
+    - simpson's analysis of counter insurgency, by pushing war beyond just violence, must also be applied here, reintegration is more similar to counter-sinurgency than we like to believe it is
+
+- what the PMF are doing with KH controlling borders, separation of those loyal to sistani and those controlling specific recruitment, control of political space
+- no spatial or chronological understanding to the PMF, understanding it in terms of what they control and who they support is largely a secondary tactic
+- view it from the perspective of the political actors
+- /the PMF is politics by other means, and any reintegration must be focused on incorporating them into politics/
+  - therefore thinkign about the PMF on soley SSR terms is bad because this removes SSR as a 'top-down' approach, not as a bottom up one.
+
+*** Comparative Cases
+
+- sectarian framing was not needed in libya (although libya fell apart for different reasons)
+- nepal was only one milita, with results, but provides possible hope
+  - nepal was also very state lead
+
+- end with talking about how easy it is to talk about how people to not approechiate the specifics and lack the resources, talk about how I need a deeper understanding of politics on the ground and the heartbeats within it
+
+
+** Cut
+# It is with this framing coexistence that this paper seeks to provide a structure and interpretation for the PMF. The paper will use the field of disarmement, demobilization, and reintegration (DDR) in conjunction with the historical nature of Iraq to understand the PMF. The armed struggles within Iraq must be seen as an extension of Iraq politics since the birth of the Iraqi state in 1920, and the search for effective DDR and SSR strategies within Iraq demands an understanding of these complexities.
+
+# DDR as a field grew out of the need to reintegrate ex-combatants within Africa. Intial lessons were learned from African nations such as Cote d'Ivore, Sierra Leone, and Namibia, and later applied to countries such as Sudan and Nepal. Multiple 'generations' of DDR have existed, with international programs in the 1990s focused on reintegrating statutory and insurgent armies following peace accords to a contemporary renewed focus on militias and security of civilian populations. Peace, as a result of formal processes like peace accords, are no longer the de facto or de jure, and DDR has largely been reconfigured to deal with armed groups while the conflict is ongoing footcite:munive_rethinking_2015. The rather awkward terminology of armed non-state actors (ASNAs) has been gradually applied to understand "asymmetric" warfare.
+
+# Due to the politics of post-conflict power sharing, it is questionable whether Lebanon can even be considered a "post-conflict" state footcite:delatolla_lebanese_2019. Parties not originally envisioned within a peace accord may play an outsized role in the future by operating under a legal void, which explemifies the dangers of focusing on the peace accord as a target for states and IOs.
+
+* Introduction
+\doublespacing
+The rise of the self-declared "Islamic State" (IS) in Iraq, and the humiliating defeat of the Iraqi Security Forces (ISF) in Mosul in 2014 acted as a forcing function for the formation of the Hashd al-Shaabi, or the Popular Mobilization Forces (PMF). With over 100,000 mobilized and 40 different armed groups of all stripes united under this banner, the PMF played a pivotal role in countering the offensive by IS, ultimately leading to the liberation of Mosul in 2017 and its declared defeat in 2018.
+
+Groups within the PMF decided to contest in the 2018 elections under the newly established Fatah party, marking a watershed moment on the path to reintegration of these irregular armed forces. While this transition has dramatically shifted the Iraqi political landscape, literature on Iraq and the PMF tend to be shaped by the two major dominant analytical frameworks used by scholars of Iraq: ahistorical primordialism or reworked ethno-symbolism footcite:dodge_bourdieu_2018.
+
+While scholars have advocated for these two approaches, their overly eager application fails to capture the novelty and facets of the PMF. While primordialism has largely fallen by the wayside as of late, ethno-symbolism and its child, sectarianism, largely reigns supreme within the analysis footcite:dodge_bourdieu_2018. Scholars such as Fanar Haddad have advocated for this reading, other scholars such as Toby Dodge or Sara Pursley have shown that, within Iraqi history, the current levels of division along ethno-symbolic lines is an aberration.
+
+Currently, the Iraqi state is undergoing a phase of disarmament, demobilization, and reintegration (DDR). International organizations and the United States have attempted to help the Iraqi government in this process, yet many challenges continue to appear. While the struggles faced by the Iraqi government in its reintegration of the PMF may appear to be caused by poor execution or inadequate funding, it is the overly rigid framework of DDR and the enduring belief in sectarian identities that hamper an effective DDR process.
+
+This paper is divided into three sections: first, a brief history of DDR and its issues will be provided. Second, an assessment of the PMF and the current state of reintegration will be discussed. Last, the paper identifies a few lessons and pitfalls that can be drawn from DDR approaches in other states.
+
+* Mosaic DDR
+  Disarmament, demobilization, and reintegration (DDR), alongside security sector reform, are two components of security infrastructure sphere in post-conflict statebuilding, and continues to remain the default template to understand challenges of armed conflicts footcite:munive_rethinking_2015. Multiple other spheres exist, such as political infrastructure, social infrastructure, dealing with legacies of conflict, establishing the rule of law, and setting up for development. As the PMF began within the security sphere and are now transitioning into the political one, reintegration of ex-combatants and reform of the Iraqi Security Forces are paramount. Reintegration is often perceived to be the hardest part of DDR.
+
+  The UN integrated standards for DDR footcite:united_nations_level_2006 define reintegration as:
+  #+begin_quote
+Reintegration is the process by which ex-combatants acquire civilian status and gain sustainable employment and income. Reintegration is essentially a social and economic process with an open timeframe, primarily taking place in communities at the local level. It is part of the general development of a country and a national responsibility, and often necessitates long-term external assistance.
+  #+end_quote
+
+  DDR originated as part of the need to reintegrate ex-combatants following peace accords within Africa. Driven by the UN, this was the first generation of DDR, which aimed to reduce violence and followed rigid processes of disarming, demobilizing, and then reintegrating members back into society footcite:iffat_idris_lessons_2016
+
+  Due to changing agendas for peace and security, the UN developed the integrated DDR standards in 2006 footcite:united_nations_disarmament_2006, which created "second generation" DDR. This version of DDR was more human security focused, incorporating concerns about women and children, development, and abandoning the sequential stages of disarming, demobilizing, and reintegrating, allowing reintegration to occur before or in conjunction with other steps footcite:iffat_idris_lessons_2016.
+
+  In 2015, a new approach to DDR was defined, aimed at responding to the lackluster reintegration programs that arose out of the first two generations of DDR. Dubbed "next generation DDR", this version of DDR took a more forceful approach, including authorizing the use of state authorities to disarm militias. This version of DDR began to take into account how formal peace accords no longer were the default, as well as the rise of armed non-state actors (ANSAs) footcite:munive_rethinking_2015.
+
+  As DDR programs have expanded to incorporate conflicts that are still ongoing, DDR programs and counter-insurgency programs[fn:4] have begun to align in goals. Both DDR and counter-insurgency are aimed at attacking militarized problems on a political level. While counter-insurgency is largely thought of a military affair, DDR can be thought of as its civilian successor.
+
+However, many counter-insurgency programs have failed to achieve their goals, and it is important for DDR to take lessons from these failures. To begin, counter-insurgency is not a substitute for strategy, and those who emphasize it as such prioritize method over objective [[footcite:simpson_war_2018][Chapter 6]]. Counter-insurgency is an operational approach, a method to organize actions towards a single strategy, but not the strategy itself. Strategy here is defined as the connective tissue between policy objectives and operational approach, and is responsible for adjusting both. Goals that are not readjusted with realities on the ground have led to ineffective counter-insurgency programs [[footcite:simpson_war_2018][Chapter 6]]. Therefore, when policy goals set direction, DDR programs must be able to readjust policy goals as new information comes in. Like counter-insurgency, there must be an 'emphasis on the importance of assessment, continuous assessment and reassessment' [[footcite:headquarters_department_of_the_army_fm_2014][pg. 51]].
+
+An over-reliance on pattern matching across historical lessons results in a stilted reintegration process. Conflicts are not a series of equations to solve, there is no methodological approach that yields a set of solutions that has a deterministic effect on peacebuilding. While historical peace accords have largely provided a set of similar circumstances for DDR practitioners to base their methods, this has largely broken down with the proliferation of armed groups. In order to rebuild a set of new DDR approaches, conflict and war must be first understood.
+
+Conflict and war are not apolitical events removed from politics, Clauswitz calls 'War is merely the continuation of policy by other means'. War gives meaning to the use of force, and provides an unified interpretive template for the understanding of violence [[footcite:simpson_war_2018][Chapter 1]]. When Clauswitz conceptualized war, it was as an interstate, polarized affair: two nations (or two groups of nations), an attacker and defender, where war has a victor. War's ultimate goal had two audiences: the members of each nation or group of nations, and the victor sought to impose a narrative upon the defeated through force, guided in the framework of war [[footcite:simpson_war_2018][Chapter 1]]. This framework for understanding war breaks down with the proliferation of armed groups. For armed groups, there are a variety of audiences, each seeking to impose their own narrative. In Clauswitizian war, 'winning' and 'losing' are ultimately understood by all audiences with the same set of rules, for contemporary warfare, one group's definition of 'winning' may simply be survival, whereas another audience's definition may entail complete destruction of the enemy. This pattern is replicated across both Iraq and Afghanistan, leading military actors to dub these two conflicts 'mosaic wars' footcite:crane_observations_2014, hinting at the set of complex actors that only fractilze when studied from afar.
+
+DDR programs in Iraq must take into account the mosaic features and adjust their goals, including abandoning the concept of a singular ANSA. There is no unifying frame for armed actors within Iraq. DDR within Iraq must be viewed as a political process, and no amount of legal degrees or externally-funded projects will change that. The continuation of conflicts against IS, combined with the lack of an overarching DDR process for the PMF, set against the backdrop of PMF commanders swapping their combat fatigues for suits only serves to illustrate the futility in attempting to find a single cogent DDR method[fn:7]. In other words, "Mosaic wars require a mosaic peace, which can also vary significantly in character from village to village and region to region." footcite:crane_observations_2014
+
+* PMF: Sectarian or Not?
+After the proclamation of the defeat of IS, the position of the PMF has been widely debated. The group has been painted with a kaleidoscope of labels, with the US terming certain groups as "Shii'te military groups" footcite:crispin_smith_its_2020. However, laws demanding the reintegration of the PMF has largely continued to treat them a singular, unitary group, an unhelpful framing that hampers the reintegration process.
+
+In 2016, the Iraqi Parliament passed Law Number 40: The Law of the Hashd al-Shaabi Committee, formally bringing the Hashd al-Shaabi under the auspices of the military chain of command via an organization known as the Popular Mobilization Committee footcite:crispin_smith_its_2020. A series of executive degrees have followed, with one in 2018 that entitled the PMF to the same compensation as other ministries, and another in 2019 that called for the formal PMF integration into the state apparatus footcite:smith_servants_2019. While these laws may look similar to peace accords and may attract reintegration programs to look at historical comparisons to reintegration programs with peace accords, these laws are not. Notably, the PMF law of 2016 passed with only a slim majority footcite:crispin_smith_its_2020, and executive degrees are not negotiated at all.
+
+The most common label for the PMF is "Shi'a militias", owing to the famous fatwa issued by Ayatollah Sistani. Not only does this label ignore specific PMF groups formed around minorities such as at the Yazidi, the Shabak, and the Turkmen, this label unhelpfully imparts a polarized narrative of war, evoking the idea that IS was somehow a "Sunni affair" and the idea that the PMF, as a "Shi'a militias" rose up to fight against it. Even before the formation of IS proper and its declaration of a caliphate, al-Qaeda in Iraq, the precursor to IS, was never a purely "Sunni" franchise. The Sahwa uprisings in 2006[fn:5], when largely Sunni tribes in Anbar rose up against al-Qaeda showed that there Sunni is not a singular, coherent identity.
+
+To complicate the matter further, the historical understanding of the "Sunni" or "Sunnism" identity has always been difficult to untangle in Iraq. Saddam embraced key Sunni points in the early 1990's to shore up support, but political parties such as the Iraqi Islamic Party recognized the dangers in binding together the state and Sunnism footcite:rayburn_iraq_2014. The Iraqi Islamic Party also worked with the Dawa[fn:2] and the Muslim Brotherhood to form resistance groups against Saddam in 1979-1980's. Historically, in Iraq, these religious identities were able to cooperate even under the duress of the Saddam state. In attempting to see IS as a pure Sunni affair threatens to subsume the complexities of the various groups that can be broadly grouped under a Sunni identity. While talking about the Sunni identity is a useful label for anthropological matters, warfare takes on a different dimension. The insurgency whether it was various jihadi groups against the Iraqi state or IS against the Iraqi state was a form of civil war. And a proper understanding of civil wars shows that actions in civil war are not necessarily political and do not always reflect a deep ideological polarization, rather civil wars converge the local motives and supralocal ones, privatizing politics and transforming local and personal grievances into violence [[footcite:kalyvas_logic_2006][pg. 14]]. While the participants in IS and its precursor groups may have been majority Sunni, this does not imply a deep commitment to Sunnism to the insurgency.
+
+Even the Shi'i are not aligned within the PMF. On April 22nd, 2020, the 2nd, 11th, 26th, and 44th brigades[fn:3] formally exited the parallel PMF command structure, and moved directly to the "command and management" of the Iraqi Prime Minister. These four brigades were largely seen as loyal to Ayatollah Sistani, and differing from the brigades controlled by Kata'ib Hezbollah, which are seen to be aligned with Iran. Not only is this split within the intra-Shi'i community emblematic of the uselessness of the "Shia" label on the PMF, the split resulting in organizational changes for the command and control structures opens up channels for dialogue within the reintegration process.
+
+These conditions lead to an uncomfortable set of facts: laws that address the PMF as a unitary actor fail to account for differences within the PMF, but attempts at circumscribing individual brigades under sectarianism are still not granular enough. In many cases, dealing with the PMF will require engagement beyond treating the PMF groups as actors in a religious, ethnic, and local sectarian game.
+
+* Future of DDR within Iraq
+
+Third generation DDR requires a deep continuing strategic dialogue between the international organizations (IOs), the state, and the local population. A few lessons can be drawn from historical comparisons. First, IOs and states cannot drive reintegration top-down, focusing on a comprehensive peace accord or power sharing agreement risks further instability. Lessons learned from Lebanon show this to be the case, where Hezbollah, although a marginal party in the Taif Agreement, has managed to use Taif as a point of legimtization. Before 2006, Hezbollah claimed the informal non-state representation of Lebanese Shiites, while the Amal party claimed their share in government footcite:mohanad_hage_ali_hezbollah_2019, with Hezbollah's raison d'etre being the claim that the Lebanese state was too weak to manage its military affairs alone footcite:mohanad_hage_ali_hezbollah_2019
+
+Yet paradoxically, as Hezbollah filled in the gaps of the Lebanese government by expanding to offer social services and media channels, Hezbollah has gone from propping up the Lebanese state to preventing the state's re-emergence. Following the 2006 elections and Hezbollah's formal entrance into government, Hezbollah's focus on maintaining its weapons actively works against the institutions of the Lebanese state. By breaking the state's monopoly on violence and draining state resources for itself, Hezbollah has created a feedback loop where the starvation of the Lebanese state only further entrenches Hezbollah's legitimacy.
+
+Some similarities to Hezbollah have already been seen in Iraq. Kata'ib Hezbollah (KH), a PMF group that operates at least four different brigades and has influences over several others, has largely monopolized the Syrian-Iraqi border footcite:akdedian_state_2020 and continue to grow in influence as a result footcite:hamdi_malik_still-growing_2020. Successive laws passed by the Iraqi government to regulate the PMF have failed to curb KH's influence and activities footcite:andrea_plebani_janus_2019. Like how the Clauswitzian model is inappropriate for modern conflict, peace accords and laws to regulate the PMF attempt to circumscribe a myriad of actors that, by nature, cannot be effectively regulated. Buy in from the Iraqi state and IOs are a necessary but not sufficient precursor to reintegration of the PMF.
+
+This is not to say that the Hezbollah model is anywhere close to being replicated. Hezbollah has defined a unique set of models for governance based on a specific set of features only to be found within Lebanon. Short of party names, the specific brigades within the PMF have yet to achieve the necessary foundation to reproduce the Hezbollah model in place. However, with various PMF brigades starting to offer social services in response to covid-19 footcite:jessica_watkins_iraqs_2020, the broad contours have begun to take shape.
+
+Second, political problems must be tackled in concert with economic ones in Iraq. IOs typically fund vocational training, job searching, and other related activities under the assumption that these activities reduce violence[fn:1], while there has been no empirical evidence to support this oft-made assertion. Studies in Afghanistan footcite:kapstein_aid_2017, Philippines, and Iraq footcite:berman_working_2009 show little correlation between economic development and reduction of violence. Furthermore, focusing on pure economic development falls into the trap of assuming all actors are rational ones, and will simply pick the most economically beneficial choice. Iraq is still a country at civil war, and civil war has a particular way of endowing violence with 'a political meaning that reshapes into new and enduring identities' [[footcite:kalyvas_logic_2006][pg. 389]]. Identities are at the root of these grievances and are political in nature, and therefore can only be addressed through change in civil society[fn:6]. Analysis that begins with a sectarian frame fails to account for actors within Iraq that have multiple identities at any one time, and none of them are dominant.
+
+Finally, reintegration is long and difficult to fund, but all actors must understand it is a long term project. To use an analogy, an investor seeking long term gains does not expect decisive short term returns. While funding for reintegration has almost always been the most difficult part of DDR footcite:united_nations_level_2006 due to changing long term goals, hopes for reintegration within Iraq must have consistent funding. Projects such as the National Solidarity Program in Afghanistan may provide a useful template for this footcite:beath_national_2015, as the National Solidarity Program was a large scale, long term program that was broken down to into many small projects that focused on realistic improvements on the ground to reduce vulnerability to corruption. These models may provide a useful foundation for programs in Iraq.
+
+The PMF in Iraq will not be easily reintegrated into society, but not because they will act as spoilers to it. Recognizing that the flexibility of the PMF command and control structure endows the Iraqi government with multiple routes towards reintegration while containing the subset of brigades and actors who wish to translate their military power into political ones. Any realistic set of solutions will require a continuing dialogue.
+
+
+\singlespacing
+\printbibliography
+
+* Footnotes
+
+[fn:7] One of the biggest ideas to sort out is the concept of non-linearity in reintegration and how to deal with it. If the casual arrow between a specific reintegration program and its effect cannot be established in 'hot' conflict zones due to a mess of confounding factors, how does one construct aid? Which projects are funded? How would this be phrased in a way to convince donors?
+
+[fn:6] It is possible (if not likely) that there is significant path dependency to reintegration via civil society. Civil society can take on many forms that are hard to dislodge once an equilibrium state is reached, and it would be very important to understand the hysteresis loop here.
+
+[fn:5] There is perhaps another dimension of foreign involvement here. The Sahwa uprisings were seen as a successful "counter-insurgency", as they did not require the intervention of US troops, but local tribes cooperated with the US. I am curious if there is a similar line to be drawn to the comparison with the Dhofar campaign, which truly only became successful once the British pulled out of ground troops in Yemen.
+
+[fn:4] This point requires further elaboration and I could not fit it into 3k words, but the merging of counter-insurgency and DDR goals is a relatively new trend with "asymmetric" warfare. There is another dimension of counter-insurgency that is state driven vs counter-insurgency that is driven by the US, since the consensus on DDR is that reintegration is best led by the states. Nepal perhaps provides a good case for this, as the election returned a decisive victory for the Communists there. Further research needs to be done on whether there is a comparative case for militias directly entering political parties.
+
+[fn:1] cite:munive_rethinking_2015 describe how gang violence may be a potentially good place to start for accounting for violence. Alongside Travis Hirschi’s social control theory, additional research will need to be done to see what reintegration programs look like in post-conflict states when trying to take these lessons into account. It's possible that Bosnia may be a good case to consider, given the myriad of groups operating there. This will require further research.
+
+[fn:3] The names of the various bridges change quite quickly, whereas the numberings are much more stable.
+
+[fn:2] Now largely known as the party of Nouri al-Maliki, the history of the Dawa must be taken into account when looking at "cross-sectarian" lines.

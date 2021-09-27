@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       E15D3B80-A008-46C7-B07E-4AA9E973E75B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gatsbyjs
+#+TITLE: gatsbyjs
+
+Tags: [[id:6703D5A7-CB3C-43E0-AA81-86D3BB027765][frontend]]
+* Examples
+- https://github.com/WeOpenly/localgov.fyi
+* Tutorials
+- https://www.gatsbyjs.org/tutorial/
+* Plugins
+- https://www.gatsbyjs.org/plugins/

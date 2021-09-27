@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       C19DB447-7D4B-4331-A7A0-CA881A8ED7E5
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: erbil_agreement
+#+title: Erbil Agreement
+
+political accord that led the formation of the 2010 national unity government by [[id:551974DA-A83D-409F-8426-61DE3A40D43F][nouri al-maliki]]

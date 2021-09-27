@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       FBE47AC8-2D5F-4D7B-927A-62DD19E529FC
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: bully_algorithm
+#+TITLE: bully algorithm
+
+Tags: [[id:2C626284-F74C-4110-83A7-AE07B6D0A451][algorithms]], [[id:60E89DE2-2826-4C7F-9DF6-69A0C00F11A2][distributed systems]]
+
+https://en.wikipedia.org/wiki/Bully_algorithm

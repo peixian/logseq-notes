@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       69DA2A39-5197-43A0-ADBB-CCC9F45808A9
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: org_latex_export
+#+TITLE: org-latex-export
+
+Tags: [[id:A5B60132-60E3-41C5-BCC7-622F05AA203A][org-mode]], [[id:78713096-875F-4E7C-A686-7966142183E1][latex]]
+
+- https://github.com/schnorr/acmorg
+- https://github.com/novoid/orgmode-ACM-template
+- https://orgmode.org/worg/org-tutorials/org-latex-export.html

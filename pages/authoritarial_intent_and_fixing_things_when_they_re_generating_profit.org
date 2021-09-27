@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       016BE198-F468-430E-8705-48CAE4DE2DF6
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: authoritarial_intent_and_fixing_things_when_they_re_generating_profit
+#+TITLE: authoritarial intent and fixing things when they're generating profit
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+Authoritarial intent is harder when there is no documentation
+- documentation reveals the why, not the what, because documentation should tell you intent
+- especially difficult when things generate profit, no one wants to change the wheels on the car while moving
+- technical debt accumulates as a lack of understanding from here

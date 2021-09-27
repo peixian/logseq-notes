@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       C87D073B-2D29-4B6A-B850-7B5285C62E43
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gron
+#+TITLE: gron
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]], [[id:354EF17F-3930-45EC-B25D-44BBDC58EB79][json]]
+
+https://github.com/tomnomnom/gron

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       88FB45A2-1720-4C2F-BA7F-6AA4E6A5B049
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: reparations
+#+TITLE: reparations
+
+Tags: [[id:5E526313-F9ED-4567-8FF8-3CE7EE462CE1][post-conflict statebuilding organization]]

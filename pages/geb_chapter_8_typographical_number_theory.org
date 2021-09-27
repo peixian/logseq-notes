@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       015686B1-82BF-4039-B818-3638CAB4AC0A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: geb_chapter_8_typographical_number_theory
+#+TITLE: geb chapter 8 (typographical number theory)
+
+Tags: [[id:02E1C06A-9354-4671-9F73-4D1D3E198024][Hofstadter - Godel, Escher, Bach]]
+
+Begins confirming the [[id:216FDDEA-884B-43BD-990C-EF8F0F0E8009][godel's incompleteness theorem]], by creating a communicative type system that cannot describe itself
+
+Argues that if a system could describe itself, all number theory would become symbol shunting, a la [[id:8FC5DFBB-2C77-440C-923E-4529F117A602][hilbert]]

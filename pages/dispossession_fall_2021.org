@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       FE4460D9-5934-4FDB-9251-1626ECB56F72
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: dispossession_fall_2021
+#+title: Dispossession (fall 2021)
+
+[[id:12580BAB-8366-47AD-A690-BAB8B773FA85][fall 2021 classes]], [[id:2601444F-18B9-4E44-8F26-92F625BCB161][settler colonialism]]

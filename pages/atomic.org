@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       05CEFE4A-E9BD-40BA-900D-52BB4F60DC56
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: atomic
+#+TITLE: atomic
+
+Tags: [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]], [[id:A904921D-F574-41FC-B41C-4B6114932AC5][datasets]]
+
+- dataset that attempts to link one event with others
+- crowdsourced attempt to catalogue common sense inferences about situations
+- some use for pretraining, much more use in constructing more focused evaluation datasets

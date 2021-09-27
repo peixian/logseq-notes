@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       11559A43-8E9F-4692-887C-3EC48A2C0D35
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: bolivia
+#+TITLE: bolivia
+
+Tags: [[id:541B7BAF-591F-4CF8-8292-D83E8FB9D095][latam]]

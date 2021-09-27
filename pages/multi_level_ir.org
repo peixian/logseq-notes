@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       28DAF769-0D18-4F01-9CE3-F6D47EE70DFA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: multi_level_ir
+#+TITLE: multi-level IR
+
+Tags: [[id:5B3FA555-7C9B-47B1-A463-983A682072FC][compilers]], [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]]
+
+- https://mlir.llvm.org/docs/LangRef/#symbol-reference-attribute

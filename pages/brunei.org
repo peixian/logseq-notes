@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       5E923D3B-E5C1-4F2B-8525-7D13DDD1E8DF
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: brunei
+#+TITLE: brunei
+
+Tags: [[id:54A7E315-9721-4BC9-BE36-EE6B40B82889][south asia]]

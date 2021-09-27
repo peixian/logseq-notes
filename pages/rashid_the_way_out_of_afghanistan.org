@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       42A99490-CD7E-4C54-B19D-410146286223
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: rashid_the_way_out_of_afghanistan
+#+TITLE: Rashid: The Way Out of Afghanistan
+
+Tags: [[id:5D4FD56C-329E-4881-AEBC-EFE6DDF0F29D][articles]]

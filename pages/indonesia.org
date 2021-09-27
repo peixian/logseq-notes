@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       67B552F8-CC06-41D3-B87B-369E5694908F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: indonesia
+#+TITLE: indonesia
+
+Tags: [[id:AD9C4325-95C2-4DBC-83A0-5081D68D60D3][east asia]]

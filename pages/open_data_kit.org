@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       C73EF614-1D82-431F-A860-F571F7D9AA41
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: open_data_kit
+#+TITLE: open data kit
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+Way for researchers to collaborate and collect data
+- https://odkcentral.docs.apiary.io/#reference/forms-and-submissions/forms
+- https://docs.getodk.org/central-api/
+- https://en.wikipedia.org/wiki/ODK_(software)

@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       4FC8668D-3B0F-448C-9546-23A2429E6E1C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: un_and_global_governance_blog_post
+#+TITLE: un and global governance blog post
+
+Tags: [[id:6377293C-2556-4797-9A2B-FED088E549BA][UN and Global Governance]]
+
+* Notes
+- arguments
+  - failures do not grab headlines
+    - most people do not know about the success in coutnries
+  - peacekeeping cannot be compared to counterinsurgencies
+    - peacekeeping requires host nation consent
+    - peacekeeping has impartial treatment
+    - peacekeeping has limited use of force
+  - china's authoriarian nature at home has cut down on human rights observers
+  - republican rhetoric has not matched with budget amounts
+  - peacekeeping mandates are illequipped for all conflicts
+    - peacekeeping cannot provide military based security guarantees
+      - mandates fail to align with the country (congo)
+      - haiti was never in a civil war, more of a gang violence position but got a civil war stabilization mandate
+      - mali peacekeepings have a specific mandate
+- 5 myths
+  - peacekeeping is not destined to fail - factual argument
+  - peacekeeping is different from counter insurgency - interpretive argument
+  - china's rising position has undercut human rights - normative assertion
+  - republicans mention cutting away peacekeeping rhetoric, but increase the budget amounts - casual argument (lack of effect)
+  - peacekeeping cannot solve all problems - casual argument
+
+- Post outline
+  - talks about 5 myths of peacekeeping, specifically above
+
+  - genre
+    - very clear text, straight assertive statements, meant for a non-academic audience
+      - more DC audience (for monkey cage, a wapo blog, namechecks sentators but not UN officials)
+      - post is organized into small digestable indenpendent chunks, meant so that you don't have to synthesize this information in totality, you can read a chunk and come back

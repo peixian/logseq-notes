@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       B7920589-79CC-4353-A685-8C5DAE0AEAB4
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: tunisia
+#+TITLE: tunisia
+
+Tags: [[id:C61C3FE4-06C6-4621-818B-503E36E83B7C][middle east]]

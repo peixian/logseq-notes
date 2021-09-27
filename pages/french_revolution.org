@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       1A38D3D4-3CAF-4848-B357-1732DC310CB7
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: french_revolution
+#+TITLE: french revolution
+
+Tags: [[id:2F7E55D6-A8D8-41B6-B7D0-09A9D1A09B22][france]]

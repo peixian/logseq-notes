@@ -1,0 +1,151 @@
+:PROPERTIES:
+:ID:       47182FA3-2A64-4314-A0AC-2E39E0A9F8F6
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: nationalism_and_outsiders_in_the_middle_east_thesis_proposal
+#+TITLE: nationalism and outsiders in the middle east - thesis proposal
+
+Tags: [[id:9BF599C3-7B0D-4E00-9E42-06CC50D30B17][Nationalism and Outsiders in the Middle East]]
+
+Idea: Balkan nationalism constrasted to others?
+- [[id:3983537F-B6B9-4DD4-B5B5-09F17C1D4C46][Hajdarpasic: Reflections on the Ottoman Legacy in South-eastern Europe]]
+- [[id:360914DB-207A-458E-A677-B1DC2302A2FA][Anscombe - State, Faith, and Nation]]
+
+
+Introduction:
+- How does nationalism develop within the context of the post-Ottoman state?
+- Are there differences in ascribing 'christian vs muslim' developments of nationalism?
+- Is there a "historical outsider"? We focus on outsiders remaining within a singular homogenous time, but can nationalisms be formed within different times?
+- This topic is interesting because I am curious to see how far the framing of nationalism between 'christian' and 'muslim' populations can go
+  - Accepted, or common knowledge on this is that Balkans developed their nationalisms in one way, and the arab states did it another way
+  - interested in seeing if this frame and idea of nationalism can be applied to sunni/shia/kurd/sectarianism in iraq
+- Looking at nationalism through a historiographical lens: that is, why are certain nationalisms constructed and some others not?
+  - Why Egypt?
+  - Why Balkans?
+- Transtemporal nationalisms, historical memory and nationalism?
+  - Memories of state - historical memory
+  - The universal enemy - future memory
+  - Gatekeepers of the Arab past - construction or false memory
+  - Anscombe - Construction of nationalisms in the balkans
+
+- Connection to class themes:
+  - Imagined community
+  - Constructivism
+  - nation-building
+  - ethnic and religious minorities
+
+- Hinnebush's 3 tier model
+  - Supranational
+    - Jihadist
+
+  - National
+    - "Weak" artificial states
+  - Sub-national
+    - Strong, sectarian identities
+      - Religious
+      - Ethnic
+      - Class (?)
+  - iraq and bosnia both fit this scale
+  - how does the structure form around this?
+
+- Skeleton
+  - Hinnebusch's 3 tier model fits both, they were both constructed relatively recently under US tutalage, have "artificial" states construction
+  - How does nationalism take form under weak states bounded with religious movements and ethno-religious lines, and how do outsiders play into this?
+    - Do sectarian identities invite outsiders
+      + Bosniaks have invited outsiders (jihadists and the EU)
+      + Assyrians were protected under the British
+      + Current protections of Iran/US to different patronage lines in Iraq?
+      + Role of religion
+      + Nationalism within post-conflict federalized states
+      + Religious diversity as a marker for national distinctness
+        - Just as strong nationalist states bring religion down to earth, weak ones allow them to rise
+
+      + Expanding the framework of the 3 model to include religion
+
+        + contemporary roles of religion
+    - How do these outsiders disengage?
+  - engagement
+    - previous literature considers religion as an alternative
+    - criquite of anderson, talk about competition identities, political identities, are they supporting each other,
+      - how do these things provide the basis for nationalism
+      - turkish national identity is very sunni based
+    - deep reading
+      - instrumentalism vs primordialism
+      - does not address the issue of religion
+      - how does the previous readings problematize religion
+  - categorizing and creation and cultivation of the nation-state
+    - how does the nation-state's rules, laws, and what is the connection between religion and religious nationalism
+  - jihadism
+    - breakup of connectionism
+
+  - engagement
+    - rise of nationalism
+    - nationalism as a total nationalism
+    - mobilization of total identities into the
+  - bosnia and iraq
+  - jihadism
+
+
+* Proposal Draft
+** Introduction
+  We have discussed the roles that outsiders play within the construction of the Middle East, such as the role of Armenians with in the formation of nationalism for modern day Turkey, sectarian identities for nationalisms within Iraq, even the construction of national identities during the Mandate era through colonial tools. However, all of these discussions share a single feature: we take for granted that the national identity being constructed and the outsider acting in concert with it exist within the same historical time frame. From this, I am interested in tackling the ideal of transtemporal nationalisms: can nationalism and national identity be constructed against an outsider that no longer exists, and if so, how?
+
+  The answer appears to be a resounding yes at first blush, with the most clear example being the Turkish Republic. If the transtemporal framing is accepted, then Turkish state is built top of the "outsider" of the Ottoman Empire, with republican values hoisted above the the 'ruins' of the Ottoman empire. In fact, this concept of 'Ottoman ruins' and nations 'emerging' from these ruins is an often-repeated one. What I am curious specifically about is the idiosyncractic ways these develop, espically in the cases of the Balkans and Iraq. Since the scope of this question easily encompasses vast swaths of the Middle East, I am interested in tackling this question similar to Hinnebusch, where a central theory was provided and a small case study follows. I will attempt to take a look at two nations: Iraq and Bosnia, although the fluid borders of the Balkans makes the "Bosinan" designation somewhat difficult to pin down.
+
+  This question is interesting to me since the focus of my master's thesis is on how class, sect, and religion interact within the nexus of conflict. The Dodge and Hinnebusch readings were already helpful in illuminating some of these identities, but I am also curious if the models presented within them can be pushed further to other states 'emerging from Ottoman ruins'.
+
+** Literature Review
+   A wide range of literature already exists on these topics. Specifically, I am interested four works to start with: Memory of State by Eric Davis, The Universal Enemy by Darryl Li, State, Faith, and Nation in Ottoman and Post-Ottoman Lands by Frederick Anscombe, and Gatekeepers of the Arab Past by Yoav DiCapua.
+
+   Memories of State is strictly concerned within the Iraqi context, describing the retooling and reworking of the past existed under the Ba'thist regime. It makes the argument that Iraqi national identity is leaned towards pluralism due to both historical and demographic reasons, and the Ba'thist regime attempted to suppress and rework this pluralism for its own purposes. It is possible that State of Repression by Lisa Blaydes should be added here as well, although I will reevaluate this after I finish Blaydes's book.
+
+   The Universal Enemy by Li is a strict monograph of the Bosnian jihad. While the book itself is more concerned with anthropological studies of the foreign fighter as a transnational solidarity, I am curious to see if this can constitute a nationalism within itself. Previously in class we have distinguished supra-nation movements such as pan-Arabism and the Ummah as a political entity, but does foreign fighter movements fit underneath this umbrella as well? The placement of Bosnia makes this all the more interesting towards the topic.
+
+   State, Faith, and Nation is a large comparative study of post-Ottoman nations from a classical "Christian vs Muslim" framing. Anscombe draws nationalism and state formation into two large buckets: those in the Balkans (therefore "Christian") and those in Middle East (therefore "Muslim"), and Turkey as an outlier. His argument is nuanced, but he does never make the leap into a direct comparison between the Balkans and the Middle East I am interested in.
+
+   Gatekeepers of the Arab Past might be cut, but DiCapua's model of the formational of the concept of "Egypt" is an interesting one and I am keen to see if it can be reapplied.
+
+** Connection to Class Themes and Concepts
+   The question of transtemporal outsiders connects to the idea of constructivism, as it leans heavily into the idea that because nationalisms are constructed, they can reference identities across different periods in time. Also tying into the idea of distinctive ethnies by Smith, I believe the comparison between the two seemingly unreleated countries of Iraq and Bosnia is an interesting one. Both countries have had large "jihadist" movements (using that term liberally) occur, both are somewhat dogged by an artificial state narrative, both exist currently under a political system centered around careful slicing of the state among different groups, heavily influenced by the US.
+
+
+
+
+* Final Proposal
+**   Introduction
+   We have discussed the roles that outsiders play within the construction of the Middle East, such as the role of Armenians within the formation of nationalism for modern day Turkey, sectarian identities for nationalisms within Iraq, even the construction of national identities during the Mandate era through colonial tools. However, all of these discussions share a single feature: we take for granted that the national identity being constructed and the outsider acting in concert with it exist within the same historical time frame. From this, I am interested in tackling the ideal of transtemporal nationalisms: can nationalism and national identity be constructed against an outsider that no longer exists, and if so, how?
+
+   The answer appears to be a resounding yes at first blush, with the most clear example being the Turkish Republic. If the transtemporal framing is accepted, then Turkish state is built top of the "outsider" of the Ottoman Empire, with republican values hoisted above the the 'ruins' of the Ottoman empire. In fact, this concept of 'Ottoman ruins' and nations 'emerging' from these ruins is an often-repeated one. What I am curious specifically about is the idiosyncratic ways these develop, especially in the cases of the Balkans and Iraq. Since the scope of this question easily encompasses vast swaths of the Middle East, I am interested in tackling this question similar to Hinnebusch, where a central theory was provided and a small case study follows. I will attempt to take a look at two nations: Iraq and Bosnia, although the fluid borders of the Balkans makes the "Bosinan" designation somewhat difficult to pin down.
+
+   This question is interesting to me since the focus of my master's thesis is on how class, sect, and religion interact within the nexus of conflict. The Dodge and Hinnebusch readings were already helpful in illuminating some of these identities, but I am also curious if the models presented within them can be pushed further to other states 'emerging from Ottoman ruins'.
+
+** Literature Review
+    A wide range of literature already exists on these topics. Specifically, I am interested in four works to start with: Memory of State by Eric Davis, The Universal Enemy by Darryl Li, State, Faith, and Nation in Ottoman and Post-Ottoman Lands by Frederick Anscombe, and Gatekeepers of the Arab Past by Yoav DiCapua.
+
+    Memories of State is strictly concerned within the Iraqi context, describing the retooling and reworking of the past that existed under the Baathist regime. It makes the argument that Iraqi national identity is leaned towards pluralism due to both historical and demographic reasons, and the Ba'thist regime attempted to suppress and rework this pluralism for its own purposes. It is possible that State of Repression by Lisa Blaydes should be added here as well, although I will reevaluate this after I finish Blaydes's book.
+
+    The Universal Enemy by Li is a strict monograph of the Bosnian jihad. While the book itself is more concerned with anthropological studies of the foreign fighter as a transnational solidarity, I am curious to see if this can constitute a nationalism within itself. Previously in class we have distinguished supra-nation movements such as pan-Arabism and the Ummah as a political entity, but do foreign fighter movements fit underneath this umbrella as well? The placement of Bosnia makes this all the more interesting towards the topic.
+
+    State, Faith, and Nation is a large comparative study of post-Ottoman nations from a classical "Christian vs Muslim" framing. Anscombe draws nationalism and state formation into two large buckets: those in the Balkans (therefore "Christian") and those in Middle East (therefore "Muslim"), and Turkey as an outlier. His argument is nuanced, but he does never make the leap into a direct comparison between the Balkans and the Middle East I am interested in.
+
+    Gatekeepers of the Arab Past might be cut, but DiCapua's model of the formation of the concept of "Egypt" is an interesting one and I am keen to see if it can be reapplied.
+
+** Connection to Class Themes and Concepts
+    The question of transtemporal outsiders connects to the idea of constructivism, as it leans heavily into the idea that because nationalisms are constructed, they can reference identities across different periods in time. Also tying into the idea of distinctive ethnies by Smith, I believe the comparison between the two seemingly unrelated countries of Iraq and Bosnia is an interesting one. Both countries have had large "jihadist" movements (using that term liberally) occur, both are somewhat dogged by an artificial state narrative, both exist currently under a political system centered around careful slicing of the state among different groups, heavily influenced by the US.
+
+** Outline
+   - Introduction
+   - Comparison of Bosnia and Iraq
+     - Political systems, division of power, political/racial/religious groups
+
+   - Concept of transtemporal nationalism
+     - What is it good for?
+     - How is it constructed?
+   - Transtemporal nationalism in Iraq
+     - Construction in the Ottoman twilight
+     - Construction under Baathist regime
+   - Transtemporal nationalism in Bosnia
+     - Construction in the Ottoman twilight
+     - Comparisons during the Bosnia jihad
+   - Discussion of transtemporal nationalism in other nations, such as Turkey
+   - Conclusions

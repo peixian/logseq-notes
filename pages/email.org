@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       4955D906-3B67-48CD-90D2-94C143421B89
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: email
+#+TITLE: email
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+* IMAP/JMAP support
+- https://github.com/josephg/mime-to-jmap
+- https://github.com/foxcpp/maddy/issues/19
+- https://git.sr.ht/~migadu/alps
+- https://github.com/foxcpp/maddy

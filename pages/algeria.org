@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       460EF15E-DA2F-4C91-9675-70A0B18EF45E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: algeria
+#+TITLE: algeria
+
+Tags: [[id:C61C3FE4-06C6-4621-818B-503E36E83B7C][middle east]]

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       BE46ACD5-FDA3-4201-8B97-C09A50CA370B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: mortages
+#+TITLE: mortages
+
+Tags: [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]]
+
+
+* MBS
+  - Mortgage backed securitities
+  - Large growing market
+  - Dealers use structuring tools

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       E2BCD142-A8B3-4D68-A551-C72491C42BB4
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: higher_fb_library
+#+TITLE: higher (fb library)
+
+Tags: [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]]
+
+- https://github.com/facebookresearch/higher
+
+Library for higher-order opimization, integrates with [[id:8CF9A0F7-2E51-4922-B6B7-2C42E8E2BE16][pytorch]]

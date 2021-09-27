@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       E6737977-0BA6-4DBC-876B-FCAE4DE1945D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: teaching
+#+TITLE: teaching
+
+Tags: [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]]
+
+#+begin_quote
+In other words, giving people a list of procedures to execute, blindly, denies them the ability to build expertise, which in turns prevents them from doing the sorts of creative problem solving that is common amongst expert operators.
+#+end_quote

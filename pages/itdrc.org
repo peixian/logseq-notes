@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       61C8616E-44EA-43E0-889F-61ABEA7BF4E6
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: itdrc
+#+TITLE: itdrc
+
+Tags: [[id:795C58DB-5936-428C-958F-A239A8DF3C2E][volunteering]], [[id:7FEA6B9D-8C21-4614-8F22-38F3D514D378][ngo]]
+
+* Similar groups:
+- http://drc-group.com/
+- https://www.cybrary.it/
+- https://portal.itdrcops.net/display/public/KB/Knowledge+Base+Dashboard
+- https://portal.itdrcops.net/display/VP/Getting+Started
+- https://portal.itdrcops.net/pages/viewpage.action?spaceKey=VP&title=Build+Your+Go-Bag#space-menu-link-content
+- NetHope
+* Training
+- Many volunteers do not have experience with latest technologies
+- Establish field ops base, logistics, expect chaos
+- Be prepared for disorganization
+  - Traffic jams and disaster tourists
+- Satellite dish dishes
+- [[id:B2ED4E54-DF24-4F15-B2C2-4E2AD7B52400][ICS Training]]

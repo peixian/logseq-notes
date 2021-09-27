@@ -1,0 +1,159 @@
+:PROPERTIES:
+:ID:       DB155060-FE5B-4E83-BEBF-522C57CE7310
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: post_ottoman_iraq_egypt_irrigation_essay_research
+#+TITLE: post-ottoman iraq/egypt irrigation essay research
+
+Tags: [[id:A438ACD2-2C1E-40EB-9502-74E5B69EA9FF][Post-Ottoman Near East]], [[id:0DEB2388-5061-4C4E-B384-A8C1F666089D][Paper Proposal]]
+
+* Notes
+  - Taqwim al-Nil ([[id:B1E26B6E-6A74-4E81-8A49-B18EF81BFDAE][DiCapua - Gatekeepers of the Arab Past]]) is a sign of this type of modernizing thinking
+  - Argument:
+    - The construction of the Aswan Low/High Dams, alongside the Hindiya and Kut barrages, was a time of technomodernity that ultimately failed to respect the locals.
+      - Construction of the Aswan Low Dam would "modernize" the locals
+      - Construction of the Hindiya barrage would
+
+* Kut Barrage
+  - Constructed in 1934, opened in 1939
+    - War prevented actual usage via the Dujayla land project until 1945
+  - Feeds into the Gharraf Canal
+    - Leads into the Dujayla Land Project
+  - https://en.wikipedia.org/wiki/Al-Gharraf_River
+
+  - Did not account for salination within the soil!
+
+* Hindya Barrage
+  - [[id:6FFF6AC2-FE18-4EB6-BFC4-50EAF67E45B4][hindyia barrage]]
+  - Constructed in 1911, opened in 1913
+  - Superceded later
+  - Constructed by William Willcocks
+    - Literally the same guy who did the Low Aswan Dam
+
+* Low Aswan Dam
+  - Aswan Low Dam
+    - Constructed in 1899
+    - Opened in 1902
+    - Raised in 1907-1912
+    - Raised again in 1929-1933
+
+  - Did not account for salination within the soil ([[id:C14B837B-5884-4E98-B0AD-1999D65AC180][Cook - The Aswan Low Dam and Modernizing the Nile]]
+  - Did not respect the usefulness of the Nile overflooding for fertilization
+* High Aswan Dam
+  -
+* Meeting with Jim on irrigation research
+  - Dumb question: why does the historiography matter?
+    - Reading essay on why the orientalist perceptions, but having a difficult time squaring why that it matters
+  - I have all these resources
+  - How do we square notions of modernity (as in what we consider to be modern either by orientialist perspectives or not)
+  - Two main points:
+    - obsession with history (philae, babylon, etc)
+    - lack of care about disease and salination (because it mostly affects the people and not infectious)
+  - Disease and salination are both extremely common throughout all these projects, why was it not brought up?
+    - Beacuse these affect the people and not the workers nor their ideals
+    - Why should I care?
+
+  - What is modernity?
+* Outline
+** Current Literature
+   - Dams are notably signs of modernity
+     - High aswan dam is a proud symbol of the egyptians
+     - Many myths abound
+       - Tennesse Vally Authority
+       - "Dams were the modern temples of india"
+         - Fusion of modernist development theory
+         - Another former british colony
+       - Nasser
+       - King Ghazi's visit to the Kut barrage
+
+   - state of irrigation within egypt
+   - state of irrigation within iraq
+   - Environmental concerns were not typically considered before 1975
+   - Water resources focal point for environmentalists
+   - Aswan Low Dam and Hindiya barrage were driven by part of the pre-ottoman
+     - more "benevolent" type of damming, meant to benefit the egyptians/iraqi's themselves
+   - Aswan High Dam and Kut Barrage were both driven by part of the post-ottoman
+     - more utlitlarian types, driven by external resources
+     - trace developmental modernity via these things
+
+** Discussions
+   - talk about the history of the low aswan dam and hindiya barrage
+   - Low aswan dam and hindiya barrage are both scoped to within a specific historical frame aimed towards the peoplee
+   - talk about history of the aswan high dam and the kut barrage
+     - aswan high dam
+       - product of cold war
+       - failed to see impacts on fisheries
+     - kut barrage
+       - product of dujayla project
+     - both of these exist as types of modernity described by [[id:2EBAA08C-FB3A-43F4-9411-EEC9EFF8861F][Humanism in Ruins - Discussion Questions]]
+   - High aswan dam and the kut barrage are both scoped
+   - Most literature on the subject is down on dams but fail to give methodological assestments of why they are down on dams
+     - focus on the historiographical particularities
+
+   - "hindia" and "hindiya"
+   - "aswan" and "Assuan reservoir"
+   - mosquitos in bengal and mosquitos in egypt
+
+** Questions to ask and answer:
+*** How does the topic fit into the larger context?
+    - What was before irrigation projects, what was the impetus?
+    - Why specifically irrigation projects?
+    - What changes did irrigation projects bring to locals?
+      - City of Aswan
+      - Kut barrage
+    - How and why were irrigation projects part of colonialism and nationalism?
+      - Sources of legitmacy
+        - Kut barrage and King
+        - Aswan High Dam and Nasser
+    - What does it mean to live in a post-ottoman/de-ottoman egypt vs an ottoman/british iraq?
+    - How and why were these dams built?
+    - What does this mean for British influences vs American ones?
+      - Low Aswan Dam & Hindiya Barrage - British influenced
+I      - Aswan High Dam & Kut barrage - American/cold war influenced
+    - What does this mean for the positions of Iraq and Egypt during the building of these dams?
+*** How is the topic a functioning part of a larger system?
+    - How do irrigation projects reflect the colonial desire for modernization?
+    - How do they reflect the nationalist desire to achieve a certain status?
+    - What roles do irrigation projects play in the environment?
+    - What technocratic problems are solved by irrigation?
+      - Broken canals
+      - Crop rotation
+      - etc
+    - What technocratic problems are proposed but not seen by irrigation?
+      - Schistosomiasis?
+*** How does your topic compare & contrast with topics like it?
+    - Other irrigatoin projects within post-colonial states?
+*** How has your topic changed through time? Why? What's its future?
+    - How has irrigation in Egypt/iraq changed?
+*** How do the parts of your topic fit together as a system?
+    - How and what does the low aswan dam mean for de-ottomanization?
+    - How and what does the hindiya barrage mean for ottoman twilight/young turks?
+    - How and what does the High Aswan Dam mean for Nasserism?
+    - How and what does the kut barrage/dujayala land project mean for post-independence iraq?
+*** Turn your questions into negative ones
+    - Why and when have irrigation projects not captured nationistic/independent ideas?
+    - How do irrigation projects not differ from other public works?
+      - Electrification
+      - Industrialization
+        - Why was egypt not electrified or industrialized for the production of cotton?
+        - Why specifically the low aswan dam? What was the draw?
+*** Ask speculative questions
+    - What if there were no irrigation projects?
+    - What does the propgation of the Dujayla model mean for iraq?
+      - What other projects have followed?
+*** Ask questions that reflect disagreements
+    - Mitchell claims the modernizatoin projects hurt the Egyptian well-being, but I believe irrigation projects are not a de-facto bad, but rather prusued under a primordialist agenda almost always lacks specific understandings
+*** Ask questions that build on an agreement
+    - Pursely claims that the propagation of the dujayla model built upon the failures of the dujyala project. I believe the seeds for this were sown much earlier
+*** Ask questions analgous to those others have asked about similar topics
+    - Electrical palestine & waste seige tackle how public works projects are a sign of a nation's well being. The common complaints about the beirut trash riots are an example of this. What does the analysis of irrigation projects mean for the conventions of nationalism?
+** Questions being answered
+   - Irrigation vs electricity & trash, how irrigation projects reflect upon nationalism
+   - Irrigation as a source of legitmacy
+     - Nasserism
+     - Iraqi state foundations
+   - Irrigation as a desire for modenrization
+   - Irrigation as a reflection of primordialist conceptions
+   - Irrigation as a reflection of what it means to be de-ottomanized, post-ottoman, and "independent".
+   - Irrigation as a reflection of British perceptions vs American ones
+   - Current literature understandings of irrigation

@@ -1,0 +1,62 @@
+:PROPERTIES:
+:ID:       581A343F-7EB9-4BC2-A240-7068DCDE3D58
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: career_advice
+#+TITLE: career advice
+
+Tags: [[id:CAFF2018-7C24-402E-9528-464A87D2DC39][personal]]
+
+- https://commoncog.com/blog/so-good-they-cant-ignore-you/#2adoptthecraftsmanmindset
+5 steps from /So Good They Can't Ignore You/:
+1) Decide what capital market you're in, either winner-takes-all or auction
+   - CS is auction
+   - Middle East studies/academia is...winner takes all? Maybe?
+     - writing is winner takes all
+2) Identify capital type, which skill dominates?
+   - in CS I care about distributed systems skills and navigating large code bases
+     - read "working with legacy systems"?
+
+   - with MES my skill is writing and analysis? Possibly arabic?
+     - Work on arabic
+     - Practice writing
+3) Define 'good'
+   - Distributed systems:
+     - understanding papers, writing more distributed systems, understanding apis
+     - Kafka, zookeeper, batching, etc
+   - Arabic: obvious
+   - Writing: less obvious, but 'good' is defined as getting published?
+4) Stretch and destroy: push to activate discomfort
+5) Be patient
+
+
+- build a career moat
+  - either out of obscurity/difficulty
+    - make it difficult to get where you are
+    - choose a path that is unclear how to climb
+  - predictive
+    - predict valuable skills before they get recgonized
+  - skills that are unattractive but valuable
+    - cobol? (ehhhhhhhhhh)
+    - engineering management
+
+- autonomy is based around leverage
+- perform rigorous trial and error <- duh
+  - two ways of problem solving
+    - trial and error
+    - theory and insight
+
+- taking bets
+  - stay in the game
+  - double down on what works
+  - bet in porportional to your edge
+
+- epistemic vs instrumental reality
+  - epistemic - how do you know if your beliefs are true?
+  - instrumental - how do you make better decisions to achieve your goals?
+  - aaron schwartz wrote about this in 2012: https://www.lesswrong.com/posts/9SE67uz98kh6x2CxR/what-are-the-optimal-biases-to-overcome
+
+- be realistic about what you're selling
+  - is your job a commodity?
+  - there is always a move if you are selling a unique product or have capital freedom, aka money is time
+    - what is your individual free cash flow? that is, how much money can you take out to maintain and grow your current lifestyle?

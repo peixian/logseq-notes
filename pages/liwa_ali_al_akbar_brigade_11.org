@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       D8844D33-60F4-4179-8C64-BE35BCA245A3
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: liwa_ali_al_akbar_brigade_11
+#+TITLE: liwa ali al-akbar (brigade 11)
+
+Tags: [[id:ADFAE0CB-D584-4CE9-9965-4E76C474546E][brigades]]
+
+Part of [[id:6289E49C-10CA-435D-97F1-6AE640D35128][sistaniyun brigades]]

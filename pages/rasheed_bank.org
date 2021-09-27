@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       03D3EF57-DBEC-4026-A3AD-872995522299
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: rasheed_bank
+#+TITLE: rasheed bank
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]], [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]]
+
+State owned bank

@@ -1,0 +1,253 @@
+:PROPERTIES:
+:ID:       539B19F7-438C-4806-9D02-27CD6CF12906
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: nationalism_and_outsiders_in_the_middle_east_thesis
+#+EXCLUDE_TAGS: noexport
+#+LATEX_CLASS: koma-article
+#+latex_header: \usepackage[citestyle=verbose-trad2,bibstyle=numeric, hyperref=true,backref=true,maxcitenames=3,url=true,backend=biber,natbib=true,ibidpage=true] {biblatex}
+#+latex_header: \addbibresource{~/Dropbox/bib/refs.bib}
+#+TITLE: nationalism and outsiders in the middle east - thesis
+
+* No export heading :noexport:
+Tags: [[id:9BF599C3-7B0D-4E00-9E42-06CC50D30B17][Nationalism and Outsiders in the Middle East]], [[id:47182FA3-2A64-4314-A0AC-2E39E0A9F8F6][nationalism and outsiders in the middle east - thesis proposal]]
+** Outline
+   - Engagement with prior literature
+     - Anderson, Gellner, Miroslav Hroch
+     - Khalidi's Arab Nationalism
+       - Common approaches via top-down statebuilding or comparison to built states
+         - Top-down statebuilding informed by mandate era perceptions (i.e. iraq as an artifical state)
+         - Comparison to built states -> reflects of turkey
+   - Case Studies of Bosnia and Iraq
+   - Jihadism, or the "breaking down of a state"?
+     - Contemporary represnetations of daesh
+     - Contemporary representations of the jihad
+** Outline
+*** Introduction
+    - Religion and nationalism exist as a continuum and negotiate in different ways based off of the where it is
+*** Current literature and discussion
+    - Define religion -> applebaum
+      - "Religion embraces a creed, a cult, a code of conduct, and a confessional community"
+    - Define sectarianism -> Hinnebusch
+      - "Sectarianism, on the other hand, can be defined as identification with a sub‐ or trans‐state religious community that emphasizes boundaries with the “other”, particularly when involving claims of monopoly over religious truth as the principle for organizing public life."
+    - Define nationalism -> Loyalty to the nation
+
+    - Define model -> hinnbush's model mixed with the Sopher/Fetzer
+      - See nation-sectarianism as a contiuum
+      - See religion and nationalism as a contiuum
+      - religion and nationalism are in constant negotiation, some actors may act out nationalism *as part of their* religion
+    - Define nations -> Iraq and Bosnia
+    - Define thesis -> Old texts strictly assume religion as static, is not and cannot be static, *religion and nationalism are engaged in constant negotiation with one another*
+      - Using a 2d model, we can place different lengths
+      - Iraqi and Bosnia agreements are exercises to delinate the boundaries of what is considered sub/supra-state, and what is considered secular/religious.
+        - Both attempt to strike a balance, Bosnia as much more heavily influenced by the existence of the high commissioner causes it to be more secular leaning, Iraq as the constituational situation drew from distinctly sectarian lines
+      - Sectarian/sub-state nationalisms treat religion as a major, if not primrary differentiator of identity
+      - state level nationalisms attempt to treat religion as something to be arrested, which is the most common
+
+    - Actors in both countries engage with this - talal asad
+    - "Talal Asad asks us to interpret religion not as a set of beliefs, but as a set of actions"
+    - From that, I am examine nationalism within Iraq and Bosnia via
+      - Actions and actors of sectarian identities
+      - Constitutionalism and government as actions
+        - Iraqi constitution does not attempt to foster an inclusive iraqi identity
+        - via etc/etc/etc
+      - Actions of the government do not attempt to foster an inclusive iraqi identity
+        -
+
+      - Constituoinalism is a byproduct of nationalism on the state level
+        - Bosnia Dayton
+        - Iraqi Constituationalism
+      - Sectarian identities - substate
+      - Jihad is supra-state nationalism
+        - UN organizations are supra-state nationalism
+        - Blue Helmets vs Jihad - from universal enemy
+    - Religion has different impacts on nationalism when it is supra-state vs state vs sub-state, and the viability of these are clear
+      - This paper steps through 5
+        - Sub-state nationalism and religion in iraq
+        - Sub-state nationalism and religion in BiH
+        - State level nationalism and religion in iraq
+      - State level nationalism and religion in BiH
+
+      - Jihad
+        - Supra-state nationalism and religion in Iraq
+          - PMF
+          - Loyalty to Iran while being a part of the Iraqi security apparatus is...interesting
+        - Supra-state nationalism and religion in BiH
+
+#   The analysis of religion, whether contrary or compatible with nationalism in the Balkans also suffers from the same types of issues as analyzing religion on the supra-state level. It fails to consider religion as a fluid, dynamic force that can move between and simultanously occupy all three tiers at once. In this respect, I propose extending Hinnebusch's three tier model by creating the same model, with three different stratum for religion. Just as the Hinnebusch's model requires the definition of a /nation/ to create supra-national and sub-national identities, defining /religion/ allows for the a model containing /supra-religious/ and /sub-religious/ communities. This type of thinking is not new, Klaus-Jürgen Nagel and Ferran Requejo have proposed treating nationalism and religion as analogous pheonomena footcite:requejo_coll_politics_2015.
+
+#   To interrogate this model, clear definitions must be drawn out for the three strata of /religious/, /supra-religious/, and /sub-religious/. In order to prevent treating religion as a source or explanation for nationalism footcite:requejo_coll_politics_2015, I will define /religion/ here as /a strict communal ideaology, shared among a group of people, adhereing to broadly similar specific customs, but also containing significantly different sects/ (~TODO~: this line is very bad, need to revise it to sound better). By this definition, /Islam/ and /Christianity/ are considered on the religious level, while /Twelver Shi'ism/, /Hannafi Sunnism/, and /Orthodox Christianity/ are considered sub-religious. It is then clear that sectarnian identities within a single religion are considered sub-religious, while consociation between different religions is along the religous strata. This places Lebanon's and Iraq's cosociation systems as /both/ religious and sub-religious, silmutaenously managing differences between different religious and between single religious. This also allows for space to explain why Shi'a and Sunni political parties do not always align with each other in the Lebanese parliment against Christian communities, the clashes between the Future Movement (majority Sunni) and Hezbollah/Amal (both Shiite) can be explainined because the Ta'if system locks parties against each other on the /sub-religious/ level (~TODO~: find actual sources for amal/hez voting records, this was mentioned in the lebanese politics podcast #37).
+
+#   While the definition of /religious/ and /sub-religious/ are relatively clear cut, what is /supra-religious/? /Supra-religious/ identities have signficant overlap with /supra-national/ identities, such as pan-Arabism or even international institutions. This allows for the linkage and understanding of the both models, nationalism can be interpreted both along the lines of a /single nation/, and alson along the lines of a /single religion/. This understanding provides space for the types of understanding of the online religious communities, such as the Muslim global community footcite:saunders_ummah_2008, as they are /supra-national/ but simultaneously /religious/.
+
+#   No model is complete, however, without being able to define it *negatively*. The religious strata and its linkages to the national model can be defined negatively via the notion of jihad. I propose that jihad represents the simultanous breakdown of both strata, when the middle /nation/ level is absent from the nation model and when /religion/ is absent from the religious model. It is also important to note that while jihad has broadly been painted as an Islamic affair, different sects and schools of religious jurisprudence have singificantly different interpretations of jihad. The interpretation of a /Hanbali Sunni/ on jihad is quite far from the interpretations of an /Ismaili Shi'a/. Due to this, we must place jihad on the sub-religious strata.
+
+# This concept allows us to see that jihad is defined negatively through the lack of a strong nation, and a strong broad religious community. In this framework, the Islamic State in Iraq and the Levant are defined by the empowerment on the supra-nation and sub-religious strata. In Bosnia, the jihad against the Serbs was the opposite, as it was defined by the empowerment on supra-religious and sub-nation strata.
+
+
+
+*** Iraq
+    - National level -> Iraqi identity involves negotitation with religion and what
+      - Iraqi communist party
+        - Negotiated with religion
+      - Emergence of a sunni identity
+      - Constitution draft format was flawed
+        - Influenced by religion from the start
+          - Debates over secular consitution vs non-secular constiftution
+        - Preamble is religious in nature
+          - Binding of Islam and democracy
+        - Personal status courts
+          - Another example of civic-religious nationalism
+        - Experts in Islamic jurisprudence for judiciary
+        - Religious engagement on the state level engages with religion as a spoils system -> not sure
+          - What does each group get out?
+          - Religion on the national level is a *primary* differentiator
+          - Formation of "big tent" shia identities, even though they find
+      - Not always like this - haddad
+        - "sectarian taboo"
+        - Shia voting for the UIA
+        - Emergence of the sunni identity
+      - Do iraqi's see the territorial integrity of iraq? Do they feel loyal to it?
+
+      - Previous notes:
+
+        - Construction of the Iraqi constitution is an example of the feedback loop of religion and nationalism
+        - 2005 boycott along religious lines
+        - Because of the boycott, lower turnout
+        - In Iraq, it is clear that religion cannot be confined within a single stratum. The Iraqi constitution attempts to arrest religion by clearly delinating the roles of religion, but the
+        - Model for religion in iraq is similar to lebanon model
+        - Constructed by americans, sectarian by norms
+        - islam is the religion of the federation
+        - Effectively, Islam and religion exists above the state
+        - Secesssion of kurdistan?
+        - Religion molds the state
+        - Border changes unacceptable
+        - Third party support limited, policing tools engaged
+        - Legitimacy issues from the government not out of territory, but out of lack of trust of the politicians
+        - Lower turnout threatens the committee
+    - Substate nationalism within iraq, on the "sectarian" level use religion as a differentiator, but not the primary one
+      - Sistani's mobilization from 2004 - dodge
+      - Fanar haddad
+      - Shia "resistance"
+        - Even among the shia's they are split between the iranian supporters and the iraqi ones
+      - Sunni maximalists
+      - Kurdish
+      - Mobilization Fatwa against ISIL
+      - Sectarian identities within iraq largely engage with religion as a differentator
+        - Religion in sectarian identities is a *part*, but not the primary differentiator
+        - Kurdish parties care about religion, but their religion has little bearing on the iraqi state
+        - Sunni's care about religion, but in so far as the religious
+
+*** Bosnia and Herzgovina (BiH)
+    - Sectarian identities
+      - 1992-1995 war about the relationship of the three main religious groups with each other - keil
+        -
+  - Talk about association with neoliberalism and cosociation, BiH, Lebanon, Iraq, have all devolved into extremely neoliberal states, and how this inherently constrains the way states view religion.
+  - Talk about how this association and de-legitmacy raises questions of "artificial"ness for iraq and bosnia
+  - Talk about the imposed federalism footcite:requejo_coll_politics_2015
+
+
+  - Substate
+    - Religion is /the/ defining factor for the 3 groups
+    - Serbs have a sizable chunk that wish to rejoin bosnia
+      - Egged on by Serbian politicians
+    - Talk about how the political system setup in the DPA explicitly disregard religion in favor of ethnic lines
+      - Despite state attempts to arrest religion, it has developed *against* the powerful OHR to deliniate groups
+    - Leading bishops asked all catholics in Bosnia to identify as "croat" to strengthen their numbers
+    - Bosinaks have coopted the term "Bosnian" in the same way the Shi'a have co-opted the term "iraqi"
+      - Bosinan muslims and shias both see themselves as "legitmate" members of their states
+        - footcite:haddad_sectarian_nodate
+      - Victimization of both groups (Bosniaks under the war, Shia's under Saddam) helped coalese these identities.
+  # - Ultimate sign of vacuum of a "nation"
+  #   - Invites outsiders of many kinds
+  #   - Engages with feelings of those left behind
+  #   - Former fighters after bosnia jihad
+  #     - outsiders either left, or stayed and integrated into bosnia (or whish to integrate)
+  #   - PMF after ISIS
+  #     - remains largely sectarian
+  #     - interesting reflection of iraq and bosnia, even though both countries are diverse, their communities are tightly bound within
+  #     - PMF is diverse, but each brigade is a single religion
+
+  # - Even jihad is extremely not universal
+  #   - Accidental ethnographers about IS
+
+
+
+- Religion placed above the state allows for religious and political groups to carve out spheres of autonomy
+  - Tai'if engages with the type of merchant nationalism, which feeds into
+- Religion placed below the state or managed at the state level can cause stifling of democratic institutions and creates a state without territorial integrity
+- Further questions should be raised about jihad and nationalism in regards to chechneya
+
+
+
+* Introduction
+  Works relating to constructivist approaches to nationalism has left much to be desired with regards to the contemporary role of religion. These works typically focus on religion as a component of nationalism in the construction of a state, managed by the state, or empowering sectarian identities. Using Hinnebusch's three tiered model of nationalism, consisting of supra-state, state-level, and sub-state actors, I propose that analysis of religion confined to a single stratum does not fully explain the power and integration of religion, especially in regards with supra-state nationalism. Religion permeates every single layer, and in turn exists in constant negotiation with nationalism.
+
+  This paper is defined into 3 portions. First, a review of the general literature is provided, providing an overview of individual interpretations of religion along historical and contemporary lines, and proposing to extend Hinnebush's model to include religion. The second section details this model and its applications to Iraq and Bosnia, two countries which saw extensive American involvement in the construction of their political systems. In particular, the construction of the constitution in Iraq and the implementation of the Dayton Peace agreement are examined, as constitutions and institutions are the results of actions by religiously-affiliated locals. With both of these countries, sub-state and state-level nationalisms and their relationship to religion are examined. Finally, jihad in both countries is presented as the condition in which state-level nationalisms are no longer functional, thereby showing that religion is somewhat of an analogous phoneoma to nationalism.
+
+* Current Literature
+  Benard Anderson's seminal work on imagined communities fails to account for the contemporary status of religion. While Anderson provides for religion as a singular component of a nation or a ethnicity, the relationship between religion and nationalism is strictly one way. For Anderson, nationalism has not supplanted or superseded religion footcite:anderson_imagined_2006, but rather religion exists as a source for nationalism. Nationalism can harness religion as a place of gestation, or it can utilize religion to spread its beliefs. However, both of these roles hold religion as an unspeaking entity, either something unchanging from the past that can be pointed to as a crux, or something that can be molded. Religion, for Anderson, is a tool, much like ethnicity or language.
+
+  Other works attempt to tackle religion confined within a single stratum, typically only on the sub-state or supra-state level. Works such as footcite:saunders_ummah_2008 in the wake of the 'Cartoons Affair' that generated significant backlash across a multitude of nations against depicitions of the Prophet Muhammad towards a Dutch newspaper typically analyze religion as a solely supra-state level issue. Religion here is interesting because it influences the digital field, and theories can be drawn about how such online communities can potentially constitute a "nation". However, this again reduces religion to a single shared attribute. Westphalian ideas of nations, such as clearly delineated zones of sovereignty, equality of citizens, are applied to the digital realm via the linkage through religion. Here, religion is not far removed from ethnicity, an "Islamic" nation in the digital realm is not far removed from a "Asian" nation. Notions of "pan-Islamism" fall along these lines as well, placing religion jostling for position against nationalism. What this type of analysis lacks is an explanation for the role of religion on the sub-state level, the implicit assumption is that a supra-state "nationalism" encompasses state level and sub-state level nationalisms.
+
+  The work of Miroslav Hroch attempts to diagnose religion as part of a state, although on a purely mechanical level. In the wake of the fall of the Ottoman empire, a multitude of Balkan nations began a process to nationalize and control the levers of religion. Retooling religion as a myth and symbol of the state, Balkan nations seized control of the clergy and began to promulgate ideas that the church "had served as a preserver of the nation through the dark centuries under the yoke" footcite:anscombe_state_2014, 146. Here, the interpretation of religion is strictly state level, Orthodox christianity could be partitioned among the various states and its pieces seized upon as a symbol and a tool of legitimacy for the new governments. The outlier was Albania, which had completely banned religion in the 1960's. Drawing religion into the political sphere on the national level would later branch into religion as an opposition channel to nationalism as well as in conjunction with nationalism footcite:anscombe_state_2014, 221. In addition, religion and the state can be defined /negatively/, or by the lack of it. The sheer existence of a heterogeneous mix of religions within a single nation can also circumscribe the parameters of nationalism, forcing nations to create national myths around it, causing nations to engage in writing history that emphasises the cosmopolitan and diverse details.
+
+  As Talal Asad asks us to examine religion not as a set of beliefs, but rather through the actions of the religious, it becomes necessary to define what is considered /religion/. Borrowing Applebaum's definition of religion as a creed, a cult, and a code of conduct, and a confessional community, it is possible to define the actors of religion. Therefore, this article attempts to evaluate the understanding of religion through how the scattered sectarian groups of BiH and Iraq act.
+
+  In the same vein that religion is evaluated by those that perform it, nationalism can also be evaluated through its actors. Despite many problems within the Iraqi constitution, such as vague definitions of federal powers, very few actors deny the fundamental legitimacy of the Iraqi constitution (TODO: is this really true? can this be corroborated with some sources, it seems like its true via actions, but a paper would be nice.). As a result, although the many sectarian actors in Iraq disagree over which portions of the state they should receive, they fundamentally do not deny that the Iraqi state exists, and that the source of power for the Iraqi state is the Iraqi constitution.
+
+  BiH acts much of the same way. The Dayton Peace Agreement (DPA), although much maligned, created an astoundingly complex governmental structure that attempts to bring harmony over the three confessions via a concessional system. The DPA itself created the Office of the High Representative, an institution with an open mandate, little accountability to residents of BiH, and awesome authority over the executive, judiciary, and legislature of BiH. However, in spite of this undemocratic institution, only one group, the Serbians, deny its territorial integrity [[footcite:requejo_coll_politics_2015][Kiel, pg 87]] , and even this movement within the Serbs does not command a majority. In addition, the Serbian movement to separate from BiH is partially fueled by Serbian politicians. Ultimately, within the BiH, all agree that the DPA is flawed and reform is needed, all agree that reform has been forestalled, and most agree on the territorial integrity of the state as defined by the DPA.
+
+  The actions of state level nationalism, then, is the act of writing the 2005 Iraqi Constitution and the reforms implemented in the DPA. Examining the 2005 Iraqi Constitution as well as newer reforms of governance in the DPA should provide some insight into how the actors within these countries engage with nationalism and religion on a state level.
+
+* The Model Applied to Iraq
+  Iraq's two nationalisms, the state level Iraqi nationalism and the sub-state level sectarian nationalism each negotiate their way with religion. Sub-state nationalism uses religion as the differentiator, although this becomes somewhat blurred when introducing Arab/Kurdish and Arab/Turkomen relations. However, this arises somewhat as a result of the unique status of the Kurdistan Regional Government within the Iraqi federation. On the national level, state-level nationalism attempts to arrest religion as part of the state. To look at these two layers, the sectarian nature of Iraqi substate nationalism must be examined in light of the 2005 constitution of Iraq.
+
+  The 2005 Iraqi constitution contains several notable features. The preamble itself is religious in nature, binding religion and Islam footcite:jawad_iraqi_nodate. Article 41 revives older, pre-1959, conceptions of personal status courts between Sunni and Shia, as well as allows experts in Islamic jurisprudence to hold positions within the judiciary. Article 140 is a clause that attempts to resolve disputed areas, especially the city of Kirkuk footcite:hanish_kirkuk_2010. Article 118 provides for space to enact laws regarding the form and status of autonomous regions. This was later filled with the Federalization Law, which provides not only the KRG with autonomy, but any three governorates within Iraq can form an autonomous region footcite:danilovich_iraqi_2016. Autonomous regions are empowered with a series of rights, the most notable of which allows autonomous regions to set up consulates in foreign countries.
+
+  At first glance, the 2005 Iraqi Constitution seems to be declared along distinctly sectarian lines, and is a mere document meant to delineate which portions of the state are appropriated to whom. Yet, the cancellation of the 1959 status law and its various amendments, which provides a foundation for civic nationalism, the status and nature of autonomous regions, and the overall religious tone of the document all reject the notion that the Iraqi constitution is simply a vessel for sectarian identities.
+
+  Article 2 of the Iraqi Constitution states that Islam is the religion of the federation, and that no law may contradict Islam, principals of democracy, or basic rights and freedoms [[footcite:danilovich_iraqi_2016][pg. 143]]. This "explosive constituional cocktail" [[footcite:danilovich_iraqi_2016][pg. 143]] rallies dicssusions about the compatibility of Islam and democracy. Yet, setting aside these theoretical arguments about the compatibility, the overall Islamic tone of the document was adopted by an agreement with the Kurds and the Shias, mediated by then-US Ambassador Khalilzad. Exchanging the adoption of personal status law and an Islamic document for federalism and guarantees that the personal status laws would not be applied to Kurdistan, an overall Islamic document was applied. However, this proves to be an interesting case for nationalism and religion. Two groups, who simultaneously agreed on the territories and boundaries of Iraq, also both agreed that it was possible to arrest religion and its actors to specific zones, in this case anywhere in Iraq except the KRG. This shows a fundamental agreement that the state itself is above the law, and a belief that state level nationalism is allowed to circumscribe where and how religion is applied (TODO: I'm unsure of how convincing this argument is, perhaps find some other sources as well?)
+
+  Contrasted with this agreement on what Iraq *is* on a state level, individual sectarian groups within Iraq have very little agreement on how much religion should impact each individual sectarian identity. These range from the Kurdish notion, which does not place a particularly high emphasis on religion and focuses on the more "practical" aspects of sectarianism, such as recognition within parliament, to the Shi'i, who themselves are fractured between those supporting Iran to those supporting Iraq. Even the Sunni sectarian identity is a relatively new occurrence, scholars such as Fandar Haddad have shown that the emergence of the Sunni identity was a relatively recent development following 2003. Furthermore, analysis of sectarian identities within Iraq /cannot/ leave out the existence of the smaller minorities, such as the Turkomen, the Christian, and the Assyrian communities. In order to form a coherent analysis, analysis of sectarian identities will approach it from the perspectives of the Hashd al-Shaabi, or the Popular Mobilization Forces. Although the PMF was rooted in Ayatollah Sistani's "mobilization" /fatwa/ of 2014, where he called for the defense of "country, people, and holy places" against the Islamic State, it has since grown to incorporate a heterogeneous mix of religions and identities. In this aspect, the PMF, which must be recognized as a distinct sub-state form of nationalism, as it does *not* cohere with the traditional policing and military mechanisms of the state, has renegotiated its complicated relationship to religion.
+
+
+  Estimated to contain about 45 brigades and over 130,000 members, the PMF today occupies a bizarre place within Iraq. While they function as independent military units following the gradual reduction of the threat of IS, the delegation of responsibility from the state, particularly the state budget, has simultaneously increased the number of people involved, while also splintering the dominant unity of the major religious groups. In essence, Sunni/Shia divisions have diminished as the Sunnis and Shi'is have come closer to the halls of state power. Fanar Haddad footcite:haddad_diminishing_nodate notes that five lists shared 80 percent of the vote in 2005, while nine lists shared 80 percent of the vote in the 2018 elections. Furthermore, the division of Shi'a between Iran aligned and Iraq aligned is a microcosm of the relationship between religion and sectarianism. The "Construction Bloc" in 2018 linked together the Fatah Alliance, a political party formed from PMF units broadly aligned with Iraq, alongside the Sunni National Axis footcite:haddad_diminishing_nodate. (TODO: possibly also talk about the split between the AAH and the Sadrist movement in 2004? They're both Shia parties).
+
+  In contrast to traditional beliefs that as actors acquire more political power, the centripetal mechanisms of the state force them to broaden their appeal, implying that actors become less religious as they move towards the center of the state, Iraq shows that sectarian actors can and will splinter, and continually realign themselves. While the core of the state is built on a shared civic identity, the unique situation of the Iraqi constitution, which binds Islam and democracy together, allows for sectarian actors to splinter and regroup along religious lines with time.
+
+
+
+* The Model Applied to BiH
+  The Dayton Peace Agreement (DPA) attempts to legislate over a heterogeneous country dominated by homogenous autonomous regions. Like Iraq, where the country can roughly be split into three sectarian "regions", BiH legislates this explicitly via the DPA. As the Croats, Bosniaks, and Serbs occupy over 90% of the ethnic makeup of the country, the history of ethnic cleansing has created a situation where nearly all Serbs, Croats, and Bosniaks live within a particular region. Split between the Federation of Bosnia and Herzegovina (FBiH), mostly Bosniaks and Croats, and the Republika Srpska (RS), mostly Serbs, each zone has its own administrative particularities. However, unlike Iraq, where the sectarian parties directly influence the state, another actor exists within BiH: the Office of the High Representative (OHR). The OHR answers only to the Peace Implementation Council, a committee run by foreign ministries and largely influenced by the US footcite:li_universal_2020, can dismiss members of the executive branch up to and including presidents at will, and interprets its own, open-ended mandate footcite:knaus_travails_2003. As a result, the OHR presents an unique case for understanding of religion and nationalism on the state level, how do ordinary residents of BiH interpret the OHR?
+
+  Trust in the OHR has decreased precipitously with time. In 2010, 87% of citizens in BiH considered the state of affairs in BiH "moving in the wrong direction" footcite:kappler_everyday_2013. While some theorize that this is due to the cleavages in public space accounting for ethnic and sectarian problems, it remains that the government's interactions *with* religion has been relatively muted. The imposed federalist structure of the DPA distinctly does not recognize religion as a "sect", choosing to prefer ethnic and national criteria [[footcite:requejo_coll_politics_2015][Kiel, pg 83]]. This is a similar "explosive constitutional cocktail" as the Iraqi constitution, as it leads into a merging of two identities: the state level one, defining the meaning of a citizen of BiH, and their sectarian one, what it means to be a Croat, Serb, or Bosniak.
+
+  Interestingly, this is the opposite of the Iraqi constitution. Whereas the Iraqi constitution explictly binds Islam and democracy and enshrines specific elements of the past, such as suffering under Saddam, the DPA is seen as illigetimate for scholars such as Esad Zgodić, who see the DPA as enshrining the current institutionalized divisions within BiH [[footcite:oklopcic_territorial_2012][pg. 43]]. As a result, state level nationalism within BiH remains in a grey zone with religion, by not expliciting binding religion to the state, it leaves religion unfettered as a tool for parties to play into.
+
+  On a sub-state level, religion has become the singular defining factor for the three groups [[footcite:requejo_coll_politics_2015][Keil, pg. 84]]. While Bosnia Serbs support the DPA due to the high level of autonomy provided, Croats feel disadvantaged by the system due to being the smallest minority, while Bosniaks are unhappy due to the calcification of the results of ethnic cleansing [[footcite:requejo_coll_politics_2015][Keil, pg. 88]]. These contesting identities have all leaned into religion as a marker of division, such as bishops calling for all Catholics to identify as "Croat" for a census footcite:malagic_bishops_2013. As Kiel notes, attempts at merging the meanings of "Bosniak" and "Bosnian" for Bosnian Muslims, where Bosnian Muslims self identify as "Bosnian" instead of "Bosniak" [[footcite:requejo_coll_politics_2015][Kiel, pg. 89]] shows how sub-state nationalism have attempted to use religion as a tool to promote itself. In stating that Bosnian Muslims are "Bosnian", the rejection of the "Bosniak" identity shows that they aspire for a greater role in religion within the national identity. Interestingly, this mirrors the "Shi'a-centric narrative of Iraqi nationalism" [[footcite:hashemi_sectarian_2017][pg. 118]]. In attempting to merge their specific sectarian identity and the state level identity, both groups have argued for a stronger central state. For sub-state level nationalism, this shows that these individual groups all have different interpretations on how influential religion is within a singular, sectarian identity.
+
+
+* Jihad
+  Jihad, ultimately, is an act left during the vacuum of a state. To understand this within Hinnebusch's model, jihad must be understood as both a supra-state level effect, such as the jihad in Bosnia, as well as simultaneously a sub-state effect, such as the existence of the Islamic State, a predominantly sSunni affair. As jihad is intimately tied with religion, examination of jihad along in terms of the actors allows the state to be defined /negatively/, that is, by what is lacking. If all elements of nationalism are categorized between supra-state, state, and sub-state levels, and jihad on the supra-state level takes certain elements, while jihad on the sub-state level acquires a different set of elements, then whichever elements left must be solely ascribed to state-level nationalism. From this, the jihad in Bosnia, which will be classified here as a supra-state affair, drew upon a series of universalisms and symbols that are remarkably similar to those used on the state-level, while the jihad on the sub-state level tends to fuel sectarian identities. This can be seen in the aftereffects of jihad, the former fighters of Bosnia jihad had a significantly different disarming process than those fighting against IS.
+
+  Following the onset of the Bosnian war in 1992, battalions called the /Katiba/ were joined by foreign volunteers, seeking to fight alongside Bosnian Muslims. Although these battalions were formed from members hailing from over a dozen nations, they all fought underneath the flag of BiH. However, the disarmament process for these fighters were particularly interesting. On a ground level, they inhabited the same role as UN peacekeepers, and adopted much of the same universalisms. Darryl Li adopts this point, stating that during the war, a distinct identity of "internationals" formed, based around people who "have no rigidly bounded body of membership" [[footcite:li_universal_2020][pg. 173]]. Li recognizes that this definition predominantly means the members of the "International Community", yet he puts forward that this notion should extend to the foreign fighters as well. Both groups draw their legitimacy of violence form outside the state system, and both groups seek to supplement it via coalition building [[footcite:li_universal_2020][pg. 174]].
+
+  Both groups also left and disarmed in the wake of the DPA, even as there were significant disagreements among the foriegn fighters [[footcite:li_universal_2020][pg. 191]]. Claiming that the "peace is final" [[footcite:li_universal_2020][pg. 192]], both the UN Peacekeepers and the /Katiba/ handed over the reins of violence back to the state. In this act, if the basis of analysis is taking UN peacekeeping /and/ the /Katiba/ as supra-state nationalism, then the ability to justify violence is simultaneously an action of traditional, secular nationalism, such as the UN, and religious nationalism, such as the /Katiba/. Therefore, in the constant negotiation of religion and nationalism, it can be seen that religion can completely supplant nationalism on the state level. As opposed to constitutions that attempt to arrest religion such as Iraq, or peace agreements that largely ignore religion such as the DPA, jihad, when applied from a supra-state level, can encompass state level nationalism.
+
+  Jihad on the sub-state level faces its own set of challenges. Unlike jihad on the supra-state level, which claims a set of features that are bound into a greater community, sectarian jihad specifically focuses on exotling the differences. Al-Qaueda faced this in the /Sahwa/ uprising, a tribal lead backlash against al-Qaueda in 2006. Tribal figures and Imams, supported by the US, mobilzed large groups of former insurgents and citizens against al-Qaeada within the al-Anbar province. Although the movement later fell apart for a myriad of reasons, economic reasons are largely ascribed as the main reason as the start of the uprising footcite:benraad_iraqs_nodate. Learning from this lesson, IS engaged in amenture ethnographic research in order to understand why Sunni tribes would choose to side with the US occupation footcite:whiteside_accidental_2020.
+
+  What can be gleaned from this process is the misunderstanding of the stratum of nationalism IS jihad resided in. Members of IS and al-Qaeda assumed their jihad was /universal/ within the Sunni frame, which was distinctly not the case in the /Sahwa/ uprising. Yet in many aspects, the /Katiba/ was universal, or at least drew upon a set of supra-national frames for a cohesive identity. What explains these differences, even as both jihads occurred within overwhelmingly Sunni regions?
+
+  The difference lies in the source of legitimacy for violence. The /Katiba/ fundamentally drew upon a set of ideas that were implicitly universal, Darryl Li describes how "Bosnians and Arabs alike could indulge in nostalgia w out waving away the force of contemporary nationalist and sectarian categories" [[footcite:li_universal_2020][pg. 156]]. Yet there was no shared sense of supra-state nationalism within al-Qaeda and IS. In Iraq, jihad was rooted within a sectarian identity, which led to the /Sahwa/ uprising.
+
+  Ultimately, what the differences in jihad between Iraq and Bosnia suggests that sectarian identities are /inherently/ brittle constructs. While a singular religious sub-state nationalisms can be powerful within certain moments, they are likely to splinter and fracture given sufficient reasons. However, religious supra-state nationalisms are more adaptable and do not share the same attributes. Paradoxically, the stability of supra-state nationalisms within the context of jihad makes them easier to demobilize, as in the case of the /Katiba/ largely disarming and leaving BiH, while both resistance against IS in the PMF and IS has taken on a sectarian tone. The applicability of the three tier model of supra-state to sub-state onto jihad itself shows that religion is analogous to nationalism.
+
+* Conclusion
+
+  In reading religion through its actors, we can see that religious actors have both used religion towards nationalism and nationalism towards religion. The changing nature of sub-state nationalism embodied in sectarian identities, such as those in Iraq, shows that the understanding of these identities are not static throughout time. While Anderson's concept of an "imagined community" requires an understanding of a homogenous time [[footcite:pursley_familiar_2019][pg. 13]], it can be seen that these sectarian identities do not abide by this understanding. These sub-state nationalisms fracture and refract, negotiating their position with religion across a spectrum. However, supra-state nationalisms, such as the /Katiba/, do rely on a concept of a homogenous time and belief. Applying Hinnebusch's three tiered model, I have shown that each strata within the model attempts to tackle religion in different ways within the context of Iraq and BiH, and that even in the absence of a state, this model is still applicable towards jihad. The current literature around nationalism and its relationship to religion is still relatively young within the field of nationalism studies, and additional research could be done with regards to the changing situation in Iraq, jihad and nationalism within Chechnya, and even more religiously aligned but secular states. The understanding of nationalism premised upon a secular civic state is antiquated, and pushing past that frame to incorporate religion as an active component allows for greater understanding of what nationalism is.
+
+
+  #+begin_export latex
+  \printbibliography
+  #+end_export

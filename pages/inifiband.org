@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       C574383F-C272-4B2D-A764-06BD320F7D38
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: inifiband
+#+TITLE: inifiband
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+https://blog.zhaw.ch/icclab/infiniband-an-introduction-simple-ib-verbs-program-with-rdma-write/

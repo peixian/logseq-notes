@@ -1,0 +1,100 @@
+:PROPERTIES:
+:ID:       3E45F9D2-BF34-410C-892B-C8699DBDB847
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: natural_language_inference_lecture
+#+TITLE: natural language inference lecture
+
+Tags: [[id:5D94563B-C811-4568-9983-6F934F9E13EA][ling-ga 1012 (nlp and semantics)]]
+* intro
+- Motivating question: ~can neural network methods do anything that resembles compositional semantics?~
+  - What's our metric? How do we know we've accomplished a goal?
+- also sometimes called recongizing textual entailment (rte) - same as [[id:D9C1DCB3-C95F-4778-BBA4-59E7AEBFC961][nli]]
+- example: ~premise~ -> ~hypothesis~, does the premise entail the hypothesis?
+  - Ido Dagan 05
+    #+begin_quote
+We say that T entails H, if typically, a human reading T would infer that H is most likely true
+    #+end_quote
+  - NLI entailment is a lot more loose than semantic entailment
+    - same looseness applies to contradiction
+- what is the meaning of a sentence?
+  - this is unproductive, we can't really know what """meaning""" is
+  - alternative question: what concrete phenomena do you have to deal with to understand a sentence?
+    - focus on behaviors instead
+    - for NLI to work, you need to understand a lot:
+      #+DOWNLOADED: screenshot @ 2021-03-15 19:24:05
+      [[file:2021-03-15_19-24-05_screenshot.png]]
+    - NLI is an /ungrounded/ tasks - we do not require systems to look at situations outside of langauge
+- if you know the truth condition of two sentences, can you work out if one entails the other?
+  #+DOWNLOADED: screenshot @ 2021-03-15 19:30:52
+  [[file:2021-03-15_19-30-52_screenshot.png]]
+- NLI asks us to reasonable about things even if we don't know what it means
+* datasets
+- datasets: [[id:3FE54C79-A712-4E54-94BB-FCFC0A4ED551][FraCas Test Suite]], [[id:620CBD2C-DFC8-4D03-B58D-95146BEBF192][Recongizing Textual Entailment (RTE)]], [[id:BB769AD5-6A9D-44AD-AD36-EA115BF2147F][Sentences Involving Compositional Knowledge (SICK-E)]], [[id:BF337BA8-CE57-41D3-89E3-595954E0F7D4][Stanford NLI Corpus (SNLI)]], [[id:C7A085F8-512A-49CE-A050-D01AE7E4D58C][Multi-Genre NLI (MNLI)]], [[id:9DA1533A-3E99-4701-93C2-A393DC478E29][Crosslingual NLI (XNLI)]], [[id:2035E5EC-FDE4-4F3C-9F38-FD5F3A81D096][SciTail]]
+- what about multiple events?
+  1. two sentences about a boat in different places, we assume same boat, say contradictoin
+  2. two sentences unrelated, label neutral
+  3. but then the boat question must be talking about neutral
+  4. but then contradiction only occurs when sentences are extremely general and broad
+     - thus we must impose a rule that sentences are almost always taken to mean the same event
+     - this means that contradiction == "any situation where two sentences can't be describing the same event"
+       - often times this can be referred to with photos (i.e. can two sentences be describing the same photo?)
+         #+DOWNLOADED: screenshot @ 2021-03-15 19:50:20
+         [[file:2021-03-15_19-50-20_screenshot.png]]
+         - [[id:BF337BA8-CE57-41D3-89E3-595954E0F7D4][Stanford NLI Corpus (SNLI)]] uses this
+         - [[id:C7A085F8-512A-49CE-A050-D01AE7E4D58C][Multi-Genre NLI (MNLI)]] goes for this, but goes beyond visual scenes
+- annotation artifacts
+  - somewhat possible to infer the premise from the hypothesis by the way it's worded
+  - models can do moderately well on NLI without looking at the premise
+    -
+    #+DOWNLOADED: screenshot @ 2021-03-15 20:00:40
+    [[file:2021-03-15_20-00-40_screenshot.png]]
+  - aka you can do well on these dataset measurements without /doing the nli task/
+  - has prompted a dataset design changes, such as [[id:B183BF01-4F8F-4B30-97CB-27E1C695B01C][Adversarial NLI (ANLI)]]
+
+* learning
+** Feature based models
+   - logistic regression, bag of words features on hypthesis, bag of word-pairs features to capture alignment, tree kernels
+** [[id:96963A7E-ADE8-41FD-AB02-4AB3768A647A][natural logic]]
+   - rules based
+   - non ML work on NLI is here
+   - formal logic for deriving entailments between a pair of sentences
+   - operates directly on words
+   - generally sound, entailment here means actual entailment
+     - but not complete, cannot detect some entailments
+     - requires clear structural parallels
+     - most NLI datasets won't work with this
+** theorem proving
+   - attempts to translate sentences into logical forms
+   - open-domain semantic parsing is still hard
+   - more difficult than natural logic
+** [[id:752931E3-E592-49D3-BF89-617FCDD816F6][deep learning]]
+   - 2015-17 - attempted to built DL systems that understood natural logic
+#+DOWNLOADED: screenshot @ 2021-03-15 20:25:46
+[[file:learning/2021-03-15_20-25-46_screenshot.png]]
+- machinery has gotten very complex, and BERT style models have replaced it
+  - [[id:51BC9BEA-4F6D-4438-87F8-F6322BA475A3][transformers]] have replaced it
+* applications
+- 3 major types
+  - direct application
+    - original motivation
+      - [[id:4A510681-307F-4E80-8575-609EB1E1F9C0][Fact Extraction and Verification (2018)]]
+    - multi-hop reading comprehension like [[id:E9EBAFB4-4E59-42E6-A0C4-9CF3DC31E70A][OpenBook]] and [[id:2F913183-69D2-4B13-8314-3239D3619918][MultiRC]] use it
+    - integrating [[id:BF337BA8-CE57-41D3-89E3-595954E0F7D4][Stanford NLI Corpus (SNLI)]]/[[id:C7A085F8-512A-49CE-A050-D01AE7E4D58C][Multi-Genre NLI (MNLI)]] trained [[id:4AAB32C7-F826-40B2-BE99-FF72BDA54ABE][ESIM model]] into a larger model in two places helps to select and combine relevant evidence for a question
+    - long form text generation can use NLI to prevent hte model from saying things that contradicts itself
+    - not as useful as a direct application
+
+  - nli as a research and evaluation tasks
+    - very used for benchmarking
+    - [[id:40ADA9B4-2F0C-414E-A9A9-83197BC043B1][glue]]
+    - caveat
+      - state of the art benchmark is very close to human performance
+      - in other words, state of the art datasets are not high quality enough, so the datasets are "solved"
+  - nli as a pretraining task in transfer learning
+    - if you teach a model NLI, it should be reasonably good at other tasks
+    - take a model, fine tune it on MNLI, and then fine tune it again
+    - this works well even in conjunction with strong baselines for pretraining like RoBERTa
+* beyond nli
+  - [[id:B61BD731-989D-415F-B6E1-1011C6CD69B2][winograd schemas]]
+  - [[id:0E236CF0-3F8E-4DD0-85F1-42B99B45EFEB][cyc]]
+  - [[id:05CEFE4A-E9BD-40BA-900D-52BB4F60DC56][atomic]]

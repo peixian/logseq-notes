@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       7D2BF056-C3D2-4571-8A6C-DC34F57BD636
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: recoll_from_emacs
+#+TITLE: recoll from emacs
+
+Tags: [[id:C6A0DE9C-3E50-49C8-9073-69912962D29B][emacs]]
+
+- https://oremacs.com/2015/07/27/counsel-recoll/
+- https://framagit.org/medoc92/recoll
+- https://www.lesbonscomptes.com/recoll/download.html#macosx
+- https://github.com/alraban/org-recoll

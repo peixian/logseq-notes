@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       CB68768D-8621-4F99-A501-C12762F8913A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: usuli
+#+title: Usuli
+
+[[id:5E5E8287-6677-468A-8B62-7AA634A3E5CC][islam]]

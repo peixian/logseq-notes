@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       29F8522C-A1E7-4ADF-820D-F1CD7257846C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: french_mandate
+#+TITLE: french mandate
+
+Tags: [[id:2F7E55D6-A8D8-41B6-B7D0-09A9D1A09B22][france]],

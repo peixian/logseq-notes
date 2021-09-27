@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6EA38002-80A3-4288-9550-754AF8DD5F63
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sufism
+#+TITLE: sufism
+
+Tags: [[id:5E5E8287-6677-468A-8B62-7AA634A3E5CC][islam]]
+
+* Before Sufism
+  https://www.degruyter.com/view/title/540989?language=en#.XtOkcd7oquk.twitter

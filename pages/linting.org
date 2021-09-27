@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       DF93DF22-1750-4E9B-9E59-B98AADF5399A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: linting
+#+TITLE: linting
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+* GH Super Linter
+  - https://github.blog/2020-06-18-introducing-github-super-linter-one-linter-to-rule-them-all/
+
+* [[id:9217175F-EC79-4828-9A53-FD9F1FD8C09C][python]]
+  - Black
+  - pyfmt
+  - pep8
+  - autopep8

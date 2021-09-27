@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       8DC6C469-65F5-4A50-85A9-2DFE16FB9B4D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: khalis
+#+TITLE: khalis
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+town 15km northwest of [[id:C9489459-B94B-4E62-9952-FC209619BEBB][baqubah]]

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       63B00AFD-AA5A-4BDC-9F27-67591DD59CB2
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: archbari
+#+title: Archbari
+
+[[id:5E5E8287-6677-468A-8B62-7AA634A3E5CC][islam]]

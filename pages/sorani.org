@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       D6C02B0A-E975-40F6-AA25-F0E1A970CC0C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sorani
+#+title: sorani
+
+[[id:5969E82F-DDCA-404B-A8F4-2C775C7ECF55][kurdish]]

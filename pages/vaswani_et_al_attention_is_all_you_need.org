@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       F8C0DB4C-8F38-4B07-A7BE-2A318B3DB74D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: vaswani_et_al_attention_is_all_you_need
+#+TITLE: Vaswani et al: Attention is All You Need
+
+Tags: [[id:51BC9BEA-4F6D-4438-87F8-F6322BA475A3][transformers]], [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]
+
+- https://arxiv.org/pdf/1706.03762.pdf
+- https://medium.com/@adityathiruvengadam/transformer-architecture-attention-is-all-you-need-aeccd9f50d09

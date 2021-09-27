@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       F865749E-FE10-4D67-B256-A742D9FA1490
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: khamis_al_khajar
+#+TITLE: khamis al-khajar
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]], [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]
+
+iraqi politician

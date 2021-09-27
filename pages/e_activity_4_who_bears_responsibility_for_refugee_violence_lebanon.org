@@ -1,0 +1,136 @@
+:PROPERTIES:
+:ID:       C73C6813-EE0C-47B2-A864-ADC315CB36F5
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: e_activity_4_who_bears_responsibility_for_refugee_violence_lebanon
+#+LATEX_CLASS: koma-article
+#+EXCLUDE_TAGS: noexport
+#+latex_header: \usepackage[citestyle=verbose-trad2,bibstyle=numeric, hyperref=true,backref=true,maxcitenames=3,url=true,backend=biber,natbib=true,ibidpage=true] {biblatex}
+#+latex_header: \addbibresource{/Users/peixian/Dropbox/bib/refs.bib}
+#+OPTIONS: toc:nil
+#+TITLE: Where does responsibility for violence suffered by migrants lie?
+
+* Outline                                                          :noexport:
+   Tags: [[id:2CA4ACAD-7B98-4C7E-AA8B-FC2E0ADE676A][conflict and violence]]
+
+  - Prompt: Where does responsibility for violence suffered by migrants lie?
+  - Refugee to economic migrant
+  - "Majority" of migrants suffer problems on their way
+  - Economic migrants have a sense of agency
+    - Mexico labors
+  - Uses Emma Haddad's definition because the UN definition is tinged with specific notions
+  - Management technique of segregative biopolitics
+    - segregative biopolitics produces racialized taxomonies
+    - Liberal humanism's depoliticalized solutions only offer temporary solutions
+      - Refugee agencies are a strong part of these
+      - Perpetuation of this state, between states, without rights, at the mercy of agencies is seen a form of violence
+  - Humanitarians governences pursues the double goal of addressing need and containing threat - life lived in relief
+  - All 3: palestinians, syrians, and foreign workers show the futility in strict understandings of what is a what isn't a "refugee" and "economic migrant"
+  - Lebanese government has active debate over rights of a refugee and "displaced person"
+  - Any actor that engages in segretaive biopolitics and constructs racialized taxonomoies
+    - Lebanese government for all 3 groups
+      - Active forms of racial taxonomy
+    - UNHCR and UNRWA for palestinians and syrians
+      - perpetuating the refugee stereotype
+
+
+
+** Lebanon in general
+   - Not party to the 1951 convention relating to refugees
+   - Explicitly against palestinian settlement
+   - Explicitly against syrian settlement in 2014
+   - Lebanon considers itself a country of "transit"
+   - Less rights for displaced
+
+
+** Palestinians in lebanon
+   - Largely occupied by UNRWA
+   - 58 official camps, 10 unofficial ones
+   - Labor riots, Palestinians are prevented from holding specific jobs
+   - PLO history
+   - Restricted in labor, violence against refugees
+
+** Syrians in lebanon
+   - Fear of deportation vs fear of deportation in palestinians - mental violence
+   - Usage of the term displaced persons
+   - Ambigious apporach
+   - Initially uncamped
+   - Political stalement
+   - Curfews imposed on Syrian refugees
+   - Encouragement of refugees to return to syria is an act of violence
+   - Drives people to black market, opening them up for exploitation
+   - MOU with UNHCR and lebanese government
+   - Pledge not to work for some refugees
+     - Permitted to only work in agriculture, construction, and environment ("cleaning")
+     - Racialized taxoonomy of who is and who isn't a "syrian"
+
+** Others in Lebanon
+   - Filopino workers and Sri Lankan domestic workers first
+   - keeps wages low
+   - over 209,000 work permits
+   - mostly from the philippines, sri lanka, ethopia, bangladeshi, nepal
+     - foriegness as another racialized taxonomy
+   - "race, gender, and class interlock here to construct a powerful narrative of superiority" - pg 290 lebnaon
+   - 2006 war, sri lankan workers locked up and left behind by their employers, died beneth bombs
+     - Kundbsejen Runjani
+     - Raniya Josef
+   - Lebanese public engages in racial taxonomies
+     - Prolonging separation of families <- violence
+
+** Conclusion
+
+   - The nexus of international organizations, public blaise, and lebanese government conspire to limit and enact varying forms of violence against all three groups
+
+* Draft                                                            :noexport:
+
+The working terminology of "refugee" will be the one provided by Emma Haddad footcite:haddad_refugee_2001, describing a refugee as "someone that has been forced, in a significant degree, outside the domestic political community indefinitely". The term "economic migrant" will be used as the contrary, describing someone that has *not* been forced, but still outside the domestic political community. Notably, these two definitions leave out the aspect of /influence/. It is commonly assumed that refugees, cut off from their homeland, have lower levels of agency and cannot influence history or their surroundings. Economic migrants are assumed to have "given up" the same agency when making the choice. However, this is hardly the case. Migrants leave a profound impact on the countries they arrive in and contribute to history as a "contribute to History to such an extent that they may be at crucial moments considered a generative force behind" footcite:blumi_ottoman_2013.
+
+If the migrant is taken to have agency and not remain as a mere object of pity, as Blumi describes, then the actor left with the most responsibility for violence incurred is simply the one that prevents the migrant from exercising their agency, namely states and organizations that engage in segregative biopolitics. Migrants who are denied their agency are seen as objects of pity, and the reproduction of this stereotype requires refugees to be passive victims.
+
+The structure of the essay will be the introduction of the concept of segregative biopolitics, the refugee/economic migrant continuum, and a short discussion on Hannah Arendt's people/territory/state trinity. Crawley's identification of categorical fetishism footcite:crawley_refugees_2018 will be used to set the stage for the main argument. The argument is then made that the UN, through the privilaging of refugees and usage of organizations such as the UNWRA that perpetuates the refugee stereotype, and bears equal responsbility to states that enact exclusionary policies. Two main points support the thesis: NGO's and the UN, through the channels of Permanent emergency and delcolonization footcite:duffield_development_2007 override the traditional social constraints. This strips away the identity of people concerned, resulting in the perpetuation of the refugee stereotype. Violence in this essay will be taken to expand beyond physical violence. Mental and temporal violence, such as subjecting migrants to substandard conditions without realistic hope of change is also another form of violence.
+
+Lebanon will then be presented as the case study, going through a brief history of each of the three groups. For Palestinians, their relatively long stay in Lebanon will be used as the basis to analyze them as what Crawley described as refugees that became economic migrants. Saad Hariri's 2017 speech of the census of Palestinian refugees footcite:houssari_first_2017, in a country where an official census has not been taken in decades, will be examined as a starting point. Since a census is key to circumscribing the political terrain, the census of Palestinian refugees is a notable one. In addition, the preamble of the 1990 Lebanese constitution states "no settlement of non-Lebanese in Lebanon", which is understood to refer to Palestinians shows how the Lebanese state degrades and causes violence against the Palestinians. In addition, UNRWA and the Palestinian Red Cresent and their effects of debasement upon the Palestinians footcite:chaaban_socio-economic_2011 are another source of violence.
+
+The Syrian presence in Lebanon will be provided as an example of the refugee status. Their status, having not be formalized into mechanisms of the state yet due to their shorter term presence when compared to the Palestinians, is one of precariousness. However, because the Syrians have not been completely subsumed under the umbrella of UN/NGO/state organizations, their employment opportunities, especially with regards to militant groups, exists in much more of a grey zone. This gives exposes them to different actors who play on the agency of Syrian refugees, which diffuses the responsibility of violence in a different manner.
+
+Finally, the foreign workers of Lebanon, who are the most easily classifible, will be presented. Given the revolving door status of these foreign workers, and the fact that there is exists no umbrella organization, the violence these workers face are diffused between the public, who employs them and cause the violence, and the Lebanese state, which fails to create laws to protect them. Human Rights Watch has documented many abuses against these workers footcite:noauthor_lebanon_2018. The foreign workers under the /kafala/, or sponsership, system are not mere observers as well, they have formed groups such as the Alliance of Deomestic Workers in Lebanon  or the Migrant Domestic Workers Union footcite:noauthor_we_2019 The inaction of the Lebanese state, including failing to address the problem of discrimination against non-Lebanese individuals footcite:arsan_lebanon_2018 is another form of violence.
+
+
+* Lebanon
+  :PROPERTIES:
+  :ID:       5CDD3405-BBEA-4DE9-8861-7E5FA99FE1B8
+  :END:
+
+Many migrants suffer violence in a multitude of forms on their path to their ultimate destination. Along the way, observers categorize migrants between two poles: either the migrant as "refugee" or a migrant as an "economic migrant". This dual classification, with significant grey area in between, affords people different rights and treatment along the way. The term "refugee" has legal standing in some countries and carries certain rights and access to international institutions, but implies a loss of agency. "Economic migrant" is more hazy, as the term typically implies choice, but does not have a set of understood rights footcite:crawley_refugees_2018. Both of these labels have shown to inaccurately describe current migration flows, yet their usage persists in common discourse. The result is the responsibility of violence is attenuated between the actors encountered by the refugees: destination governments, governments of states in transit, and the initial government that caused the migration. However, I argue that the actors with responsibility for violence against migrants is not any singular state or blocs of states, but rather /any actor that engages in segregative biopolitics against migrants/. This includes not only actors such as the EU or the United States, but also the UN.
+
+This essay aims to explore the status of /al-akharin/, or "the others" in Lebanon as a case study, and its relationship to the refugee-economic migrant continuum. The /akharin/ are composed of three groups: Palestinians, Syrians, and foreign workers. Lebanon hosts a significant population of Palestinian refugees, whose relatively long term of stay has muddled makes it difficult to cleanly classify them on either pole. Syrians, given the relative recency of the conflict, lean more closely to the refugee end, while foreign workers, imported from Nepal, the Philippines, and other countries, lean further towards the economic migrant end. In addition, Lebanon's political system, carefully balanced through sects that require careful management of biopolitics, presents a country that steadfastly refuses long term settlement of any group, whether they be Palestinian, Syrian, or foriegn workers.
+
+Aslı Iğsız describes "segregative biopolitics" as a force that creates racialized taxonomies footcite:igsiz_humanism_2018. This taxonomy on the international level constitutes what Iğsız terms "another terrain of population management", calibrated towards not only the process of migrating /in/, but also the process of deportation and assimilation. This is most clear on the topic of economic migrants in Lebanon, foreign workers often experience segregation in access to services based on their race [[footcite:arsan_lebanon_2018][p. 298]].
+
+Emma Haddad describes a refugee as "someone that has been forced, to a significant degree, outside of the domestic political community indefinitely" footcite:haddad_refugee_2001. This definition is more broad than the definition of refugee that the UN provides, which describes a refugee as someone who is unable or unwilling to return to their country of origin based on fear footcite:refugees_what_nodate. Haddad's definition of refugee distinguishes itself from the UN definition by including what the UN calls internally displaced persons, which are a category distinct from refugees for the UN. Because of this, I will use Haddad's definition of a refugee to also speak about IDPs.
+
+The term "economic migrant" will be defined as the opposite of a refugee, describing someone that has *not* been forced, but still outside their domestic political community. Notably, these two definitions leave out the aspect of /influence/. It is commonly assumed that refugees, cut off from their homeland, have lower levels of agency and cannot influence history or their surroundings. Economic migrants are assumed to have "given up" the same agency when making the choice, as the freely chose to leave their domestic political community. However, migrants leave a profound impact on the countries they arrive in and contribute to history as a "contribute to History to such an extent that they may be at crucial moments considered a generative force behind" footcite:blumi_ottoman_2013.
+
+If the migrant is taken to have agency and not remain as a mere object of pity, as Blumi describes, then the actor left with the most responsibility for violence incurred is simply the one that prevents the migrant from exercising their agency, namely states and organizations that engage in segregative biopolitics. Migrants who are denied their agency are seen as objects of pity, and the reproduction of this stereotype requires refugees to be passive victims. In order to understand what this looks like in Lebanon, we first turn to the status of the Palestinians.
+
+ Section I of the 1990 Lebanese constitution describes the territory of Lebanon, specifically stating "There shall be no segregation of the people on the basis of any type of belonging, and no fragmentation, partition, or settlement of non-Lebanese in Lebanon" footcite:noauthor_constitution_1996. The "settlement of non-Lebanese in Lebanon" is widely understood to be in reference to the 170,000 Palestinians currently living within Lebanon [[footcite:arsan_lebanon_2018][p. 262]]. In addition to this reference, Lebanon is not party to the 1951 UN Refugee Convention, nor is there any codified national legislation with reference to refugees[[footcite:janmyr_precarity_2016]]. As a result, the only formal rules governing refugees are enumerated with the 2003 Memorandum of Understanding, signed between Lebanon and UNHCR.
+
+  The delicate sectarian balance in Lebanon results in a highly politicized environment for refugees. The Palestinian presence is politically charged owning to the status of Palestinian Liberation Organization in the 1970's, when Beirut served as the headquarters for the PLO [[footcite:arsan_lebanon_2018][p.265]]. The Cairo Agreement, signed in 1969, provides for the right of Palestinians to both work and 'participate in the Palestinian revolution through the Armed Struggle' [[footcite:noauthor_sanctuary_1990]]. However, actions of the PLO, followed then by the Israeli occupation have eroded the working understanding of the Cairo Agreement, leaving Palestinians in a delicate position. Hezbollah's presence, even as Hezbollah becomes more entrenched within Lebanese domestic politics, has also not subsumed the Palestians' struggle, having linked itself in various ways during the second Intifada [[footcite:hirst_beware_2010][p. 272]]. All throughout, the presence of UNRWA has provided for the bulk of services, even though UNRWA exercises no physical territorial authority [[footcite:feldman_life_2018][p. 10]].
+
+  The relatively long stay of Palestinians has made them difficult to neatly classify within the poles of "refugee" or "economic migrant". As a result, the Palestinian presence consistently must renegotiate with at least three different actors at any time: the Lebanese state, the Lebanese public, and UNRWA. The failure of the Lebanese state to ratify legislation regarding refugees leads to violence in the form of neglect: the Lebanese state does not adequately provide or even enumerate what its responsibilities are. The Lebanese public exerts a more mental form of violence, sectarian balance and Lebanese domestic politics means the Palestinians are forever thought of as a political football. UNRWA acts as a "phantom authority" [[footcite:feldman_life_2018][p. 10]], an actor that prolongs the current Palestinian state by providing them with a fraction of the services that a state should provide. This too is a form of violence, prolonging the quasi-refugee state of Palestinans with no hope of assimilation into Lebanon, like a doctor who prolongs the suffering of a patient.
+
+  The Syrian condition in Lebanon is equally dire as the Palestinians, even though they might more easily slot into the widly accepted concept of "refugee". The sectarian problem again looms overhead, large influxes of Syrians risk upsetting the demographic balance. Initially un-encamped, various forms of movement restrictions have arisen, both on the state level and municipal levels [[footcite:janmyr_precarity_2016]]. Since 2013, the status of Syrians in Lebanon without entry permits is that they are "illegal", which then deprives them of certain rights. The most important barrier to legal status is the renewal cost of the residency visa, which costs 200 USD annually. Without such payments, refugees are subject to deportation action, including back to Syria. This has forced Syrian refugees to enter through unofficial checkpoints, or to return to Syria and re-enter Lebanon in order to receive a new residency visa without requiring to pay the renewal costs [[footcite:nrc_lebanon_consequences_2014]]. This follows the historical fact that making immigration illegal does not necessarily act as a deterrence, but rather forces migrants into extra-legal territory. The violence these Syrians face, either on their temporary return to Syria or at the hands of black market smugglers, are caused by the Lebanese state.
+
+  Syrians also face racially charged language during their stay in Lebanon. Only allowed to work in the sectors of agriculture, construction, and environment/cleaning, these sectors were chosen because government officials have reportedly believed Syrians are "experts" in these fields footcite:janmyr_precarity_2016. This racialized taxonomy of who a Syrian is aligns with the sponsorship system required for Syrians; Syrians are required to find a Lebanese sponsor who is liable for them footcite:janmyr_precarity_2016. These notions all constitute a form of mental violence against Syrians, subjecting Syrians to a racialized taxonomy of workers.
+
+  Foreign workers make up the last block of migrants in Lebanon. Under the same sponsorship system that exists in other places within the Middle East, Filopino and Sri Lankan domestic workers were first brought in, with workers from Nepal, Bangladesh, and Ethiopia following. Over 209,000 work permits are now active in Lebanon for foreign workers [[footcite:arsan_lebanon_2018][p. 288]]. Their choice to come to Lebanon initially makes them appear to be easily classified as "economic migrants", but they ecounter the same segregative biopolitics as Palestinians or Syrians. Without organizations like UNRWA and UNHCR to manage them, foreign workers face violence in the forms of prolonged family separation and risk of physical violence from the Lebanese public.
+
+  In 2006, Sri Lankan workers were locked up and left behind by their employers. Kundbsejen Rujani and Raniya Yoself were locked and left behind by their employers to die beneath the bombs [[footcite:noauthor_why_2007]]. Their employers, who charged them with "taking care of the house" [[footcite:arsan_lebanon_2018][p.292]] are responsible for physical violence against foreign workers, denial of movement during wartime scenarios poses extremely physical risk.
+
+  Beyond restrictions of movement placed on foreign workers by their employers, an effective segregation system is in place for foreign workers in their day to day lives. In places where foreign workers are rarely seen, such as beach resorts, foreign workers are often denied entry, under the assumption that they are "inherently uncleany" [[footcite:arsan_lebanon_2018][p. 298]]. In addition, restrictions on movement on foreign workers extends beyond the physical places they can and cannot go to within Lebanon, but /outside/ it as well. Many foreign workers, after working several years are asked by their employers to extend their time in Lebanon, or are frequently contacted after they have left Lebanon in order to get them to come back [[footcite:arsan_lebanon_2018][p. 294]]. Physical abuse and mental abuse of workers interlock within Lebanon, with the source being the Lebanese public that thrives off of low wage workers.
+
+  The status of /al-akharin/, whether it is within the status of Palestinians, Syrians, or forieng workers, is one of ambiguity. Each group must navigate Lebanon's various authorities, from the Palestinians under the shadow of UNRWA, to Syrians under the Lebanese state, to forieng workers under the Lebanese public. Yet the single thread among all of these is that each authority practices the politics of the other, UNRWA assumes responsibilities taken on by the state, inadvertently preventing greater integration of Palestinians into Lebanon, Syrians are actively discriminated against through legal mechanisms, and forieng workers face a social form of segregation by the public. Despite all the abuses, migrants in Lebanon have continued to exercise their agency wherever possible. Recent rounds of Palestinian protests on new restrictions against their working rights [[footcite:lama_al-arian_lebanon_2019]], along with domestic worker unions such as the Migrant Domestic Workers Union [[footcite:noauthor_we_2019]] both show that migrants in Lebanon are continually renegotiating their position. They are not passive observers, but rather they seek to exercise their rights through action. In essence, the responsibility for violence against these groups arises from those that participate in the segregative biopolitical systems within Lebanon today.
+
+
+
+\printbibliography

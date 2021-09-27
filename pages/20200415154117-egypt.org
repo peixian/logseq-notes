@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       98F9993A-F5AD-44C5-A732-8BBAD7FA6BEE
+:END:
+#+TITLE: egypt
+
+Tags: [[id:C61C3FE4-06C6-4621-818B-503E36E83B7C][middle east]]
+
+#+SETUPFILE:./hugo_setup.org

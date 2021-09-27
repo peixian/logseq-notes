@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       991DF321-7B0E-4282-B839-0548CF940CFB
+:END:
+#+TITLE: finance
+#+SETUPFILE:./hugo_setup.org
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]
+- https://en.wikipedia.org/wiki/Bucket_shop_(stock_market)
+- https://en.wikipedia.org/wiki/Secular_stagnation

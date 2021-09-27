@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       6F62AAA8-8FE6-495C-A9A4-00CCC6AF62D2
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: abdul_karim_qasim
+#+TITLE: abdul karim qasim
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]
+
+Military general that seized power in 1958 in [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]], died in a helicopter crash
+
+Promoted land reform and new social transformation
+
+Tentatively aligned with [[id:13A2D8AD-B386-4937-9054-78A0D2C91F54][iraqi communist party]]

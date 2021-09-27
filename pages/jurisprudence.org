@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       CC0EFB92-1661-4A5A-BE0D-46FB07D94241
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: jurisprudence
+#+TITLE: jurisprudence
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]
+
+- https://en.wikipedia.org/wiki/Pure_Theory_of_Law#V._The_Dynamic_Aspect_of_Law
+- https://en.wikipedia.org/wiki/The_Concept_of_Law

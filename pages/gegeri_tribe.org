@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       2C56813A-4CEB-49E4-BFEC-1CDF64EDA049
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gegeri_tribe
+#+title: gegeri tribe
+
+- part of [[id:5300F6C0-A5FB-4BA7-981E-4418903CEC22][iraqi tribes]], has often expressed different kurdish/arab identity when required
+  - when kurds are in control, they say "gegeri", when arabs are in control, they say "jejeri"
+- they have some amount of weaponized geneaology, ready to go and cooked up

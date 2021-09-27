@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       FF971CDC-1D67-4508-964D-CB543187C212
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: orleans
+#+title: orleans
+
+[[id:09F78F9D-3BF1-46F0-BEB1-0D90A4337B78][actor model]] framework for [[id:94FC4D5C-D198-4AE8-91F9-FE73C24E1AC0][c-sharp]]

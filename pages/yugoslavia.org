@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       16E45252-6292-4F14-BC5C-7DD9781C28B0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: yugoslavia
+#+TITLE: yugoslavia
+
+Tags: [[id:E2821844-9819-49F2-9CE7-CD04EDDB2E85][europe]]

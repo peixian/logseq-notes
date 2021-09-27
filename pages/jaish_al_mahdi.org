@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       7407E5FF-5CA2-4B36-8209-8F3FB542E45D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: jaish_al_mahdi
+#+TITLE: jaish al-mahdi
+
+Tags: [[id:5E8F7C5C-9300-41D5-A90C-8E7A4235E584][iraqi political parties]]

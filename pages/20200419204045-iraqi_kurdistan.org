@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       0B9FAF9E-0A55-44FE-96CE-D6D382CF6617
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+TITLE: KRG/iraqi kurdistan
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+- https://twitter.com/baxtiyargoran/status/1251954218589663235?s=12
+  - Joint investment with the KRG in terms of natural gas, end goal is for the KRG to export natural gas to the rest of Iraq
+- "The revolt of Sheikh Ubeydullah in the 1870s, which is sometimes known as the first nationalist uprising of the Kurds, aimed to establish a state for the Kurds on the territories occupied by Ottomans and Iranian" (Yeğen 1996:220)
+- Kurdistan Region of Iraq (KRI), where as much as 300 million scf/d of surplus gas can potentially be secured from the Khor Mor gas field in one year.
+- requires around 900 million a month in funding
+
+* software engineering in krg
+  - http://colleges.su.edu.krd/engineering/software-and-informatics-engineering-college/

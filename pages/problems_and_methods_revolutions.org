@@ -1,0 +1,55 @@
+:PROPERTIES:
+:ID:       5DB38B3B-4350-4A9F-B266-9FB2578AF7B9
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: problems_and_methods_revolutions
+#+TITLE: Problems and Methods - Revolutions
+
+Tags: [[id:FAD07E42-4924-452A-A438-6F6DADFAD1BE][problems and methods]]
+
+* Books
+- [[id:42D5EA33-3EE3-4A69-BDDC-2F590D82B9FE][Bayat - Revolution without Revolutionaries]]
+  - Questions
+    - He makes the neoliberal claim, yet ignores the asian financial crisis of 1997
+    - Places these revolutions temporally and within the same system
+    - Unspoken is the "contagion" of revolutions, that it spreads
+      - Is the contagion much like the finanical systems?
+    - Three lessons out of the 1997 criss were:
+      - dangers of sudden reversals of capital flows
+      - problems of "contagion" - where crisis spread for now discernable reason
+      - pro-cyclical nature of international finacnial markets
+        - capital flows tend to come in during growth and overheating, exit during downturns, exasterbating swings
+      - Changed how people thought about developing economies, maybe not better for them to open up
+    - talks about IMF, but misses the mechanics of it
+      - we elide all the bretton woods institutions into one
+        - IMF failed horribly in 1997
+        - World Bank, Inter-American Development Bank, Paris Club, private sector, CEDAR conference (to unlock lebanese money), etc
+    - Thailand/laos/indonesia/malaysia were not significantly more developed than the middle east, why no revolutions?
+    - I think his neoliberal frame is correct, analysis is slightly off
+    - Hong Kong and Lebanon - both financial clearing houses
+      - financial literacy of the lebanese, knowledge of eurobonds has dramatically increased
+    - His analysis leaves out the agencies of the state, in coalesing all the "revolutions"/"refolutions" into one, he misses out on how the state responds to such a turn
+
+* Focult & Iran
+  - What is legible?
+  - What is power being enacted
+
+* Hage
+  - Discern new realities
+  - Finding other realities
+  - Questions:
+    - To find those realities, you have to know how to look
+  - Politics
+    - Polities as monorealities?
+    - The praxis of politics does have an agreed upon and final answer
+      -
+
+* Revolutions
+  - Revolutions as spurning forward
+  - What qualifies as a "revolution"?
+    - Somewhat racialized qualification
+    - What enters the "halls of revolution"
+  - What tools do these texts give?
+  - Taking daily realities about
+  - The heritage of "revolution" matters because it is self legitimizing
+  - Focoult never used the term "revolution" because it was too welded to another term

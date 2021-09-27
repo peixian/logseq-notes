@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       20F63B8F-7B08-4A2F-84D0-643CC44E1303
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: kvms
+#+TITLE: kvms
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+https://www.amazon.com/gp/product/B003AVPV00/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1
+https://clo.ng/blog/detectionlab-on-esxi/
+
+https://clo.ng/blog/desk/

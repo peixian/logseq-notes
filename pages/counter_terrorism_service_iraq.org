@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       BD2CF075-A324-4F5B-B9C5-DBCE0E4E4A4D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: counter_terrorism_service_iraq
+#+TITLE: counter terrorism service (iraq)
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

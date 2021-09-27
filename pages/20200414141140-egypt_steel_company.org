@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       4068D367-6561-41C3-8F70-8F6BB39BEED5
+:END:
+#+TITLE: Egypt Iron and Steel Company
+
+Tags: [[id:98F9993A-F5AD-44C5-A732-8BBAD7FA6BEE][egypt]]
+
+- Discovery of ore deposits in 1954 was the main reason for the Egyptian Iron and Steel companies
+- Expanded capacity in 1970 with discovery of iron ore deposits in Bahairya Oasis in 1970's
+- Currently saddled with debts
+  - Meeting only 30% of production targets
+  - Moratorium on new hires
+- Formerly strong sense of [[id:715FED6E-63BF-460F-82B2-41FF2F17E586][organized labor]], now less so after various rounds of state privitization
+#+SETUPFILE:./hugo_setup.org

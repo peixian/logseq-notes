@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       FC370333-2EA5-47EF-B9D1-8E5291B7EEA8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hierarchical_navigable_small_world_graph
+#+TITLE: hierarchical navigable small-world graph (HNSW)
+
+Tags: [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]], [[id:2C626284-F74C-4110-83A7-AE07B6D0A451][algorithms]], [[id:6D58F45F-D8DA-497D-AB13-B42791369996][approximate nearest neighbor]]
+
+- https://arxiv.org/abs/1603.09320
+
+- One of the fastest ANN's
+- uses a search index with multiple layers in a proximity graph
+  - each node in the graph corresponds to a query vector
+- Uses a zooming in approach
+  - start at entrypoint at the top layer and recursively perform a [[id:F2E6B3EE-56CB-4D3F-9CE8-1290096EFC0A][greedy search]] [[id:5C23824F-3B4B-4350-A73C-E2578272490F][graph traversal]] until it reaches the local minimum
+
+
+#+DOWNLOADED: screenshot @ 2020-04-21 12:03:12
+[[file:2020-04-21_12-03-12_screenshot.png]]

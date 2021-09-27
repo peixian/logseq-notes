@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       2601444F-18B9-4E44-8F26-92F625BCB161
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: settler_colonialism
+#+TITLE: settler colonialism
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]

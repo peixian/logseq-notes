@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       F2622494-7FD0-4CE3-9AFC-F550C35AB972
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: yusuf_salman_yusuf
+#+TITLE: Yusuf Salman Yusuf
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]
+
+Also called Comrade Farhad
+
+General secretary of of the [[id:13A2D8AD-B386-4937-9054-78A0D2C91F54][iraqi communist party]] from 1941 to 1947

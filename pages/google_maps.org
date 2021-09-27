@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       3DE83B18-1DA8-4360-896B-2706B08AC1BF
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: google_maps
+#+TITLE: google maps
+
+Tags: [[id:FDFBFD94-8912-404C-AB4B-B95E1A0115F7][mapping]]
+
+https://joemorrison.substack.com/p/google-maps-moat-is-evaporating

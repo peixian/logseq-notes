@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       F709D506-FFCB-48F1-84AB-C2DB7E8AB990
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: inequality
+#+TITLE: inequality
+
+Tags: [[id:85CCE0EB-E358-4A63-A947-423CF92D79A2][economics]]

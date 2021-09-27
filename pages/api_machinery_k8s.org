@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       E77CAC60-0DAB-41BD-9BE6-91958F86C4AC
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: api_machinery_k8s
+#+TITLE: api machinery (k8s)
+
+Tags: [[id:A0A37A5E-A266-46B3-8148-D7A40A5F1F78][kubernetes (k8s)]]
+
+https://github.com/kubernetes/apimachinery
+
+- IMplements the basics of the type system
+* Kinds
+- Divided into API groups and versioned, leading to GroupVersionKind (GVK)
+- Each GVK maps to a single Go type, while a Go type can map to multiple GVK's
+- Do not formally map to 1-1 HTTP paths
+- Many kinds have HTTP rest endpoints used to access objects of the given kind
+  - some do not
+- by convention kinds use CamelCase
+* Resources
+- Grouped and versioned, leading to the term GroupVersionResource (GVR)
+- Each GVR corresponds to a base HTTP path, used to identify REST endpoints
+- By convention resources use lowercase
+* Rest Mapping
+- Mapping of a GVK to GVR
+* Scheme
+- Scheme connects Go with GVK, mapping of golang types to possible GVK's

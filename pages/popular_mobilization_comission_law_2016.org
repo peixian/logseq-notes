@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       E040B3F6-B6A6-456E-891C-CA56FD8AB488
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: popular_mobilization_comission_law_2016
+#+TITLE: popular mobilization comission law (2016)
+
+Tags: [[id:ADFAE0CB-D584-4CE9-9965-4E76C474546E][hashd al-shaabi (PMF)]]
+
+Almost a clean repeat of [[id:E040B3F6-B6A6-456E-891C-CA56FD8AB488][popular mobilization comission law (2016)]]
+
+* Additions
+- Expectation of represenative recruitment
+  - possible beginnings of legalized [[id:5FA1EE8F-1114-4C3A-B5B4-BA4753ED2E15][sectarianism]]?
+- Interprovince deployments under the sole control of the [[id:4F59D34B-7839-4FA8-A61F-97BCE0E62359][iraqi prime minister]]
+- parlimentary requirement to appoint divisional commanders
+- backdated to June 2014

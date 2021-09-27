@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       1662F688-F1BA-4C04-BD8B-927E2B771A68
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: jacques_lacan
+#+TITLE: jacques lacan
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]
+
+- ideas have contributed to [[id:BC69BD6D-62DE-4309-A194-59223FC65039][continental philosphy]]

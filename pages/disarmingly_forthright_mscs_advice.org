@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       B646BB49-F17B-4856-808C-31F43081192F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: disarmingly_forthright_mscs_advice
+#+TITLE: disarmingly forthright mscs advice
+
+Tags: [[id:5D4FD56C-329E-4881-AEBC-EFE6DDF0F29D][articles]], [[id:08700B30-6476-438A-A1CB-8452DB3DEA4F][grad school]]
+
+Read the man pages and check the return values!
+
+- Join ACM and IEEE, compete and practice good opsec.
+- Most code you read is broken, including:
+  - open source stuff
+  - industry code
+  - textbook code
+- Bookmark, study, and seek out good code
+- Learn the entire toolchain, details don't need to memorized right away but should be understood
+- Learn a scripting language, functional language, and a data retrival language, and learn C & C++ well.
+- *always* be shaping the thesis
+- Don't be afraid to ask for clarification
+- Professors only sometimes have hazy ideas of what's happening

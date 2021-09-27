@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       D73A67BE-5B2E-4E32-A802-AA229A8A2C50
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: law_37_amnesty
+#+TITLE: law 37 amnesty
+
+Tags: [[id:C21DF9B0-E7E9-44F9-91A2-EEA809BD6293][libya]]
+
+Libya passed a law (https://justiceinconflict.org/2012/05/08/impunity-rules-libya-passes-controversial-amnesty-law/) that grants general amnesty for all actions in the Feb revolution

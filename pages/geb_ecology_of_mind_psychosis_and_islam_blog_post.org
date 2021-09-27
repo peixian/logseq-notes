@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       DA1E2766-F19A-47E6-BEA1-9E1D0EA92257
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: geb_ecology_of_mind_psychosis_and_islam_blog_post
+#+TITLE: geb, ecology of mind, psychosis and islam blog post
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+[[id:02E1C06A-9354-4671-9F73-4D1D3E198024][Hofstadter - Godel, Escher, Bach]]
+[[id:238217F2-7536-4013-9147-49163DB26C16][Bateson - Steps to an Ecology of Mind]]
+Knot of the Soul?
+- Focaultian psychoanalysis in conjunction with self referential Godel?
+- [[id:1662F688-F1BA-4C04-BD8B-927E2B771A68][jacques lacan]]
+- thinking about the jurisprudence of the soul
+- Chinese Gleams of a Sufi light?

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       A438ACD2-2C1E-40EB-9502-74E5B69EA9FF
+:END:
+#+TITLE: Post-Ottoman Near East
+
+Tags: [[id:A63D0CEC-6083-46C5-BD8D-7A8D750FF1A4][classes]]
+#+SETUPFILE:./hugo_setup.org

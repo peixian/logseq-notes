@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       3DFB8ED4-B97F-4E08-A253-82C6F02BD325
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: lambda_calculus
+#+TITLE: lambda calculus
+
+Tags: [[id:DCF8D543-265E-4077-9437-9C449BA6036D][formal semantics]]

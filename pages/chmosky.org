@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       9C061A51-C534-41AD-9088-F1BE1E5AAD70
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: chomsky
+#+title: chomsky
+
+[[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:87C96564-858E-493B-9D83-1FBEC478055B][computational linguistics]]

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       AEBD70B2-6071-4AE2-AF89-6798FA19729F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: chopra_building_state_failure_in_east_timor
+#+TITLE: Chopra: Building State Failure in East Timor
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:FD50208D-FC0D-4FED-A164-1CCA8E3E0ADB][un and global governance lecture 5]]
+
+Talks about how [[id:CE25AFF3-B312-48CA-B722-9EA2CFB82AA6][east timor]]'s state building failure by the UN was largely because the UN failed to account for the local conditions on the ground, and the mission itself, with time, acted to preserve its own autonomy rather than helping the timorese

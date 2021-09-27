@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       1C1DF648-3DAE-40F7-9202-96CADE041578
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sadr_politics
+#+TITLE: sairun (sadr political party)
+
+Tags: [[id:5E8F7C5C-9300-41D5-A90C-8E7A4235E584][iraqi political parties]]

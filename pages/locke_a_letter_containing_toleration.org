@@ -1,0 +1,67 @@
+:PROPERTIES:
+:ID:       60533444-D6EB-4807-BD2C-15D700DEA561
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: locke_a_letter_containing_toleration
+#+title: Locke: A Letter Containing Toleration
+
+[[id:26E7CAC1-A095-488F-A538-7A39BAA0A4A0][religion and modernity]], [[id:4D07A7F6-AA30-415E-B718-B82E4151A482][religion]]
+* Notes
+- Writes about the toleration of religion and state, wrt to the magistrate and priests
+- Magistrate power reaches only certain civil confinements
+  - locke distinguishes between "civil interest": - "life, liberty, health, idolency of the body, property"
+- notes that the care of souls is not committed to the civil magistrate, it's committed to a higher being
+  - as a result, compelling people towards religion is bad
+  - magistrates and magistracy doesn't make humanity or christianity mutually exlcusive
+    - notes the parallels of persuasion and command, arguments and penalties
+      - religion as persuasion and civil as punishment
+  - fundalmentally argues taht laws are of no force w/o penalties
+    - is this true?
+    - there are laws that are unenforced who's purpose is to segregate different groups
+      - hart's theory of law
+      - jaywalking
+  - if we accept that laws and penalties are enforced from top down, this draws a relationship to [[id:8B3E233D-7371-4E24-98FB-A98A8E7FB165][al-Fadl: What Type of Law is Islamic Law]], who argued that islamic law is "bottom up"
+  - "penalties cannot produce belief"
+    - which is also somewhat strange in light of Iran-Iraq POW's
+- he takes a church to be "voluntary", from the ground up
+- when a magistrate starts imposing sect-based rules, man has replaced god as the arbiter of souls
+- what gives the church the right to excommunicate people?
+  - but excommunication cannot deprive people of physical property
+  - excommunication is a dissolution of the union and the person
+- what does toleration require from people in power?
+  - whenever church authority is sprung, the ecclesaticality confines it to the church and makes it unable to be extended to civil
+- if a man's soul is their own, who has authoirty over a neglected soul?
+- if nothing that belongs to divine worship be left to human discretion, how do churches have the power to order time and place of worship?
+  - locke states that religious worship is distinguished between the worship itself and the circumstances around it
+    - parts of worship are about worshiping *to* god
+    - circumstances are the necessary part of worship, but not directly *to* him
+- laws w/ church and the magistrate
+  - whatever is lawful in the commonwealth cannot be prohibited by the magistrate
+  - whatever is lawful for usage cannot be unlawful for acts of religious worship
+  - when no harm is caused by religious beliefs, the magistrate should not attempt to legisliate
+- if a magistrate cannot legislate for religious beliefs, what if he believes it to be for the public good?
+  - private judgement does not give right to be excluded from obligation of law, so the private judgement of a magistrate is not allowed to impose new laws on his subjects
+- views state power as absolute, but holds a strange understanding of what should be tolerated
+  - mentions the toleration of civil assemblies vs eccleiastical ones
+  - disagrees with civil assemblies are open, free to enter, where as religious ones are more private
+  - toleration of new assmelbies is not to be prejudiced
+* Discussion
+- how do we make the secular tractable?
+- religious of the sacred, relationship between the sacred and secular?
+- how do we go from religion, to secular, to political?
+- locke wrote after the civil war?
+- are the categories useful?
+- religion as a tradition?
+- locke ignores the idea of semi-religious law, such as muslim laws in India
+- can souls be bartered? is religion a property of man that cannot be taken or used?
+- power in premodern socities is seen as neutral, and seen as a fundalmental good to be acquired
+- is kubali khan establishing a hierarchy of state
+- religion is voluntary for who?
+- locke is (maybe) looking out for the interests of property owners
+- predication of reason? is reason the enforcer of the split
+- toleration, but toleration of what?
+  - muslims and catholics cannot participate, as they believe another primus
+  - spiritual subjects - ideal of spiritual subjects?
+- locke elevates protestant ideals of a civil religion, and then asks that other religions conforms to it
+- is locke drawing upon a protestant shared tradition?
+- locke sees toleration as the tool to protect both religion and property, where drawing clear boundaries allows both to be cultivated

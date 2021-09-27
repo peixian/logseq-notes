@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       C47113A8-3114-4274-B899-168BA1467A55
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ram_computer_memory
+#+TITLE: ram (computer memory)
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- http://landley.net/writing/memory-faq.txt
+* Stack Smashing Protector
+  - https://wiki.osdev.org/Stack_Smashing_Protector
+  - Process that helps detect stack buffer overruns by checking if a secret value is changed
+  - only detects stack buffer overruns

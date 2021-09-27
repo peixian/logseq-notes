@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       F81BE9BC-7846-4795-999E-B7DD66F4B6AA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: streaming_sql
+#+TITLE: streaming sql
+
+Tags: [[id:7AB8A2C8-564A-48E0-9543-657DCE782B88][sql]]
+
+- https://github.com/timelydataflow/differential-dataflow/blob/master/differentialdataflow.pdf
+- https://github.com/TimelyDataflow/differential-dataflow
+- https://materialize.io/

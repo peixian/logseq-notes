@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       C5E56873-2F9D-4CFC-B734-61274BFE5297
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: mecca_declaration_2006
+#+TITLE: mecca declaration (2006)
+
+Tags: [[id:D1946AF3-6885-4AE6-875E-9A682AE37A55][events]], [[id:5E5E8287-6677-468A-8B62-7AA634A3E5CC][islam]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+demanded an end to sectarian violence in iraq

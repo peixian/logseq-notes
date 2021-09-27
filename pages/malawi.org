@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       78FD4FB2-CEA3-4794-878C-9067B3F1333F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: malawi
+#+TITLE: malawi
+
+Tags: [[id:4716EF6A-B378-4010-B090-41D487EB8B72][africa]]

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       715FED6E-63BF-460F-82B2-41FF2F17E586
+:END:
+#+TITLE: organized labor
+#+SETUPFILE:./hugo_setup.org
+
+- self explanatory, this note is to anchor the others

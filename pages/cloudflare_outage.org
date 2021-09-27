@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       E26C2A70-898F-4FC6-8DCE-E9009A631AE2
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: cloudflare_outage
+#+title: cloudflare outage
+
+- https://decentralizedthoughts.github.io/2020-12-12-raft-liveness-full-omission/

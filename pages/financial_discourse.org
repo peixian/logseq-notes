@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       32B5C632-F0A2-43C4-8145-E92D35036CF8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: financial_discourse
+#+TITLE: financial discourse
+
+Tags: [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]], [[id:AB300662-3E3E-4452-A29D-468522B35C3E][languages/linguistics]]
+
+- [[id:4929AB0E-6B4D-4F89-99EF-3E268D20D174][buy side]] can say whatever they want, and the discourse has to follow it
+- [[id:B19CB7FA-A904-4F66-AFF3-230E15033ED3][sell side]] sees way more messages
+- chinese wall - private non-public information, people who trade cannot have leading advantage
+  - sell-side players must be separate from buy side ones
+- financial discourse has become less informal, no formal standard way to make a market

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       DD180B5D-5B1D-4A22-B901-3F25C1E38962
+:END:
+#+TITLE: nicaragua electricity
+
+Tags: [[id:541B7BAF-591F-4CF8-8292-D83E8FB9D095][latam]]
+Zotero: “FIXED FOR FAILURE: CORRUPTION IN NICARAGUA’S ENERGY SECTOR.”
+
+Nicaraguan electricty is expensive due to inefficiency and US sanctions. Transparency international has also ranked Nicaragua the second most corrupt country in the Americas after Venezuela.
+#+SETUPFILE:./hugo_setup.org

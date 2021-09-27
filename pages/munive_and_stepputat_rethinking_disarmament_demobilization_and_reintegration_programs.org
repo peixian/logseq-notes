@@ -1,0 +1,70 @@
+:PROPERTIES:
+:ID:       D7F872FE-2BDF-49F1-B1BC-BD02ED0DA540
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: munive_and_stepputat_rethinking_disarmament_demobilization_and_reintegration_programs
+#+TITLE: Munive and Stepputat - Rethinking Disarmament, Demobilization, and Reintegration Programs
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]
+
+Munive, Jairo, and Finn Stepputat. “Rethinking Disarmament, Demobilization and Reintegration Programs.” Stability: International Journal of Security and Development 4, no. 1 (October 26, 2015): Art. 48. https://doi.org/10.5334/sta.go.
+
+Talks about third generation DDR, and expanding DDR to incorporate ASANs
+* Introduction
+- 1990's DDR was largely used to deal with statutory and insurgent armies following peace accords
+- miltias and ASNAs have grown in recent years
+- DDR concept has increasingly been reconfigured to support
+  1. deal with armed groups without a negotiated peace accord
+  2. deal with situations of violence as well as a range of armed actors that control or influence population without being a part of peace negotiations or under direct state control
+- Stretching and blurring of DDR concept to adapt to changing contexts of violence called 'second generation ddr'
+  - includes effords to disarm and dismantle militias (ddm) and flexible sequencing, placing reintegration before others (RDD)
+- argues that the traditional DDR concepts might have to be abandoned to understand this new world
+* DDR and ASANs
+- DDR remains the default template to understand challenges of armed conflicts
+- number of people eligible for DDR benefits has grown, reflecting the problems of sharp distinctions between combantants and civilians
+  #+begin_quote
+programs comprise an ever-expanding field of interventions, such as access to land, cash transfers, and employment, and, as described in relation to the second generation of DDR, additional measures of area-based trust-building and weapons control have complemented the core of the DDR template
+  #+end_quote
+- people are still interested in DDR as a template
+  - sustained focus on technical assistance, knowledge management, and adaptation to new strategic challenges
+- experience shows that DDR fails to meet its aims in many areas, such as the [[id:394D057C-5937-4CF2-9587-3F14238485E4][central african republic]]
+* Assumptions about Demobilization and Disarmament of ANSAs
+  #+begin_quote
+because of the variation among ANSAs, it does not make sense to treat them in any uniform way. Due to the general idea that the state is defined by its monopoly on violence, armed non-state actors have usually been seen as diametrically opposed to stability and statehood.
+  #+end_quote
+  #+begin_quote
+ANSAs can be double edged swords in that they are sources of security as well as insecurity, and have potentially construction as well as destructive effects in processess of state building and peacebuilding.
+  #+end_quote
+- highlights how important it is that giving up arms is not seen as surrendering
+  - [[id:75E79884-8B96-4CAF-A5B6-A7CB8D99221D][international security assistance force]] in afghanistan mention that fighters removed from the battlefield it is critical that reintegration is never seen or profiled to them as an act of "surrender"
+    - the terms "surrender" and "laying down weapons" should never be used in any conversation, discussion, or reference
+  - [[id:882FEA3E-4AEB-49F7-868D-0A0AC6CADF9A][myanmar]] has this problem as well
+- states that [[id:086B0579-8C85-4CE5-9E65-EB8980FB2C2E][afghanistan]], [[id:C21DF9B0-E7E9-44F9-91A2-EEA809BD6293][libya]], [[id:BE234E49-5E49-4054-8308-6EDDCA766FAB][syria]], and [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]] will mean bypassing the standard DDR templates and focussing instead on short term power agreements
+  - I disagree with this, this replicates the issues of [[id:B3D0AE9F-4A1A-425A-928B-78D2C350F570][taif agreement]] and potentially hinders the state from reemerging in any real capacity
+- suggests that ANSAs might be more like gangs
+  - although we shouldn't take too many lessons from war on gangs
+  - but "organic" membership transition away from gangs and back into society may be useful
+- [[id:9347A041-2696-4CCC-B8F6-842549F366CD][uganda]] [[id:44848562-7F27-4906-95F4-6A9BFEC7A473][militias]] fizzeled pretty quickly after formation, perhaps we can just let it ride?
+  - many actions compel public authorities to act, although many may just fizzle out
+* Assumptions about reintegration
+  - challenges 3
+    1. assumed that combtants are removed from their communities when they are mobilized and should return to where they lived before and that they need special reintegration arrangements
+    2. demobilization is assumed to break links between command and control, so reintegration is seen differently
+       - friendship relations may not necessarily break
+              #+begin_quote
+       as Knight (2008) has argued), DDR should be viewed as a continuation of the political dialogue, entailed in peace talks, and that specialized and focused forms of assistance should be conceived of to enable the transofrmation of the organization of (in this case insurgent) armed groups.
+              #+end_quote
+    3. Reintegration aims to reduce the causes and liklihood of remobilization by reducing the economic motivation
+       - progams use employment and improved livelihood
+       - this assumes everyone is a rational actor, civil war has a way of making things irrational
+       - need to avoid reintegration back into poverty
+       - training needs to actually match demand
+       - [[id:764ACD02-9D61-4DA6-99D7-5DFD996843F6][un policy for post-conflict employment creation, income, generation, and reintegration]]
+       - talks about keeping youth off the streets
+         - somewhat of a gendered dynamic here
+       - actually very few empircal evidence to link unemployment, underemployment, or low-productivity employment to violence and war
+       - reintegration is a political process!!! cannot be conceived purely as an economic one
+* Conclusion
+  - little evidence that DDR programs produce all their desired outcomes
+  - DDR focuses on outputs and not outcomes
+  - some amount of mission creep has occured in [[id:E900796C-250A-474B-9054-C0C109C94A24][ddr]]

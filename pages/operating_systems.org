@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       B05008D3-364D-4C69-AE50-798AD2860551
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: operating_systems
+#+TITLE: operating systems
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- https://dedis.cs.yale.edu/2010/det/
+- https://research.cs.wisc.edu/htcondor/description.html
+- https://lwn.net/Articles/293575/
+- https://www.dragonflybsd.org/cgi/web-man?command=sys_checkpoint&section=2
+- https://www.dragonflybsd.org/cgi/web-man?command=checkpoint&section=ANY
+- http://ithare.com/bringing-architecture-of-operating-systems-to-xxi-century-part-iv-first-draft/

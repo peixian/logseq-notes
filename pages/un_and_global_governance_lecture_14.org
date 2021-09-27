@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       615E28D6-00DE-43C7-8920-3DC5C00B6045
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: un_and_global_governance_lecture_14
+#+TITLE: un and global governance lecture 14
+
+Tags: [[id:6377293C-2556-4797-9A2B-FED088E549BA][UN and Global Governance]]
+
+- sustaining peace
+- what capacities does the UN have to build resilance?
+- can local peacebuilders act autonomously?
+- "resiliance" is not a way to pawn off responsibility
+- varities of resilience
+- danger of the anglo-saxon approach is that "resilience" means nothing to locals
+  - has it been because of the global community's international donor class?
+  - 5 schemas
+    - governance from a distance
+    - responsbilization
+      - local communities have to do this themselves
+    - role of the state is to intervene with market imperfections
+      - market is the mover and shapers
+      - market lead responses
+    - market-lead enterprise
+      - resilience as "resistence" as "robustness" in france and germany
+    - humanitarian sphere
+- gaps in the international archiecture provid spaces that can be exploited
+  - jonathan joseph
+  - how much of this is rendering this legibile to a western audience?

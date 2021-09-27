@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       2B734785-0430-4D6F-9D40-A92B3A220FF0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: salah_ud_din_al_bitar
+#+TITLE: Salah ud-Din al-Bitar
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]

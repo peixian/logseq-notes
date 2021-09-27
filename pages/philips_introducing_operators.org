@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       8E06FDA6-A305-4833-9E55-97D68EF86D35
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: philips_introducing_operators
+#+TITLE: philips: introducing operators
+
+Tags: [[id:5D4FD56C-329E-4881-AEBC-EFE6DDF0F29D][articles]], [[id:A0A37A5E-A266-46B3-8148-D7A40A5F1F78][kubernetes (k8s)]]
+
+- https://coreos.com/blog/introducing-operators.html
+
+Introduces the concept of [[id:C0C3F07B-86B5-4367-B9DB-B69044C74AFC][operators (k8s)]].
+
+Talks about how statelessness is easy, but statefulness is very hard, especially with applications that need to manage state across multiple pods, such as [[id:4D8F680D-3043-42F2-8635-12EE3F560C8B][Databases]], [[id:F51C8A99-A7B9-47BF-8B9F-196D2B9AD6A6][monitoring]] systems, and API services

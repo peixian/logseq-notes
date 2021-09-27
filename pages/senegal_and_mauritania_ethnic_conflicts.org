@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       35E66B05-6AF1-47FF-A786-3CAEB19C309F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: senegal_and_mauritania
+#+TITLE: Senegal and Mauritania ethnic conflicts
+
+Tags: [[id:D05CA298-6146-4A73-97CB-58500280B5C8][ethnicity, nationalism, and conflict]], [[id:B7B4F31F-F378-488A-BD1D-BC9AEED8E129][mauritania]], [[id:7AFCD231-1C25-41CE-8126-1E098D9B4026][senegal]]
+
+Large ethno national sentinent and conflict in 1989-1991, started with dispute of farmers, lead to large scale evictions of Mauritanians from Senegal and afro-Mauritanians from Mauritania
+
+* Colonial Experience
+  - Largely shifting borders before the French came in
+  - French created two states with the Senegal river as the dividing line
+  - Senegal considered "black"
+  - Mauritania considered for the "Moors"
+  - Created various ethnic regimes in Mauritania
+    - Blacks in Mauritania were taxed as residents of Senegal
+  - Post colonial state powers in Mauritania are mostly held in the Moors
+
+* Setup
+  - Drought in the 70's and 80's pushed many into the Senegal river valley
+  - Resource scarcity and 1987 coup attempt in Mauritania lead to spreading tensions
+
+* Ethnopolitical Entrepneurs
+  - Arab nationalists within Mauritania
+  - Political powers in Senegal
+  - Land ownership reformers
+
+* What does this indicate?
+  - Premodern ethnic identification
+  - Modern nation state tensions
+  - Assumption of overlap of the political, territoria with the cultural

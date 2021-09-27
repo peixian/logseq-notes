@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       35846680-D69C-4C80-9494-F3375E5DDC93
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: aah_asa_ib_ahl_al_haqq
+#+TITLE: asa'ib ahl al-haqq (aah)
+
+Tags: [[id:C403589A-21CC-411A-A58E-1C2FDC31F72C][brigades]], [[id:ADFAE0CB-D584-4CE9-9965-4E76C474546E][hashd al-shaabi (PMF)]]
+
+* 2020-12-26
+
+#+DOWNLOADED: screenshot @ 2020-12-26 20:40:36
+[[file:2020-12-26/2020-12-26_20-40-36_screenshot.png]]

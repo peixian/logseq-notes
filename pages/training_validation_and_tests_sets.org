@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       CD85A4A6-CA4D-428E-B397-B625CE9ABC48
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: training_validation_and_tests_sets
+#+TITLE: training, validation, and tests sets
+
+Tags: [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]]
+
+https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets
+
+Splits the data up into what the model is fit, what it is validated against, and what it is tested against

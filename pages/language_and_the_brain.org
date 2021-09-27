@@ -1,0 +1,62 @@
+:PROPERTIES:
+:ID:       FAE3090E-CD47-4935-883F-E645AE46E1ED
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: language_and_the_brain
+#+title: Language and the Brain
+
+[[id:12580BAB-8366-47AD-A690-BAB8B773FA85][fall 2021 classes]]
+
+* Class 1
+  - What do linguists do?
+  - Linguists as part of cognitive science
+    - What is the consquences of this view?
+    - [[id:A47A6C46-2AB7-4845-BAD2-E5197E5148D9][Chomsky - Syntatic Structures]] as the dawn of generative grammar
+  - There exists some sentences of setnences such that it allows for recursive composition
+  - So once we setup the idea that English cannot be a FSM, what is the data?
+  - Langauges that use case markings
+    - case markings allow it to mtaintain a more consistent structure modulo case marking
+  - chomsky is unconcerned with the statistical metadata that arises from a corpus
+    - "internalist" - grammars and structures within a single sentence
+    - "externalist" - set of sentences within a corpus
+  - for sentences to make sense, we assign a phoronlogical structure to pronounce sentences
+    - which then means a sentence makes sense iff:
+      - syntax (chomsky is here) is correct
+      - phoronological sufficent (this can be derived from statistics)
+  - "there exists a faculty of language" - but is there a _single_ faculty of langauge
+
+* Class 2 - 9/13
+  - what is the neo-durkheimian relationship between langauge and thought?
+  - is language just a set of sentences?
+    - in the 70's, they thought that sentences are a sequence of words or sounds
+    - what does this leave out? -> hidden syntax and semantics
+      - syntax cannot directly be seen
+      - semantics sometimes contain a truth value
+      - oftentimes this forms the $\{form/sound, meaning\}$
+      - chomsky identified this as a triplet of $\{form, syntax, meaning\}$
+  - sentences in english are infinite due to recursion (aka not finite structured)_
+    - chomsky also distinguished between "lists" and "conjunctions"
+    - lists as $\mathbb{N}$
+    - however, langauge (or at least english) is "uninterestingly" infinite
+      - as you push further out and generate more sentences, the sentences themselves become regularized
+  - for chomsky, grammar is the compression of language, and if you memorize words you can generate an infinite set of sentences
+  - also must make a distinction between "actual" and "potential"
+    - "actual" sentences are bound by the maximum speaker time or computation time
+    - "potential" sentences are the infinite set of all sentences generatable
+  - what are the grammatical rules for telling us if a word is an actual word?
+    - "moak" -> is this a word?
+    - we have grammars to say this is a potential word, but to reject a word, we actually do a semi-exhaustive search through our internal dictionaries to find out
+  - some words enter the vernacular after it is used
+    - "jabberwocky", for example
+  - how do we distinguish words that are archaeic/low frequency from words that are incorrect?
+    - side note [[id:ACE0CB1E-B2C4-4057-BA71-8754CF588D4C][finite state languages]] can delinate infinite sets
+    - this is known as the "[[id:3C4FC419-136F-4E3D-9CE7-9250895A9649][strong and weak generative capacity]]"
+  - what was the theory of cognitive science before the 60's?
+    - behavioralism
+  - _learning is the intentional modification of the environment in order to produce different future behaviors_
+  - what is actually being "learned" when you acquire a langauge?
+    - a child does not do a blind word/object association (i.e. this is a ball)
+    - the faculty of langauge extends beyond this into "teaching" or "learning" a grammar and a generative capacity
+  - grammars have variance built in
+    - this is why we speak differently
+    - [[id:DBF4E5C3-D7C8-4E4E-B881-A0257FAA345E][language accomodation in arabic]]

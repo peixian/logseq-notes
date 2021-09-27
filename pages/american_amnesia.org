@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       ABA986CD-3EFF-405C-AE7F-EAD1D08EF3C0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: american_amnesia
+#+TITLE: american amnesia
+
+Tags: [[id:B4710362-365E-423D-8986-F970DA78CCFB][vietnam]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

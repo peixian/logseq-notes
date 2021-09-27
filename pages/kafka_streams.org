@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       811C5EF1-57D4-4FC9-88D7-CFBD64E1789D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: kafka_streams
+#+TITLE: kafka streams
+
+Tags: [[id:B99D51CF-2AED-4239-831F-66A4F026B8D5][kafka]]
+
+API on top of producer and consumer that allows for defining transformations on top of input and output streams, extremely general

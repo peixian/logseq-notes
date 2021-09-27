@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       F159A5EE-A701-4C1D-8391-C88B919924C0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: qassim_dahif_al_zubaidi
+#+TITLE: qassim dahif al-zubaidi
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:ADFAE0CB-D584-4CE9-9965-4E76C474546E][hashd al-shaabi (PMF)]]
+
+Former hashd finance minister, assassinated in 2018

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       13C09225-ACC2-4A6D-903F-2C6359030C13
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: eink
+#+TITLE: eink
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+* Function
+- https://twitter.com/sqfmi/status/1178018736684580865
+- Uses small liquids upon white fluid
+- mechanically moves the liquid in order to generate display
+* Products
+- https://www.waveshare.com/product/displays/e-paper/eink-disp-103.htm?sku=17615
+- https://item.jd.com/100009643325.html
+  - https://www.gizchina.com/2020/12/22/hisense-a7-5g-reading-smartphone-released-starting-at-1999-yuan-306/
+* Forums
+  - https://forum.ei2030.org/t/state-of-the-art-eink-tech-in-2020/53
+  - https://www.mobileread.com

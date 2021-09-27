@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       2AAEFE6A-3D1C-4EA0-8E33-AC48101A105B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: state_machines
+#+TITLE: state machines
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]

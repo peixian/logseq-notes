@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       9DBB8583-2A18-4C72-B750-4BFA5148032A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: blockchain
+#+TITLE: blockchain
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       6B209564-9A50-44CB-88EA-4A076E563850
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: taliban
+#+TITLE: taliban
+
+Tags: [[id:086B0579-8C85-4CE5-9E65-EB8980FB2C2E][afghanistan]], [[id:44848562-7F27-4906-95F4-6A9BFEC7A473][militias]]

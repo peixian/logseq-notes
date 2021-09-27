@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       5DD97656-107E-4079-865A-6E47BE8922C8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: queues_and_visibility
+#+TITLE: queues and visibility
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+- why do some systems have very fine grained visibility metrics?
+- because they are lossy systems
+- non-redundant systems tend to have more granular monitoring
+- important to keep in mind
+- never want to have lossy monitoring and and non-redundant systems
+- complexity is orthogonal to monitoring granularity, it's the information loasyness

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       2B1764E5-E51D-408F-B427-E4BE82445307
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: arista
+#+TITLE: Arista
+
+Tags: [[id:851F079B-17D1-411F-988B-1248B5E0579D][networks]]

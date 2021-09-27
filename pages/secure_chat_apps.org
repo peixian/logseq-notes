@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       87C732A7-3DA8-4542-8584-E078C89AD7A1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: secure_chat_apps
+#+TITLE: secure chat apps
+
+Tags: [[id:98976F6B-9E67-4331-8141-20D7136B5476][crypto]]
+
+- both Signal and Telegram use phone numbers for identification
+- Telegram allows the usage of an username *in addition* to the phone number
+- Whatsapp also requires a phone number
+- Telegram/Whatsapp/Signal are all centralized and non-federated
+  - Status attempts to decentralize it
+- Status rents a username via an ethereum token or the status token
+b

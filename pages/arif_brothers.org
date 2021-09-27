@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       5F94B031-05E0-4207-ACAD-139E344A05F4
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: arif_brothers
+#+title: 'Arif brothers
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]
+
+1960's rulers of [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

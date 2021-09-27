@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       5C09008D-C61B-4A8E-BB77-9CF0085D90F6
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: project_ideas
+#+TITLE: project ideas
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]
+
+Random project ideas, notes, etc:
+- https://news.ycombinator.com/item?id=23735676
+- https://news.ycombinator.com/item?id=23592788
+- [[id:E01FF835-475C-4DE4-BA04-9C0E89F252B9][robot36]] compatible bootloader - boot over audio

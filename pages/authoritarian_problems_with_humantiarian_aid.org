@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       84C25B75-42A4-4C6A-8CDA-42218BBA2FAF
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: authoritarian_problems_with_humantiarian_aid
+#+TITLE: authoritarian problems with humantiarian aid
+
+Tags: [[id:EB08EF17-A71C-4366-A5E8-8449D54A3C21][humanitarian aid]]
+
+Aid is often authortiarian, it is a top down approach that classifies people, and presents problems of gender
+
+Images of women and children are priortized

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       4E775209-0B4A-4BE2-8303-136CF9064005
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: capability_trap_blog_post
+#+TITLE: capability trap blog post
+
+Tags: [[id:D51D4006-2F02-4305-BBEF-5EDEFDCFD334][writing]]
+- capability trap
+  - fools managers
+  - working harder/working smarter/shortcuts/etc
+  - similarities to agile
+- software devs always have to balance between learning and working
+  - https://embeddedartistry.com/blog/2020/11/16/what-is-the-proper-balance-between-working-and-learning/
+- software devs also have to balance working on technical debt vs new features
+  - https://dev.to/developertea/maintainability-w-robby-russell-part-1
+  - https://dev.to/developertea/maintainability-w-robby-russell-part-2
+- bottlenecks are the problem w/ capability
+  - https://www.brookings.edu/series/bottlenecks-a-new-theory-of-equal-opportunity/
+  - https://commoncog.com/blog/consume-what-you-can-do/
+  - https://fortelabs.co/blog/theory-of-constraints-101/
+  - >In the past, job security came from not losing your job. Today, job security is the ability to get your next job, not keep your current one.
+    - from https://commoncog.com/blog/career-moats-in-recession/

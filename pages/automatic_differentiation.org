@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       189CFB68-FFC5-4E1F-AF8F-F03D6829AE67
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: automatic_differentiation
+#+TITLE: automatic differentiation
+
+Tags: [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]], [[id:0C55E344-F9AE-4584-B54F-83EC2FCE9062][math]]
+
+Mathemtical principals to implement [[id:AD3866DD-DB5C-4418-8471-DB1DE6F33DC0][backprop]]
+
+https://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/slides/lec10.pdf
+
+https://j-towns.github.io/2017/06/12/A-new-trick.html

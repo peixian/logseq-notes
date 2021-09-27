@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       025B5FBB-A8D1-4732-AB11-1DABD7BF0001
+:END:
+#+TITLE: Dodge - Rethinking Political Identities in Iraq After 2003
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:9BF599C3-7B0D-4E00-9E42-06CC50D30B17][Nationalism and Outsiders in the Middle East]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+Uses the 'Bourdieusian method' of political field where people vie to understand the influence of de-Ba'atificiation and the creation of the Muhasasa Ta'ifa appointment system.
+
+Typical sectarian thesis is that ruling elites use sectarianism in order to bolster their own legitimacy. This assumes both a pilable public and awesome power of information spread.
+
+[[id:64FE24B5-2EAA-4819-8E1D-8C0DBF239DC7][habitus]] is used as a foundation for the understanding of political parties in Iraq, the mixed big-tent parties with intensely sectarian ones is because “it sees that agency as constrained by the boundaries of the possible set by the political field they are competing in as well as their own habitus” - pg 119
+
+Similar to [[id:41916275-B19E-48AF-90C7-EC4C38D7BADA][Hinnebusch - Identity and State Formation in Multi‐sectarian Societies]], where sects are powerful but doesn't cut neatly alongside class, leading to some mixture.
+
+- "Declaration of the Shia of Iraq" asserted a Shi'a Islamist principle originated by exiled elites by Saddam that later came into power.
+  - Started in Salah al-Din
+
+- Beginning of the Mutahasa Ta'ifa was based on a warped divided nature of Iraq: the conicul was represented along sectarian blocs of 13 Shia, 5 Kurds, 5 Sunnis, 1 Turkoman, and 1 Christian
+
+- 4 ayatollahs, sistani is the marjah
+
+- Sistani's not-a-blessing of the UIA allowed it to win a significant majority in the 2006 elections, but frustration due to later corruption had him withdraw explicit support
+
+- _The approach developed in this paper, broadly a “Bourdieusian” one, does not seek to discount the explanatory veracity of the sectarianisation thesis or the ethno‐symbolist approach. However, it seeks to broaden out the explanation and understand the causality behind it. The strength or weakness of these different identities is shaped by competition within political fields. The sectarian rhetoric that flourished after 2003 was not a return to nor a rejuvenation of previous identities suppressed under Ba'athism. Instead, the success of sectarian entrepreneurs was driven by the way that the political field and the capital being fought over within it was transformed by the invasion and its aftermath._ - pg 120
+#+SETUPFILE:./hugo_setup.org

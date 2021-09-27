@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       AD3866DD-DB5C-4418-8471-DB1DE6F33DC0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: backprop
+#+TITLE: backprop
+
+Tags: [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]]

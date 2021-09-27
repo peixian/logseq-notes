@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       9160BE5A-01C5-459A-8E4A-66736BF2DF46
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gross_national_income
+#+TITLE: gross national income
+
+Tags: [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]]

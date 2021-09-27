@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       08700B30-6476-438A-A1CB-8452DB3DEA4F
+:END:
+#+TITLE: grad school
+
+#+SETUPFILE:./hugo_setup.org
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]
+
+- http://matt.might.net/articles/how-to-email/

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       6D1DFA89-738A-4EA9-B2C3-38A22B753FAF
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: access_now
+#+TITLE: access now
+
+Tags: [[id:7FEA6B9D-8C21-4614-8F22-38F3D514D378][ngo]]
+
+Contact from NYC Mesh: peter@accessnow.org

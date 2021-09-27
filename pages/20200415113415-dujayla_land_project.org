@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       B91A9E4D-0BCC-4FDB-A377-CC56F26E5F01
+:END:
+#+TITLE: dujayla land project
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]], [[id:C61C3FE4-06C6-4621-818B-503E36E83B7C][middle east]], [[id:7516C9D2-C858-4B4F-8608-4610982B233B][development theory]]
+#+SETUPFILE:./hugo_setup.org

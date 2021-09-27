@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       DFDA3B4E-6216-4463-A8B3-37A0CB0F5B93
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: loss_function
+#+TITLE: loss function
+
+Tags: [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]]
+
+Calculates the vector difference between the desired state and the current state

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       F1DA7C7D-3D50-4BE4-AD2C-9D15EE0FB089
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: explicit_knowledge
+#+TITLE: explicit knowledge
+
+Tags: [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]]

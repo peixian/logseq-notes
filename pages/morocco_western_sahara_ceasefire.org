@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       196124FF-9245-4866-861D-057ED59996B9
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: morocco_western_sahara_ceasefire
+#+TITLE: morocco/western sahara ceasefire
+
+Tags: [[id:7E03627A-0076-40EF-BC47-F6674D5F6F46][morocco]], [[id:9B57158F-216E-46C3-838B-E36280A6D574][western sahara]]
+
+[[id:7E03627A-0076-40EF-BC47-F6674D5F6F46][morocco]] and [[id:6FAA9F52-7D3D-415E-A915-839547247C93][polisario front]] engaged in armed conflict between 1976 and 1991 when the [[id:7C05085A-564D-4186-B4E7-AD9DC612310A][un]] brokered a peace agreement, with a promise of political process to follow

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       816F355C-8A52-4208-82F8-BFC00A110C5C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: principa_mathmatica
+#+TITLE: principa mathmatica
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]]
+
+Book in 1913 describing how to construct axioms for a mathmatical symbol without being self-referential

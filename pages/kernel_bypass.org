@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       19792D91-9C61-4200-A9C4-9B523D13DA41
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: kernel_bypass
+#+TITLE: kernel bypass
+
+Tags: [[id:23A8ABE3-EBAF-4E73-9896-691178B03933][kernel]], [[id:851F079B-17D1-411F-988B-1248B5E0579D][networks]]

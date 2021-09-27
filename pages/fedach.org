@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       86DFB79D-F16B-417E-810E-BC260804CE44
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: fedach
+#+TITLE: fedach
+
+Tags: [[id:6A6D5789-4F65-48F0-8710-6937412D5F70][FED Powers]]
+
+FED Automated Clearing House

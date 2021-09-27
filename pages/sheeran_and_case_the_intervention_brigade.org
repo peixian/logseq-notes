@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       2805979D-4C40-4618-906F-442DBAEF689A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sheeran_and_case_the_intervention_brigade
+#+TITLE: Sheeran and Case: The Intervention Brigade
+
+Tags: [[id:CFDF435E-7655-449A-BE22-8926D8F1CD40][un and global governance lecture 6]], [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:CC0EFB92-1661-4A5A-BE0D-46FB07D94241][jurisprudence]]
+
+Sheeran, Scott, and Stephanie Case. “The Intervention Brigade: Legal Issues for the UN in the Democratic Republic of the Congo,” n.d., 28.
+
+- Talks about how the formation of the Intervention Brigade in [[id:26B73C8E-E769-417D-8383-E17DF3E1FE9E][united nations stabilization mission in the democratic republic of the congo (MONUSCO)]] was highly controversial and bold
+- UN had not really considered the legal implications of having the entire brigade be partial to international humanitarian law
+- Therefore the intervention brigade is a legal target, but leaves open the question about "regular" peacekeepers and UN staff
+- Also does not elaborate on the right of the UN to hold prisoners, MONUSCO operates on some interim rules
+- No longer impartial, as regularly required for peacekeeping operations
+- unclear legal issues, the UN sees the intervention brigade as the only parts of MONUSCO subject ot legitimate targeting, but the ICRC does not

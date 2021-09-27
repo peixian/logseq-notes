@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       D14EFE4A-A27F-441C-846F-1C53B16EA670
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: michel_aflaq
+#+TITLE: Michel Aflaq
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]

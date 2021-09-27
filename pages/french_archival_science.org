@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       239639D6-39A4-42E3-B27A-61357A8E9B2A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: french_archival_science
+#+TITLE: french archival science
+
+- Spearheaded in the wake of the [[id:1A38D3D4-3CAF-4848-B357-1732DC310CB7][french revolution]]
+- _Including conceptualization of public status of documents and the state's responsbilities to guard both the nation's heritage, and most important, to make that heritage widely accessible_ - [[id:B1E26B6E-6A74-4E81-8A49-B18EF81BFDAE][DiCapua - Gatekeepers of the Arab Past]] pg 100
+
+* Principals
+  1. /respect des fonds/ - Reliance on Provenance
+     - Assumes that records have orginalized from purposeful organized activity and have relationship to one another
+     - Records should be kept within the same order they arrived, allowing sets to be reviewed in totality
+     - Unique quality of documents arise from the relation to their source
+  2. /respect pour l'ordre primitif/ - Respect for the Primitive Order
+     - Documents should not be reordered
+     - A series was constructed with reason, and the series order itself is a document
+     - Each record is a part of an organic whole

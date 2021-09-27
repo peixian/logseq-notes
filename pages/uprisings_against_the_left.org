@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       B6F70C19-663B-4C24-BF66-EA54BC44F562
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: uprisings_against_the_left
+#+TITLE: uprisings against the left
+
+Tags: [[id:F6BB188D-BA42-48AA-958E-21CE91DC147C][talks]]
+
+Anthony Alessandrini
+- end of "white populism" as a fever dream
+- https://jps.library.utoronto.ca/index.php/des/article/view/18630
+- white working class fails to achieve a class conciousness
+  - engagement and move towards white elites
+- is it a violence indentended to maintain the current state of violence
+- constellation of alternatives  - angela davis
+- right using BLM and antifa, by terming these over and over, have really set the stage for discussion
+
+
+Cubukcu Ayca
+- leftwing in one place may be rightwing in another
+
+Alejandro Velasco
+- reading the last 15-20 years from leftwing uprisings to rightwing countermovements
+  - there is something that is /the right/ and /the left/ and the /middle/
+  - major challenge of the right in [[id:541B7BAF-591F-4CF8-8292-D83E8FB9D095][latam]] is not in policy or method, but with epistemic on revisionism on vocabulary
+- right came back to power through deft usage of parlimentary procedures, and strategic deployment of liberal discourses
+  - whitewhashing of liberal values grounded in the supremcy of individual rights
+- usage of the liberal's inability to see their discourses being used in another fashion
+- hid the accomplishments of the left in power by switching the debate to the failures of the left
+  - cannot be understated, pink tide forced the right to specific positions
+    - forced right to tackle the distribution of resources
+      - [[id:3FB1A712-15FE-416D-A75A-BAB6CB10922F][argentina]], [[id:2680B2EC-B8C8-4F4E-BAC8-3B430AE5AF97][chile]]
+- left's dependence on the activist model
+- the left's mode is always a defensive one, but the horizon of possiblities is constrained by the discourses of the right
+- bolivia -> the wake of a morales
+- chile -> tremednous upsurge around rewriting of constitution
+- abandonment of the idea that the right and left exist, camoloughing this with "authortiarianism" or "facism" is different for social justice
+Vijay Prashad
+- crossing boundaries leads to overt abstraction
+- revolutions post WW2 happen in poverty
+  - gini coefficient

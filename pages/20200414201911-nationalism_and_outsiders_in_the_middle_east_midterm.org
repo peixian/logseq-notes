@@ -1,0 +1,165 @@
+:PROPERTIES:
+:ID:       300022C0-7BEB-468C-A370-069F1EF4759E
+:END:
+#+TITLE: Nationalism and Outsiders in the Middle East - Midterm Draft
+
+Tags: [[id:A63D0CEC-6083-46C5-BD8D-7A8D750FF1A4][classes]]
+
+* Question 1
+  - How can we understand the scope of nationalism today: as an ideology, community, political formation, legal entity, etc. In what ways nationalism continues to be important in the Middle East? This question is based on our readings during the ﬁrst week, and as an overarching theme. You are encouraged to discuss historical or contemporary case studies from the Middle East.
+** Outline
+   - Notions of nationalism contribute to the strife percieved in the middle east
+   - Primordial nationalists believe that there is a fundalmental primordial cause to the sectarianism
+   - Nationalism affects the middle east by both the views imposed on it from an outside powers, but also shapes the middle east via capitalistic lens
+   - It shapes the goals of nations and their political futures
+     - Iraq's roundabout with prime ministers that are satisfactorially Iranian and western friendly
+   - Nationalism from within
+     - Nationalism as an symbolism/socialpolitical movement
+       - Palestine, Kurds
+         - Emphasis on cultural gestation
+     - Nationalism as a legal entity (as a doctrine of the nation/ideaology)
+       - Lebanon, Iraq
+   - Nationalism from outside
+     - Primordialism
+   - Centrality of states
+   - Nationalism as engagement with international law
+     - Similar to the ottoman states engaging with international law in the ottoman twilight period, engagement with international law is a goal for nationalism, in effect having their lack "non-nation" state recongized among peers
+*** Draft outline
+    - What is nationalism?
+      - In the middle east we should see nationalism as two categories: traditional nationalism deriving from the nation-states within the middle east
+        - Smith defines it as ethnic symbolism/socialpoltiical movements/doctrine of
+      - And nationalism as circumscribed by the empires of the outside world
+        - Chatterjee defines it within the contexts of empries and nation-states
+
+      - Both are correct, and we can view the middle east today as a combination of these factors, the nationalism as a language ethnic symbol, as a social-poltiical movement, doctrine of idealology,
+    - Traditional nationalism should be defined in terms of
+      - language/ethnic symbolism aka populism aka ideaology
+        - Syria (the extra bit of iskanderun in the flag of SDF)
+        - Bidoon within the middle east
+          - Comoros passport program for bidoon within the UAE
+      - socialpolitical movements
+        - Palestine, Kurds, Ahwazi Arabs
+      - legal entity (doctrine of nation/ideaology)
+        - Lebanon, Iraq
+
+    - Nationalism of the empire
+      - American/European nationalism as the head of the World Bank/IMF
+      - Dollarization as a loss of nationalism
+      - As the nation state has tied itself with capital, capital has rid itself of the trappings of the nation-state, the new battleground is over oil
+        - OPEC is long dead, saudi's hold power in concert with Russia and the US
+
+*** Draft
+    Nationalism today must be defined within the Middle East as two broad components: a more "traditional" inner component derived from the nation-state, and another outer component derived from the modern empires of the world. Anthony Smith defines nationalism as "language and symbolism, a sociopolitical movement and an ideology of the nation". This is the first component easily observable within the Middle East, contemporary nations within the region offer a wide range of examples speaking to each aspect that Smith describes. However, a second, less observable component is described by Chaterjee, who puts forward the notion that empires today, although they lack explict annexation and overt repression, impose their own forms of nationalism onto the region.
+
+    To first look at the observable aspects of nationalism within the region, one can easily find abundant examples of the three aspects Smith describes. One example of the symbolism of nationalism can be found within Syria. The boundaries of the Syrian Arab Republic were drawn as part of the French Syrian mandate, partitioning out the modern Lebanese state and several atonomous regions, such as the Druze state and the Sanjak of Alexandritta. However, while the modern Lebanese state is formally recongized by the Syrian state as an indenpendent nation today, and the Druze and Alawaite states were absorbed back into Syria, it is notable that the Sanjak of Alexandritta eventually transitioned into the Hatay State for one year under League of Nations supervision, then abosred into the Turkish state as the Hatay province following a referrendum. Modern Syria still holds this referredum as illegiatemate, and the Syrian Democratic Forces (SDF) still depicts Hatay provicine as part of Syria within its flag today. This commonality between the Syrian state and the SDF, with one side going as far as to depict it upon a flag denotes a special quality to the concept of a Syrian nation and provides a guidepost towards irredentialist conceptions.
+
+    Socialpolitical movements within the Middle East are the most visible aspects of nationalism within the region. As socialpolitical movements within the context of nationalism specifically emphasises cultural gestation and representation (Smith 6), the issues of Palestine and Kurdish independence are both representative. Both groups are circumscribed both legally and culturally. Palestinians living in Jordan are allowed to travel to the Palestinian territories, while Jordanians are not, but certain conditions bar Palestinians living in Jordan from acquiring a Jordanian passport. In the case of Kurds, a patchwork of legal rules carve up the definition of Kurds,  from the de facto independence in Syria, outright repression within Turkey, and state-granted autonomy within Iraq and Iran. By mostly formalizing these ethnic categories into law, states within the Middle East perform segregative biopolitics in order to contain and control nationalist ideaologies.
+
+    The final aspect of Smith's definition of nationalism is nationalism as a legal entity, which can be seen in both Lebanon and Iraq. Lebanon's taif system, and Iraq's unwritten-but-similar system of carving up political roles between factions is the purest form of nationalism, the act of agreeing on a fundalmental nation-state to carve up and between factions is itself a veneration of the nation-state idea. This must be distinguised from the cases of Palestine and Kurds brought up in relation to socialpolitical movements. In the case of Palestine and Kurds, the nation-state act as an oppressor, while in the case of Lebanon and Iraq, the status of factions is formalized in legal or normative rulings.
+
+    Nationalism within the Middle East is not solely confined to within the nations. Chatterjee has shown, the binding of capitalism and the nation-state have worked in concert to formalize both. Yet, as capitalism and the flow of capital itself has grown, it has allowed empires to continue within the space of capital. Modern imperialism within the Middle East is not preoccupied with the explicit annexation of territory or people, but rather interested in the control and usage of capital. The International Monetary Fund's (IMF) loan to Egypt in 2016 in exchange for structural adjustments, as well as Lebanon's peg of the Lebanese Lira to the US Dollar are both examples of a foriegn nationalism.
+
+* Question 2
+  - How did colonialism shape nationalist thought and the formation of nation-states in the Middle East. What were diﬀerent forms of colonial rule implemented in the region and what were their repercussions on the emergence of nationalist thought and movements. Discuss one case in depth or provide a layout of a number of diﬀerent cases. This question is based our discussions of the Midde East during WWI and in between wars. Please feel free to bring other readings, your area of interest into the discussion here.
+
+- Iraq
+    - Necropolitics by RAF bombings
+    - Sati al-Husri's reformations lead to a generation of "iraqi" nationalist thought and territoritial integerity
+    - Treaty of Ankara gave mosul to iraq
+    - Kurdish and Assyrian fears of a unified Iraqi state against independence and admittance to the league of nations
+  - Timelines
+    - British usage of necropolitics and a top down administration, combined with Sati Husri's reforms, and paying off shaikys and movement of shi'a in iraq lead to
+      - Kurdish revolts in the 1920's
+      - Assyrian revolt in 1933
+      - Nationalism integrated via conscription
+        - Post independence shi'i opposition to conscription
+      -
+
+  - British colonialism, treaties and explotition of resources within Iraq during the mandate era and interwar period lead to the outpouring of nationalism movements for the Kurdish, Assyrian, Shia, and Jewish populations. These revolts, in turn, forced the government into a series of top down actions in order to broaden national solidarity and attempt to build a nationalist ideaology, as well as the gradual marginalization of shi'as from power.
+
+
+
+** Draft
+   The reprecussions of colonialism within the Middle East is most apparent within the context of the Iraqi state. Dogged by the "artifical state" narrative within modern literature, Iraq contiunes to show the impacts of colonial legacy, especially in the development of Iraqi nationalism. British colonialism, treatings and exploitation of resources within Iraq during the mandate era and the interwar period lead to the outpouring of nationalism for minorities, as well as gestated the concept of a greater Iraqi nationalism.
+
+   Nationalism must be defined carefully when talking about Iraq, as the narrative of an "artificial Iraqi state" lingers over debates about Iraq today. The logic of an artificial state is one intwertwined with the notion of an "ethnic" state, where an ethic state comprised of a single ethnicity is merely the realization of ethnosymbolism. This state is percieved as "natural", in diametric opposition to the "artifical" state, which is comprised of hetreogenous groups that act with their own agencies. For historical reasons, the "artifical state" narrative is a useful one, as it provided justification for the British mandate, stating that a young artificial state required tutalge before becoming a full-fleged state. It must be noted, however, that the development of Iraq at the start of the mandate rivaled the development of the Balkan states, but Balkan states never had to be placed under tutalge.
+
+   Furthermore, the idea of an artifical state requires the assumption that the sects within Iraq and transtemporal and unchanging, harkening back to the concepts of primordialism. Kurds, Sunni, Shia, Armenian, Jewish populations must be held to be coherent wholes struggling against one another. In other words, the British practice of segregative biopolitics and necropolitics, combined with the imposition of an artifical state, combined to generate a feedback loop encouraging the sectarian nature of Iraq today.
+
+
+   British colonial policy during the Iraqi mandate towards minorities was either co-option or necropolitics. Gertrude Bell famously commented that Iraqi should remain an agricultural country "forever", with intense focus on control of Iraq's oil wealth. As a result, mandatory Iraq was mostly run through the Royal Air Force, which proceeded to conduct intense air bombings in order to pacify a rural population, such as the case of the revolt in 1920. The revolt, which was predominately Shia, was violently put down by the British in support of a Sunni government. Assyrians, who were protected by the British until 1932, leading to greater Iraqi society perciving them as a privelaged class. Due to this explict patronage, when the British left, Bakr Sidiqi was able to organize a popular campaign resulting in a massacre of Assyrians. British mandatory and colonial policies, geared towards management of the Iraqi populace by pitting different groups together, sowed the seeds of sectarian based violence and nationalism based on ethnicity.
+
+   Sara Pursely's work on segreative biopolitics of gender and masculinity must be noted here. Pursely describes how Sati al-Husri recongized the colonial mentality of eduction, based on the false psychological theory of the unconcious (Familiar Futures, 72). In this respect, colonialism shaped al-Husri's views by standing in opposition to his later policies, where al-Husri promoted a more egalatarian and inclusive education system, starting by standardizing the core circulum between boys/girls and urban/rural areas. The British mandatory policy of leaving the Iraqi Ministry of Education to its own devices actually allowed al-Husri to promote his views on pan-Arabism.
+
+   However, even as Iraq gained independence in 1932 with the retreat of the British to specific, treaty bound terms,colonialism did not disappear from Iraq. The Monroe Report, which was generated by a group of educators from the Columbia Teacher's College during a visit to Iraq, faulted the Ministry of Education for the standarized system of education between boys/girls and urban/rural. Even as one colonial power began to fade, American-style teaching, based on the Tuskgeegee model (Pursely 87) of "learning by doing" and "adapted education" (Pursely 79) clambered up to the still warm colonial seat. While American influences are not "colonialism" in the strict sense, the influence of the Monroe Report was reminisinct of colonial policies in that it attempted to lift policies geared towards suppression of minorities within the United States and apply them in Iraq. As a result of the Monroe Report and educated elite who had studied at the Teacher's College, the Ministry of Education began to dismantle some of al-Husri's policies of standarization, such as providing more focus on home economics for girls and focusing school circulums on encouring and generating sexual differences. As British indirect rule receded, American influences grew in education policy.
+
+   - Talk about Sati Al-Husri -  [[id:8BE50F7D-C2A1-4029-8216-7C88A44716CB][Makdisi - The Ecumenical Frame]]
+   - Talk about the kurdish, assyrian revolts, conscription
+   - Talk about how all this, combined with the british buying off tribes and encouraging the faisal administration to pare with tribes and deal with shaykhs leads to the feedback loop
+   - Yassine al Hashimi and the formation of the Iraqi communist party and the revolt
+   - Britsh belief in primordialism makes it so that they fed into the sectarianism
+
+* Question 3
+[[id:47EF592A-10D4-4923-BE86-E3E03918624D][Anderson - Imagined Communities]]
+
+  Explain Anderson’s theory of nations as “imagined communities”. Based on the examples we discussed in class, do you see a similar historical trajectory for nation-formations in the Middle East? To what extent Anderson’s theoretical constructs apply to the case of the Middle East? (Make sure to discuss Chatterjee’s critique of Anderson here also)
+  - What is an imagined community?
+  - Iraq and language
+
+  - Turkey and Kemalism and comparisons to using ottoman era power levers
+    [[id:99981776-EE2F-405B-8346-433BF45688B6][Meeker - A Nation of Empire]]
+  - Egypt and al-Azhar -> [[id:A5D510FC-AEDA-4CB2-8AFC-0CB7308ED48A][Hassan - Longing for the Lost Caliphate]]
+  - Blumi
+  - Madisi and the collapse of the ecunmenical frame
+
+
+
+** Draft
+   Anderson's theory of nations as "imagined communities" predominately revolves around the notion that all nations are imagined, as it is impossible for all citizens within modern nations to meet one another, but is a shared nevertheless. The nation, Anderson claims, is one that is founded on ethnolinguistic lines, with emphasis on a shared common langauge, and socially constructed. It is a modern concept accelerated into existance by decentralization of power, print capitalism, and the standarization of language. Imagined communities seem to apply broadly at first blush to the Middle East, such as the case of pan-Arabism and Turkey, but as Chaterjee and other sources show, the concept of an imagined community is not enough to understand the events of the Middle East.
+
+   The standout example of Anderson's theory is Sati al-Husri and his concept of Pan-Arabism. Husri's promotion of a pan-Arab identity, one that transcends religion by emphaizising the commonality of language between Iraqi Sunnis, Shias, Jews, and Christians through the promotion of a standardized education system and spread of literacy is almost a direct act of Anderson's theory. Even the exclusion of Kurds in al-Husri's policies aligns with Anderson's theory, Anderson describes the "elastic boundaries" of nations, which accurately describes the status of the Kurds between the beginning of the Iraqi mandate to the Treaty of Ankara, to the formal independence of Iraq in 1932.
+
+   Chaterjee's central critque of Anderson revolves around the fact that there "imagined communities" is a terminal destination. In eliding nationalism and political movements together, it ignores that the borders of post-colonial states were largely drawn by colonial powers and reduces the agency of post-colonial states themselves.
+
+   Does not describe why "the imagined community of sufi pilgrims did not constitute a nation". Does not describe Drita in Blumi's readings.
+* Question 4
+  Many of our class readings discussed the centrality of outsiders in the formation of nationalism. The example of Kashmir, Palestine and the Kurdish Middle East, as well as Simon’s discussion of Iraqi nationalism and Adar’s discussion of emotions around the Armenian Genocide were all reminders of how historical and contemporary processes of deciding on and ruling the outsider populations are critical to develop a nationalist imaginary. Based on these case studies, as well as the other contexts you may be familiar with, discuss the role of outsiders in the construction of national identity and nationalist imaginary.
+
+** Role of outsiders
+   - Define an outsider, is an Ottoman an outsider?, from [[id:ED13D321-912B-4872-B812-A2789F4C72EC][Provonce - The Last Ottoman Generation]]
+   - Shared historical, primordial history often grasped for as a tool in the case of Iraq and Turkey
+   - Iraq - [[id:8830B938-A3B9-4C75-A32C-314836589F57][Simon - Imposition of Nationalism on Non-Nation State]]
+
+     - In Iraq, religion was bypassed in order to build a shared national identity and nationalist imaginary.
+       - Jews, Shias, and Sunni's were the same "arab"
+       - Conscription as a form of nationalist unity
+
+
+   - [[id:A08CFBEC-3E9B-4498-8570-8C9ED82E51EE][Khalifat movement]] shaped views of unity of the caliphate
+   - [[id:69AA32CE-9029-498C-99B8-182666E12FF0][Ahmed - Afghanistan Rising]] and Turkish policy, CUP people
+     - Turkish policies defined who is a Turk, pan-Islamism was used opposite of Iraq in order to build an identity
+
+   - Shutting down of Sufi lodges
+     - Sufi lodges used to be a sign of the caliphate's spiritual power and authority, when Ataturk shut them down this was an explicit carving out of an outgroup in order to build a shared Turkish identity
+
+   - [[id:C478E6D3-9BBA-450C-A2AE-2D750F69DE7C][Adar - Emotions and Nationalism: Armenian Genocide as a Case Study]]
+     - Conflict as essential, same with Kurds?
+       - [[id:97F2C822-F4AC-4A54-BC33-E4D20F8455BD][Aciksoz - Sacrificial Limbs of Soverignty]]
+
+
+   - Population exchange in Turkey and Greece with [[id:2EBAA08C-FB3A-43F4-9411-EEC9EFF8861F][Humanism in Ruins - Discussion Questions]]
+   - Refugees in the western balkans have shown us how itenerant groups can distrupt social structures from [[id:C502879F-6192-46A0-B178-E331F8607116][Blumi - Ottoman Refugees, 1878-1939]]
+
+
+** Draft
+   Outsiders play a vital role in the shaping of Middle East identities, and in turn, the nationalisms that arose. However, to fully discuss this role, the definition of an "outsider" within the context of the Middle East must be carefully defined. If an "outsider" is simply defined as a privilaged class, typically based on ethnolinguistic lines, existing within a bounded state, then the concept of an "outsider" is simply inherited from the colonial and mandate eras. This is apparent within Simon's discussion of Iraqi nationalism, wherein he describes Iraqi nationalism strictly in terms of ethnic and linguistic groups in contrast to the Iraqi Sunnis. Simon's discussion focuses on the plight of the Iraqi Kurds, who longed for their own nation, Iraqi Shia's, who comprised a plurality of the population but were deprived porportional representation within the state due to the British demand for a Sunni monarch, Iraqi Jews, whose communities were decimated due to factors outside their control, and the Assyrians, a British patroned group that suffered horrific reprisals as the British retreated.
+   While it is appealing to carve up the insider/outsider paradigm based on the patronage lines of colonial powers, this framing is fundalmentally limited in scope. Patronage lines were based on ethnolinguistic lines, and ethnolinguistic lines presuppose the existance of a permanent, unchanging sectarian identities, almost always tied to specific locations. To understand how outsiders affect nationalism and national identities within the Middle East, I believe it is necessary to expand the framing of who is an outsider. Outsiders are groups that are transtemporal as well as transpatial, outsiders can be born of a different time period as well as belonging to separate groups. The examples of the last Ottoman generation of officiers, who held a vital role in the shaping of mandate states, placed alongside Armenians, Kurds, and Iraqi show how outsiders shaped various states in idiosycratic ways. The notion of a secular Iraqi state buttressed on sectarian lines arise from the early mandate era, and the existance of an unwritten sect-based state in Iraq today is a direct result of this. Turkish identity is based upon a strong cultural identity and a weak judicial one, leading to the paradox of "privilage" that Adar describes.
+   Yassine al-Hashimi's role in the construction of Iraqi nationalism cannot be understated. The work of Michael Provonce shows us how al-Hashimi deftly understood the power structures being built by the British to rule Iraq. Although born in Baghdad, al-Hashimi was a member of the last generation of Ottoman sons, and studied at the elite general staff college during the Ottoman twilight years, where he (secretly) became a member of the CUP. During Mustafa Kemal's consolidation of power within Anatolia, al-Hashimi requested to return to Iraq after the coronation of Faiysal (Provonce, 137), which, although he was originally born in the city, al-Hashimi was an outsider for having been absent over two decades. His later vocal criticisms of Faiysal based on disagreements about the level of cooperation with the British lead him to be a member of the "opposition". Faiysal's pattern of temporarily appointing al-Hashimi prime minister in order to satisfy Iraqis shows how Iraqi nationalism is based on a rotating cast of power, that compromise is spurned for handouts to certain populations via a spoils system. Reconciliation between various groups in Iraq were not managed by developing true dialogue or "big tent" groups, but rather a management of fustration and anger among various groups. This bears remarkable similarity to the modern Iraqi political system, where prime minsterial candidates require the assent of US-aligned and Iran-aligned groups, and certain ministries are divided between them, while important ministries such as the oil ministry are left to the hands of technocrats. No true dialogue exists between these various groups, rather national identity itself is premised upon carving up the spoils of the state.
+   Outsiders helped define the boundaries of the early Turkish republic as well, thereby creating the modern Turkish nationalist imaginary. The percieved privleaged position Armenians in the modern Turkish republic (Adar) is a sign of this, while Turkish citizenship is defined as anyone who had lived within Anatolia during the formation of the state, to be a Turk, culturally speaking, is drawn on far more strict lines. Adar talks about how an MP stated that "authentic citizens belongs to the Hanefi sect of Sunni Islam and speaks Turkish". This line neatly cleaves out Armenians and Kurds from "authentic citizenship", providing a root for a nationalist imaginary, distinct from the legal definitions.
+   Yet the differences between the definition of a Turk in Turkish law and culture also serve to make Turkish identity somewhat malleable. If an Armenian publicly and routinely pledges loyalty to the state, they are considered "privileaged" (Adar 743), as they have effectively leveraged their legal status as a Turkish citizen to join the cultural group of "Turks". Furthermore, the Turkish cultural identity can be leveraged to change the legal status as well. The work of Faiz Ahmed in describing the close contact of ex-CUP officers in Afghanistan to the Turkish state displays this, ultimately with Afghanistan under Aman Allah becoming the first nation to recongize the newly created Turkish Republic, all stemming from broad pan-Islamic lines. The powers of these bonds held even after Kemal formally abolished the caliphate. The grey zone created by a distinction of law and culture with regards to Turkish identity provided ample space for the construction of a strong nationalist identity, as it clearly delinated the outsiders while providing enough room to absorb others under its aegis.
+
+   - Turkish kurds give the turkish groups something to unite on
+   - CUP people in afghanistan
+   - Khalifat movement consolidates kemal's power by giving him money to build a state then passing it on
+   - Turkish aermenians are privlaged, but not privleaged
+#+SETUPFILE:./hugo_setup.org

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       3E345DCF-DD76-45D0-B349-5358F5CF1A89
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: al_nusra
+#+TITLE: al-nusra
+
+Tags: [[id:44848562-7F27-4906-95F4-6A9BFEC7A473][militias]]

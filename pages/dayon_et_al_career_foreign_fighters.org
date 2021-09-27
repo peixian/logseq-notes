@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       C10C31D1-DE90-4E00-A08A-1010BE32B042
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: dayon_et_al_career_foreign_fighters
+#+TITLE: Dayon et al: Career Foreign Fighters
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:44848562-7F27-4906-95F4-6A9BFEC7A473][militias]],[[id:4A892609-EEF5-441D-92CD-0330210D954F][bosnia]], [[id:F6BB188D-BA42-48AA-958E-21CE91DC147C][talks]]
+
+* Talk
+  - Career FF's have an outside impact on the conflicts they go to
+  - Typically bring in transnational links
+  - Conflicts that lack a credible threat of genocide typically have harder time drumming up FF's
+  - Career FF's are greater security threat than non-career ones
+  - Limited window of opportunity for inhibiting FF's
+    - Some conflicts produce more
+      - This effect is hard to disentagle from the time since the war, however
+  - Some FF's have come with a letter of recommendation
+  - No single individual profile of FF's
+
+* Overview
+- Daymon, Chelsea, Jeanine de Roy van Zuijdewijn, and David Malet. “Career Foreign Fighters: Expertise Transmission Across Insurgencies.” RESOLVE Network, April 13, 2020. https://doi.org/10.37805/ogrr2020.1.cff.
+
+- Foreign fighters (FF's) are debated whether they are more dangerous returning to their country or left unaccounted for
+- Many FF's enjoy career progression from one conflict to another
+- Discusses the crime/terror nexus in europe
+- FF's interactions with local communities sometimes makes them liabilities
+  - [[id:086B0579-8C85-4CE5-9E65-EB8980FB2C2E][afghanistan]] was the case for many of the ansars
+
+** Malet, David, and Miriam J. Anderson, eds. Transnational Actors in War and Peace: Militants, Activists, and Corporations in World Politics. Washington, DC: Georgetown University Press, 2017.
+ #+begin_quote
+ FF's go to defend a transnational community percieved to be under existential threat
+ #+end_quote
+ - FF's also see higher casualty rates
+
+** Bosnia jihad
+ - First wave of FF's were largely useless
+ - Second wave had combat experience from [[id:086B0579-8C85-4CE5-9E65-EB8980FB2C2E][afghanistan]], which made them far more useful
+
+
+** Staniland, Paul. Networks of Rebellion: Explaining Insurgent Cohesion and Collapse. Cornell Studies in Security Affairs. Ithaca: Cornell University Press, 2014.
+   #+begin_quote
+   Rebel leaders either build deeply integration "vertical" ties or rely on more dispered "idealogical" ties
+   #+end_quote
+
+** III, Thomas F. Lynch. “Sunni and Shi ’a Terrorism: Differences That Matter.” Brookings (blog), November 30, 1AD. https://www.brookings.edu/research/sunni-and-shi-a-terrorism-differences-that-matter/.

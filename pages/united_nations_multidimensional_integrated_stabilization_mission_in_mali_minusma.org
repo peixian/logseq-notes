@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       C74B700F-07D9-4F54-8532-25400C21C5D0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: united_nations_multidimensional_integrated_stabilization_mission_in_mali_minusma
+#+TITLE: united nations multidimensional integrated stabilization mission in mali (MINUSMA)
+
+Tags: [[id:24347B84-1571-47CF-8225-14D7C357B1AC][mali]]

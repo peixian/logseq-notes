@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       7E8CC6E2-3E28-427C-8170-A27A32D6F2EF
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: shabak
+#+TITLE: shabak
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+* Population Demographics in Northern Iraq
+- https://www.instapaper.com/read/1300089038
+- Heterodox minority, predominately identify as Shia
+- Population increased singificantly under the Nineveh Plain Protection Units, a Chrisitan PMF ([[id:ADFAE0CB-D584-4CE9-9965-4E76C474546E][hashd al-shaabi (PMF)]])
+- Shabak have moved into Bartella, Qaraqosh and other historically Christian towns
+- https://www.ankawa.com/forum/index.php?topic=929929.0
+  - "Why are christians afraid to return to their homes?"
+- stealing land from the christians in [[id:B480A462-5180-4A3B-929F-3B2F388074AA][ninewa]]

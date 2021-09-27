@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       5A9FEC23-14DA-41B4-B408-E8FB6CF2B2A5
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: un_and_global_governance_paper_proposal
+#+LATEX_CLASS: koma-article
+#+latex_header: \usepackage[citestyle=verbose-trad2,bibstyle=numeric, hyperref=true,backref=true,maxcitenames=3,url=true,backend=biber,natbib=true,ibidpage=true] {biblatex}
+#+LATEX_HEADER: \usepackage{titlesec}
+#+LATEX_HEADER: \titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
+#+LATEX_HEADER: \titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
+#+latex_header: \addbibresource{~/Dropbox/bib/refs.bib}
+#+OPTIONS: toc:nil title:nil author:nil date:nil
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+EXCLUDE_TAGS: noexport
+#+TITLE: un and global governance paper proposal
+
+* noexport                                                         :noexport:
+Tags: [[id:6377293C-2556-4797-9A2B-FED088E549BA][UN and Global Governance]]
+
+* Working Title: UNAMI's Stumble into Sectarian Narratives
+* Main Research Questions and Arguments
+  - Research Question: Have the mandates for UNAMI substantively shifted to counteract sectarian identities in Iraq, or have they supported these identities in a form of "liddism"?
+  - Argument: The perspective of international human rights promulgated by the UN is inherently a western-liberal one that favors states, because of UNAMI's position, it has inherently favored Iraq's drift towards an unwritten sectarian government (/muhasasa ta’ifia/) in its pursuit of mandates.
+
+* Theoretical Framework and Research Method
+This project will be approached from a post-structuralist perspective. The resulting /muhasasa/ system of Iraq is seen as a result of elite actors (UNAMI, US, elite Iraqis).
+
+The research method will be to trace the discourse of the UN through its various resolutions relating to Iraq in understanding how it has evolved over time and in relation to major political events in Iraq.
+
+* Organization and Substantive Components
+- Introduction, Background
+  - The introduction focuses on the role and limited mandate of UNAMI
+  - The background focuses on the construction of the 2003 Iraqi government and the formation of the 2005 constitution, both of which were sectarian in nature.
+- Discussions on UNAMI
+  - Discuss how UNAMI mandates have shifted with each major political event.
+- For each event, evaluate the sectarian markers, such as debates over the rights of Christian minorities, the Kirkuk problem, and how UNAMI mandates have responded to them.
+- Conclusion
+  - Conclude with the argument that UNAMI has blindly stumbled into furthering sectarianism
+
+* Selected Works
+- fullcite:haddad_understanding_2020
+- fullcite:rayburn_iraq_2014
+- UN resolutions relating to UNAMI [1500 (2003), 1546 (2004), 1557 (2004), 1619 (2005), 1700 (2006), 1770 (2007), 1830 (2008), 1883 (2009), 1936 (2010), 2001 (2011), 2061 (2012), 2110 (2013), 2169 (2014), 2233 (2015), 2299  (2016), 2379  (2017), 2421  (2018), 2470 (2019)]
+- fullcite:curran_stabilization_2020
+- fullcite:conte_security_2017

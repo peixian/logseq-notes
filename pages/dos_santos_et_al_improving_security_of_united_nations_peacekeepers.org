@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       B0907270-7BEC-4C63-AFC7-CC5AC02A2F57
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: dos_santos_et_al_improving_security_of_united_nations_peacekeepers
+#+TITLE: dos Santos et al: Improving Security of United Nations Peacekeepers
+
+Tags: [[id:AF22C8D3-5841-4CB4-858B-AB86D90017CC][un and global governance lecture 3]], [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]
+
+- since 2013, 195 have died
+- Non-state actors create new dangers
+- lack of pre-deployment training exposes problems
+- spikes in casualities starting in 2011, continues until today
+- claims that people plan peacekeeping missions w/o being aware of the risks
+- combination of defensive posture, risk-adverse usage of force, and unwise risk taking leads to deaths
+- poor combination of lack of intelligence, poor information sharing, and bad training makes for unmeshed peacekeeping operations
+- missions are large, various bureacratic turf wars for operations and logistics
+* key problems
+1) organization level of the UN has not adapted
+2) leadership is lacking, especially @ sector commander level
+3) missions have unmmaned, undermanned, and ill-equipped troops
+4) failure to have strong response after serious attacks lets criminals operate with inpunity
+5) pre-deployment readiness must be followed, no more caveats
+6) in mission training, less cycling of troops (most troops leave every 6 months)
+7) poor infrastructure in country threatens all
+8) IED detection and attacks on camps/bases
+9) lacking intelligence
+10) field health care also lacking
+11) mission footprint needs to be oriented
+12) mutual accountability by all

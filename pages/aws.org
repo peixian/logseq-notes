@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       A4F4BC0A-4E30-481F-A628-2D8A4D8DF897
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: aws
+#+TITLE: aws
+
+Tags: [[id:56477AC5-EC16-4502-B30F-7C0D37C13F64][cloud]]
+
+- https://cloudbite.attejuvonen.fi/

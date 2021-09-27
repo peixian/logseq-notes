@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       16F392E7-63A2-419E-9AFC-9BF823027B3B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gpt2
+#+TITLE: gpt2
+
+Tags: [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]], [[id:48350662-53E9-4A91-9ADB-2BC9DFEA6098][nlp]]
+
+- https://github.com/peixian/gpt2-testing

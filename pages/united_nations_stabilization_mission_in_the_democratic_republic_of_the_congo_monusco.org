@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       26B73C8E-E769-417D-8383-E17DF3E1FE9E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: united_nations_stabilization_mission_in_the_democratic_republic_of_the_congo_monusco
+#+TITLE: united nations stabilization mission in the democratic republic of the congo (MONUSCO)
+
+Tags: [[id:1A7F8EC9-B51F-460B-A078-FCB63DEC29B7][democratic republic of the congo (DRC)]]
+
+- https://peacekeeping.un.org/en/mission/monusco

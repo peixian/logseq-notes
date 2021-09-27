@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       7F21E0FF-7A07-47B2-B37C-75C2AD210FCB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gorur_and_sharland_prioritizing_the_protection_of_civilians_in_un_peace_operations
+#+TITLE: Gorur and Sharland: Prioritizing the Protection of Civilians in UN Peace Operations
+
+Tags: [[id:2E747AB7-60C7-4EFC-AA31-FD8AB58DDD00][un and global governance lecture 4]], [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]
+
+- Identifies that most mandates, when it comes to choosing between some objectives and the protection of civilians objective, due to the ambiguity of the protection of civilians, has not been able to accomplish as much in POC
+- Post-2015 [[id:042DC2EA-61A5-4BBF-AA8B-D1E233A8023A][High-Level Independent Panel on UN Peace Operations (HIPPO)]] suggested the "sequenced mandates" idea
+  - mitigates the "cookie-cutter" mandates that are bloated
+  - also allows the inclusion of activities that may be necessary, and the exclusion of activities that may be the wrong time
+  - argues that mission specific objetives set out by the security council may be harmful, might be best to do a phased mandate where the mandate reevaluates its objectives within 2/6 months
+- risks of phased mandates
+  - adjustment too frequently leaves missions unable to plan successfully
+  - political attention to a crisis may decline over time, so mandate revisions may be problematic
+  - conditions on the ground change rapidly, conditions may change from a recently-adjusted madate.
+  - phasing should only be used in limited circumstances, at the start of a deployment, and when there's been a significant development

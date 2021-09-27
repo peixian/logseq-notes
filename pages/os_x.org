@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       1E6EE18D-330B-4D3B-A6C4-31F25A7E7729
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: os_x
+#+TITLE: os x
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]

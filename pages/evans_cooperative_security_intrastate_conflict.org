@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7AB9569E-EC1D-4562-8E9E-C7D77174B8A0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: evans_cooperative_security_intrastate_conflict
+#+TITLE: Evans: Cooperative Security & Intrastate Conflict
+
+Tags: [[id:5D4FD56C-329E-4881-AEBC-EFE6DDF0F29D][articles]], [[id:C2FFFFB5-13EC-476F-AB83-FD70756DF07B][un and global governance lecture 1]]
+
+- talks about how interastate warfare has died down since the cold war, intrastate has risen dramatically
+- rise of economic power has been a check on intrastate warfare
+- territory does not translate to wealth as easily
+- little point in invading if it cannot be controlled
+  - [[id:98594571-EF33-4F36-91EC-F23BB3D7A72A][2006 lebanon israel war]]
+- [[id:7C05085A-564D-4186-B4E7-AD9DC612310A][un]] charter calls for collective security
+  - traditionally intepreted as the idea of state integrity
+  - contrasted with notions of "human security"
+- economic pluralism tends to encourage centers of power in civil society, away from the state
+- UN used to devote relatively little to preventive secuirty
+- [[id:7FEA6B9D-8C21-4614-8F22-38F3D514D378][ngo]]'s and regional assocations have largely worked on preventive security
+- difficulties in peace restoration
+  - what are the appropriate cases to deliver an effective response?

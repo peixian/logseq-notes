@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       59320683-A881-43FF-8B3F-80BFC00D77B1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: azure
+#+TITLE: azure
+
+Tags: [[id:56477AC5-EC16-4502-B30F-7C0D37C13F64][cloud]]
+
+* Azure App Services
+- Python services use gunicorn
+  - https://docs.microsoft.com/en-us/azure/app-service/containers/how-to-configure-python
+  - Can use different production docker container if desired
+    - https://github.com/Azure-Samples/djangoapp/tree/master/azuresite
+    - https://github.com/Azure-Samples/djangoapp/blob/master/azuresite/production.py
+- Containers can configure a custom port number:
+  - https://docs.microsoft.com/en-us/azure/app-service/containers/configure-custom-container#configure-port-number

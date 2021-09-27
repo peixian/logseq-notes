@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       A6EB38E0-CE19-43BE-97BC-BB54F6310F37
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: manufacturing
+#+TITLE: manufacturing
+
+Tags: [[id:97BD1E12-9693-4CF4-8A7E-61DFAC324300][united states]]
+
+- check https://www.areadevelopment.com/newsItems/6-16-2020/diversified-cpc-international-iron-horse-terminals-beaumont-texas.shtml

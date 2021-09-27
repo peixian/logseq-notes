@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6DE59E68-C767-4BB7-8D82-DD8D4AA8F742
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: protobuf
+#+TITLE: protobuf
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- https://medium.com/@nathantnorth/protocol-buffers-text-format-14e0584f70a5
+- https://gist.github.com/henridf/704c1c812f04a502c1c26f77a739090b

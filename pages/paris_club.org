@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       13186306-3108-4ECF-A0A7-5FD56B0E1237
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: paris_club
+#+TITLE: paris club
+
+Tags: [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]], [[id:7FEA6B9D-8C21-4614-8F22-38F3D514D378][ngo]]
+
+- https://en.wikipedia.org/wiki/Paris_Club

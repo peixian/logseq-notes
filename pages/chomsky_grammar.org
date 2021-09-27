@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       8BF52C40-8F51-421C-8175-4CD1872983DB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: chomsky_grammar
+#+TITLE: chomsky grammar
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]], [[id:AB300662-3E3E-4452-A29D-468522B35C3E][languages/linguistics]], [[id:9C061A51-C534-41AD-9088-F1BE1E5AAD70][chomsky]]
+* Relationships to linguistics and algebra? Finite state machines?
+* Links
+- https://royalsocietypublishing.org/doi/10.1098/rstb.2012.0077
+- https://courses.engr.illinois.edu/cs373/sp2009/lectures/old/lect_15.pdf
+- https://jeffe.cs.illinois.edu/teaching/algorithms/
+- https://en.wikipedia.org/wiki/Complexity_class
+- http://jeffe.cs.illinois.edu/teaching/algorithms/models/05-context-free.pdf
+- https://en.wikipedia.org/wiki/Decision_problem
+- https://en.wikipedia.org/wiki/Formal_language
+- https://en.wikipedia.org/wiki/Chomsky_hierarchy#Formal_grammars
+- https://news.ycombinator.com/item?id=25167468

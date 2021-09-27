@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       5E526313-F9ED-4567-8FF8-3CE7EE462CE1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: post_conflict_statebuilding_organization
+#+TITLE: post-conflict statebuilding organization
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]
+- Borrowing organization from [[id:F1B3F2D2-CAAC-457D-A302-DD223805B4E3][Williams - Research Handbook on Post-Conflict Statebuilding]]
+
+* Political Infrastructure
+  - Setting new guidelines for institutions to succeed
+  - constitution writing
+    - [[id:74B098C9-54AD-4255-8680-09D079DC73F9][iraqi constitutionalism]]
+  - electoral law reform
+  - vetting the public sector
+
+* Social Infrastructure
+  - Rebuilding partipatory networks of civic engagement
+  - [[id:5B1EEFCB-617C-455A-875B-C4F933D92DF6][Akdedian et al: State atrophy and the reconfiguration of borderlands in Syria and Iraq]]
+
+* Security Infrastructure
+  - [[id:E900796C-250A-474B-9054-C0C109C94A24][ddr]]
+  - [[id:5C5EF2E8-8CA2-4082-A6DE-933C82F35383][security sector reform (ssr)]]
+
+* Legacies of Conflict
+  - implementing mechanisms to heal civic trust and accountability
+  - [[id:025B5FBB-A8D1-4732-AB11-1DABD7BF0001][Dodge - Rethinking Political Identities in Iraq After 2003]]
+  - [[id:ACD3A73C-86F6-4C98-8E36-CB608AC43F8F][Rayburn - Iraq After America]]
+  - [[id:B7499357-D6DD-4419-B930-1338431AED56][Pouligny - Peace Operations Seen From Below]]
+  - [[id:AF5C49CE-494A-45B0-9F1D-A6BA108772EB][Glick and Paluck: The Aftermath of Genocide]]
+  - [[id:C478E6D3-9BBA-450C-A2AE-2D750F69DE7C][Adar - Emotions and Nationalism: Armenian Genocide as a Case Study]]
+  - [[id:4CBBFFCC-556E-41CE-96F3-145BB907F92A][Li - The Universal Enemy]]
+
+* Rule of Law
+  - Shifting from rule of force to rule of law
+    - [[id:D0DFC0A3-D11C-44A5-B5C0-410F1B5A5FD5][Simpson - War from the Ground Up]]
+  - [[id:CC0EFB92-1661-4A5A-BE0D-46FB07D94241][jurisprudence]]
+
+* Development
+  - Socioeconomic growth
+  - Humanitarian assistance
+  - Fiscal arrangement
+  - Economic reform
+    - [[id:363E8BA7-B16E-401B-948A-B7E6036F047C][Toufic - Palestine Ltd: Neoliberalism and Nationalism]]

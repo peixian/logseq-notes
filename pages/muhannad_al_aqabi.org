@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       1C572C65-6CDE-4E41-B351-E9C8311D8812
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: muhannad_al_aqabi
+#+TITLE: muhannad al-aqabi
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

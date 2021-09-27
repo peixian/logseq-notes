@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       A57172D6-3CFA-424A-B2A9-D6C51E39041B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: bottle_sorters_blog_post
+#+TITLE: bottle sorters blog post
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+- form of capitalism
+- utilizing and underutilized form of labor, with a lower than minimum wage

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       0E236CF0-3F8E-4DD0-85F1-42B99B45EFEB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: cyc
+#+TITLE: cyc
+
+Tags: [[id:A904921D-F574-41FC-B41C-4B6114932AC5][datasets]], [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]]
+
+- industrial attempt to catalogue all human knowledge that is common to children
+- uses a language like structure representations - some historical tie-ins
+- controversial, but not widely used in modern NLP, often cited as a failure of symbolic AI

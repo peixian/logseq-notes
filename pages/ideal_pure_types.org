@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       E040D6CA-D002-4082-B95A-5B7175FD1F91
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ideal_pure_types
+#+TITLE: ideal/pure types
+
+Tags: [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]], [[id:85B58094-76CD-470D-AD88-2676C2D2A605][sociology]]
+
+Typological term used to describe abstract, hypothetical concepts that are a subjective element: https://en.wikipedia.org/wiki/Ideal_type
+
+Contrasted against [[id:BE079CC8-0851-4685-8B74-5B86A6DB14EC][normal types]]

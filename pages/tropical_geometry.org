@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       EF28DB94-07A0-4FB3-AB44-A574830B7AFE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: tropical_geometry
+#+TITLE: tropical geometry
+
+Tags: [[id:E1C1CA5E-172A-472C-AD82-BA07E9A9ACDB][geometry]]
+
+https://en.wikipedia.org/wiki/Tropical_geometry

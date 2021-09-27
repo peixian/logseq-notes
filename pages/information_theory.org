@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       A07603AF-95CB-44F7-A19B-0B09C18C4470
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: information_theory
+#+TITLE: information theory
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]], [[id:0C55E344-F9AE-4584-B54F-83EC2FCE9062][math]]

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       8F943A0D-33AE-4813-929E-1D6AD8D3BB72
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: community_detection_libraries
+#+TITLE: community detection libraries
+
+Tags: [[id:6327B337-4ECF-499F-853A-9D94F8650975][community detection]]
+
+- https://appliednetsci.springeropen.com/articles/10.1007/s41109-019-0165-9
+  - https://colab.research.google.com/github/KDDComplexNetworkAnalysis/CNA_Tutorials/blob/master/CDlib.ipynb#scrollTo=DpvjRPKbnUvc
+  - https://github.com/GiulioRossetti/CDlib
+- https://github.com/taynaud/python-louvain

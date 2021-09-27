@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       EEE8C8C2-0632-4F77-9AE6-33700164A80D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: brigade_80
+#+TITLE: brigade 80
+
+Tags: [[id:C403589A-21CC-411A-A58E-1C2FDC31F72C][brigades]]

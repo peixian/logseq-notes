@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       AF4699B4-2BC2-453E-9FD8-B929C8F1B3AD
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sorani_vs_bahdini
+#+title: sorani vs bahdini
+
+[[id:D6C02B0A-E975-40F6-AA25-F0E1A970CC0C][sorani]], [[id:D66F275D-A725-4447-8B7C-85AAE38EFDE5][bahdini]]
+
+- çawanî (bahdini) vs çunî (sorani)
+- herre (bahdini) vs broo (sorani)
+- ne shim vs na twanim - can't
+- perch vs qej - hair
+- pe vs qach - leg
+- dfn vs loot - nose
+- dev vs dem - mouth
+- dem jimire vs ket jimire - measurement of time (idalfa) - clock
+- xama vs penos - pen/pencil
+- kechik vs kowchik - spoon
+- av vs aw - water
+- simbel vs smêl - mustache
+- brî vs abro - brow
+- barçofk vs çawilka - glasses
+- kamerband vs bishten - belt
+- hesike vs julana - swing
+- haval vs hawre - friend
+- çel vs manga - cow

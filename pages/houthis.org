@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       C07B8EF3-C4B7-45CB-8671-33A6E45160C8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: houthis
+#+TITLE: houthis
+
+Tags: [[id:C61C3FE4-06C6-4621-818B-503E36E83B7C][middle east]]
+
+North yemeni tribe, shia

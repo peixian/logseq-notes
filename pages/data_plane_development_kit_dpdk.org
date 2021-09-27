@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       93036BC5-84E1-4BE1-ADE7-D23358C3291E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: data_plane_development_kit_dpdk
+#+TITLE: data plane development kit (dpdk)
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- https://doc.dpdk.org/guides-16.04/linux_gsg/index.html

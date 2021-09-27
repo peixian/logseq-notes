@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       E5490541-44F7-4D9F-8ACD-9AB684D1C56B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hard_drives
+#+TITLE: hard drives
+
+Tags: [[id:572EA03C-52DA-4BC3-BFD5-BB73EB49042C][hardware]]
+
+
+* NVMe
+ - NVMe drives will lie about write speeds under low traffic
+ - NVMe drives are good for append-operations (aka [[id:A523E85D-AAE7-4F1B-9600-259C4F34430E][structured logs]])
+ - [[id:E00FA741-9906-4793-BC95-AC454362D138][linux]] has ~nvme~ to deal with this
+ - in theory, the drives and the controllers are different, but in practice, these are sold as one whole thing

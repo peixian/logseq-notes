@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       3EC9F299-B48A-4DBB-ABDD-276E50BB0E8D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: async_cpp
+#+TITLE: async cpp
+
+Tags: [[id:B188FE0E-140C-44C3-9280-490E2202CC17][c/cpp]]
+
+- http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3747.pdf

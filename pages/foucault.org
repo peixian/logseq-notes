@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       5B11645B-8579-40D5-A125-7BDF1CED5A02
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: foucault
+#+TITLE: foucault
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:BC69BD6D-62DE-4309-A194-59223FC65039][continental philosphy]]

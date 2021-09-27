@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       D4CC2D26-7429-4111-BCFE-CE8EFF22E9A2
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: c_preprocessor
+#+TITLE: c preprocessor
+
+Tags: [[id:0A05EC3F-22CC-4BF2-9E91-CDC4E9E0CAF1][c (language)]]
+
+https://en.wikipedia.org/wiki/C_preprocessor

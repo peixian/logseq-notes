@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       6790FC48-B43E-4582-A15A-7E903B002D29
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: karlstrud_the_un_at_war
+#+TITLE: Karlstrud: The UN at War
+
+Tags: [[id:5D4FD56C-329E-4881-AEBC-EFE6DDF0F29D][articles]], [[id:CFDF435E-7655-449A-BE22-8926D8F1CD40][un and global governance lecture 6]]
+
+Karlsrud, John. “The UN at War: Examining the Consequences of Peace-Enforcement Mandates for the UN Peacekeeping Operations in the CAR, the DRC and Mali.” Third World Quarterly 36, no. 1 (January 2, 2015): 40–54. https://doi.org/10.1080/01436597.2015.976016.
+
+- The force intervention brigade in [[id:26B73C8E-E769-417D-8383-E17DF3E1FE9E][united nations stabilization mission in the democratic republic of the congo (MONUSCO)]] has manadated "all necessary measures", which includes force
+- Renewed without substantial changes
+- UN is moving more towards as counterterrorism/war fighting stance at the cost of reduction in peacekeeping
+- [[id:C74B700F-07D9-4F54-8532-25400C21C5D0][united nations multidimensional integrated stabilization mission in mali (MINUSMA)]] also represents this doctrinal change
+- new tech is entering, such as drones, were deployed in [[id:24347B84-1571-47CF-8225-14D7C357B1AC][mali]] in 2013
+- norwegians have sent an intel group
+- wariness in the security council about having the force intervention brigade, although seems like it's happening anyways

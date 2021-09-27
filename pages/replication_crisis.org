@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       46B116B1-E521-4D32-81A5-A2004B3E10EB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: replication_crisis
+#+TITLE: replication crisis
+
+Tags: [[id:A75E8675-6FA2-427F-AC64-64D3F4DEE1F1][philosophy of science]]
+
+- https://twitter.com/eigenrobot/status/1334273043590340608
+- https://arxiv.org/abs/2009.09440
+- http://www.erikdrysdale.com/winners_curse/#mjx-eqn-eqpower
+- https://en.wikipedia.org/wiki/Researcher_degrees_of_freedom
+- https://en.wikipedia.org/wiki/Publication_bias
+- http://www.erikdrysdale.com/
+- https://en.wikipedia.org/wiki/Power_of_a_test
+- https://en.wikipedia.org/wiki/Bayesian_inference
+- https://en.wikipedia.org/wiki/Proteus_phenomenon
+- http://www.stat.columbia.edu/~gelman/research/published/retropower_final.pdf
+
+* What's Wrong with Social Science?
+- https://fantasticanachronism.com/2020/09/11/whats-wrong-with-social-science-and-how-to-fix-it/
+- Paper tackling replication rates: https://royalsocietypublishing.org/doi/10.1098/rsos.200566
+- HTTLPR: https://slatestarcodex.com/2019/05/07/5-httlpr-a-pointed-review/
+- https://www.gwern.net/Scanners#citogenesis-how-often-do-researchers-not-read-the-papers-they-cite
+- https://www.frontiersin.org/articles/10.3389/fnhum.2018.00037/full
+- https://www.nature.com/articles/s41562-018-0522-1
+- https://www.compare-trials.org/
+- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196346

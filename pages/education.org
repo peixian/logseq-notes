@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       87A146E9-3003-45A2-9988-C4C46DAA32A4
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: education
+#+TITLE:  education
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]

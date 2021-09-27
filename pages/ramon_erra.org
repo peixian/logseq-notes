@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       7A588D77-A824-4DEC-B7A2-B7F9DB9B53D8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ramon_erra
+#+TITLE: ramon erra
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:F24757A4-56C4-49D0-9151-15CA0E1E3A2F][cognition]]

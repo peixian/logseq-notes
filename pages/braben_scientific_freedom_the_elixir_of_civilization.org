@@ -1,0 +1,114 @@
+:PROPERTIES:
+:ID:       D43D63F1-C8FA-4230-A6E1-1331E97E4778
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: braben_scientific_freedom_the_elixir_of_civilization
+#+TITLE: Braben - Scientific Freedom: The Elixir of Civilization
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]]
+
+* 1 - The Damocles Zone
+  Talks about how the zone is irreversible, requires broad solutions to major problems
+
+** Discussion
+   - Richard Hamming - Everything starts with fluids or dyanmics
+   - Brett Victor - Work on problems that people don't realize as problems
+   - How to tackle science
+     - valid modes for the future?
+       - spin many plates
+       - centrally directed
+         - khnuzian dynamics of science
+   - What does braben view on scientific production?
+     - Finding the projects and finding the applications of the results
+   - What is the root cause of the inability to fund these?
+     - BP defunded the venture research program, now no one is willing to fund
+   - Commitment is what transforms ordinary research into transformative research
+   - What works on your problem? Why is a problem yours?
+
+* 2 - Scientific Freedom and Transformative Research
+
+** Discussion
+   - Inprecision of what is transformative research
+     - This may be actually deliberate, so not to exclude things you can't solve
+   - Can you separate the scientist from the problem?
+   - Do solutions have to be structured?
+     - How do scientists see themselves?
+   - Are the hard problems the important problems?
+     - How do we select for ideas?
+     - Are good ideas expected to bubble up ot the top?
+   - Should we select for problems that can't be separated? Some problems are hard, but they can be separated, but this is orthongal to being hard
+   - Braben conflates the difficult & the interesting
+   - Expand/exploit for problems?
+     - When are you expanding into new fields?
+   - Why is freedom important
+     - Monte Carlo methods
+       - random walks
+     - Generates higher variance, but not necessarily better results
+     - Freedom is actually a constratining factor because now you no longer need to worry about scale
+     - success attracts other people, and that in turn becomes ossification
+     - localism
+       - each field must define what their freedom is
+   - VC funding
+     - inputs/outputs are both money
+       - "do things that don't scale"?
+
+* 3 - Mismanagement by Objectives
+  - objectification
+    - adoption of math where it does not apply?
+      - economics, sociology, etc
+  - aligns with china's "china is run by engineers, US is run by lawyers"
+  - enormous expenditures -> viruses are still killers -> isn't this objectification
+  - grants are not mentored
+  - "eastern medicine" -> orientalist approaches here
+  - federal funding and freedom do not necessarily generate better approaches
+    - middle east studies had freedom for quite a while
+  - reshaping of capital markets post-2008
+  - is the post-WWII euphoria Braben identifies real? Or is it just because of cheap money?
+  - no investor seeking long term gains expects decisive short term returns
+
+** Discussion
+   - Freedom/secrecy are at conflict
+   - open science vs [[id:AE205EF3-0F38-4602-B1F1-7729B79B7A6F][open source]]?
+   - secrecy for whom?
+   - can we enable younger scientists?
+   - consensus
+     - popularity
+     - age increases
+   - china? empowering younger researchers? [[id:D46394EE-46FE-4FD2-8A0B-EAFD4EEB8210][chinese science statistics]]
+   - need for harmonization capping discoveries? Everything is made by consensus?
+     - peer review, collaborators
+   - universities as a force for social change?
+     - are we just admitting too many people?
+   - Are the measurements bad? Should we stop measuring output? Or at least limit time-forward metrics?
+   - Up or out promotion paths?
+   - Calling out a focus on efficiency?
+     - [[id:A36DF8A8-3E7F-4D06-8F79-9F1E15B61A80][Mitchel: Economentality]]?
+     - Redudancy is valuable -> gives replication
+     - Legibility of research
+     - measure outcomes -> is this reading the arrow backwards from assessing invidiual people?
+   - the shift in the 70's seems to be a mentality shift:
+     - science is no longer generically good
+     - science needs to illuminate the future
+   - metrics result in consensus because everyone aims towards the same thing
+   - make scientists as early as possible?
+     - stop treating scientific freedom as a reward?
+   - popular media -> science has become homogenized
+   - Lenin was a mushroom
+   - What is consensus good for?
+
+* 4 - Searching for Planck's Successors
+  - Threat Fatigue -> losing signals in all the noise
+  - Adventure fund attempted to fund "risky" research in the UK in 2002
+  - Braben suggests that peer review and consensus are the problem
+    - scientist reputations are slowly earned and quickly damaged - 108
+    - /responsbility shared is responsbility denied/
+  - searching for the "best value for money" is what's leading to the reduction of risk
+    - can this be harnessed? Can we capitalize on the risk somehow?
+  - Braben suggests that confidence in your research leads to significant and transformative research
+  - TR must select for "visionaries", not just glory-seekers
+    - measure devotion/hunger
+      - how? signals for these are quite bad
+  - Musical chairs with the rules are what's being attempted with the smaller fixes on the grant cycle, we need to rethink all of it
+  - [[id:ECC21E7C-5A6D-4BD1-B576-DCB47C7497EF][langlands program]] and TR, how did this come about?
+  - The Medical Research Council in the UK as an example
+  -

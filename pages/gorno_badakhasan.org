@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       ED17692D-4926-4735-B6DC-F9C0BABCE12B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gorno_badakhasan
+#+TITLE: gorno-badakhasan
+
+Tags: [[id:1CB78673-A81E-4391-BBF3-8AD31900AB04][tajikistan]]
+
+* Integration of Ismaili Pamiris
+- https://www.instapaper.com/read/1301237992
+- Resistance to Dushabe in middle of 1990's
+  - Gov has alternated between military crackdown and expanded assistence
+- Central government has not achieved much in promoting a common Taijik identity
+- Lack of strong central Islamic law means intermarriage and burial within same cemeteries is allowed

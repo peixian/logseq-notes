@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       FFBEBC56-1CA9-493A-B87C-DDD2586B0704
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: trial_error_vs_theory_insight_in_work_academia
+#+TITLE: trial/error vs theory/insight in work/academia
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+- https://commoncog.com/blog/chinese-businessmen-let-reality-be-the-teacher/
+
+- fractals of trial/error theory/insight paradigm
+- programming is trial/error *as a skill*, but theory/insight *as a worker*
+  - /That is, that trial & error is a superior strategy when i) you have randomness and ii) when you have convexity: that is, for any given decision you make, your positive outcomes outweigh your negative outcomes./
+  - feedback loop is instantanous
+  - take a hit and leave the game?
+    - resiliance to failure is low
+- school is theory/insight *as a worker*, but *trial/error* as a skill
+  - feedback loop is slow and possibly non-existant
+    - i.e. how do you test out theories of history? of nationalism?
+    - monographs based on a collection of ideas
+  - take a hit and remain in the game
+    - resiliance to failure is high

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2C8F05C3-2C98-4041-BA8F-F2919C7A6322
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: complexity
+#+TITLE: complexity
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- https://www.taylorfrancis.com/books/e/9780429134845
+- https://books.openedition.org/pressesmines/1122?lang=en
+- https://snafucatchers.github.io/#4_6_1_Technical_debt
+
+* Highlights
+- “As more-complex solutions are brought to bear on ever more complex problems, we risk even-greater systemic problems being overlooked.” (James Bridle, New Dark Age)
+- “”People … in the news are missing the way complex systems fail because they think of this as having a single root cause,” Woods tells Here & Now’s Jeremy Hobson. “Often they think of it as a system that works all the time, and then occasionally someone screwed it up — because they’re looking for someone to blame. But complexity … derives from the success we have at building systems at new scales.”” (Instapaper, Instapaper)
+- ““In reality things are complex, but we can’t always handle that. We usually want there to be one master rule. Pöpper called that monocausotaxophilia, the love of single causes that explain everything.” (Kim Stanley Robinson, New York 2140)
+- “Rather than jump to the idea that there was an adversary or some deliberate act, we find all the time that complex systems have this signature that these small failures build up combined to create a lot much larger consequence.” (Instapaper, Instapaper)
+- “Besides, programmers could easily insert this extra test and loop. The MIT guy pointed out that the implementation was simple but the interface to the functionality was complex. The New Jersey guy said that the right tradeoff has been selected in Unix — namely, implementation simplicity was more important than interface simplicity.” (Rise of Worse Is Better)
+- “We have been conditioned to believe that computers render the world clearer and more efficient, that they reduce complexity and facilitate better solutions to the problems that beset us, and that they expand our agency to address an ever-widening domain of experience. But what if this is not true at all? A close reading of computer history reveals an ever-increasing opacity allied to a concentration of power, and the retreat of that power into ever more narrow domains of experience.” (James Bridle, New Dark Age)
+- How do sophisticated systems render complexity more “legible”?

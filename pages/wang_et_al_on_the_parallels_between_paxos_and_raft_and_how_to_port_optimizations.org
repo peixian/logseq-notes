@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       401ECB02-63D9-4A4D-9AA8-95853F5232AA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: wang_et_al_on_the_parallels_between_paxos_and_raft_and_how_to_port_optimizations
+#+title: Wang et al: On the Parallels between Paxos and Raft, and how to Port Optimizations
+
+[[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:B61CD1FF-6157-4754-A625-A1AE4FCC5770][paxos]], [[id:F6AB05A3-B84F-42DB-8A9F-62470C836025][raft]]

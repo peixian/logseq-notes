@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       0501A59E-5E8F-4888-AF07-2E40B74F07D7
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: spring
+#+TITLE: spring
+
+Tags: [[id:0E4E6ABB-2CD6-4D9E-9E8F-2B2B1500B2F0][java]],
+
+application framework for java
+* Spring Boot
+  - https://spring.io/projects/spring-boot/
+  - inclusive framework for starting new projects

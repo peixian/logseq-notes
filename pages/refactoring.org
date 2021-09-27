@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       F444AE50-4A09-439E-8C4C-E41C8B8B1E6A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: refactoring
+#+TITLE: refactoring
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+* Books
+- https://martinfowler.com/books/refactoring.html

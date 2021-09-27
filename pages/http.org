@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       41841396-B9E0-4E93-81AF-6371999B3B38
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: http
+#+TITLE: http
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+* Servers
+  - http://canonical.org/~kragen/sw/dev3/httpdito-readme
+
+* Debugging
+- https://httptoolkit.tech/blog/http-wtf/

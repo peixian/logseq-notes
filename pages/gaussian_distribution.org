@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       45CE3B54-0FB4-4088-BD85-799E1258C645
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gaussian_distribution
+#+TITLE: gaussian distribution
+
+Tags: [[id:F2643E37-CED2-492A-A77C-B632F3D203FD][statistics]]

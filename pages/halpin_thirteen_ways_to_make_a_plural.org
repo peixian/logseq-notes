@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       1515E559-1DB6-427B-BE76-58A3A6EE4AF8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: haplin_thirteen_ways_to_make_a_plural
+#+TITLE: Haplin - Thirteen Ways to Make a Plural
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:EB44CC9B-3027-4BD9-A635-78DA4F61CCCB][arabic]]
+
+- Aiming for timing passages
+- Read for strict speed, without comphrension
+  - Increase the speed the brain can process arabic script
+  - 200 words per day
+- Deconstructing sentences
+  - Identifying subjects, objects, verbs, etc
+  - Underlining each pronoun and drawing a line linking it back to each noun
+- Don't reach for the dictionary unless necessary
+- Try to study abroad away from the capital
+- Eschew perfection in terms of realistic goals
+  - Fully fluent MSA and dialect is unrealistic, focus on the aspects that matter to you
+    - Holding a conversation, conducting interviews, etc
+  - Strong study base over a long period of time is required
+- Reaching C1 requires extensive practical use of the language
+- Post B1, progress slows until vocab base and weekly practice reveals itself
+- Normal to blur the colloquial and formal registers

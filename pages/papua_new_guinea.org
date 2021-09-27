@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       B4ACF3C1-63C1-4626-8429-2D7EC157FCBE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: papua_new_guinea
+#+TITLE: papua new guinea
+
+Tags: [[id:54A7E315-9721-4BC9-BE36-EE6B40B82889][south asia]]

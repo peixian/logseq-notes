@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5C5F685E-D8BE-4A6F-878C-4AC703A87A1E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: mandarin
+#+TITLE: mandarin
+
+Tags: [[id:AB300662-3E3E-4452-A29D-468522B35C3E][languages/linguistics]]
+
+* etmology
+- https://hanziyuan.net/#%E8%BD%A6

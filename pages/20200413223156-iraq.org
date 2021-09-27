@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       3D669C14-9C67-43A0-9580-04E5EEB10849
+:END:
+#+TITLE: iraq
+
+Tags: [[id:C61C3FE4-06C6-4621-818B-503E36E83B7C][middle east]]
+
+
+
+* Artifical State
+- Artificial state narratives
+
+
+* Modernity
+  - Budget
+    - Oil accounts for 90% of Baghdad's revenue
+    - IS particularly active in Diyala province
+* Irrigation
+#+SETUPFILE:./hugo_setup.org
+
+- http://documents.worldbank.org/curated/en/609671468049219564/Iraq-Integrated-National-Energy-Strategy-Technical-Assistance-Project
+* Oil
+  - https://www.somooil.gov.iq/exports
+* Elections
+  - http://psephos.adam-carr.net/countries/i/iraq/iraq20181.txt

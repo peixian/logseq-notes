@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       6FAA9F52-7D3D-415E-A915-839547247C93
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: polisario_front
+#+TITLE: polisario front
+
+Tags: [[id:9B57158F-216E-46C3-838B-E36280A6D574][western sahara]]
+
+Western sahara aligned group, largely support by [[id:460EF15E-DA2F-4C91-9675-70A0B18EF45E][algeria]]

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       D7A476E6-3506-4335-A5EC-12838C0F4B39
+:END:
+#+TITLE: Pursely - Familiar Futures
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]], [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:A438ACD2-2C1E-40EB-9502-74E5B69EA9FF][Post-Ottoman Near East]]
+
+- Talks about the [[id:B91A9E4D-0BCC-4FDB-A377-CC56F26E5F01][dujayla land project]]
+- Mutltiple "times"
+  - Such as [[id:44A22D1B-8486-4A01-9B5C-D275A848CC97][ibn khaldun]]
+
+#+SETUPFILE:./hugo_setup.org

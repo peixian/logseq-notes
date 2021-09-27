@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       08442549-7E03-4DC0-AC9D-AFB23CD6AC48
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: bangladesh
+#+TITLE: bangladesh
+
+Tags: [[id:54A7E315-9721-4BC9-BE36-EE6B40B82889][south asia]]

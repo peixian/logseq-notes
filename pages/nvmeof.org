@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       1AE0A487-F585-4F55-AE93-C69B509F9472
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: nvmeof
+#+TITLE: nvmeof
+
+Tags: [[id:E5490541-44F7-4D9F-8ACD-9AB684D1C56B][hard drives]], [[id:4160986B-AFEE-4D2E-B2EF-264A43A75D91][protocols]]
+
+NVMe over Fabric, technology to allow direct access to NVMe drives from TCP, built into [[id:0114C679-A926-41FA-9BC6-01DCF9FC0BAE][CentOS]] 8.2
+
+Works with TCP over any network card, requires [[id:82210E03-62EF-4E0F-BC42-8DD433AA6CAA][Mellanox]] for RoCE (NVMEoF voer UDP)

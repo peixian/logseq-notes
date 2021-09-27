@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       20F0082F-06B7-4DE7-AB5D-F59D818E7DF5
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: force_bundling_for_graphs
+#+TITLE: force bundling for graphs
+
+Tags: [[id:8E65CE1B-55CE-45F4-A621-EF10B64AEF9D][notes graph]]
+
+- use https://github.com/synesenom/fdeb for faster graph bundling
+- use offline d3 for generating the x and y positions
+- use http://bl.ocks.org/upphiminn/6515478 and https://github.com/upphiminn/d3.ForceBundle for graphs
+
+source:
+- https://www.data-to-viz.com/graph/edge_bundling.html
+- https://notes.andymatuschak.org/Approaches_for_visualizing_large_graphs
+- https://github.com/gephi/gephi

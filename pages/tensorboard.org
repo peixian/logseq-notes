@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       437A2714-8902-44E6-ABAD-CAD246E7C57D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: tensorboard
+#+TITLE: tensorboard
+
+Tags: [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]]
+
+- https://www.tensorflow.org/tensorboard/
+- helps to visualize neural networks, works with both [[id:DFA9E03B-C9EA-474B-B8E0-9923154B91FF][tensorflow]] and [[id:8CF9A0F7-2E51-4922-B6B7-2C42E8E2BE16][pytorch]]
+- https://pytorch.org/tutorials/intermediate/tensorboard_tutorial.html
+- https://www.tensorflow.org/tensorboard/get_started

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       A0C1EB6C-89B5-449E-9198-85C25815F159
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: cpu
+#+TITLE: cpu
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- https://travisdowns.github.io/blog/2021/06/17/rip-zero-opt.html

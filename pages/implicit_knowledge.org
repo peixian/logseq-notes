@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       7040892D-0CED-4E95-A4C1-F031EF9E5DC1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: implicit_knowledge
+#+TITLE: implicit knowledge
+
+Tags: [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]]

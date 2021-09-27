@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       079575C4-65AF-468E-A538-BD1342ED947F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: quick_history_of_nlp
+#+TITLE: quick history of nlp
+
+Tags: [[id:48350662-53E9-4A91-9ADB-2BC9DFEA6098][nlp]]
+
+- 1960's - pattern matching and rules, unrealistic expectations
+  - very large systems attempting symbolic representations
+- 1970's-80's - linguistically rich, logic-driven systems, labor-intensive successes on few narrow tasks
+  - working dialogue systems
+  - heavily engineered for specific domains
+- 90's-20's - statistical revolution, machine learning becomes a central part of nlp
+- 2010's - deep learning takes off and accelerates progress
+  - 2018-2019 - new surge of progress on unlabled data
+
+- result, progress is very fast, months to one year on lead times
+  - -> focus on metalearning, how to learn quickly

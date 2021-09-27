@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       A420CED3-2184-4707-A28E-86345107541B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: jamal_kawjar
+#+TITLE: jamal kawjar
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+member of the [[id:2B6B235B-4D07-4CE7-AFC6-C8B418C7CACA][iraqi finance committee]]

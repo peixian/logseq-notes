@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       58141EFD-7BBA-460E-A0B6-42081576B5DB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: iom_if_we_leave_we_are_killed
+#+TITLE: IOM: If We Leave We Are Killed
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:2E747AB7-60C7-4EFC-AA31-FD8AB58DDD00][un and global governance lecture 4]]
+
+IOM. “If We Leave We Are Killed.” Accessed February 20, 2021. https://newclasses.nyu.edu/access/content/group/e0e3accc-6b4d-4bc0-81c5-17c9c398eec9/IOM_If%20we%20leave%20we%20are%20killed%20_2016_.pdf.
+- Report on protection of civilians for south sudan
+- Identifies several key problems, such as:
+  - failure to prepare for long term PoC camps
+  - failure for humantiarians and UN to demarcate what is military lines and what is humanitarian space

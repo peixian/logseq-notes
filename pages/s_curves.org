@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       392FD52F-E143-49AC-AF79-387E9C1AB38C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: s_curves
+#+TITLE: s curves
+
+Tags: [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]]
+
+* Interest rate sensitive products are epxosed to market rates by different curves
+** S (swap and basis spread curves) and bond curves (F and M)
+* Definition
+  - Swap curve built out of fixed coupon rates of market quoted interest rate swaps across different maturities in time.
+  - Consists of a fixed leg and a floating leg
+  - Swpa curves are constructed in segments from the market prices of various fixed income instruments
+  - Short end of swap curve (< 3 months) is calibrated on unsecurted deposit rates
+  - Middle area of the curve (3months - 2 years) isdervied from a combination of forward rate agreement congrats and interest rate futures
+  - Long end of the curve is constructed from observed quotes of swap rates (out to 10 years or more)
+  - Single currency basis spread curves are constructed from market quotes for basis swaps
+    - Basis swap is a floating-floating interest rate swap under the floating rate payments are referenced to different bases
+  - Used for
+    - Pricing fixed income instruments such as corporate bonds, mortgage securities, and other securitized products
+    - Price cash flows, swaps, FX forwards, and other derivatives

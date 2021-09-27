@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       A512F5CE-4358-4302-B295-4E3F2EEB16EE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: held_the_diffusion_of_authority
+#+TITLE: Held: The Diffusion of Authority
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:C2FFFFB5-13EC-476F-AB83-FD70756DF07B][un and global governance lecture 1]]
+
+
+Held, David. “The Diffusion of Authority.” In International Organization and Global Governance, 2018. http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=1692424.
+
+Talks about the rise of civil society and private organizations, especially in the sphere of [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]], [[id:6D96E728-B780-4735-BCA4-591F45978BBA][climate change]], and security. Focuses on how in the vacuum of UN level organization, fracturing and regional level agreements have arisen
+
+- Rise  of linkages of "domestic" organizations across sister states
+- rise of private tribunals
+- nonstate actors have gained their own powers, distinct from lobbying groups
+- global governeance is not monolithic, but rather fractured
+  - [[id:D4217BDA-C95C-4736-89BD-E368D03CA5BC][un sustainable development goals]]
+* security
+  - why are states willing to diffuse authority?
+  - most successful coorperation has been tracking down terrorist finances
+    - [[id:B06BFC0A-8420-4C6F-ADA8-F47914440848][financial action task force (FATF)]]
+    - [[id:235C1E4D-4C2C-4B66-8CC2-1BAED8F160B8][basel committee on banking supervision]]
+* environment
+  - one of the most developed international movements, but also one that is extremely fragmented and weak
+  - private firms and civil society have largely stepped up to the plate
+  - states have consistently been unable to reach a consensus on a UN level

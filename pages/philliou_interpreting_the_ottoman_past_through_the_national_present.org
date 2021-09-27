@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       A9E01CBD-FC46-42E8-B5D8-41CC27DC6E60
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: philliou_interpreting_the_ottoman_past_through_the_national_present
+#+TITLE: Philliou: Interpreting the Ottoman Past through the National Present
+
+Tags: [[id:FAC6D0F0-7797-4330-B988-37260A98CBC1][turkey]], [[id:E2821844-9819-49F2-9CE7-CD04EDDB2E85][europe]], [[id:E0568496-6835-438C-A394-B387291A7BDA][ottoman]], [[id:A438ACD2-2C1E-40EB-9502-74E5B69EA9FF][Post-Ottoman Near East]]
+
+Talks about the Ottoman legacy of the Balkans and the Middle East via Mursus Pasha and his patron
+- booming business of land deeds of families in Greece written in Ottoman
+- Talks about the status of dragomans - a translater/interpreter/political analyst all combined into one
+
+Concludes talking about how the legacy of Ottoman Turkish archives has only just begun to be researched, does recent neo-Ottoman and Turkey/Greek detant revolve around parallel national imaginations?
+
+* Mursus Pasha
+  - Ambassador to the Kingdom of Greece, then Switzerland, then London
+  - Married the daughter of Stephanos Vogorides
+    - Both were in the circles of the imperial ottoman court
+    - Vogorides was the nominal prince of a small island
+    - Engaged in weekly correspondence between 1830's-1850's
+    - both engaged in promulgation of the [[id:434F9B62-7240-40A3-815C-B06F2B10B143][tanzimat]]
+  - Spoke Greek, didn't quite master Ottoman Turkish
+    - Greek was the language of the Orthodox Christian Church, and largest non-Muslim group in the empire
+  - Nation of [[id:D8E7997D-829D-4433-929D-1D7AD4270904][greece]] was the first independent successor-state to the Ottoman empire

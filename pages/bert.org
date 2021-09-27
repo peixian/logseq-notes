@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       B23DDBD4-476A-4518-97B2-F433192A023D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: bert
+#+TITLE: bert
+
+Tags: [[id:48350662-53E9-4A91-9ADB-2BC9DFEA6098][nlp]]
+
+- https://huggingface.co/transformers/bertology.html\
+- https://github.com/huggingface/transformers/blob/master/examples/research_projects/bertology/run_bertology.py
+
+- attention vs self-attention
+  - attention is an operator that lets you collapse a sequence of vectors into a single vector
+
+  - self attention is used when the vectors you're attending over were produced by a nn with the same params and the same input sequence
+    -
+
+* distilled bert
+- https://arxiv.org/abs/1910.01108
+
+
+* Exploring bert
+- https://huggingface.co/exbert/?model=distilgpt2&modelKind=bidirectional&sentence=The%20girl%20ran%20to%20a%20local%20pub%20to%20escape%20the%20din%20of%20her%20city.&layer=0&heads=..0,1,2,3,4,5,6,7,8,9,10,11&threshold=0.7&tokenInd=null&tokenSide=null&maskInds=..&hideClsSep=true

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       853EF83B-71AB-4B99-A19A-F3C72FDAB838
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: websockets
+#+TITLE: websockets
+
+Tags: [[id:41841396-B9E0-4E93-81AF-6371999B3B38][http]]

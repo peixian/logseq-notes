@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID:       F2A68FD0-36B2-4F11-88C9-508128D887A4
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: containerd
+#+TITLE: containerd
+
+Tags: [[id:A0A37A5E-A266-46B3-8148-D7A40A5F1F78][kubernetes (k8s)]]
+
+- "Container runtime"
+- below docker and kube
+- above runc, Kata, Firecracker, gVisor
+- Extensible resource manager
+- originally built up alongisde docker
+- new interface for managing containers and images
+- most memory efficient and stable
+- most stuff flows through the core
+- communicates with grpc
+* CRI
+  - Two grpc services
+  - image and runtime
+  - responsible for defining the pod and all cgroups
+  - invokes CNI after the first container is created
+* Resource management
+  - current
+    - CPU manager in kubelet
+    - strange, difficult to use
+  - NRI
+    - kubelet abstraction is too blurry
+    - hook into container lifecycle is the correct way
+    - dynamic topology and cpu pinning with NRI
+* Runtime
+  - Starts up new runtime shims
+    - OCI runtime shims
+      - runc/kata/Firecracker
+* Plugin System
+  - OCI spec outlines how to run a unpacked filesystem bundle
+    - tar/gzip + overlayFS + runC
+  - containerd makes external plugins as backend
+** Generic image layer support
+   - OCI image layer described the media type
+** ShimV2 for runtime implementation
+   - First class shim API
+* Arch
+  - Shim has the most state
+  - API and client have the least state
+  - 1.4 is the most recent release

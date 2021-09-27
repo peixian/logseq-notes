@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       192CF3E0-12E4-462E-9BCB-F661286FD1BF
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: iran_iraq_war
+#+title: iran/iraq war
+
+Tags: [[id:D1946AF3-6885-4AE6-875E-9A682AE37A55][events]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]], [[id:5E8A9793-6DE6-4E2C-A33B-D85714A3C06C][iran]]

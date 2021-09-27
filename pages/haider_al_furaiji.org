@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       77049DFD-F9B9-453B-9FD5-A5FD026FBA5A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: haider_al_furaiji
+#+TITLE: haider al-furaiji
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

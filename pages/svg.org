@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       801641CA-8A4A-46FD-B90A-AFF1B57086BE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: svg
+#+TITLE: svg
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+https://observablehq.com/@makio135/creative-coding

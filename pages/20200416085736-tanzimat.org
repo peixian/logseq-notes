@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       434F9B62-7240-40A3-815C-B06F2B10B143
+:END:
+#+TITLE: tanzimat
+
+Tags: [[id:E0568496-6835-438C-A394-B387291A7BDA][ottoman]]
+
+Political reforms aimed at appeasing European Great Powers for equality of citizenship and abolishment of the millet system
+- Announced in 1839
+- Promulgated in 1856
+- Reforms were run through a series of dragomans, described by [[id:A9E01CBD-FC46-42E8-B5D8-41CC27DC6E60][Philliou: Interpreting the Ottoman Past through the National Present]]
+- Reforms attemped to centralize all currencies into a single treasury issued currency
+- Streamlining the Ottoman empire's coercive abilites to command economic production - [[id:C502879F-6192-46A0-B178-E331F8607116][Blumi - Ottoman Refugees, 1878-1939]]
+#+SETUPFILE:./hugo_setup.org

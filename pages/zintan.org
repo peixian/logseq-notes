@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       EAD052A2-6A80-4AA0-9C3F-0440C053443A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: zintan
+#+TITLE: zintan
+
+Tags: [[id:C21DF9B0-E7E9-44F9-91A2-EEA809BD6293][libya]]

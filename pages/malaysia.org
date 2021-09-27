@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       19767910-0590-44C4-850A-672522D7B126
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: malaysia
+#+TITLE: malaysia
+
+Tags: [[id:54A7E315-9721-4BC9-BE36-EE6B40B82889][south asia]]

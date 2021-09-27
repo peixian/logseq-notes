@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       E831F133-8E08-4532-B0C1-D923C7E12BC1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: giulio_tononi
+#+TITLE: giulio tononi
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:F24757A4-56C4-49D0-9151-15CA0E1E3A2F][cognition]]

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       863FD3EF-A8D0-4989-8DF5-F87A4ECE3E0A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: moore_s_law
+#+TITLE: moore's law
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+Doubling of computation power every 18 months

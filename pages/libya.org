@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       C21DF9B0-E7E9-44F9-91A2-EEA809BD6293
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: libya
+
+#+TITLE: libya
+
+Tags: [[id:C61C3FE4-06C6-4621-818B-503E36E83B7C][middle east]]
+
+https://www.researchgate.net/publication/332719042_Conflict_resolution_in_Libya_What_works

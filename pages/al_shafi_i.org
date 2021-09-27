@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       96DA0009-D506-4D5E-968D-C45655EE5136
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: al_shafi_i
+#+TITLE: al-shafi'i
+
+Tags: [[id:BB2783B7-0E6B-4886-8007-EC63A9C67096][islamic jurisprudence]]

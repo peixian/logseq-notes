@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       5300F6C0-A5FB-4BA7-981E-4418903CEC22
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: iraqi_tribes
+#+title: iraqi tribes
+
+[[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

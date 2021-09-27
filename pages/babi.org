@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       4EDCF189-9CAF-4C2B-B63F-D56AC6136D5C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: babi
+#+title: Babi
+
+[[id:5E5E8287-6677-468A-8B62-7AA634A3E5CC][islam]]

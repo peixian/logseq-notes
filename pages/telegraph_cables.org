@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3B97BC35-0801-45C0-8621-3BDD6AE3B0B6
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: telegraph_cables
+#+TITLE: telegraph cables
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+https://en.m.wikipedia.org/wiki/Electrical_telegraphy_in_the_United_Kingdom
+https://en.m.wikipedia.org/wiki/Transatlantic_telegraph_cable

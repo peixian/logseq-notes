@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       0AE7D45A-DA37-40AE-A5CD-AEB6694E810D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: knight_et_al_honored_not_contained
+#+TITLE: Knight et al - Honored, Not Contained
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:ADFAE0CB-D584-4CE9-9965-4E76C474546E][hashd al-shaabi (PMF)]]
+
+* Preface
+Three main types of hashd units
+1. Local Hashd units that recruited locally and serve only in their home districts
+2. Transplanted Hashd units that are mostly recruited from southern Iraq but have setteled down and claimed certain operational locations
+3. Floating Hashd, often Iran support militias before 2014
+
+** Recommendations
+   - Freeze the hashd expansion
+     - Recommends the buget to be frozen at current manpower of 135k and 2.58 trillion Iraqi dinars (2.16 bil)
+     - effect directive to remove hashd offices from the cities, where local police should have primacy
+   - Iraq's leaders believe the normaliation timeline is 5-10 years
+   - Hamid al-Khafaf from [[id:3F2EE985-63C3-42AD-95C0-8ADD543FCF21][sistani]]'s office issued a strong statement challening the government to apply the law
+   - [[id:F643CE85-DE07-4F56-B49E-8439D1479B34][executive order 85 (2018)]], [[id:337E0E6C-F76D-41C3-8C8E-170052E10131][executive order 237 (2019)]]
+     - possible more non-public annexes
+   - study should be done of the concept and implementation of reserve forces model with permanent and reservist cadres
+     - no rush to cement the structure now
+   - need to prevent it from becoming a regime security division and domestic-suppression force
+   - development of canton areas and redeployment from 'hot' areas
+
+* Part 1: Legal Authorities and Nominal Structure
+** [[id:8975C122-7589-444F-8E13-5180F6AF5C49][legal basis of the hashd]]
+** [[id:1B67B157-E442-4F2B-BDDD-E4B715ADBE5A][organizational structure of the hashd]]
+** [[id:5849199A-A21B-43ED-88B2-744229DAE29D][rights of hashd members]]

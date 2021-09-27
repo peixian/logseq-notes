@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       AB0C4D8D-EAE4-47EB-8220-FD3112CC9EB6
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: diehl_and_druckman_not_the_same_old_way_trends_in_peace_operations
+#+TITLE: Diehl and Druckman: Not the Same Old Way: Trends in Peace Operations
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:B5718C5F-C397-4669-A100-06F66C9A480B][un and global governance lecture 2]]
+
+* Questions
+
+* Summary
+- Identifies 4 "ages" of peacebuilding
+  - 56-78 - golden age
+  - 79-88 - lost decade
+  - 89 - 90's - revival
+  - post-2000's - restructuring
+- peacekeeping was initially founded in the arab-israeli and [[id:8167F3DC-A169-4452-B5DC-F6F669C0C038][india]]-[[id:E414E54E-F7C1-4837-A904-7947522C8025][pakistan]] conflicts
+- during cold war, harder to carry out peace ops independent of the UN because of the lack of regional organizations
+  - now [[id:7C05085A-564D-4186-B4E7-AD9DC612310A][un]], [[id:90216C63-336B-4FDD-B6CF-9ACD1EC0044D][eu]], [[id:51F35847-CDEB-4E08-A5C5-056EC05C4AC1][african union (au)]], and [[id:FE053A71-9A78-4B8A-8263-E60D8FCD2BAA][commonwealth of independent states (cis)]] have all carried out peace operations
+- 80% of un operations revolve around ceasefires
+- rise of civial and intra-state wars have lead to shifting of how UN tackles problems
+- pre-cold war, state government was absolutely and sovereignty was respected wrt the deployment
+- changes
+  - disputants have asked for help in newly democratic states
+  - humanitarian intervention
+    - [[id:FB1404E0-ADE5-411F-A85D-098F39799A63][kosovo force (KFOR)]]
+    - [[id:431D8E2A-1933-4955-B7D5-80864AA5C531][united nations operation in somalia (UNOSOM)]]
+- training standards among states have varied greatly
+- civil conflict peacekeeping operations have taken longer, and much harder to resolve in the post-cold war era
+- rise of [[id:7B38A055-047E-45EB-8494-6AA91F420D2D][conflict prevention]]

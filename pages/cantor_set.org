@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       4D41EE81-6EF6-458F-AEE0-EC1C1A8DD46C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: cantor_set
+#+TITLE: cantor set
+
+Tags: [[id:0C55E344-F9AE-4584-B54F-83EC2FCE9062][math]]

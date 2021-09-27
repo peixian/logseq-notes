@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       F5EE30FC-CAAD-4D58-8AC6-087E4060E7B1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: cambodia
+#+TITLE: cambodia
+
+Tags: [[id:54A7E315-9721-4BC9-BE36-EE6B40B82889][south asia]]

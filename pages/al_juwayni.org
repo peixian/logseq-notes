@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       EADA020D-3020-4971-BCC5-589259B1CE26
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: al_juwayni
+#+TITLE: al-Juwayni
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:5E5E8287-6677-468A-8B62-7AA634A3E5CC][islam]]
+
+early [[id:96DA0009-D506-4D5E-968D-C45655EE5136][al-shafi'i]] jurist

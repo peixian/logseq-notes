@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       933D61BB-5407-415E-8F46-E42D57302390
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: quantum_computing_resource_list
+#+TITLE: quantum computing resource list
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+lectures:
+- quantum computing
+  - https://www.cs.huji.ac.il/~doria/Qcomp2005/week8.pdf
+  - error correcting codes in qubits are polynomial in runtime
+  - alogorithms must be exponential in speedup
+
+- http://www.math.uwaterloo.ca/~jyard/qic710/
+  - slides: http://www.math.uwaterloo.ca/~jyard/qic710/F17/
+- https://www.scottaaronson.com/democritus/
+- https://ieeexplore.ieee.org/document/9252061

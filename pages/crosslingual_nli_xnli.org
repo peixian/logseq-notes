@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       9DA1533A-3E99-4701-93C2-A393DC478E29
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: crosslingual_nli_xnli
+#+TITLE: Crosslingual NLI (XNLI)
+
+Tags: [[id:D9C1DCB3-C95F-4778-BBA4-59E7AEBFC961][nli]], [[id:A904921D-F574-41FC-B41C-4B6114932AC5][datasets]]
+
+- Cross lingual
+- 7.5k per language
+- Meant to evaluate cross-lingual transfer
+- slightlier noiser because the sentences were translated one-by-one
+  - premise was translated by possibly a different person than a hypothesis

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       51BC9BEA-4F6D-4438-87F8-F6322BA475A3
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: transformers
+#+TITLE: transformers
+
+Tags: [[id:48350662-53E9-4A91-9ADB-2BC9DFEA6098][nlp]]
+
+- https://huggingface.co/transformers/
+- http://jalammar.github.io/illustrated-transformer/
+- https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+- https://huggingface.co/blog/long-range-transformers
+- https://kazemnejad.com/blog/transformer_architecture_positional_encoding/
+- https://timodenk.com/blog/linear-relationships-in-the-transformers-positional-encoding/

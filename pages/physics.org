@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       7A929556-F8FE-4588-9440-655F9368B1F0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: physics
+#+TITLE: physics
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]

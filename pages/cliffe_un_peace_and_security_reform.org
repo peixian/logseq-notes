@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       8432F27D-0BB5-484E-B3F6-360B0D04B91D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: cliffe_un_peace_and_security_reform
+#+TITLE: Cliffe: UN Peace and Security Reform
+
+Tags: [[id:5D4FD56C-329E-4881-AEBC-EFE6DDF0F29D][articles]], [[id:779E6EF7-2A90-4D3E-A0AE-78B25F1C3FCD][un and global governance lecture 12]]
+
+- “UN Peace and Security Reform: Cautious Steps in the Right Direction | Center on International Cooperation.”
+- https://cic.nyu.edu/publications/un-peace-and-security-reform-cautious-steps-right-direction
+- article analyzes [[id:4F209E99-F507-4B95-8B6A-19241E0368C7][antonio guterres]] adoped [[id:042DC2EA-61A5-4BBF-AA8B-D1E233A8023A][High-Level Independent Panel on UN Peace Operations (HIPPO)]], [[id:7A16C8DC-7451-4184-969D-5B1EA6A5A438][advisory group of experts (AGE)]], and [[id:EA3D0FA6-D3E6-4497-8C42-C082F27653FC][UNSCR 1325]]
+- sec-gen proposes changing the department of political affairs to include peacebuilding, and changing the DPO to manage large field missions
+- resolves:
+  - no more overlap between DPA and DPKO (both missions had become political and operational)
+  - allows UN to deploy a "spectrum of operations"
+  - mission transitions should be made smoother
+
+
+#+DOWNLOADED: screenshot @ 2021-04-20 08:21:20
+[[file:2021-04-20_08-21-20_screenshot.png]]
+
+- potential issues:
+  - institutional support functions are still separated from the peacebuilding groups
+  - peacebuilding support no longer has a direct line to SG, must be through the DPPA, and becoming tied to a single pillar
+  - no discussions of what gender looks like
+  - maangement reforms are not addressed
+  - authority is delegated, but fiscal responsibilities are not
+  - politics remain the same: USGs for Political Affairs and PO are the same, held by the [[id:97BD1E12-9693-4CF4-8A7E-61DFAC324300][united states]] and [[id:2F7E55D6-A8D8-41B6-B7D0-09A9D1A09B22][france]]

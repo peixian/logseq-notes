@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       12F57134-18E4-46CB-A54E-71968FE9701C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: julia
+#+TITLE: julia
+
+Tags: [[id:5717AC93-7D2F-4E0B-BB2D-FD5C09FE4A9B][programming languages]]
+
+* Font
+https://cormullion.github.io/pages/2020-07-26-JuliaMono/
+* Learning
+- https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way

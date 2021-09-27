@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       3FFA6F89-62CC-4F2F-BAF4-F675AEE95EA8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: captum
+#+TITLE: captum
+
+Tags: [[id:8CF9A0F7-2E51-4922-B6B7-2C42E8E2BE16][pytorch]]
+
+- https://captum.ai/

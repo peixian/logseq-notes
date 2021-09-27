@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       6596B9DE-6A94-4A62-AD86-A36E1CF47766
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: national_soldiarity_program_nsp
+#+TITLE: national soldiarity program (NSP)
+
+Tags: [[id:22A30C31-C090-4475-B79C-B21E35CA9530][world bank]], [[id:086B0579-8C85-4CE5-9E65-EB8980FB2C2E][afghanistan]]
+
+World bank administered program to help afghanistan

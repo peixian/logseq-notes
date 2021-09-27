@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       60238003-519B-4EC2-BA79-95D114DF0C50
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: zakat
+#+TITLE: zakat
+
+Tags: [[id:5E5E8287-6677-468A-8B62-7AA634A3E5CC][islam]]

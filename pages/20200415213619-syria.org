@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       BE234E49-5E49-4054-8308-6EDDCA766FAB
+:END:
+#+TITLE: syria
+
+Tags: [[id:C61C3FE4-06C6-4621-818B-503E36E83B7C][middle east]]
+
+- Supreme Sharia Judge as of April 26, 2020 is Mahmoud al-Maarawi
+
+- "Rifaat argues to this day that he, not Bashar, should have succeeded to the presidency of Syria upon Hafez's death in 2000, but he does his arguing from France, where it surprisingly doesn't have much effect." (Today in Middle Eastern History: The Hama Massacre Begins)
+
+#+SETUPFILE:./hugo_setup.org

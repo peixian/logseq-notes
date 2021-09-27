@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       C634CF79-8E0A-4FA7-AC5D-AAB6ED7E0049
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: migrant_workers_in_jordan
+#+title: migrant workers in jordan
+
+[[id:67DC79D4-6A11-4491-8A71-8C9746477DE4][jordan]]
+- https://namati.org/news-stories/the-maid-and-the-madame-rights-for-migrant-workers-in-jordan/
+- [[id:67DC79D4-6A11-4491-8A71-8C9746477DE4][jordan]] has >1 mil migrant workers, but only around 290k are documenterd
+- 68% of migrant workers are from [[id:98F9993A-F5AD-44C5-A732-8BBAD7FA6BEE][egypt]]
+- lots of wokers from [[id:54A7E315-9721-4BC9-BE36-EE6B40B82889][south asia]] work in [[id:E435A559-1181-4894-8C9A-0BD0BE8F1561][qiz]]s
+- large black market that happens for migrant workers

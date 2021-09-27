@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       75596EDC-4243-41A7-A85A-8BC334C2048C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: burundi
+#+TITLE: burundi
+
+Tags: [[id:4716EF6A-B378-4010-B090-41D487EB8B72][africa]]

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       388F17BD-C28E-4E76-927E-6448B49B5EC1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: zhang_et_al_tropical_geometry_of_deep_neural_networks
+#+TITLE: Zhang et al: Tropical Geometry of Deep Neural Networks
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]]
+
+Shows that [[id:00CDCA2C-4F7D-47CC-BF89-AD2A95E126CF][relu]] activation is similar to tropical [[id:9C3257C3-E985-4256-A320-EB9DF97363F6][rational maps]]
+
+Says that feedforward ReLU nn's can be related to tropical hypersurfaces in [[id:EF28DB94-07A0-4FB3-AB44-A574830B7AFE][tropical geometry]]

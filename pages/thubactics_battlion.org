@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       87DB6C1A-2828-40AF-923C-3D673FC52C99
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: thubactics_battlion
+#+TITLE: thubactics battlion
+
+Tags: [[id:C21DF9B0-E7E9-44F9-91A2-EEA809BD6293][libya]]

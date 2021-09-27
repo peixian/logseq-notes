@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       36C7666B-F1B8-4F40-9ED2-6E6D456C3759
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sheikh_abdul_rahman_al_kakhimi
+#+TITLE: sheikh abdul rahman al-kakhimi
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

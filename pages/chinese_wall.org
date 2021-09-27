@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       B67AEE39-AA53-41B7-9850-BEE2712B65F4
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: chinese_wall
+#+TITLE: chinese wall
+
+Tags: [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]]
+
+- https://en.wikipedia.org/wiki/Chinese_wall
+- information barrier to prevents conflicts of interest

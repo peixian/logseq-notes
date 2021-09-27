@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       15F31B89-B6AC-4D26-8838-89C9A0ADF748
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: bias_nlp_project
+#+TITLE: bias nlp project
+
+Tags: [[id:5D94563B-C811-4568-9983-6F934F9E13EA][ling-ga 1012 (nlp and semantics)]], [[id:48350662-53E9-4A91-9ADB-2BC9DFEA6098][nlp]]
+
+- https://huggingface.co/datasets/md_gender_bias#dataset-description
+- https://docs.google.com/document/d/1ELNs90-7rrgUcoRsRVjvjsp_N7siBTGWpvl9v5e8KKU/edit#heading=h.npe3cfgliatb
+- https://docs.google.com/document/d/1MQ2GfjKVbE3NNZid3ZmKm8q3EMVCYabAEPEvyTQnnkI/edit
+
+- https://huggingface.co/datasets/md_gender_bias

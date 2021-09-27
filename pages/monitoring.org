@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       F51C8A99-A7B9-47BF-8B9F-196D2B9AD6A6
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: monitoring
+#+TITLE: monitoring
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+* Riemann
+- http://riemann.io/
+- made by the guy who made jepsen
+- guide in https://artofmonitoring.com/TheArtOfMonitoring_sample.pdf
+
+* Prometheus
+
+* Graphite
+- http://graphiteapp.org/
+
+* Grafana

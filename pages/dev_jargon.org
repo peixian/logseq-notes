@@ -1,0 +1,69 @@
+:PROPERTIES:
+:ID:       12BE50F7-AF91-4107-8949-026FA740A530
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: dev_jargon_blog_post
+#+TITLE: dev jargon blog post
+
+Tags: [[id:D51D4006-2F02-4305-BBEF-5EDEFDCFD334][writing]]
+- Break down: https://eng.lyft.com/envoy-7-months-later-41986c2fd443
+
+* First Section
+  #+begin_quote
+On September 14, 2016 we announced Envoy, our L7 proxy and communication bus. In a nutshell, Envoy is a “service mesh” substrate that provides common utilities such as service discovery, load balancing, rate limiting, circuit breaking, stats, logging, tracing, etc. to polyglot (heterogeneous) application architectures.
+
+We knew that we had built a compelling product that was central to Lyft’s ability to scale its service-oriented architecture; however, we were surprised by the industry wide interest in Envoy following its launch. It’s been an exciting (and overwhelming) 7 months! We are thrilled by the positive reception and wide uptake Envoy has since received.
+  #+end_quote
+
+  Jargon terms
+  - L7
+  - proxy
+  - communication bus
+  - "service mesh" substrace
+  - common utilities
+    - service discovery
+    - load balancing
+    - rate limiting
+    - circuit breaking
+    - stats
+    - logging
+    - tracing
+  - heterogenous application archiectures
+  - service oriented archiecture
+  - industry -> which industry?
+
+* Second section
+  - moderately sized soa
+    - what is moderately sized?
+  - RPC library
+    - similar to above
+  - ELB
+  - decompositional scaling benefits
+  - network substrace
+  - native code
+    - cpu usage, memory usage, tail latency properties
+    - HaProxy
+    - nginx
+    - opaque development process -> what does this mean?
+  - eventually consistent
+    - lossy
+    - high reliability
+    - etcd
+    - zookeeper
+  - api
+    - control plane
+    - opinionated -> what does this mean in this context
+    - TLS authentication
+    - grpc
+    - REST
+  - filter based l4 core
+    - mongodb
+    - redis
+    - http
+  - http/2 and http/1
+
+* Third section
+  - multi-organizational project -> what does this mean
+
+* Fourth section
+  - skipping roadmap because I don't expect normal people to understand

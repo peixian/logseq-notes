@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       BE40567D-0253-4368-B62E-26E273E1FB1A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: modernizing_investor_definition
+#+TITLE: modernizing investor definition
+
+Tags: [[id:6E56E85E-959D-46EF-9557-54C62E2C6299][sec]]
+
+- https://www.sec.gov/rules/final/2020/33-10824.pdf
+
+#+begin_src txt
+ In case you're just wondering what the changes to the rule are, they are roughly:
+
+* The SEC can designate professional certifications from accredited institutions as a surrogate for wealth --- to begin with, FINRA Series 7, 65, and 82.
+
+* Employees of investment funds can be accredited for purpose of investing in their employers fund.
+
+* Firms that are SEC-registered investment advisors may now be accredited.
+
+* To meet the individual standards of accreditation, households can pool wealth between spouses, regardless of whether both spouses are acquiring a security.
+
+* LLCs with 5MM in assets are accredited, as are family offices with 5MM in assets.
+#+end_src
+
+- relates to https://www.bloomberg.com/opinion/articles/2018-09-24/earning-the-right-to-get-swindled

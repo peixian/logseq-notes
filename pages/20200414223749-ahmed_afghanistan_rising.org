@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       69AA32CE-9029-498C-99B8-182666E12FF0
+:END:
+#+TITLE: Ahmed - Afghanistan Rising
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:A438ACD2-2C1E-40EB-9502-74E5B69EA9FF][Post-Ottoman Near East]], [[id:086B0579-8C85-4CE5-9E65-EB8980FB2C2E][afghanistan]], [[id:FAC6D0F0-7797-4330-B988-37260A98CBC1][turkey]]
+
+CUP officiers arrived in early years of Afghanistan under Aman Allah, where they played a major role in early "moderization".
+
+Presents a very rosy Pan-Islamic view of the CUP officiers.
+
+* Aman Allah
+- Greatly respected [[id:56E74CD3-17D3-467F-A8CD-A8C3B8563573][mustafa kemal]]
+- Configured the early Afghan state
+- Multiple leaps in early [[id:CC0EFB92-1661-4A5A-BE0D-46FB07D94241][jurisprudence]] in afghanistan, such as:
+  - oversight of a constitutional draft committee comprised of jurists and theorists and members of the [[id:4E2288E7-DD5A-4A6B-A795-B9A3481011FA][ummah]]
+  - All laws drafted under the first constitutional committee required a match with [[id:6D1614AE-5942-4FAA-A20C-F50C09327993][sharia law]] before passing to Aman Allah
+- Later years hampered by aggressive spending, eventually ousted in 1928
+
+#+SETUPFILE:./hugo_setup.org

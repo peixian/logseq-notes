@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       F19A683E-DEBB-4F91-B88A-08A26A00C9FD
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: tsne
+#+TITLE: tsne
+
+Tags: [[id:1E95EA69-5FA9-4065-B175-48E0A4391924][statistical methods]]
+
+- https://blog.datascienceheroes.com/playing-with-dimensions-from-clustering-pca-t-sne-to-carl-sagan/
+- https://constantamateur.github.io/2018-01-02-tSNE/
+
+tSNE reduces dimensions into two, as compared to [[id:8B40D13E-55E4-41D3-931A-6B1C1C3B4AAE][principal component analysis]]

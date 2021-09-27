@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       C14B837B-5884-4E98-B0AD-1999D65AC180
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: cook_the_aswan_low_dam_and_modernizing_the_nile
+#+TITLE: Cook - The Aswan Low Dam and Modernizing the Nile
+
+Tags: [[id:98F9993A-F5AD-44C5-A732-8BBAD7FA6BEE][egypt]], [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]
+
+The completion of the Aswan Low Dam was premised on orientialist perceptions that the British would 'modernize' the Egyptians.
+- Ended up miscalculating
+  - Did not respect the environmental impacts of this
+    - British engineers saw this as a time to experiment as well as a time to dig into their "Christian" past for relics
+  - Did not respect the cyclic abundance of the Nile
+    - Farmers now needed to use more fertilizer
+    - Mitchell notes that by 1933 due to the Aswan Low Dam project only, “one-fifth of the Nile valley was now irrigated by the river’s annual flood, which in the past had fertilized the soil by depositing a layer of silt and nutrients…By the end of the 1930s Egyptian farmers were using 600,000 tons of fertilizer a year - pg 7, from [[id:DA346EB5-BAC5-4536-B5BF-886CD9495CF5][Mitchel - Rule of Experts: Egypt, Techno-politics, Modernity]]
+- Attempts at the regulating the Nile had been done before
+- Persistent belief from the British that the Egyptians were somehow "squandering" the Nile
+- Dam did not account for salination like in [[id:807301C8-4F30-48C2-92EA-B4E69A9DD8AA][irrigation in iraq]] with the [[id:B91A9E4D-0BCC-4FDB-A377-CC56F26E5F01][dujayla land project]]

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       3369E983-E106-4901-ABBB-34916BE691B4
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: bpf_for_storage
+#+title: bpf for storage

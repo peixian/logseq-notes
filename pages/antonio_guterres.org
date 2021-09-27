@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       4F209E99-F507-4B95-8B6A-19241E0368C7
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: antonio_guterres
+#+TITLE: antonio guterres
+
+Tags: [[id:7C05085A-564D-4186-B4E7-AD9DC612310A][un]]
+
+UN secretary general

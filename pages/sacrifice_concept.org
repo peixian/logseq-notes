@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       E2B72ECC-D0A8-48D8-B793-D19062FD4CB7
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sacrifice_concept
+#+title: sacrifice (concept)
+
+[[id:4D07A7F6-AA30-415E-B718-B82E4151A482][religion]]
+
+- Important to distinguish between sacrifice _for_ and sacrifice _to_

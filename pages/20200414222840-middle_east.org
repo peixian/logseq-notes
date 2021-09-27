@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       C61C3FE4-06C6-4621-818B-503E36E83B7C
+:END:
+#+TITLE: middle east
+#+SETUPFILE:./hugo_setup.org
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]

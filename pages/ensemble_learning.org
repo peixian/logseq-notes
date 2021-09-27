@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       1EF4930A-7EB6-42BC-AA58-DCD337E65DC4
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ensemble_learning
+#+TITLE: ensemble learning
+
+Tags: [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]]
+
+- https://machinelearningmastery.com/ensemble-methods-for-deep-learning-neural-networks/

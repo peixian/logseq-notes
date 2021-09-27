@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       69E391EC-184C-497C-992C-0F488E069418
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: mervin_the_shi_a_worlds_and_iran
+#+TITLE: Mervin - The Shi'a worlds and Iran
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:5E5E8287-6677-468A-8B62-7AA634A3E5CC][islam]]

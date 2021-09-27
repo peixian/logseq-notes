@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       30B54D11-838B-4653-84EF-384B5F139F9A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: wu_et_al_bpf_for_storage
+#+title: Wu et al: BPF for Storage
+
+[[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:00DF33A8-C997-49FC-97B2-8F7429E55BF6][storage]]
+
+- Kernal storage path is around half the latency for NVMe storage devices, paper uses BPF to reduce the overhead
+- Dependent I/O requests can be increased by 2.5x
+* nvme spec for storage
+  - https://nvmexpress.org/bringing-compute-to-storage-with-nvm-express/

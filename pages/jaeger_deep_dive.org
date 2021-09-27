@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       B5AA9179-3B1B-4889-A710-A7C5B1199FA0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: jaeger_deep_dive
+#+TITLE: jaeger deep dive
+
+Tags: [[id:A0A37A5E-A266-46B3-8148-D7A40A5F1F78][kubernetes (k8s)]]
+- https://github.com/jaegertracing
+- Mastering distributed tracing book
+  - https://www.shkuro.com/books/2019-mastering-distributed-tracing/
+- Transative service graphs
+  - Services with the request originating from the service is highlighted
+- Trace diffs in jaeger latest version
+- Jaeger
+  - From dapper and openzipkin
+    - Created at Uber in 2015
+- Jaeger inside now uses Kafka
+* Sampling
+  - sampling is to reduce costs of sampling
+  - trace data is usually very repetitive
+  - sampling -> consistent (all or nothing), no missing parts of the trace
+  - head based sampling
+    - easy to implement
+    - spread out configuration since there may be multiple
+  - remote sampling
+    - reads configuration from central tier in the backend
+  - tail based sampling
+    - can be much more advanced
+    - can catch anomalies
+    - requires temp storage of all tarces
+    - applications constantly incur performance
+* opentracing
+  - opentelemetry implementation of the opentracing api
+  - allows you to change tracing systems
+  - jaeger components in opentelemetry
+    - opentelemetry sdk's have jaeger grpc exporter and jaeger propagation
+    - this means anything exporting with open telemetry can use jaeger
+  - opentracing shim
+    - all existing opentracing libs with opentelemtry sdk
+  - jaeger client libs support w3c trace context
+  - deploying jaeger onto [[id:A0A37A5E-A266-46B3-8148-D7A40A5F1F78][kubernetes (k8s)]]
+    - helm charts
+    - jaeger operator -> most advanced, allInOne and production deployment
+      - auto provision with Kafka
+    - plain kube manifest

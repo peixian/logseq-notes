@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       ED6F69D5-4336-4042-B0E5-EC5707F22838
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: arabic_nlp
+#+TITLE: arabic nlp
+
+Tags: [[id:48350662-53E9-4A91-9ADB-2BC9DFEA6098][nlp]], [[id:EB44CC9B-3027-4BD9-A635-78DA4F61CCCB][arabic]]
+
+Camel tools -> result of previous efforts, from madimira
+
+- https://colab.research.google.com/drive/1Y3qCbD6Gw1KEw-lixQx1rI6WlyWnrnDS?usp=sharing#scrollTo=aYsFJl0A5mua
+- https://wti.kaust.edu.sa/upcoming-events/Machine-Learning-Arabic-NLP-Webinar/ml-webinar-2020-keynote-1
+
+- Bouamor, Houda, Sabit Hassan, and Nizar Habash. “The MADAR Shared Task on Arabic Fine-Grained Dialect Identification.” In Proceedings of the Fourth Arabic Natural Language Processing Workshop, 199–207. Florence, Italy: Association for Computational Linguistics, 2019. https://doi.org/10.18653/v1/W19-4622.

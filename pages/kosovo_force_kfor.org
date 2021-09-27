@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       FB1404E0-ADE5-411F-A85D-098F39799A63
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: kosovo_force_kfor
+#+TITLE: kosovo force (KFOR)
+
+Tags: [[id:3196ECF7-71C2-43FE-A065-F3984D89DD1E][kosovo]]

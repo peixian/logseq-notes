@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       F159030B-524D-41AB-BF92-A7B1F598918D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: pxe_boot
+#+TITLE: pxe boot
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+
+booting over the network https://en.wikipedia.org/wiki/Preboot_Execution_Environment

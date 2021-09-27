@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       DFFDDD2B-BAF5-4B23-BC43-CF0FA486BC3A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: diyala
+#+TITLE: diyala (town)
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

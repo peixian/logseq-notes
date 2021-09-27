@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       363E8BA7-B16E-401B-948A-B7E6036F047C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: toufic_palestine_ltd_neoliberalism_and_nationalism
+#+TITLE: Toufic - Palestine Ltd: Neoliberalism and Nationalism
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:9BF599C3-7B0D-4E00-9E42-06CC50D30B17][Nationalism and Outsiders in the Middle East]],[[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]]
+
+Explores the economic, political and social realities as a consequence of the Oslo process
+- Driven by:
+  - EU
+  - US
+  - IMF and World Bank (International Financial Instiutions/IFIs)
+- Palestinian National Authority
+- Zachary Lockman's form of relational history throws in Westerners
+- Belief of the neoliberal reforms of neoclassical economics would solve all problems
+  - Western actors engage only on economic terms
+- pg 4:
+#+begin_quote
+This has ultimately led to a particular isolation of the Palestinian question within critical studies of development, peacebuilding, statebuilding and neoliberalism itself, despite the fact that the legacy of these policies has been so large and destructive in regards to Palestinian economic wellbeing, political freedoms, democratic norms and the overall claim to self-determination and national liberation. In fact their legacy has already transcended OPT borders by way of the fact that the World Bank readily acknowledges that its ‘best practice’ in post-conflict peacebuilding and reconstruction was significantly developed from its experiences in the 1990s
+#+end_quote
+
+- Marshall plan as a template
+  - Middle East Development Fund
+  - Dead Sea economic cooperation
+  - electrical grids, canals, and desalination projects
+- Ultimately raising of GDP will unleash impetus for the peace process
+- International organizations:
+  #+begin_quote
+To give an indication of the extent of this knowledge production, I refer briefly to the Development Assistance and Reform Platform (DARP) hosted by the PNA Ministry of Planning and Administrative Development (MOPAD) – a non-comprehensive database of proposed, on-going, completed or suspended donor projects in the OPT. DARP registers an astonishing 1132 projects by more than 93 donor agencies from when the database was established in 2010 (no month available) to August 2014.
+  #+end_quote
+  #+begin_quote
+The UN, which maintains its own database of projects (the UN Project Information System (UNPRIS)) for the 22 UN bodies active in the OPT, lists 412 projects as ‘underway’ or ‘planned’ as of May 2012. 4 The World Bank, counts 753 project documents, 186 research publications and 99 projects on its OPT website.
+  #+end_quote
+
+* Conclusion
+  - PNA had limited tools
+    - Majority of power was left in the hands of the western and non-governmental organizations
+  - Economics is doubly filtered out before it reaches Palestinian hands
+  - Israel's Allon Plan
+  - Shambled post-Oslo peace process continues on
+  - Weak state that allows zones of autonomy to carve out for Israel (security), Palestinian private sector elites (economics), Jordan (diplomatic), and the PA (generic autonomy)
+  - He critizes the peace process for claiming to not engage in politics, then "subtley" engaging in politics along neoliberal lines
+  - PLA maintains a monopoly on authoritative power
+  - Palestinian private sector
+    - Paltel has even bribed Israel to prevent Palestnian competition
+  - Statistics are mostly driven by Western organizations, which then inherently drives the playing field
+  -

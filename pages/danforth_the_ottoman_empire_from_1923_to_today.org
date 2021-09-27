@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       FFC8DC1C-7DB3-4E76-8594-C64AD5C17564
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: danforth_the_ottoman_empire_from_1923_to_today
+#+TITLE: Danforth: A Ottoman Empire from 1923 to Today
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:A438ACD2-2C1E-40EB-9502-74E5B69EA9FF][Post-Ottoman Near East]], [[id:FAC6D0F0-7797-4330-B988-37260A98CBC1][turkey]]
+
+Turkish politics hold contradictory viewpoints of Ottomanism, esepcially with the AKP. Before 2010 even Western pundits cited Erdogan's rapprochement with Syria as neo-Ottomanism, but then after said it was neo-Ottomanism to support the Sunni anti-Assad opposition.
+
+- The empire's rise and fall were used to justify the founding principals of the republic
+- Turkey "reconnected" with the Ottoman "roots" in the 1990's
+- Ataturk's uncomprising views arose during 1922-1923, where the Sultan still presented a political threat
+  - By 1927 Ottomanism could be put in service of nation construction
+- 1940 Aziz Sevket Kansu published some bizarre pieces with size of skulls and Ottoman intellectuals as a % of population
+  - Similar to race science present in [[id:2EBAA08C-FB3A-43F4-9411-EEC9EFF8861F][Humanism in Ruins - Discussion Questions]]
+- Historical narratives around the 1930's see golden era and a fatal decline, but the existance of the Golden era allows the Turks to ascribe a specific "turkishness"
+* Fatih (conquest) day 1953
+  - 500 anniversary of the Ottoman conquest of Constantiople
+  - Greatly emphasized the fatih's (mehmet the conquerer's) /turkish national identity, his revolutionary, pro-Western outlook, and his secularism/ - pg 16
+  - Later merging of the republican values with the religious and historical roots of the Fatih
+    - Converting of the Hagia Sophia from church to mosque compared to the converting of the Hagia Sophia from mosque to museum
+
+
+* Modern day ottomanism
+  - Ottomanism made jingoistic nationalism an obstacle to joining the EU
+    - Ottomanism then reformed into multi-pluralistic ideas
+      - European Capital of Culture contest
+  - Usefulness of ottomanism as a capitalist tool to sell things
+    - AKP's mercantile class

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       64EFA28C-27E7-4B93-A20E-27569C2E9291
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: state_oil_marketing_organization_somo
+#+TITLE: state oil marketing organization (somo)
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+State org that manages the sale of oil

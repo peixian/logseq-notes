@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       9BF599C3-7B0D-4E00-9E42-06CC50D30B17
+:END:
+#+TITLE: Nationalism and Outsiders in the Middle East
+
+Tags: [[id:A63D0CEC-6083-46C5-BD8D-7A8D750FF1A4][classes]]
+#+SETUPFILE:./hugo_setup.org
+
+
+* Memory
+  - Does memory provide realness to a specific identity?
+  - Much of the historiography is written by Israeli authors
+  - The present is interpreted through the past
+  - Arab nationalis, palestinian nationalism, arab-palestinian nationalism, and the historical realities of this
+
+* Marxist and Modernist Views of Nationalism:
+** Modernist
+   - Nations and nationalism are products of modernity
+** Marxist
+   - Nations and nationalism are products of capitalism
+     - A bourgeoise is required
+* Instrumentalism
+  - Since ethnicity and nationalism are results of circumstance
+    - Can be wielded and used by elites
+    - In invoking this, they are evoked and given form

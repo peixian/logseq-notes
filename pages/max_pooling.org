@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       515147E0-4A1E-4223-A14C-58D9D8F562C1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: max_pooling
+#+TITLE: max pooling
+
+Tags: [[id:D010B569-6F86-4109-A6CD-5FB0B6D97E70][convolutional neural networks (cnn)]]
+
+finds the most activated feature

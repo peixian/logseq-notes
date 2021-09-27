@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       9D10B6E5-974C-46D9-BDDF-FA5F1BB3F557
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: battle_of_solfernio
+#+TITLE: battle of solfernio
+
+Tags: [[id:D1946AF3-6885-4AE6-875E-9A682AE37A55][events]]
+
+Lead to the birth of the [[id:315B9DE9-4F12-4E1F-8AB7-E2F9AF46B984][icrc]]

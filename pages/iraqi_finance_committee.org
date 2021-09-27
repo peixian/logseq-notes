@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       2B6B235B-4D07-4CE7-AFC6-C8B418C7CACA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: iraqi_finance_committee
+#+TITLE: iraqi finance committee
+
+Tags: [[id:892AA907-7AC7-416C-9E42-21B70840A14F][iraqi parliment]]

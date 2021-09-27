@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       B66F06FD-CB50-492E-AAF1-FC9CAC47B6DD
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ml_on_satellite_imagery
+#+TITLE: ml on satellite imagery
+
+Tags: [[id:5C09008D-C61B-4A8E-BB77-9CF0085D90F6][project ideas]]
+
+Can we apply [[id:752931E3-E592-49D3-BF89-617FCDD816F6][deep learning]] on [[id:E85591D5-35FF-4EBA-802B-C8C9B2FD3D3F][satellites]]?
+
+* Companies
+- wyvern.space

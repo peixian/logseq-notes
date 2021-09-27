@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       F6AB05A3-B84F-42DB-8A9F-62470C836025
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: raft
+#+TITLE: raft
+
+Tags: [[id:60E89DE2-2826-4C7F-9DF6-69A0C00F11A2][distributed systems]]
+
+- Cloudflare outages: https://twitter.com/heidiann360/status/1332733504057188352

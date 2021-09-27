@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       0227C046-09BB-4C99-9B36-47E447FC7489
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: etcd
+#+TITLE: etcd
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]], [[id:9A4127A0-2EA8-46B9-A0C2-DA6BB24B1405][k/v stores]]
+
+Fast k/v used in [[id:A0A37A5E-A266-46B3-8148-D7A40A5F1F78][kubernetes (k8s)]]

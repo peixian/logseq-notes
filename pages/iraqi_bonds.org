@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       22D93394-6622-4054-AC53-CBEC446ED5E0
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: iraqi_bonds
+#+TITLE: iraqi bonds
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]], [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]]
+
+- Iraq has asked for deferrals on ~546 MM in loans
+- Eurobonds yields average 15.7% as of May 07, 2020
+- Forcasted to contract by 9.7% in 2020 - World Bank, with budget shortfall 22% of GDP
+  - Grew 4.4% in 2019
+- http://www.clubdeparis.org/en/traitements/iraq-21-11-2004/en
+  - Plan to restructure Saddam era securities in 2006
+  - annual coupon of 5.8%
+  - 6.25% of the total amount (168.75 MM) every 6 months, with first installment on July 15 2020
+- FX reserves lay around $66 B

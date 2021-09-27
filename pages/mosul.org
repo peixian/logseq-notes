@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       123CC1C9-288C-484E-8442-BD52A2C0873E
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: mosul
+#+TITLE: mosul
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+* Mosul Dam - [[id:807301C8-4F30-48C2-92EA-B4E69A9DD8AA][irrigation in iraq]]
+  - https://en.wikipedia.org/wiki/Mosul_Dam

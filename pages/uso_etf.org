@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       2E73E6D1-BCE3-466E-8BB8-A4A63A6F0494
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: uso_etf
+#+TITLE: uso etf
+
+Tags: [[id:697D1841-D803-43CA-9F03-A502AF3EFBB9][oil trading]]
+
+- United States Oil Fund, derivatives based ETF for trading oil.
+- Reflects the changes of the price of the [[id:4587FC0D-C0A0-405D-A872-B0A1A337EAFA][west texas intermediate]] crude delivered to Cushing
+- [[id:2A282D7E-3A71-4DCE-A53A-9D166628C139][commodities]] pool
+- estimated to account for 25%-30% of the [[id:FBDD25BF-6382-40FC-9A43-11CD2AAEE157][futures]] commodity volume
+- has text stating that oil funds "might be compulsively redeemed" aka closed

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       EEC025E4-7A8A-428B-AE4C-662BA736F2B2
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ali_shakir_al_khafaf
+#+TITLE: ali shakir al-khafaf
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

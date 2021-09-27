@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       81E6EF47-B252-4240-95E2-7817174CF4E2
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: 2021_goals
+#+TITLE: 2021 goals
+
+Tags: [[id:CAFF2018-7C24-402E-9528-464A87D2DC39][personal]]
+
+Taking off of [[id:600BD015-640D-4328-A46D-784FE12C8D3E][pareto optimal]]
+
+* Actively need prioritization
+- [[id:F2643E37-CED2-492A-A77C-B632F3D203FD][statistics]]
+- [[id:48350662-53E9-4A91-9ADB-2BC9DFEA6098][nlp]] (specifically [[id:8CF9A0F7-2E51-4922-B6B7-2C42E8E2BE16][pytorch]])
+- raw [[id:AB300662-3E3E-4452-A29D-468522B35C3E][languages/linguistics]]
+- [[id:A0A37A5E-A266-46B3-8148-D7A40A5F1F78][kubernetes (k8s)]]
+- [[id:CF577679-1813-4797-9A8C-4A20601B8F2F][erlang]]
+* In Progress
+- [[id:E900796C-250A-474B-9054-C0C109C94A24][ddr]], post-conflict
+- [[id:D51D4006-2F02-4305-BBEF-5EDEFDCFD334][writing]]
+- [[id:5BDB57E0-F17C-4248-A9A0-4D787F7D67DC][iraqi arabic]]
+- running
+- climbing
+- [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]]
+* Opportunistic learning
+- [[id:60E89DE2-2826-4C7F-9DF6-69A0C00F11A2][distributed systems]]
+- [[id:19792D91-9C61-4200-A9C4-9B523D13DA41][kernel bypass]]
+- [[id:5129B53F-6D64-4B38-8E86-77F598696A3A][golang]]
+- low level programming (definitely need to read more [[id:B188FE0E-140C-44C3-9280-490E2202CC17][c/cpp]] books)
+* Need to pick up at some point in the future
+- queuing theory (have holbacher's book, but still need to actually do it)
+- [[id:0C55E344-F9AE-4584-B54F-83EC2FCE9062][math]] (maybe set a specific aim? better @ linear algebra?)
+- [[id:42F0A616-7195-4034-8A0C-53BBA045A294][islamic political thought]] (set aside some other time and books in the future, maybe absorb a few books)
+- [[id:7A929556-F8FE-4588-9440-655F9368B1F0][physics]] (maybe read through some stuff)
+- leadership (commoncog and regular reading?)
+- project management (same thing)
+- mentoring and teaching (nothing, definitely should read /teaching tech together/)
+- data visualization/soft data science stuff/js (need to do this at some point)

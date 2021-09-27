@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       E85591D5-35FF-4EBA-802B-C8C9B2FD3D3F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: satellites
+#+TITLE: satellites
+
+Tags: [[id:CAFF2018-7C24-402E-9528-464A87D2DC39][personal]]
+
+* visualization and tracking:
+
+** http://celestrak.com/
+   examples:
+   - https://celestrak.com/cesium/orbit-viz.php?tle=/satcat/tle2.php?CATNR=02866&satcat=/pub/satcat.txt&orbits=1&pixelSize=3&samplesPerPeriod=90
+   - https://celestrak.com/satcat/tle.php?CATNR=02866
+
+
+* old satellites:
+  #+begin_quote
+ A satellite of that age would have used a very simple analog repeater or linear transponder, meaning that there is no communications logic occurring on the satellite. Any digital modulation, and more so encryption, would be the responsibility of the ground stations. This is still a common design pattern for satellites, referred to as the "bent pipe" model since the space segment is merely a "bend" with no logic, but it is subject to abuse by unauthorized operators so there's usually some degree of at least authentication today.
+
+Military satellites launched into the '80s continued to use analogue transponders and, to some extent to this day, see unauthorized use. The only real deterrent was the difficulty of obtaining inexpensive equipment for satellite bands but the widespread use of DVB and VSATs changed that during the '90s and '00s.
+
+That said, all related documents may very well have been classified at the time (owing especially to the lack of any authentication!) and even when declassify-on dates pass there is often institutional resistance to going through the motions of releasing this material, especially since Lincoln Labs (a contractor) would not be authorized to do so and would have to forward the request on to someone else. A more formal FOIA request, followed by appeals if necessary, can often unstick these wheels since it creates a legal obligation that a more casual media request does not.
+  #+end_quote
+  from https://news.ycombinator.com/item?id=22972282
+
+  - https://www.wired.com/2009/04/fleetcom/
+
+  - https://www.npr.org/2020/04/24/843493304/long-lost-u-s-military-satellite-found-by-amateur-radio-operator
+
+  - https://www.rtl-sdr.com/receiving-dead-satellites-rtl-sdr/
+
+  - https://satnogs.org/
+
+* Fission Reactors in Space:
+  - https://en.wikipedia.org/wiki/Kosmos_1402
+* Visualizations
+
+  -  http://stuffin.space/?intldes=1967-066E&search=1967-066e
+  - https://en.wikipedia.org/wiki/Kessler_syndrome

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       006AFDE2-7821-4866-AE48-0CD969B89F2D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: un_peacekeeping
+#+TITLE: un peacekeeping
+
+Tags: [[id:7C05085A-564D-4186-B4E7-AD9DC612310A][un]]

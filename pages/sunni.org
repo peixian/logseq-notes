@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       A92CAA9F-7E0A-4AD3-A915-E621510FD037
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sunni
+#+TITLE: sunni
+
+Tags: [[id:5E5E8287-6677-468A-8B62-7AA634A3E5CC][islam]]

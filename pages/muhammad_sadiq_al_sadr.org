@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       B0E61BF5-9C5C-4CFB-97AA-DF7B390C8BA8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: muhammad_sadiq_al_sadr
+#+TITLE: Muhammad Sadiq al-Sadr
+
+Tags: [[id:C3617CC1-1F83-40EE-B69C-C28C4C54F2EB][people]]
+
+Iraqi activist that challenged the Baathist state and formed the contemporary Shia political presence
+
+wanted to make the [[id:A0834C86-F136-4F49-8139-77B077E65FBC][iraqi shia]] religious estalbishement more legible and politically relevant to ordinary shia's
+
+Assassinated by the [[id:64817B58-ADF7-4FEE-83D9-255D9D87194B][Baath]] in Feb 1999

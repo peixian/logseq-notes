@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       C9584111-9EA8-4B03-ACCD-912E29EFF69C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: algorithms_for_decision_making
+#+TITLE: algorithms for decision making
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:2C626284-F74C-4110-83A7-AE07B6D0A451][algorithms]]
+- https://github.com/sisl/algorithmsbook/

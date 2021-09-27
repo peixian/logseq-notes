@@ -1,0 +1,97 @@
+:PROPERTIES:
+:ID:       9EED7EC0-E91D-4644-A232-D426D44A6FE3
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: constitution_making_research_handbook
+#+TITLE: constitution making (research handbook)
+
+Tags: [[id:F1B3F2D2-CAAC-457D-A302-DD223805B4E3][Williams - Research Handbook on Post-Conflict Statebuilding]]
+
+** Consitution Making
+   - [[id:74B098C9-54AD-4255-8680-09D079DC73F9][iraqi constitutionalism]]
+   - [[id:B7920589-79CC-4353-A685-8C5DAE0AEAB4][tunisia]] consitution writing was transparent
+   - [[id:98F9993A-F5AD-44C5-A732-8BBAD7FA6BEE][egypt]]ian constituion writing was not
+   - constitution making now largely emphasizes citizen involvement
+     - ex [[id:B7920589-79CC-4353-A685-8C5DAE0AEAB4][tunisia]], [[id:FA6F5293-2FFF-4468-ACCF-A3C3C860AA5C][kenya]], [[id:B54391B6-737B-4B73-ACB2-C6E07800A51D][south africa]], [[id:268E1F7D-3F00-4AE3-B785-5B1E8F3BCE08][thailand]], [[id:B4ACF3C1-63C1-4626-8429-2D7EC157FCBE][papua new guinea]], [[id:9347A041-2696-4CCC-B8F6-842549F366CD][uganda]], [[id:F8CA4C8E-F55A-4FF6-8709-52BE50E88DB4][brazil]]
+   - debates about the inclusiveness of the process vs inclusiveness of the adoption
+
+*** Constitution Writing in Egypt
+    - 2 constitutions: 2012 and 2014
+    - both lead by the intermim military government (SCAZ)
+      - low legitimacy
+    - 2012 -> egyptian parliment selected members to assembly
+    - 2014 -> rewrite due to problems of 2012, 2014 did not include islamists in parliment
+
+*** Consitution Writing in Tunisia
+    - Written by the National Constituiant Assembly
+      - Body had the power to adopt
+      - public could vote on the members
+      - first draft was adoped by a 2/3rds vote
+    - More inclusive over multiple drafts that were relased to the public
+
+*** Constitution Writing in Conflict Zones
+    - How to permit public engagement with security issues?
+    - How to prevent actors from co-opting the process?
+
+**** [[id:C21DF9B0-E7E9-44F9-91A2-EEA809BD6293][libya]]
+     - Fissures between the National Transitional Council (NTC), the General National Congress (GNC), and Constitutional Drafting Assembly (CDA)
+     - Eternal problem: who gets a seat?
+     - UN largely helped to push it along, despite many issues such as the appelate court ruling against the CDA and various boycotts
+
+**** [[id:87825E0D-CF52-42BD-AC39-4EAC4B565EA3][yemen]]
+     - National Dialogue Conference in 2013 with the post GCC mediated transition
+       - Produced over 1800 recommendations
+       - Document was lauded, spoiled by the [[id:C07B8EF3-C4B7-45CB-8671-33A6E45160C8][houthis]] and [[id:5AE0CC8E-FC28-4776-A862-EDF1F8AD2684][south Hiraak movement]]
+         - Both wanted a 2 region state
+
+*** Multiethnic Governence
+    - Two main patterns
+      - Consociationalism -> accomdation via guarenteed representation
+      - Centripedalism -> moderation of ethnic group views
+
+**** Consociationalism
+     - Protects specific ethnic groups from harm
+     - usually grants some combo of autonomy, veto or partial veto, political representation
+     - "A peace treaty extended to government"
+     - Issue: sometimes accomodates ethnic extremists
+
+**** Centripedalism
+     - Rewards moderate behavior
+     - Mechanisms such as:
+       - alternative vote
+       - candidates requiring plurality of vote across ethnically diverse territories
+
+**** Models
+***** Ethnic federalism
+      - Form of consoctionalism
+      - questioned whether this actually exasterbates or ameloriates confict
+      - usually has some of:
+        - protection for cultural and linguistic identity - [[id:B54391B6-737B-4B73-ACB2-C6E07800A51D][south africa]]
+        - ethnic based "self rule" - [[id:2D37CB04-B620-4192-8432-9F6AA6266706][ethopia]]
+        - subnational constiutions - [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+        - political and legal autonomy - [[id:0B9FAF9E-0A55-44FE-96CE-D6D382CF6617][KRG/iraqi kurdistan]], [[id:2D37CB04-B620-4192-8432-9F6AA6266706][ethopia]]
+        - political decentralization
+          - federal/unitary/localist
+            - [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]] - localist due to kurds
+            - [[id:3196ECF7-71C2-43FE-A065-F3984D89DD1E][kosovo]] - local gov prevents the partition of the state along ethnic lines
+***** [[id:C21DF9B0-E7E9-44F9-91A2-EEA809BD6293][libya]]
+      - no centripedal or consociationalism
+      - one big unitary state envisioned
+***** [[id:87825E0D-CF52-42BD-AC39-4EAC4B565EA3][yemen]]
+      - some consociational features
+      - de facto ethic federation
+      -
+**** Human Rights
+     - Egypt and Tunisia both explictly refer to human rights law
+     - Tunisia has actual mechanisms to enforce
+**** Enforcement
+     - Constitutions lack legitimacy if not enforced
+     - Concept of "Abusive Constituionalism" - Use of mechanisms of constitutionalism to undermine democracy
+***** Egypt
+      - no consitutional court
+***** [[id:B7920589-79CC-4353-A685-8C5DAE0AEAB4][tunisia]]
+      - constituional court
+      - multiiple new comissions
+**** Conclusion
+     - constituion making in conflict make be the norm
+     - there must be a state as a prereq

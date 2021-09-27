@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       EFEE9127-7C20-42CE-AEAF-C220D4E794D2
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: goode_artifical_intelligence_and_the_future_of_nationalism
+#+TITLE: Goode: Artifical Intelligence and the Future of Nationalism
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:AC49BE54-789A-45AE-8838-70611529B1EF][ml]], [[id:3A151692-5786-4F5E-B755-165CDFA29BB9][political science]]
+
+Goode, “Artificial Intelligence and the Future of Nationalism.”
+
+Not a great paper, conflates the understandings of "AI" and ml, similar to [[id:0399F774-27F5-42EC-97AF-71FC882E0CE3][misinterpretations of what ai is]]
+
+Veers into Hitchhiker's Guide and HAL 2000
+
+Central point is that data aggregation on a state level renders citizens more legible with the tools to process it

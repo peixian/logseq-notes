@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       AF5E05EF-E3DC-4C26-8AAA-41930562555D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ginty_hybrid_peace_the_interaction_between_top_down_and_bottom_up_peace
+#+TITLE: Ginty: Hybrid Peace: The Interaction Between Top-Down and Bottom-Up Peace
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:7C05085A-564D-4186-B4E7-AD9DC612310A][un]]
+
+- Notions of hybridity tend to build better peace
+- Cannot be imposed top down or bottom up

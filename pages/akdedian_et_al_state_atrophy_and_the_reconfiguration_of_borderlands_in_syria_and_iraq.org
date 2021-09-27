@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       5B1EEFCB-617C-455A-875B-C4F933D92DF6
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: akdedian_et_al_state_atrophy_and_the_reconfiguration_of_borderlands_in_syria_and_iraq
+#+TITLE: Akdedian et al: State atrophy and the reconfiguration of borderlands in Syria and Iraq
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:BE234E49-5E49-4054-8308-6EDDCA766FAB][syria]], [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+- Akdedian, Harout, and Harith Hasan. “State Atrophy and the Reconfiguration of Borderlands in Syria and Iraq: Post-2011 Dynamics.” Political Geography 80 (June 2020): 102178. https://doi.org/10.1016/j.polgeo.2020.102178.
+- As the state monopoly on violence is curtailed, a proliferation of insurgent groups arise
+- Borders are the centers of contest
+- It is the opportunity to reconfigure borders that givs rise to these conflicts
+  - Bismarck, Europe and Africa: The Berlin Africa conference 1884-1885 and the onset of partition
+- Most issues commonly attributed to Sykes-Pikot are wrong, claims David Patel
+  - Patel, David Siddhartha. “Repartitioning the Sykes-Picot Middle East? Debunking Three Myths,” n.d., 10.
+  - Only south Iraq/Syria border and Jordanian/Iraq border remain Sykes Picot

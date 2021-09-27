@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       8B657DFD-9DF2-4129-9611-BA387D0DDC61
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: saraya_talia_al_khurasani_brigade_18
+#+TITLE: saraya talia al-khurasani (brigade 18)
+
+Tags: [[id:C403589A-21CC-411A-A58E-1C2FDC31F72C][brigades]]

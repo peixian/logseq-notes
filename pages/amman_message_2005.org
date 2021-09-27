@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3388BFB5-46D9-4C53-9A09-D70F82B8471A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: amman_message_2005
+#+TITLE: amman message (2005)
+
+Tags: [[id:D1946AF3-6885-4AE6-875E-9A682AE37A55][events]], [[id:5E5E8287-6677-468A-8B62-7AA634A3E5CC][islam]]
+
+Declaration of what Islam is and is not
+- https://ammanmessage.com/

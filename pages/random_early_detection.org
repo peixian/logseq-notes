@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       447564B5-8492-44F5-86A7-BC952F900B6C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: random_early_detection
+#+TITLE: random early detection
+
+Tags: [[id:0A4C06B1-7E6F-46F1-93C0-8E3768F9BEF2][queueing theory]]
+
+- allows the network scheduler to avoid congestion

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       62E85EBD-21E3-42DB-88A6-691F6271331C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: japan
+#+TITLE: japan
+
+Tags: [[id:AD9C4325-95C2-4DBC-83A0-5081D68D60D3][east asia]]

@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       90D769ED-5D0B-4148-9200-8C99C97BB28C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: kyoto_tycoon
+#+TITLE: kyoto tycoon
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+KV store like [[id:7D815C05-C23B-40CB-807C-27E749C56C27][redis]], except on disk, similar to LMDB
+
+Kyoto Cabinet is the frontend, Kyoto tycoon is the backend, kyoto tycoon is a follow up to tokyo tyrant
+
+- https://fallabs.com/kyototycoon/
+
+Current usage can be found on http://charlesleifer.com/blog/kyoto-tycoon-in-2019/
+- Used by cloudflare back in the day https://github.com/cloudflarearchive/kyotocabinet
+  - https://news.ycombinator.com/item?id=18892634
+- "Current" builds by Altice Labs: https://github.com/alticelabs/kyoto/releases
+- vs leveldb: https://maxpert.tumblr.com/post/8330476086/leveldb-vs-kyoto-cabinet-my-findings
+- https://news.ycombinator.com/item?id=18891764
+- Similar to Aerospike (https://www.aerospike.com/)?
+- https://www.anchor.com.au/blog/2013/05/second-strike-with-lightning/
+- http://www.lmdb.tech/bench/microbench/benchmark.html
+- http://www.lmdb.tech/bench/microbench/

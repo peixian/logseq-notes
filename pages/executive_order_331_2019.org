@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       A39A92BB-5AF1-4C86-8B5D-007981E4CEEA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: executive_order_331_2019
+#+TITLE: executive order 331 (2019)
+
+Tags: [[id:ADFAE0CB-D584-4CE9-9965-4E76C474546E][hashd al-shaabi (PMF)]]
+
+Issued September 17, 2019, aimed to divide the powers wielded by [[id:B4495945-1A3F-4927-967A-03C0D2992069][abu mahdi al-muhandis]], ultimately was considered to be the "definitive framework" for the hashd
+
+* Elements
+- President of the [[id:9E5E0478-4353-45D3-A480-0AED0A7AD64B][hashd commission]]
+  - split from the vice chair and placed under the "President"
+  - directorates of finance, administration, legal affairs, security, audit and monitoring, spiritual guidance, planning and procurement, and information
+- secretary-general to the president
+  - identifies a secretary-general (amin al0sirr al-aam)
+- chief of staff
+  - all directorates not held under the president are under the chief of staff (vacant since 2017)
+    - has 5 deputies and directly controls eight "operations commands"

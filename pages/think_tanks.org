@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       55466045-E2C1-4A7E-9F49-97A4ECB46721
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: think_tanks
+#+TITLE: think tanks
+
+Tags: [[id:CAFF2018-7C24-402E-9528-464A87D2DC39][personal]]
+
+- https://ceobs.org/contact/

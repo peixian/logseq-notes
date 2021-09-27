@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       605258DD-10C6-4840-AE8F-28F636DB8C24
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: epaxos
+#+title: epaxos
+
+[[id:60E89DE2-2826-4C7F-9DF6-69A0C00F11A2][distributed systems]], [[id:B61CD1FF-6157-4754-A625-A1AE4FCC5770][paxos]]
+
+- Described in [[id:AE99CD5B-4870-40E7-9E82-0EA43BE24CAD][Moraru et al: There Is More Consensus in Egalitarian Parliaments]]

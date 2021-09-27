@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       D38F0C3D-2A84-4E8D-9136-D3434F32CBBD
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: xcode
+#+TITLE: xcode
+
+Tags: [[id:1E6EE18D-330B-4D3B-A6C4-31F25A7E7729][os x]]
+
+* ProvisionQL for looking at ipas and provisions
+  - https://github.com/ealeksandrov/ProvisionQL

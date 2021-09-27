@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       216FDDEA-884B-43BD-990C-EF8F0F0E8009
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: godel_s_incompleteness_theorem
+#+TITLE: godel's incompleteness theorem
+
+Tags: [[id:0C55E344-F9AE-4584-B54F-83EC2FCE9062][math]], [[id:CE83EB56-B1C0-4552-8688-B5A895B91923][Kurt Godel]]

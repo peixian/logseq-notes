@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       1D4E85E9-E973-4231-9A17-140E1740DE55
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gray_failures
+#+TITLE: gray failures
+
+Tags: [[id:60E89DE2-2826-4C7F-9DF6-69A0C00F11A2][distributed systems]], [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]
+
+https://www.microsoft.com/en-us/research/wp-content/uploads/2017/06/paper-1.pdf

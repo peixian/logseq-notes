@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       411E8467-C5EB-4249-A15F-29842BB732F3
+:END:
+#+TITLE: overemphasis of the discrete blog post
+
+Tags: [[id:BF94E285-63E1-47AC-B228-2359842F79C7][drafts]]
+
+Matt Might stated that computer programmers tend to optimize for the discrete past the point of usefulness. Random stuff, each new piece of technology is a shiny gadget. Even worse is the intention of only using old gadgets to retrofit and quanitfy each part of our lives
+#+SETUPFILE:./hugo_setup.org

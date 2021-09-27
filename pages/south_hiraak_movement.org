@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       5AE0CC8E-FC28-4776-A862-EDF1F8AD2684
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: south_hiraak_movement
+#+TITLE: south Hiraak movement
+
+Tags: [[id:87825E0D-CF52-42BD-AC39-4EAC4B565EA3][yemen]]
+
+South yemen indendepence movement

@@ -1,0 +1,158 @@
+:PROPERTIES:
+:ID:       76B344C9-4C79-431D-809A-2B04A0D392C5
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: emotional_intelligence
+#+TITLE: emotional intelligence
+
+Tags: [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]]
+
+- https://www.linkedin.com/learning/developing-your-emotional-intelligence/benefits-of-building-emotional-intelligence?autoplay=true&u=2131553
+
+* What is emotional intelligence?
+  - 3 keys factors
+    - Definition
+    - How does it fit in with mental structure?
+    - Why is it important?
+
+** Definition
+   - Understanding and expressing emotions
+   - Using empathy
+   - Sometimes defined as EQ (emotional quotient)
+     - Being aware of emotions
+     - Expressing emotions
+     - Controlling emotions
+     - Relationship management
+   - 4 areas:
+     - Self awareness
+     - Self management
+     - Social awareness
+     - Relationship development
+
+* Role of emotions and EQ
+  - Understand and manage the role of emotions
+  - Emotions
+    - Feelings about event
+  - Behavior
+    - Response to event
+
+* Thinking at the speed of light
+  - Takes conscious practice to be aware of how emotional response works
+  - Intercept response process
+  - 2 ways of thinking
+    - fast, emotional, intuitive thinking
+      - leads us to use biases
+    - slow, deliberate, emotional
+
+* Understanding Personal EQ
+  - Behavior is often associated with a specific event
+    - We think of our behavior as a reaction
+  - We think event -> behavior
+    - Actually event -> thoughts and feelings -> behavior
+
+* Triggers and Hijacks
+  - Trigger, emotions, and irrational response
+  - Cognitive shortcuts help our brains focus on important information
+  - Triggers
+    - Events or thoughts that consistently take you in the wrong direction
+
+* Finding Flow
+  - Flow: complete immersion in an activiity
+    - should feel effortless and rewarding
+    - understand what causes a sense of flow
+  - Developing emotional intelligence helps find flow
+
+* Disrupting Thinking
+  - Simple process to take control of feelings
+    - ABCDE model
+      - A - Activating event
+        - Example: coworker is late with deliverable
+        - To understand the event, understand it as a bystander
+      - B - Beliefs
+      - C - Consequence
+      - D - disruptive thinking
+        - Look at the situation from another perspective
+      - E - Effect
+
+* Reclaim Reaction Time
+  - Factors that lead to subjectivity
+    - Thoughts
+    - Feelings
+    - Emotions
+  - Slowing down reactions
+    - Identify the emotional reaction
+    - Remove yourself from the situation when you start feeling strong emotions
+  - Focus on emotion
+    - Live in the emotion, give it some time
+  - Challenge on thoughts
+  - Choose how to respond
+    - Reasonably assess the best option and react accordingly
+
+* Shifting Perspective
+  - Consider different points of view, not necesarilly changing opinion
+    - Key here is to seek out alternative points of view
+  - Ask more questions
+    - Ask others how they see the world around them
+  - Spend time with new people
+  - Read more books on a variety of topics
+  -
+
+* Using Senses to Make Sense
+  - The ability to understand others and respond to their needs
+  - Building social awareness
+    - Looking inward
+    - Shift focus outward
+  - Think about what our senses are telling us in situations
+    - Do we notice details about events going on around us?
+      - How much of this information are we paying attention to?
+    - Takes some practice to immerse ourselves in our surroundings
+  - Take some time to assess social awareness
+
+* How to empathize?
+  - Put yourself in their shoes
+  - Don't need to identify exactly with the other person
+  - Consider what you know about that person and their circumstance
+  - Key to remember you are not looking for the *right* answer.
+  - Steps
+    - Ask more questions
+      - What are they expericing, what are their impacts?
+    - Offer support and understanding w/o assuming you have the knowledge the other person requires
+    - Don't try to identify with everything the person says
+      - Very irritating
+      - Say stuff like
+        - "I imagine that makes you feel"
+        - "I suppose that makes you think"
+      - Use tentitive, exploratory language
+
+* Listening and Communicating
+  - Two way street, providing and gathering information
+  - Body language must also be heeded
+  - Unconcious communication is driven by thoughts, feelings, and mood
+
+* Playing to Strengths
+  - Build genuine communication style
+  - Building trust is a critical element
+  - Strengths?
+    - Direct
+    - Clear
+    - Logical (?)
+  - How do others perceive you?
+  - What skills do you pocess when it comes to interacting with others
+  - Do you have the ability to read a room?
+
+* Collect Feedback
+  - Most useful techniques in helping you grow
+  - Ask others for their opinion
+  - Review, refine, repeat
+    - Review how you management relationships
+      - "What am I good at?"
+      - "What areas could I tweak?"
+    - Refine your approach
+      - As you make small adjustments, these small steps compound
+    - Repeat
+  - Feedbacks are not facts
+
+* Align Intention and Impact
+  - Don't focus on what to say, focus on the key messages
+  - Focusing on intent boosts confidence
+  - About the message percieved by the other person

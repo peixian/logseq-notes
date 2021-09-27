@@ -1,0 +1,51 @@
+:PROPERTIES:
+:ID:       8830B938-A3B9-4C75-A32C-314836589F57
+:END:
+#+TITLE: Simon - Imposition of Nationalism on Non-Nation State
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]], [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:9BF599C3-7B0D-4E00-9E42-06CC50D30B17][Nationalism and Outsiders in the Middle East]]
+
+* Summary
+- Shi'is desired a state independent from foreign rule
+- Kurds of Mosul and others desired an independent kurdistan
+- Ancient Jewish population living in Baghdad, filled most of the civil service jobs under the british and early monarchy
+- Assyrians
+- Sunni Arabs were backed as the ruling elite during the mandate
+- Cites [[id:47EF592A-10D4-4923-BE86-E3E03918624D][Anderson - Imagined Communities]], where the imagined community is "arabs" instead of "mesopotamians" or "iraqis", although this was also somewhat debated as a result of [[id:6094883D-318E-4D62-9FBE-11044BB72D32][al-Husri]]'s reforms
+  - Elites were commissioned from the Ministry of Education in Baghdad
+- Kurds, Jews, and Shi'i found themselves excluded from social and political incorporation in the new Iraq
+
+* Shia
+  - 1/2 of the population in Central and Southern Iraq during Ottoman rule
+  - Governed by a series of shaykhs, who went into political systems and left as they saw fit
+    - Yassine al-Hashimi had to draw the shaykhs in when he returned to power per [[id:ED13D321-912B-4872-B812-A2789F4C72EC][Provonce - The Last Ottoman Generation]]
+    - British bombed or empowered them in [[id:D7A476E6-3506-4335-A5EC-12838C0F4B39][Pursely - Familiar Futures]]
+  - Faiysal used ethnicity to call into question the loyalty of the Shia's/
+  - 1920's revolt was the key point of Shia solidarity
+  - King Ghazi did not like to draw in Shaykhs and use visits to them as a safety valve
+  - Opposoed to the conscription in 1927 and 1932
+  - Jamali ([[id:6094883D-318E-4D62-9FBE-11044BB72D32][al-Husri]]'s successor at the ministry of education) spent the last years of his tenure in the 1940's advocating for shi'i mobility
+    - Shi'is began to attend government schools in 1930-1495
+
+
+* Jews
+  - Also attended government schools in mass
+  - Identified as citizens of Arab Iraq
+  - Became part of the Iraqi Arab intelligentsia
+  - Nazi propaganda and Zionism, along with Faiysal's death in 1933 ended most Jewish aspirations
+  - Farhud event killed 150 Jews and began doubts of Jewish loyalty in Iraq
+  - Eventually obfuscated the role of Jews in Iraqi history
+
+
+* Kurds and Assyrians
+  - Both deemed political threats to the regime
+  - No possibility of independent Kurdistan after the treaty of ankara
+  - Assyrians were protected by the British, massacred in Bakr Sidiqi's military campaign
+
+
+* Military and School
+  - Yasin al_Hashimi adovcated conscription to build a shared national identity
+  - capstoned with the Public Education Law of 1940
+    - Nationalist teaching subjects, history, geography, arabic language and literature in non-government schools
+  - Arabism was a mark of solidarity in the Baghdad Military College
+#+SETUPFILE:./hugo_setup.org

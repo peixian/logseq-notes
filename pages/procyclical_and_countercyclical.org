@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       933651D3-8E66-4DB9-81CC-4F2766D7AE80
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: procyclical_and_countercyclical
+#+TITLE: procyclical and countercyclical
+
+Tags: [[id:85CCE0EB-E358-4A63-A947-423CF92D79A2][economics]]
+
+https://en.wikipedia.org/wiki/Procyclical_and_countercyclical_variables

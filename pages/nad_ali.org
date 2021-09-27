@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       D0661649-DA24-4F76-BBA5-A9F708FE0AF8
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: nad_ali
+#+TITLE: nad-ali
+
+Tags: [[id:B7286EAB-C761-4A96-81E4-468132A33BDA][helmand]]

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       892AA907-7AC7-416C-9E42-21B70840A14F
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: iraqi_parliment
+#+TITLE: iraqi parliment
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]

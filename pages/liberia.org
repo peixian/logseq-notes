@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       0F39D232-47FB-4BDF-9AFD-809C65DB7A08
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: liberia
+#+TITLE: liberia
+
+Tags: [[id:4716EF6A-B378-4010-B090-41D487EB8B72][africa]]

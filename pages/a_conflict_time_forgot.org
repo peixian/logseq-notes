@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       8FD2780D-8059-478D-9C81-D40E49208A04
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: a_conflict_time_forgot
+#+TITLE: a conflict time forgot
+
+Tags: [[id:5D4FD56C-329E-4881-AEBC-EFE6DDF0F29D][articles]]
+
+https://carnegie-mec.org/diwan/83304
+
+Talks about the Guergarat border between [[id:9B57158F-216E-46C3-838B-E36280A6D574][western sahara]] and [[id:B7B4F31F-F378-488A-BD1D-BC9AEED8E129][mauritania]]
+
+Fought between the [[id:93E1E7F8-C7EA-4ED4-B174-B445E7D1A495][rabat]] and [[id:6FAA9F52-7D3D-415E-A915-839547247C93][polisario front]]
+
+Small skirmish on Nov 13, 2020, violates the [[id:196124FF-9245-4866-861D-057ED59996B9][morocco/western sahara ceasefire]]

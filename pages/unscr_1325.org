@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       EA3D0FA6-D3E6-4497-8C42-C082F27653FC
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: unscr_1325
+#+TITLE: UNSCR 1325
+
+Tags: [[id:7C05085A-564D-4186-B4E7-AD9DC612310A][un]]
+
+- Framework for women's substantive representation
+- Passed after NGO and civil society organizations
+- Prevention, participation, protection, and relief & recovery

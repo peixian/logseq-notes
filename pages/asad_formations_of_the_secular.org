@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       2D1182A8-F06B-4E3A-BC2B-5BA30C8C90BF
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: asad_formations_of_the_secular
+#+TITLE: Asad - Formations of the Secular
+
+Tags: [[id:B296A87C-D41F-4992-9F1E-ABF6896B69DB][books]], [[id:4D07A7F6-AA30-415E-B718-B82E4151A482][religion]]
+
+* General
+  - Talks about how the /idea/ of religion is a relatively recent one, and represents a back-projection of the Reformation ideal of faith to all forms of faith and spirituality
+  - [[id:A93822C1-5F85-46EE-B9C7-95F7FD1F5F30][Martin Riesebrodt]]

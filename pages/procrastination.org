@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       CFE7913A-944E-4195-AF57-73A4AC2005DD
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: procrastination
+#+TITLE: procrastination
+
+Tags: [[id:2A85E866-79D8-4271-ACFD-90914338AE18][episteme]]
+
+- https://procrastinus.com/piers-steel/theories-of-procrastination/
+- https://commoncog.com/blog/enthusiasm-half-life/

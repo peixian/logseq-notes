@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       FB53B791-B1AF-4554-8518-4886F9D15266
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: liu_xft_practical_fault_tolerance_beyond_crashes
+#+title: Liu: XFT: Practical Fault Tolerance beyond Crashes
+
+[[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]
+
+- Liu, Shengyun, Paolo Viotti, Christian Cachin, Marko Vukolic, and Vivien Quema. “XFT: Practical Fault Tolerance Beyond Crashes,” n.d., 17.
+
+- Introduces a cross fault tolerance, which appleis it to a [[id:C171ABCB-E0F2-4DD2-90D9-DE34F876605F][state machine replication (SMR)]]

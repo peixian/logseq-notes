@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       C4697062-ACA8-4C26-91C9-3C746FABC524
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: wfr
+#+TITLE: wfr
+
+Tags: [[id:234E3DB3-FA6D-4784-AA5B-FD29AB5F9A53][nols wilderness first aid]]
+
+- 10 days in the woods
+- hands on, even with covid (although people started to lean away from the covid precautions)
+- very interesting dynamics, interesting age spread
+  - old people >50, many kids, only a few in the middle age range
+  - definitely more variety too, from camp councilors to EMT's
+- group dynamics were interesting as well, people tended to partner up
+- night sessions were interesting
+- learning was not that hard, college course level

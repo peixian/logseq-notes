@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       B89E1777-C2EC-44AA-AE9F-D3A43821DB6C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: tuz_khormatu
+#+TITLE: tuz khormatu
+
+Tags: [[id:ADFAE0CB-D584-4CE9-9965-4E76C474546E][hashd al-shaabi (PMF)]]
+
+[[id:BC40CBC8-81AC-4CFD-8121-7419EC9CB63B][badr]]-lead camp ("Martyrs' Training Camp") outside of [[id:DEA58D28-C6BA-433A-9AC3-4C2300A4F6B1][kirkuk]]
+
+Run by [[id:3CA49D8C-192E-49E7-BBCB-31B650F23E88][quwat al-turkmen (brigade 16)]]
+
+Also sometimes spelled "Tuz Khurmatu" - https://en.wikipedia.org/wiki/Tuz_Khurmatu

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       DDBC1C24-7435-4964-9669-575EC4411152
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: twitter_developer_api
+#+TITLE: twitter developer api
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- https://github.com/cjbarrie/academictwitteR
+- https://developer.twitter.com/en/portal/projects/1376638894058311681/apps/20976912/keys
+- https://developer.twitter.com/en/docs/twitter-api/tweets/search/api-reference/get-tweets-search-all#tab1
+- https://github.com/twitterdev/Twitter-API-v2-sample-code/blob/master/Full-Archive-Search/full-archive-search.py
+- https://developer.twitter.com/en/docs/tutorials/building-high-quality-filters

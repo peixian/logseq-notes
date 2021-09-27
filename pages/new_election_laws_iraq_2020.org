@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       106A7D8E-695F-467C-9D38-13B0DA8C7030
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: new_election_laws_iraq_2020
+#+TITLE: new election laws iraq 2020
+
+Tags: [[id:3D669C14-9C67-43A0-9580-04E5EEB10849][iraq]]
+
+New election laws passed, planned for elections on June 6th, 2021
+
+Puts an end to candidates running on lists, winners are the most people who get votes
+
+https://www.aljazeera.com/opinions/2020/11/25/there-can-be-no-going-back-to-normal-in-iraq/?utm_source=IOR+Newsletter&utm_campaign=9e6959ee55-this-week-in-iraq&utm_medium=email&utm_term=0_f9870911e6-9e6959ee55-192928812

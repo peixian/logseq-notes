@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       98928BA7-6AF4-4670-9467-16921FABAA4C
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: m1_macs_feeling_faster_than_intel
+#+TITLE: M1 macs feeling faster than Intel
+
+Tags: [[id:D66F26E9-44AA-4706-BA51-68C8F6BC2908][chips]], [[id:1E6EE18D-330B-4D3B-A6C4-31F25A7E7729][os x]], [[id:5D4FD56C-329E-4881-AEBC-EFE6DDF0F29D][articles]]
+
+- https://eclecticlight.co/2021/05/17/how-m1-macs-feel-faster-than-intel-models-its-about-qos/
+- Apple provides 4 quality of service levels
+  - ranges from ~background~ to ~userInteractive~
+  - integer values spread evently between 9 and 33
+- M1 macs offload different qos service levels into different cores

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       489A8336-21A1-4B56-B3E3-BBC2B1AB8EE5
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: market_multicast
+#+TITLE: market multicast
+
+Tags: [[id:5494DCE7-BAA6-4137-9665-5354116F1DEF][market apis]]
+
+- https://signalsandthreads.com/multicast-and-the-markets/

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       620CBD2C-DFC8-4D03-B58D-95146BEBF192
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: recongnizing_textual_entailment
+#+TITLE: Recongizing Textual Entailment (RTE)
+
+Tags: [[id:D9C1DCB3-C95F-4778-BBA4-59E7AEBFC961][nli]], [[id:A904921D-F574-41FC-B41C-4B6114932AC5][datasets]]
+
+- seven annual competitions
+- around 5000 examples in total, premises drawn from naturally occuring text, expert constructed

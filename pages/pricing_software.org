@@ -1,0 +1,61 @@
+:PROPERTIES:
+:ID:       83BB7CF6-AAB3-4619-B263-8C82CEE75EB7
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: pricing_software
+#+TITLE: pricing software
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]], [[id:85CCE0EB-E358-4A63-A947-423CF92D79A2][economics]]
+
+- https://neildavidson.com/downloads/dont-just-roll-the-dice-2.0.0.pdf
+- Typical follow the demand curve
+- Differentiate with marketing
+  - Differentiate with personality
+  - Link a product to yourself
+  - Make people love the brand
+  - People are more likely to pay for time
+  - Sell the experience - make the process of buying things good for people
+- Objective value tends to trump all
+- Find signposts for your work
+- Competing on price means minimizing price war
+- Versioning segements the software and gives people different features
+  - Even shifting the top end encourages people to move up their consumption
+  - Too many versions push people toward the extreme
+- Bundling
+  - Giving customers better value, persuading them to buy more
+  - Bundling also makes it harder for customers to understand what they're paying for
+  - Multi-user licesnes are an example of this
+- Free trials
+  - Possible, but unclear if its actually a good way to make money
+  - Potentially cannibalizes paid model
+- Bargins
+  - Discounting software works
+- Quantities
+  - Extremely difficult to see large quantities of software
+- SaaS
+  - Paying small amounts easier psychologically
+  - Recurring payments promote regular usage
+  - However requires more metrics, and more understanding of customer lifetime and acquisition
+- Yearly plans and contracts
+  - Contracts are generally not good
+  - Discounting on a fixed range is good
+- Pricing models
+  - Freemium
+  - Per user
+  - Per processor
+  - Per server/box
+  - Per usage
+  - Consulting
+- Most businesses end with a mixed model
+- Make the pricing model boring
+- Prices send signals!
+- Surveys very rarely work
+- Pricing checklist
+  - What's the strategy?
+  - What's the product?
+  - How will customers judge the fairness of pricing?
+  - Who are the customers?
+  - How are you going to sell your software?
+  - Can you segement your customers?
+  - Can you bundle your software?
+  - Make informed guess at your price

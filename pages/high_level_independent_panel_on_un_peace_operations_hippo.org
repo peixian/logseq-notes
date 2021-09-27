@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       042DC2EA-61A5-4BBF-AA8B-D1E233A8023A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: high_level_independent_panel_on_un_peace_operations_hippo
+#+TITLE: High-Level Independent Panel on UN Peace Operations (HIPPO)
+
+Tags: [[id:006AFDE2-7821-4866-AE48-0CD969B89F2D][un peacekeeping]]
+
+2015 panel that described the growing gap between the mandate's role to protect civilians and their inability to

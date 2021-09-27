@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       9679E703-689A-46B0-9D52-F1F12FB29192
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: claude_collective_security_as_an_approach_to_peace
+#+TITLE: Claude: Collective Security as an Approach to Peace
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:C2FFFFB5-13EC-476F-AB83-FD70756DF07B][un and global governance lecture 1]]
+
+Inis L. Claude Jr. “Collective Security as an Approach to Peace.” Accessed February 2, 2021.
+
+- Collective security is a halfway point between anarchy and world governement
+- talks about how collective security has become a bandied about term, but means something completely different
+#+begin_quote
+The achievement of orthodox status is very often fatal to the integreity of a concept
+#+end_quote
+- "collective security" began as a specialized term, initially meant to hamstring aggressions
+  - now has largely lost its meaning, appropriated for any & all approaches to collective actions that build peace and order, synonym for world peace
+- collective security should be defined as "a second line of defense against wars where settlement should but does not prevent a war"
+- assumptions: wars are likely to occur and most can be prevented
+- about forestalling the arbitrary & aggresive use of force
+- constract with pacific security
+  - pacific security - moral ambiguity, uses tools like investigating, reconciliation, arbitration, etc
+  - collective security - moral clarity, uses diplomatic, economic, and military sanctions
+* subjective requirements on collective security
+- aggression in one part of the world is not localized, things can easily spread
+- people & states must recongize their interests align with the international
+  - demands that many national loyalities become harmonized
+    - is this similar to how domestic institutions ahve aligned with [[id:CA1EA832-614A-4720-A87E-04CAD3716E0A][Barnett et al: International Organizations and the Diffusions of Power]]?
+- fundalmentally requires the state to give up very much
+  - control of military
+  - follow rulebook adherence to international order
+  - runs against the instincts of statement and politicians
+- collective security is meant to be used against any state, anonomous aggressors and anonomyous victims
+- states *must* be confidence in collective security, or else the whole thing falls apart
+* objective requirements
+- power: requires several great powers of equal strength
+- membership: must be universal, assumes any state may become aggressor
+  - proposes that the preponderance of power be available to any state
+- aims for the organization of police action, requires a world where every state is caught in and dependent on one other
+- requires large scale disarmament and lack of economic self sufficiency

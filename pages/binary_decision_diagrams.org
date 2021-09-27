@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       3E0E197E-BA71-4695-9559-248DA26D3FEA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: binary_decision_diagrams
+#+TITLE: binary decision diagrams
+
+Tags: [[id:2C626284-F74C-4110-83A7-AE07B6D0A451][algorithms]]
+
+- https://crypto.stanford.edu/pbc/notes/zdd/#contents
+
+Takes a look at efficiently determining a set of computationally sound problems

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       7AB8A2C8-564A-48E0-9543-657DCE782B88
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sql
+#+TITLE: sql
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+ SQL engines have a compilation layer, that then gets translated into code for the VM.
+- SQLite uses bytecode during the translation
+- https://www.vldb.org/pvldb/vol9/p204-leis.pdf

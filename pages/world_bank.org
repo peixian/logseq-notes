@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       22A30C31-C090-4475-B79C-B21E35CA9530
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: world_bank
+#+TITLE: world bank
+
+Tags: [[id:7C05085A-564D-4186-B4E7-AD9DC612310A][un]]

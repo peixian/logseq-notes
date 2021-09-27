@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       5CBD10FB-8097-46B5-B9A5-47E66739DB60
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: tech_working
+#+TITLE: tech working
+
+Tags: [[id:CAFF2018-7C24-402E-9528-464A87D2DC39][personal]]
+
+* Organizing
+- https://journals.sagepub.com/doi/full/10.1177/1095796020916201?fbclid=IwAR3CWxeV6jMJ2-vyHm-0YP7dQdvP5wM3W5zJiRQXJTyxPn2VhP-9Fvp8NuE&
+
+#+DOWNLOADED: screenshot @ 2021-02-23 12:54:39
+[[file:Organizing/2021-02-23_12-54-39_screenshot.png]]
+- https://www.researchgate.net/publication/325283635_On_Player_Motivation_and_the_Appeal_of_Games_An_Exploration_of_Player_Motivation

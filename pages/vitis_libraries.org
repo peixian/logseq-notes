@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       A9AD31CB-DA02-4B35-B63A-EA35742D6540
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: vitis_libraries
+#+TITLE: vitis libraries
+
+Tags: [[id:A125D949-8FCF-4C14-9B71-08A49C78335C][low latency]]
+
+
+Set of libraries used for performance optimized work: https://xilinx.github.io/Vitis_Libraries/

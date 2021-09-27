@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       35BCB864-E558-4DB1-9C8E-39D0E9BBE664
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: fiqh
+#+TITLE: fiqh
+
+Tags: [[id:BB2783B7-0E6B-4886-8007-EC63A9C67096][islamic jurisprudence]]

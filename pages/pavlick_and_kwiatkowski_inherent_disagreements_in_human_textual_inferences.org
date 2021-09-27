@@ -1,0 +1,65 @@
+:PROPERTIES:
+:ID:       48D6AC77-574A-4B86-AE72-466D32B48588
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: pavlick_and_kwiatkowski_inherent_disagreements_in_human_textual_inferences
+#+TITLE: Pavlick and Kwiatkowski: Inherent Disagreements in Human Textual Inferences
+
+Tags: [[id:29303C71-98D0-46CD-BBD0-E177FC42D1FB][nlu]], [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]]
+- Pavlick, Ellie, and Tom Kwiatkowski. “Inherent Disagreements in Human Textual Inferences.” Transactions of the Association for Computational Linguistics 7 (November 2019): 677–94. https://doi.org/10.1162/tacl_a_00293.
+
+- https://github.com/epavlick/NLI-variation-data
+
+* Summary
+- Talks about how human [[id:D0AFE47E-FF75-4F51-99F9-293D1DF97B8A][annotations]] and disagreements from those are not derived from statistical noise
+- More context does not necessarily mean more agreement, once the input reaches sentence/passage, disagreements hold relatively steady
+- We assume what people write is what they mean, but actually there's a pretty big gap between what people mean <-> what they write <-> what they interpret <-> what they infer. NLP models currently only model the 2nd and 3rd arrows.
+- punted on precise definitions of "real world" and rather tried to have their models approximate "what humans do"
+#+DOWNLOADED: screenshot @ 2021-03-10 09:29:33
+[[file:2021-03-10_09-29-33_screenshot.png]]
+* Annotations
+- Uses a combination of RTE2, SNLI, MNLI, JOCI, and DNC
+  - RTE2 - premises/hypothesis combos
+  - SNLI - premises from image captions, hypoteshis from existing NLI dataets paired with hypotehsis that were automatically generated
+  - MNLI - Same as SNLI but with a range of text genres
+  - JOCI - "commen sense" inferences
+  - DNC - mostly naturally occuring premises paired with template generated hypothesis
+
+
+    #+DOWNLOADED: screenshot @ 2021-03-10 09:30:06
+    [[file:2021-03-10_09-30-06_screenshot.png]]
+** Preprocessing
+   - They had 500 workers complete and rank the response on a slider
+
+#+DOWNLOADED: screenshot @ 2021-03-10 09:34:24
+[[file:Annotations/2021-03-10_09-34-24_screenshot.png]]
+- Continous scale not always the best, they had to do some z-score normalization in order for all the data to make sense
+* Analysis
+  - Ultimately wanted to judge how much "noise" exists in the annotation process
+  - If there is a single truth, then the the "noise" should be generalizable with a single [[id:45CE3B54-0FB4-4088-BD85-799E1258C645][gaussian distribution]]
+  - If there are "multiple" truths, then a [[id:E5AA5C1E-4521-459B-AAE3-DA844593A211][gaussian mixture model]] should be correct
+  - Assumption: if a single truth exists, the GMM woul be the exact same as the gaussian
+    #+DOWNLOADED: screenshot @ 2021-03-10 09:39:16
+    [[file:Analysis/2021-03-10_09-39-16_screenshot.png]]
+  - Model chooses to fit towards the GMM than the gaussian
+  - Example: is the word "swat" forceful? Is "confess that" factive?
+  - In the first section, they note that the annotations can be modeled by the GMM, implying that humans believe there are multiple "truths"
+    - NLP models currently only believe there is one truth to model
+** Context
+   - Sampled sentences from wikipedia, and considered each sentence to be a premise, and generated a hyptothesis by replacing the corresponding a word from the premise with a substiute word, where the substitue word is either a hypernym/hyponym, antonym, or co-hyponym
+   - Collected ratings at 3 levels
+     - word
+     - sentence
+     - passage
+   - Disagreements among raters actually increase when more context is shown
+   - Definitely some confounds abound
+* Model Predictions
+  - Is this a problem at all?
+    - what if the underlying distributions already reflect the distributions observed in human judgements, and the models already adaquetely capture that with [[id:7E61FE14-4288-48B6-A496-417817ED69EA][softmax]]?
+  - since [[id:D9C1DCB3-C95F-4778-BBA4-59E7AEBFC961][nli]] is usually treated as a classification, they discretize (after experimenting with z-normalied human scores) by mapping into different bins
+    - ~entailment~/~contradiction~/~neutral~ label bins
+  - They used a pretrained [[id:B23DDBD4-476A-4518-97B2-F433192A023D][bert]] and fine tuned it on the labels
+  - Attempted to see how well bert captured the underlying multi-modal distribution with a softmax
+    - found that the softmax is a poor approximation
+      #+DOWNLOADED: screenshot @ 2021-03-10 09:55:29
+      [[file:Model_Predictions/2021-03-10_09-55-29_screenshot.png]]

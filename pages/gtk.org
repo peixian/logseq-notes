@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       8993D4A6-7570-4CB5-8E46-14934EC81AE2
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gtk
+#+TITLE: gtk
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]

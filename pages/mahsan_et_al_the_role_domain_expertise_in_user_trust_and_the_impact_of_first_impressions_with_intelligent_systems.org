@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       8BFEB0A0-B877-4B13-BD1D-4DD9879A4CEB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: mahsan_et_al_the_role_domain_expertise_in_user_trust_and_the_impact_of_first_impressions_with_intelligent_systems
+#+TITLE: Mahsan et al: The Role Domain Expertise in User Trust and the Impact of First Impressions with Intelligent Systems
+
+Tags: [[id:EE903E8E-E6F1-4F58-8B1D-CCBE0CD49EBB][papers]], [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]], [[id:C8B6065F-B363-4BE6-A53E-3A2BB9F88B97][hci]]
+* Summary
+Talks about how people are influenced on their views of intelligent systems based on their first impressions and their familiartiy with the topic.
+
+Notably, domain experts fail to regain trust in the system, even if the system gets better over time. Consistently achieve automation bias and believe in the system, even if it is wrong.
+
+Domain expertise plays an important role.
+* Implications
+
+  #+begin_quote
+"Rather than allowing users to use a system with zero understanding or a poor mental model of how the system works, designers can incorporate introductory sessions to alert users about system strengths and shortcomings so that users can decide whether and when they should trust the system's outputs. Alternatively, designers can provide a high-level overview of the model with key information (e.g., system accuracy and known weaknesses) that can influence impression formation." (Nourani et al 2020:8)
+  #+end_quote
+  What does this mean for your product? You can't explain away bad results to domain experts, they consistently rate it below even if the explainability is high
+
+  this implies that the models need to be very correct on the first pass
+
+for [[id:5E526313-F9ED-4567-8FF8-3CE7EE462CE1][post-conflict statebuilding organization]], does this mean that people who experience bueauracries less if the intial assessment is bad? Does this relate to unbanked people?

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       93E1E7F8-C7EA-4ED4-B174-B445E7D1A495
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: rabat
+#+TITLE: rabat
+
+Tags: [[id:7E03627A-0076-40EF-BC47-F6674D5F6F46][morocco]]

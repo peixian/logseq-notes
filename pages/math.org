@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       0C55E344-F9AE-4584-B54F-83EC2FCE9062
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: math
+#+TITLE: math
+
+Tags:[[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]
+
+- Display on [[id:883B29DB-4BDF-4DD0-A615-02B1220889D1][web]] with https://cindyjs.org/

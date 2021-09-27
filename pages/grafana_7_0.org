@@ -1,0 +1,53 @@
+:PROPERTIES:
+:ID:       4A3CD743-AA0A-44FF-A44F-4CB7C92FE3CB
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: grafana_7_0
+#+TITLE: grafana 7.0
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+* New Panel Edit UI
+  - 6.0 made it easy to change visualization type
+    - created a lot of dead space
+  - 7.0 wanted to make options more consistent and define override rules
+  - "field" tab impacts all the data
+    - overrides
+    - bar guage
+  - New transformations -> joining of timeseries
+  - Cell styles, gauges
+  - Much more up to date, exposing new transformation pipeline
+    - data source -> panel defaults -> panel overrides -> visualization
+
+* Transformation
+  - Single place where users can tweak the structure of data
+  - Takes effect for every visualization
+  - Shapes the data
+  - Not about doing complex arithmetic
+  - Panel can reuse same data from another query, piping the data into all sorts of panels
+  - Transform timeseries into columns
+
+* Look at Raw Data
+  - You can now inspect and download raw with the "inspector" in the panel manager
+  - Exposes the underlying raw data
+
+* Issues and Debugging with Queries
+  - Grafana comp presentation
+  - When zooming out, data no longer makes sense
+    - Data rollup feature has been implemented
+      - Rollup tells you when the data was being read from a rollup
+      - 8 days in metric tank, for example
+    - As well as "metadata"
+  - Plot lines as points to debug
+    - Fetching multiple series will cause some optimization, triggers it to use rollup data
+  - "Stats" panel tells you how long a query took
+    - "metricplan" statistics tells you how long a query works
+  - Grafana can hook up to a jaeger datasource and look at it directly from grafana
+  - Transforms and outer joins
+  - Timezone support features
+    - Transforms all graphs into a single time zone
+  - Plan to support per panel, per row?
+    - Not really
+  - Gauages and singlestat panels have new layout engine
+
+- https://grafana.com/get

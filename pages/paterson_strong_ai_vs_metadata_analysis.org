@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       BA033937-42C2-43C2-9759-145C8008F6F1
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: paterson_strong_ai_vs_metadata_analysis
+#+TITLE: Paterson: Strong AI vs Metadata Analysis
+
+Tags: [[id:5D4FD56C-329E-4881-AEBC-EFE6DDF0F29D][articles]]
+
+- https://calpaterson.com/metadata.html
+- Google now uses general crawl
+- Websites provide copious metadata to google to determine which is the correct one
+- metadata is read from the [[id:8CC291B6-852E-4C7F-947E-08DA7F72C66E][open graph protocol]]
+- backlinks + structured data sidesteps AI
+- AI still requires much manual intervention: https://ieeexplore.ieee.org/abstract/document/323314

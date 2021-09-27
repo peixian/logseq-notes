@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       C8B6065F-B363-4BE6-A53E-3A2BB9F88B97
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: hci
+#+TITLE: hci
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+
+human computer interaction

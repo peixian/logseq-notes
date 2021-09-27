@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       25182E71-DE82-45A0-8467-726C0A432E88
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: tupras
+#+title: tupras
+
+[[id:697D1841-D803-43CA-9F03-A502AF3EFBB9][oil trading]]
+
+- [[id:FAC6D0F0-7797-4330-B988-37260A98CBC1][turkey]] petro refinery

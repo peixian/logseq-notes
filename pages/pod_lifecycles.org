@@ -1,0 +1,75 @@
+:PROPERTIES:
+:ID:       E0B55C49-FBD7-45F1-8EE0-1904027C00FA
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: pod_lifecycles
+#+TITLE: pod lifecycles
+
+Tags: [[id:A0A37A5E-A266-46B3-8148-D7A40A5F1F78][kubernetes (k8s)]]
+
+
+* Three states
+- waiting
+- running
+- terminated
+  - use kubectl describe
+
+
+* Terminating Gracefully
+  - Cleanups?
+  - Resources?
+  - Forced termination?
+  - SIGTERM/SIGKILL
+  - Lifecycle
+    1) Set the grace period -> terminating state -> traffic
+    2) preStop hook -> grace of 2 seconds
+    3) send SIGTERM to pid 1
+    4) grace period sends SIGKILL
+    5) API server deletes the pod's API object
+
+* Health Probes
+  - Kubelet brings up the containers and keeps them running, also responsible for restarts
+  - uses some Process Health Checks to check the status
+  - Stalls?
+  - Types of probes
+    - Exec
+      - Runs every so often, checks for the exit code
+    - TCP socket
+    - HTTP get
+  - Liveness Probes
+    - Check if the container is alive or dead
+    - Always define a liveness probe for prod apps
+    - Have the application expose a health-check API that doesn't require auth
+    - Keep probes light as CPU resources
+  - Readniess Probes
+  - Startup probes
+    - Indicates whether the container has started
+    - Disables other probes until this is done
+
+* Hooks
+** postStart hook
+   - Runs after container is created, async
+   - No guarantees of running
+   - postStart is a blocking call
+   - container remains in Waiting until the handler completes
+** preStop
+   - Call sent to container before terminated
+   - use when reacting to SIGTERM
+   - always ends before SIGKILL is sent
+   - used for graceful termination
+** initContainers
+   - runs various preconditions before the container startup
+   - exaples
+     - DB, create user accounts, DB migrations
+** Scheduling and resources
+   - Effective request/limit is the max(sum request/limit for all the application containers, effective request limit)
+* Init vs postStart hook vs Startup Probe
+  - Probes and hooks run in the same container, init containers run on the whole pod
+  - hooks have no guarantees
+  - usages:
+    - postStart
+      - signal to external listeners
+    - init
+      - initalization
+    - probes
+      - slow starting containers

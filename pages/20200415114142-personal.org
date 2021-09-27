@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       CAFF2018-7C24-402E-9528-464A87D2DC39
+:END:
+#+TITLE: personal
+#+SETUPFILE:./hugo_setup.org
+
+Tags: [[id:173C5C8B-9D57-432D-9896-41DB95A56EA7][root]]
+
+- Most skills aren't transferrable, nor are they that useful beyond the context of the single project
+  - /So, selfishly, I tend to think this way: if 90% of what I’m doing today won’t help me in the next job, then I should either reduce that 90% (for example, by focusing on general-purpose ideas, systems, abstractions, technologies), just not care as much about that 90% (as I used to), or find a job where I’m willing to sacrifice that 90% of my time because I think the cause is really important or the money is so.../
+- Signoff/buyin meetings are useless. Meetings should be used for getting input and answering questions
+- Main purpose of estimates is to apply pressure
+  - Very rarely do software estimates work out
+- Distinguish between:
+  - Hard deadline
+  - Soft deadline
+  - Internal deadline
+  - Expected completition date

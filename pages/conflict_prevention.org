@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       7B38A055-047E-45EB-8494-6AA91F420D2D
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: conflict_prevention
+#+TITLE: conflict prevention
+
+Tags: [[id:006AFDE2-7821-4866-AE48-0CD969B89F2D][un peacekeeping]]

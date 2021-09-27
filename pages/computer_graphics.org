@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       7CEBB199-2549-4FAB-A527-9698E39A354A
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: computer_graphics
+#+TITLE: computer graphics
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]]
+
+- https://gabrielgambetta.com/computer-graphics-from-scratch/

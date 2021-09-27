@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       9341D0AC-C0F7-4EE8-8BDB-B2A261B5F47B
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: botorch
+#+TITLE: botorch
+
+Tags: [[id:8CF9A0F7-2E51-4922-B6B7-2C42E8E2BE16][pytorch]]
+
+- https://github.com/pytorch/botorch
+
+Library for [[id:9B0378E7-51D5-4E77-83B6-86285CCDB40C][baseyian optimization]] in pytorch

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       21EE1DE5-95BF-41B3-8EC1-0FE52C1436DE
+:END:
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: payment_processors
+#+TITLE: payment processors
+
+Tags: [[id:0C832BAD-E9A5-4B04-8A2A-851647119A10][computers]], [[id:991DF321-7B0E-4282-B839-0548CF940CFB][finance]]
+
+- https://www.instapaper.com/read/1303705607
+
+PayPal and Stripe usually advertise low transaction fees, but the actual fees are much higher
+- Quoted fees are almost always only for domestic transactions within the same currency
+- Almost always you need to convert through their system, which takes a very inflated currency conversion rate
